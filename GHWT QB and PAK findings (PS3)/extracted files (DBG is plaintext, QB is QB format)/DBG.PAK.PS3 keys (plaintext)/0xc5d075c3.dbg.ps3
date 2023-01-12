@@ -1,0 +1,101 @@
+d_SetArmAnimStrength 2 (0,730) (42,732) 
+Band_SetDrumKitState 8 (0,742) (21,743) (39,745) (74,747) (78,748) (113,750) (115,751) (117,755) 
+Band_PlayIdle 5 (0,762) (40,767) (92,768) (94,769) (101,771) 
+Band_PlayClip 39 (44,779) (84,784) (128,785) (130,787) (132,788) (134,789) (140,791) (176,793) (212,794) (246,795) (284,796) (335,797) (339,798) (390,799) (392,800) (404,805) (416,806) (452,808) (464,809) (476,810) (478,811) (496,817) (513,818) (515,819) (521,824) (560,829) (600,830) (602,831) (640,833) (680,834) (682,835) (720,837) (760,838) (762,839) (780,841) (797,842) (799,843) (805,845) (839,1033) 
+Band_ForceToIdle 7 (28,1036) (64,1038) (85,1039) (114,1041) (166,1057) (168,1058) (170,1059) 
+Band_ForceAllToIdle 8 (28,1063) (68,1065) (120,1066) (122,1067) (152,1069) (182,1070) (212,1071) (242,1072) 
+Band_MoveAllToStartNodes 5 (0,1075) (36,1076) (72,1077) (108,1078) (144,1079) 
+Band_SetAnimTempo 5 (0,1087) (18,1088) (36,1091) (54,1092) (56,1093) 
+Band_SetDrumAnimTempo 2 (0,1096) (18,1097) 
+Band_ClearAnimTempo 3 (0,1100) (36,1101) (72,1102) 
+Band_IsFemale 15 (0,1106) (40,1107) (76,1108) (78,1109) (80,1110) (102,1112) (125,1113) (127,1114) (129,1115) (147,1117) (165,1119) (196,1120) (200,1121) (232,1122) (234,1123) 
+return_characters_to_idle_after_delay 9 (0,1131) (17,1133) (35,1136) (41,1137) (75,1139) (77,1141) (83,1143) (89,1145) (140,1146) 
+return_characters_to_idle_at_song_time 23 (0,1149) (13,1151) (15,1153) (48,1154) (67,1155) (69,1156) (71,1157) (120,1158) (122,1159) (140,1162) (146,1163) (180,1165) (182,1166) (232,1171) (268,1173) (304,1174) (338,1175) (388,1177) (440,1179) (476,1181) (512,1182) (546,1183) (552,1185) 
+clip_get_time_and_frame 30 (0,1352) (36,1353) (57,1355) (75,1357) (87,1358) (89,1359) (110,1361) (144,1362) (174,1364) (187,1365) (220,1366) (232,1368) (254,1369) (276,1370) (312,1371) (330,1373) (348,1374) (418,1375) (422,1376) (492,1377) (494,1378) (498,1379) (516,1380) (586,1381) (590,1382) (660,1383) (662,1384) (664,1385) (734,1387) (748,1389) 
+debug_print_frame_time 28 (0,1392) (21,1394) (39,1396) (51,1397) (53,1398) (74,1400) (108,1401) (138,1403) (151,1404) (184,1405) (196,1407) (218,1408) (240,1409) (276,1410) (294,1412) (312,1413) (382,1414) (386,1415) (456,1416) (458,1417) (462,1418) (480,1419) (550,1420) (554,1421) (624,1422) (626,1423) (628,1424) (651,1426) 
+test_all_cameras 4 (0,1435) (36,1437) (72,1438) (108,1439) 
+test_cameras 12 (0,1443) (52,1445) (92,1447) (144,1448) (146,1449) (148,1450) (166,1454) (216,1458) (246,1459) (296,1461) (326,1462) (376,1464) 
+print_obj_info 18 (0,1467) (22,1469) (56,1470) (58,1471) (60,1472) (94,1474) (121,1476) (156,1477) (191,1478) (260,1479) (264,1480) (316,1481) (318,1482) (331,1484) (365,1485) (378,1487) (449,1488) (483,1489) 
+Band_ShowMic 10 (28,1493) (85,1496) (87,1497) (89,1498) (111,1500) (113,1501) (115,1502) (133,1503) (146,1504) (148,1505) 
+Band_HideMic 5 (28,1508) (50,1509) (52,1510) (54,1511) (67,1512) 
+Band_ShowMic_Stand 10 (28,1515) (85,1519) (87,1520) (89,1521) (111,1523) (113,1524) (115,1525) (133,1527) (146,1528) (148,1529) 
+Band_HideMic_stand 5 (28,1533) (50,1534) (52,1535) (54,1536) (67,1537) 
+Band_ShowMic_microphone 10 (28,1540) (85,1544) (87,1545) (89,1546) (111,1548) (113,1549) (115,1550) (133,1552) (146,1553) (148,1554) 
+Band_HideMic_microphone 5 (28,1558) (50,1559) (52,1560) (54,1561) (67,1562) 
+Band_ShowDrumkit 7 (28,1565) (50,1566) (52,1567) (54,1568) (72,1570) (85,1571) (87,1572) 
+Band_HideDrumkit 5 (28,1576) (50,1577) (52,1578) (54,1579) (67,1580) 
+Band_Hide 5 (0,1583) (21,1584) (34,1585) (36,1586) (54,1588) 
+Band_UnHide 10 (0,1591) (21,1592) (39,1593) (52,1594) (65,1595) (67,1596) (69,1597) (87,1599) (105,1600) (107,1601) 
+Band_EnableGuitaristCameraSwapping 2 (0,1609) (36,1610) 
+Band_DisableGuitaristCameraSwapping 2 (0,1613) (36,1614) 
+Transition_ChangeIK 2 (0,1618) (7,1619) 
+BandManager_StopFacialAnims 4 (0,1622) (24,1623) (48,1624) (61,1625) 
+BandManager_StartFacialAnims 7 (0,1628) (22,1629) (24,1630) (26,1631) (50,1633) (74,1634) (92,1635) 
+BandManager_StartAllFacialAnims 7 (0,1638) (36,1639) (72,1640) (108,1641) (144,1642) (180,1643) (216,1644) 
+BandManager_AirGuitarCheat 4 (0,1650) (18,1651) (24,1652) (26,1653) 
+BandManager_InvisibleCharactersCheat 4 (0,1656) (18,1657) (24,1658) (26,1659) 
+BandManager_HideInstrument 5 (0,1663) (15,1664) (28,1665) (46,1666) (48,1667) 
+BandManager_HideAllInstruments 7 (0,1670) (36,1671) (72,1672) (108,1673) (144,1674) (180,1675) (216,1676) 
+BandManager_HideMusician 4 (0,1680) (15,1681) (28,1682) (30,1683) 
+BandManager_HideAllMusicians 7 (0,1686) (36,1687) (72,1688) (108,1689) (144,1690) (180,1691) (216,1692) 
+
+[Checksums]
+0xb2f11a17 scripts\guitar\guitar_midi_anim_funcs.qb
+0xb990d003 target
+0x8e411006 b
+0xaefdb015 Band_MoveToNode_CFunc
+0x25ad7020 vocalist2
+0x9f90a02f BandManager_StartFacialAnims
+0x0dc2104d return_characters_to_idle_after_delay
+0xf6af8054 hide_mic
+0x9ffb805d Band_HideMic_stand
+0xc2a28080 vocalist
+0x41413080 seconds_float
+0xaf53a081 BandManager_ChangeIK
+0xf9462090 c
+0xd95930ac player1_status
+0x679800b9 Band_ShowMic
+0xf2fe20db play_battle_anim
+0x4ba430f2 p2_faceoff
+0xe4f130f4 s
+0xfbf730f6 slave
+0x7031f10c params
+0xff6ef121 player2_battlemode_anims
+0x34f5913e response_anim
+0x75335153 change_stance
+0x5d7be154 Band_PlaySimpleAnim
+0xb8155159 ff_anims
+0x30fe3176 jimi_is_present
+0xcf66717b GotParam
+0x98617183 use_drummer_events
+0xc3c111b4 Transition_PlaySimpleAnim
+0x5d0671b8 channel
+0x174841bc a
+0x22dff1c2 Band_SetDrumKitState
+0xbfa801df change
+0xa1dc81f9 name
+0xab5dd1f9 battlemode_powerups
+0x6a771209 play_special_facial_anim
+0x548ae213 Band_PlayResponseAnim
+0x0c8bc21c Band_HideMic_microphone
+0x500eb224 Obj_GetId
+0x56bdf227 Band_DisableAutoStrums_CFunc
+0xcfecb22c Band_SetIKChain
+0x0fcf0252 Band_DisableAutoFret_CFunc
+0x6a3c425b Band_SetArmAnimStrength
+0x0114425e battle_anims
+0xda1ef263 clip_get_time_and_frame
+0x46159266 out
+0xf335b287 DoNotResolve
+0x38b702a0 time_string
+0xd443a2bc off
+0x01ee92bc show_mic
+0x3053b2c7 CompositeObjectExists
+0x70dae2d5 Band_PlayIdle
+0x54a8d2da gh_rocker_male_HardRockFace_4
+0x5b3942dc Band_ChangeFacialAnims
+0x4f4822e4 Band_UnHide
+0x364d62ec AE_SetIK_GuitarL_On_STRANGLEHOLD
+0xbced72f5 Band_PlayClip_Finish_CFunc
+0x60380307 AE_SetIK_GuitarR_On_STRANGLEHOLD
+0xe

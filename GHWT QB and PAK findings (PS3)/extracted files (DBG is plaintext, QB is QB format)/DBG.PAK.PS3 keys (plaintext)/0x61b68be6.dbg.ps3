@@ -1,0 +1,433 @@
+ (783,126) (816,127) (828,128) (836,130) (876,131) (878,133) (896,135) (906,136) (918,139) (920,140) (922,141) (924,142) (933,144) (973,145) (1037,146) (1049,147) (1051,148) (1053,149) (1080,151) (1141,153) (1153,154) (1155,155) (1157,156) (1159,157) (1168,159) (1204,160) (1222,161) (1256,162) (1281,163) (1283,164) (1285,165) (1287,166) (1289,167) (1297,169) 
+ui_destroy_memcard 5 (0,179) (36,181) (48,182) (50,183) (84,186) 
+ui_deinit_memcard 4 (0,195) (6,198) (12,200) (48,201) 
+ui_memcard_finish 116 (0,210) (6,211) (24,214) (26,215) (28,216) (40,218) (59,220) (77,221) (79,222) (97,225) (106,227) (112,230) (118,233) (156,234) (168,235) (170,236) (177,239) (190,240) (203,241) (216,242) (218,243) (220,244) (222,245) (224,246) (232,248) (242,249) (280,250) (301,251) (349,252) (353,253) (460,254) (462,255) (500,256) (608,257) (610,258) (623,259) (660,260) (666,261) (668,262) (670,263) (708,265) (734,266) (768,267) (816,268) (818,269) (820,270) (822,271) (860,273) (872,274) (912,275) (924,276) (926,277) (939,278) (976,280) (997,281) (1057,282) (1061,284) (1132,285) (1134,286) (1172,287) (1184,288) (1186,289) (1199,290) (1236,291) (1248,292) (1288,293) (1300,294) (1302,295) (1315,297) (1352,298) (1364,299) (1404,300) (1440,301) (1442,302) (1455,305) (1492,306) (1504,307) (1544,308) (1556,309) (1558,310) (1571,311) (1608,312) (1620,313) (1660,314) (1696,315) (1698,316) (1711,317) (1748,318) (1760,319) (1800,320) (1836,321) (1838,322) (1851,323) (1888,324) (1900,325) (1940,326) (1976,327) (1978,328) (1991,330) (2024,331) (2060,332) (2072,333) (2112,334) (2148,335) (2150,336) (2152,338) (2170,340) (2208,342) (2222,343) (2260,344) (2274,345) (2278,346) (2340,347) (2342,348) (2376,350) (2378,351) 
+ui_memcard_autosave 5 (52,360) (88,362) (115,363) (117,364) (190,366) 
+ui_memcard_autosave_replace 5 (52,375) (88,377) (115,378) (117,379) (196,381) 
+ui_memcard_autoload 5 (68,389) (104,391) (131,392) (133,393) (230,395) 
+ui_memcard_save 5 (52,404) (88,406) (115,407) (117,408) (185,410) 
+ui_memcard_load 5 (68,419) (104,421) (131,422) (133,423) (213,425) 
+jam_memcard_signin_load_after_func 2 (0,436) (36,439) 
+ui_memcard_save_jam 26 (52,443) (61,446) (88,447) (124,450) (160,451) (167,453) (179,454) (187,455) (193,456) (205,457) (213,458) (225,459) (233,460) (246,461) (259,462) (261,463) (263,464) (265,465) (267,466) (269,467) (271,468) (273,469) (312,472) (339,473) (341,474) (414,476) 
+ui_memcard_rename_jam 5 (52,486) (88,488) (115,489) (117,490) (185,492) 
+ui_memcard_delete_jam 5 (52,501) (88,503) (115,504) (117,505) (185,507) 
+ui_memcard_secondary_siginin_load 6 (52,516) (88,517) (124,519) (151,520) (153,521) (221,523) 
+memcard_controller_reset 3 (0,544) (36,546) (84,547) 
+memcard_controller_add 23 (28,556) (37,558) (64,559) (87,560) (89,561) (91,562) (131,564) (154,565) (156,566) (158,567) (160,568) (178,571) (201,572) (219,573) (237,574) (260,575) (262,576) (264,577) (266,578) (300,580) (330,581) (348,582) (350,583) 
+memcard_controller_add_signed_in_and_valid 19 (0,592) (20,595) (100,596) (109,599) (115,600) (135,601) (147,602) (149,603) (207,605) (229,606) (247,609) (273,611) (351,612) (369,613) (371,614) (392,616) (400,617) (402,618) (404,619) 
+memcard_controller_has_next 6 (0,628) (36,630) (55,631) (84,632) (86,633) (116,634) 
+memcard_controller_get_next 8 (0,643) (36,646) (55,647) (80,648) (106,649) (125,650) (127,651) (156,652) 
+memcard_guest_profile_warning 27 (0,661) (36,663) (45,664) (47,665) (80,666) (92,667) (94,668) (96,669) (108,670) (120,671) (122,672) (124,673) (157,674) (169,675) (171,676) (173,677) (180,678) (188,679) (200,680) (216,681) (228,682) (230,683) (245,684) (261,685) (277,686) (290,687) (292,688) 
+
+[Checksums]
+0xefd257a9 scripts\guitar\menu\states\layouts\ui_memcard.qb
+0xc6870028 Die
+0xd4ed8035 delete_jam
+0x530d3038 MC_WaitAsyncOpsFinished
+0x94a5103b ui_event_get_stack
+0x90ff204d success
+0x8ddd205f ui_memcard_load
+0xe13620a8 no_sound
+0x3371d0c1 call
+0x205550c5 destroy_state
+0x201a60e6 memcard_sequence_begin_delete_jam
+0x301dd0f9 GetGlobalTags
+0x7031f10c params
+0xc42ce128 ArrayContains
+0x3611c136 GetTags
+0xb912513b boot
+0x73665140 CreateScreenElement
+0x5ef31148 array
+0x1d70e14e memcard_guest_profile_warning
+0x64a74151 memcard_sequence_cleanup_generic
+0x80a1f154 save_jam
+0x41c41165 ui_deinit_memcard
+0x9819e174 memcard_sequence_begin_rename_jam
+0xcf66717b GotParam
+0x6cee01a7 rename_jam
+0xcb0f61b2 uistate_band_name_logo
+0xbebfa1c6 element
+0x6017f1cc ui_event
+0x3b4631df IsPs3
+0xbfa801df change
+0x4bfcd202 AddArrayElement
+0xb2f7220a uistate_boot_download_scan
+0x4578c215 ctl
+0x56b6b21d load_jam
+0xba71f21d memcard_sequence_begin_ss_load
+0x2b6d5221 is_autosave_on
+0xcb14222b memcard_cleanup_messages
+0x8b60022f just
+0x3bba4282 memcard_sequence_begin_autoload
+0x749e52b2 ui_memcard_autoload
+0x94ef431e handle_signin_changed
+0xa8ee7357 ScriptAssert
+0xf4dd636d memcard_sequence_begin_bootup
+0x0203b372 true
+0xc5bc93ee ScreenElementExists
+0x4bbcd3f5 MemcardDoneScript
+0x1f35e41e GameMode_GetNumPlayersShown
+0x9277f428 FormatText
+0xf8a4443a get_savegame_from_controller
+0xbd09544c func
+0x5aa8b450 dialog_pos
+0xd59af49d done_something
+0xb74ce4a3 respond_to_signin_changed
+0x39b5c4b0 GetArraySize
+0x445114c8 NetSessionFunc
+0xdeef04cd StructureContains
+0xbf0f14db center
+0x8da97503 primary_controller
+0x64946516 CheckForSignin
+0xaa99c521 save
+0xd9e4052c StartRendering
+0x6722b533 d
+0xb3d6b541 ui_destroy_memcard
+0x7a95a557 t
+0xc451f558 event
+0xe8a3d570 ui_memcard_autosave_replace
+0x2fca0578 options
+0x71059581 contains
+0xc73f35b6 autosave
+0x732d75e4 num_players_shown
+0x7bb9c604 menu_replace
+0x2de8c60e printf
+0x71b5c654 memcard_controller_add
+0x42a8865e event_params
+0xc93a26f0 current_band_has_band_name
+0x26bf66f3 textblock
+0x74297717 local
+0x49b3e73c secondary_signin_load
+0xbac63759 UIstate_boot_iis
+0xe787d761 menu_pos
+0x161ca769 this_event
+0xff1cf76d memcard_sequence_generic_done
+0xbcab976e generic_event_replace
+0xeec0f78c do_not_hide
+0x7592779a signin_warning_select_signin
+0x039b07a0 memcard_sequence_begin_load
+0xae7ee7a3 create_popup_warning_menu
+0xf77727ae XenonIsGuest
+0xfd4357ce memcard_initial_boot
+0xd43297cf false
+0x1d2d97d4 func_params
+0x3e7727fa IsXenon
+0x90fec815 structure
+0xc4745838 text
+0xa6e1b841 new_data
+0x5b9da842 ContainerElement
+0x2c9c587f ps3_autosave_warning_shown
+0x43604893 ui_memcard_save_jam
+0x85981897 left
+0x0c4458a3 memcard_sequence_begin_save_jam
+0x40c698af id
+0xdf0f18c2 from_save
+0x5ae888c7 ui_memcard_rename_jam
+0x825378c7 allow_back
+0xa65c38d1 GetSavegameFromController
+0x7321a8d6 type
+0x6cef5907 menu_change
+0x64416916 pass_to_gigboard
+0x0ad46922 controller_index
+0x7f261953 pos
+0xe2eb0955 ui_memcard_delete_jam
+0x73fbd963 memcard_sequence_begin_save
+0xb30d9965 controller
+0x1993c98e i
+0x1b0509c5 savegame
+0xc130f9e5 ScriptIsRunning
+0x3f567a12 ui_memcard_finish
+0xc42e5a16 memcard_controller_list
+0x4ecefa43 ui_init_memcard
+0x13b9da7b scale
+0x76fa7a8f checksumname
+0x56a1eae3 root_window
+0x19fa5af7 SpawnScriptNow
+0xefdc4b0c ui_options_audio_set_dolby_digital
+0x97e23b0f memcard_controller_get_next
+0x2bd0fb1b do_ps3_memcard_warning
+0x65a79b65 memcard_controller_reset
+0x77c71b72 user_options
+0xb75feb75 autoload
+0xe03a6b8c jam_memcard_signin_load_after_func
+0xf0cb0b97 mark_safe_for_shutdown
+0x90436bd9 tags
+0xdaf91be2 load
+0xda531bea memcard_sequence_begin_load_jam
+0x74d55bee create_loading_screen
+0x4d49ac0a current_menu
+0xb64c7c26 requested_autosave
+0x1bff0c3d player_status
+0x4bda9c41 memcard_sequence_begin_autosave
+0x04fe8c71 ui_memcard_autosave
+0x1b7d7c7e memcard_controller_iterator
+0x61745c88 failed
+0x520c0c9c data
+0xe924ecb7 uistate_signin
+0xcc848cd8 from_boot
+0x9f86aceb options_array
+0x0fae4cf3 uistate_memcard
+0x5f3c7d02 memcard_controller_add_signed_in_and_valid
+0x5c6c2d04 state
+0xa7883d08 memcard_controller_has_next
+0x1bd65d12 StorageSelectorForce
+0x66a54d2d generic_event_choose
+0x8cf25d39 shutdown_game_for_signin_change_flag
+0x7f5b3d4d array_size
+0xa2660d69 current_num_players
+0x1264fe0a ui_create_memcard
+0x699a8e33 jam_memcard_signin_save_after_func
+0x5a7ece86 menu_back
+0xf6cafe8d ui_memcard_secondary_siginin_load
+0xfdbdfe9c ui_memcard_save
+0x8842aea9 ui_event_wait
+0x464b8ec3 all_active_players
+0x648e8ecb signin_changed
+0xa4fa6ed9 new_state
+0x1c3c5efd memcard_after_func
+0x806fff30 none
+0x57710f31 z_priority
+0x22dd9f99 memcard_disable_saves_and_quit
+0x69d0dfaf player_device
+0xc2719fb0 parent
+0xe2e78fbc update_all_volumes
+0xfee23fd3 stars
+
+                 [LineNumbers]
+ui_create_motd 15 (0,9) (7,48) (19,49) (31,50) (56,51) (71,53) (86,54) (109,56) (124,57) (132,59) (145,60) (147,61) (149,63) (178,65) (260,67) 
+ui_destroy_motd 3 (0,77) (36,79) (42,80) 
+
+[Checksums]
+0xc02733f2 scripts\guitar\menu\states\layouts\ui_motd.qb
+0x475bf03c event_handlers
+0xb9ce4069 msg_text
+0x059ea070 red
+0x73665140 CreateScreenElement
+0x01dd615f DescInterface
+0xa90f7219 menu_unfocus_color
+0x8fae8247 title_text
+0xf44a53ab desc
+0xe572c3ac motd_subject
+0xc5f953c2 button
+0x1e93946b alias
+0x42d1d5eb msg_rgba
+0xdc176675 motd_header
+0xc7280732 ui_create_motd
+0x74b117c5 title_rgba
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0xca5d3848 generic_ui_destroy
+0x9d2d8850 z
+0x40c698af id
+0x7321a8d6 type
+0x3c15e9b6 DestroyScreenElement
+0x26982a07 all_buttons
+0xb79a8aad g_menu_colors
+0x56a1eae3 root_window
+0xd0d2dbac alert_red
+0x4d49ac0a current_menu
+0xd6521cee generic_event_back
+0x7ee0fd2a pad_back
+0x4577fd38 AssignAlias
+0xc2719fb0 parent
+0x25cedfdf ui_destroy_motd
+
+                     [LineNumbers]
+ui_init_music_store 2 (0,8) (6,10) 
+ui_create_music_store 46 (0,20) (6,22) (13,26) (25,27) (37,28) (60,29) (72,30) (95,31) (107,32) (109,33) (151,35) (158,37) (170,38) (182,39) (203,40) (215,41) (236,42) (248,43) (250,44) (292,46) (299,48) (311,49) (323,50) (344,51) (356,52) (377,53) (389,54) (391,55) (433,57) (440,59) (452,60) (464,61) (485,62) (497,63) (518,64) (530,65) (532,66) (600,68) (668,69) (708,72) (800,75) (836,77) (872,79) (876,80) (912,81) (914,82) 
+ui_destroy_music_store 2 (0,92) (6,97) 
+ui_deinit_music_store 3 (0,106) (6,107) (12,108) 
+
+[Checksums]
+0x1db51d01 scripts\guitar\menu\states\layouts\ui_music_store.qb
+0x6e1b7029 get_demonware_motd
+0x059ea070 red
+0x1457d0df ui_deinit_music_store
+0x803ba0e2 filter
+0x7031f10c params
+0xcc12115e song
+0xcf66717b GotParam
+0x5759c184 music_store_preview_list
+0xe8417190 add_music_store_item
+0x11c241ba music_store_wipe_in_album_info
+0xc66791bc album
+0x6821a1dc pack
+0x2f6511de green
+0x46a6a1fa test_dlc_list
+0xa421a2ff music_store_filter_list
+0x6c1f1330 destroy_music_store
+0x6ca9a3a5 selected_index
+0x54f4b3b3 UIstate_music_store_newarrivals
+0xc5f953c2 button
+0xbd09544c func
+0x445114c8 NetSessionFunc
+0xb52f44ef additional_focus_params
+0x8414f606 music_store_end_preview_list
+0x8bbd7764 music_store_deinit
+0xe288a7cb value
+0xbb3707e7 list
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0x9d2d8850 z
+0x23afc86c filtered_list
+0x7321a8d6 type
+0x2d4a89a8 additional_unfocus_script
+0x5ee9ea67 ui_init_music_store
+0x2302da82 destroy_music_store_menus
+0x55f09a93 motd
+0x19fa5af7 SpawnScriptNow
+0xf1ff8b68 choose_state
+0xfaa6db92 UIstate_music_store_specialpacks
+0xb9992b93 obj
+0x86068bd9 callback
+0xe854fbdf music_store_wipe_in_options
+0x7a31ecad music_store_init
+0x89c91cb0 ui_create_music_store
+0x522a6d02 music_store_fade_in_options
+0x2660cd26 additional_focus_script
+0x518cad63 create_music_store_menu
+0xbcc9fd68 UIstate_music_store_songs
+0x16d19dc2 choose_state_data
+0x02522e28 UIstate_music_store_albums
+0xcdd9dee1 music_store_motd_callback
+0xce31fee9 ui_destroy_music_store
+
+                             [LineNumbers]
+ui_create_music_store_albums 26 (0,9) (36,11) (50,12) (52,13) (83,14) (129,16) (141,18) (159,19) (171,20) (173,21) (180,22) (211,23) (242,24) (254,25) (297,26) (309,27) (340,28) (352,29) (354,30) (375,31) (383,32) (385,33) (420,35) (488,37) (556,38) (614,40) 
+ui_destroy_music_store_albums 2 (0,50) (6,51) 
+ui_deinit_music_store_albums 2 (0,59) (6,62) 
+
+[Checksums]
+0x3b0ff22b scripts\guitar\menu\states\layouts\ui_music_store_albums.qb
+0x7968406a add_music_store_purchase_item
+0x059ea070 red
+0x2c482152 new_entry
+0xcf66717b GotParam
+0x2f6511de green
+0xb08881e9 ui_create_music_store_albums
+0xa1dc81f9 name
+0x8a40c322 ui_deinit_music_store_albums
+0x6ca9a3a5 selected_index
+0xc5f953c2 button
+0x1c2903e5 music_store_set_previous_history
+0xeddbf420 UIstate_music_store_albums_details
+0x39b5c4b0 GetArraySize
+0xb52f44ef additional_focus_params
+0x97161566 album_struct
+0xe9dee567 previous_history
+0x89a3a5c2 music_store_reset_sort_index
+0x2f1fc695 alpha
+0xa29146c7 do_not_animate
+0xbb3707e7 list
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0x9d2d8850 z
+0x5561c885 date
+0xfea66978 artist
+0x1993c98e i
+0x2d4a89a8 additional_unfocus_script
+0x063d2a06 option_struct
+0x2302da82 destroy_music_store_menus
+0x19fa5af7 SpawnScriptNow
+0xf1ff8b68 choose_state
+0x23ceec1c ui_destroy_music_store_albums
+0x522a6d02 music_store_fade_in_options
+0x3537dd26 price
+0x2660cd26 additional_focus_script
+0x7f5b3d4d array_size
+0x9cab3d51 music_store_album_focus
+0x16d19dc2 choose_state_data
+0x2fd48e21 state_list
+0xd20b2e7b music_store_add_sort_info
+0x1684df97 music_store_album_unfocus
+0x16700fb7 music_store_pre_sort_list
+
+                             [LineNumbers]
+ui_create_music_store_albums_details 21 (0,9) (36,11) (50,12) (52,13) (96,15) (103,17) (115,18) (136,19) (148,20) (181,21) (183,22) (216,26) (223,28) (235,29) (247,30) (296,31) (298,32) (316,34) (352,36) (420,38) (488,39) 
+ui_destroy_music_store_albums_details 2 (0,50) (6,51) 
+
+[Checksums]
+0x4233f45a scripts\guitar\menu\states\layouts\ui_music_store_albums_details.qb
+0x7968406a add_music_store_purchase_item
+0x059ea070 red
+0x2c482152 new_entry
+0xcf66717b GotParam
+0xe8417190 add_music_store_item
+0xdf3cb1a7 album_list
+0x2f6511de green
+0x3e1c11e8 UIstate_music_store_purchase
+0xa1dc81f9 name
+0x6ca9a3a5 selected_index
+0xc5f953c2 button
+0x1c2903e5 music_store_set_previous_history
+0x33967433 ui_create_music_store_albums_details
+0x97161566 album_struct
+0xe9dee567 previous_history
+0xa29146c7 do_not_animate
+0xe94f26e0 music_store_set_album_info_items
+0x21dbf789 ui_destroy_music_store_albums_details
+0xbb3707e7 list
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0x9d2d8850 z
+0x063d2a06 option_struct
+0x2302da82 destroy_music_store_menus
+0x9e022a84 purchase_struct
+0x19fa5af7 SpawnScriptNow
+0xf1ff8b68 choose_state
+0x19841bdd UIstate_music_store_songs_additional
+0x522a6d02 music_store_fade_in_options
+0x3537dd26 price
+0x16d19dc2 choose_state_data
+
+      [LineNumbers]
+ui_create_music_store_newarrivals 26 (0,9) (36,11) (50,12) (52,13) (83,14) (134,16) (146,19) (164,20) (176,21) (178,22) (185,24) (216,25) (247,26) (259,27) (314,28) (326,29) (357,30) (369,31) (371,32) (392,34) (400,35) (402,36) (436,38) (504,40) (572,41) (635,43) 
+ui_destroy_music_store_newarrivals 2 (0,53) (6,54) 
+ui_deinit_music_store_newarrivals 2 (0,62) (6,65) 
+music_store_new_arrivals_decide_action 10 (0,74) (26,76) (95,77) (123,78) (180,79) (208,80) (265,81) (269,82) (305,83) (307,84) 
+music_store_new_arrivals_decide_focus 10 (0,93) (26,95) (44,96) (72,97) (90,98) (118,99) (136,100) (140,101) (176,102) (178,103) 
+music_store_new_arrivals_decide_unfocus 2 (0,112) (6,114) 
+
+[Checksums]
+0xd5b30462 scripts\guitar\menu\states\layouts\ui_music_store_newarrivals.qb
+0x7968406a add_music_store_purchase_item
+0x059ea070 red
+0x2c482152 new_entry
+0xcc12115e song
+0xcf66717b GotParam
+0xc66791bc album
+0x6821a1dc pack
+0x2f6511de green
+0xa1dc81f9 name
+0x991d726a music_store_clear_album_info
+0xf335b287 DoNotResolve
+0x164f8343 music_store_new_arrivals_decide_focus
+0xa8ee7357 ScriptAssert
+0x6ca9a3a5 selected_index
+0xc5f953c2 button
+0x1c2903e5 music_store_set_previous_history
+0xeddbf420 UIstate_music_store_albums_details
+0x39b5c4b0 GetArraySize
+0xb52f44ef additional_focus_params
+0x97161566 album_struct
+0xe9dee567 previous_history
+0xb8437568 pad_choose_params
+0x89a3a5c2 music_store_reset_sort_index
+0xa3b9a620 music_store_new_arrivals_decide_action
+0x8d5b9670 pad_script
+0x2f1fc695 alpha
+0xa29146c7 do_not_animate
+0x7b69d752 music_store_song_focus
+0xc3640757 ui_create_music_store_newarrivals
+0xd6a957aa ui_deinit_music_store_newarrivals
+0xbb3707e7 list
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0x9d2d8850 z
+0x0439c866 music_store_pack_focus
+0x5561c885 date
+0x7321a8d6 type
+0x4316395b song_struct
+0xfea66978 artist
+0x1993c98e i
+0x2d4a89a8 additional_unfocus_sc

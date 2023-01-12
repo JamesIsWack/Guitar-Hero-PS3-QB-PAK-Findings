@@ -1,0 +1,20 @@
+racter_selection_control_rot_angle
+0xbbb5f8a2 Elements
+0x7321a8d6 type
+0x7f8c98fe index
+0x43a7692d allow_wrap
+0x64e8e94a materials
+0x7f261953 pos
+0xc2750a1c alias_character_selection_smenu
+0x0642aa26 WorkspaceForm
+0x83418a6a material
+0xc2f2fa72 character_selection_frame
+0x13b9da7b scale
+0xa0371aa0 hiddenLocal
+0x7234dade character_selection_flame
+0x1691cb59 top_selection
+0x6d853b88 padding_scale
+0xa13adbb7 WindowElement
+0xbd589c4c character_selection_control
+0x4829cc7e rect
+0xd1172c7e uides

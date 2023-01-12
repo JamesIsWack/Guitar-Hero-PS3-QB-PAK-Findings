@@ -1,0 +1,36 @@
+r_power_tutorial.qb
+0xb990d003 target
+0x56d17010 training_container
+0x2e9dd01c Tutorial_Mode_Finish_Chord
+0x1483e026 training_spawned_script
+0xcd0dc02d KillSpawnedScript
+0xe126e035 top
+0x475bf03c event_handlers
+0xb455f040 training_hide_narrator
+0x696fe0ab number
+0xd95930ac player1_status
+0x6750f0b6 training_2_2_animate_whammy_up_down
+0x3371d0c1 call
+0xe632c101 life
+0xd37ce106 star_power_usable
+0xb12b510a SpriteElement
+0x7031f10c params
+0x67952127 gh3_start_pressed
+0xd2f65128 training_set_lesson_complete
+0x3611c136 GetTags
+0x73665140 CreateScreenElement
+0xcc12115e song
+0x4c1061a1 training_play_sound
+0x780301ab hit_notesp1
+0x761771b1 new_menu
+0x5d0671b8 channel
+0x174841bc a
+0xe8c1f1cf tutorial_whammy_up
+0xbfa801df change
+0x3f93a1ef replace_handlers
+0xc08be1f1 training_set_lesson_header_text
+0xa1dc81f9 name
+0x8b60022f just
+0xd9a78236 vmenu_tutorial
+0x7d99f28d texture
+0xfb1852b

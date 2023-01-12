@@ -1,0 +1,19 @@
+Weight
+0x2ac9954a GP_Hotel_Party_LightSparks01
+0xaab555bb flat
+0x12b4e660 Class
+0x85eec66b EmitDelayStart
+0x9e7d469e ParticleObject
+0x99a9b716 Color
+0x76ed4742 SpeedRange
+0x89ff6813 LifeRange
+0x61b30828 AngleSpread
+0xfd0a0864 RotVelTimeScale
+0xfde348d3 QuickMaterial
+0x7321a8d6 Type
+0xde45a90d NoVisibilityTest
+0x9d2d0915 Angles
+0x7f261953 Pos
+0x45a329da BounceCoeff
+0x34952a27 constant
+0x56381af6 FlexParticle

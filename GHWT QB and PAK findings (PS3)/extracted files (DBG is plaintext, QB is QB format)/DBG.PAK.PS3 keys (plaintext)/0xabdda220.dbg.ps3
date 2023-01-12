@@ -1,0 +1,47 @@
+bor_Pyro_Moments_Mid_1_Check 3 (0,622) (52,623) (104,624) 
+Z_Harbor_Pyro_PyroWheels 51 (0,627) (36,629) (88,630) (124,631) (176,632) (228,633) (264,634) (316,635) (368,636) (404,637) (456,638) (492,639) (544,640) (580,643) (632,644) (668,645) (720,646) (772,647) (808,648) (860,649) (912,650) (948,651) (1000,652) (1036,653) (1088,654) (1140,656) (1176,659) (1228,660) (1264,661) (1316,662) (1368,663) (1404,664) (1456,665) (1508,666) (1544,667) (1596,668) (1632,669) (1684,670) (1720,673) (1772,674) (1808,675) (1860,676) (1912,677) (1948,678) (2000,679) (2052,680) (2088,681) (2140,682) (2176,683) (2228,684) (2264,686) 
+Z_Harbor_Pyro_Moments_PyroWheels_Movement 5 (0,689) (40,690) (80,691) (120,692) (160,693) 
+z_harbor_Encore_Setup 1 (0,748) 
+z_harbor_RestartEncore_TransitionSetup 4 (0,752) (6,753) (12,754) (18,755) 
+z_harbor_Encore_TransitionEnd 3 (0,758) (6,759) (12,760) 
+Z_Harbor_Encore_AfterRocketsCombo 2 (0,764) (52,765) 
+Z_Harbor_Encore_AfterRocketsCombo_Kill 2 (0,768) (52,769) 
+Z_Harbor_Encore_CreateWheel 2 (0,772) (36,773) 
+Z_Harbor_Encore_Rockets_Combo 11 (0,787) (2,788) (8,789) (21,790) (23,791) (45,792) (106,793) (118,794) (152,795) (159,796) (166,797) 
+Z_Harbor_Encore_MoreFlowers 2 (0,800) (52,801) 
+Z_Harbor_Encore_MoreFlowers_Kill 2 (0,804) (52,805) 
+Z_Harbor_Encore_Rockets01 12 (0,808) (36,810) (88,811) (124,812) (176,813) (212,814) (264,815) (336,817) (388,818) (424,819) (476,820) (512,821) 
+Z_Harbor_Encore_Rockets02 12 (0,824) (36,826) (88,827) (124,828) (176,829) (212,830) (264,831) (336,833) (388,834) (424,835) (476,836) (512,837) 
+Z_Harbor_Encore_Rockets03 12 (0,840) (36,842) (88,843) (124,844) (176,845) (212,846) (264,847) (336,849) (388,850) (424,851) (476,852) (512,853) 
+Z_Harbor_Encore_Rockets04 12 (0,856) (36,858) (88,859) (124,860) (176,861) (212,862) (264,863) (336,865) (388,866) (424,867) (476,868) (512,869) 
+Z_Harbor_Encore_Rockets05 12 (0,872) (36,874) (88,875) (124,876) (176,877) (212,878) (264,879) (336,881) (388,882) (424,883) (476,884) (512,885) 
+Z_Harbor_Encore_Rockets_MoveBacktoStart 6 (0,888) (56,890) (112,891) (168,892) (224,893) (280,894) 
+z_harbor_Encore_PostFireworks 8 (0,899) (6,900) (56,901) (62,902) (112,903) (118,904) (168,905) (174,906) 
+z_harbor_Encore_PostFireworks_Kill 5 (0,909) (52,910) (104,911) (140,912) (192,913) 
+z_harbor_Encore_Flowers 5 (0,917) (36,918) (38,919) (40,920) (46,921) 
+z_harbor_Encore_Flowers_Check 7 (0,924) (2,925) (52,926) (104,927) (156,928) (208,929) (210,930) 
+z_harbor_Encore_WheelFX 5 (0,933) (36,934) (38,935) (40,936) (46,937) 
+z_harbor_Encore_WheelFX_Check 7 (0,940) (52,941) (104,942) (156,943) (208,944) (244,945) (280,946) 
+z_harbor_Encore_Streamers 5 (0,949) (36,950) (38,951) (40,952) (46,953) 
+z_harbor_Encore_Streamers_Check 4 (0,956) (52,957) (104,958) (156,959) 
+z_harbor_camera_encore 24 (0,963) (6,965) (120,975) (126,977) (160,979) (212,980) (328,989) (334,991) (464,1002) (470,1004) (584,1013) (590,1015) (640,1017) (756,1028) (762,1030) (812,1032) (928,1042) (934,1044) (1064,1055) (1100,1057) (1106,1058) (1220,1070) (1226,1072) (1244,1074) 
+z_harbor_foglight_rotate 2 (0,1077) (36,1078) 
+z_Harbor_Moving_Boat 2 (0,1084) (36,1086) 
+z_Harbor_Moving_Boat01 2 (0,1091) (36,1093) 
+z_Harbor_Moving_Boat02 2 (0,1098) (36,1100) 
+z_Harbor_Moving_Boat03 2 (0,1105) (36,1107) 
+z_Harbor_Moving_Boat04 2 (0,1112) (36,1114) 
+
+[Checksums]
+0x9628e29b zones\z_harbor\z_harbor_scripts.qb
+0x42c39009 Prelude_04
+0x812ff01e Z_Harbor_GFX_FX_PyroCylinder_02
+0xac1d8022 color_overrides
+0x1f11f037 Z_Harbor_Pyro_Moments_Mid_1_Check
+0xc328f045 Z_Harbor_GFX_FX_GreenDragonFountains_04
+0x9a8bb047 spotlights_Yellow
+0x6ec68049 top_1
+0xa9563052 z_harbor_RestartEncore_TransitionSetup
+0x5b45706d GP_FX_Fireworks_SparkleRocket_Smoke_02
+0x059ea070 Red
+0xa47b7070 mid_2

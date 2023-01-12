@@ -1,0 +1,27 @@
+f setup_jam_song
+0x2a91e8f0 LoadMelodyKit
+0x709e58f5 temp0
+0x6a3568fb song_prefix
+0x7f8c98fe index
+0x5e396915 song_preview_element
+0x976e2917 jamsession
+0xf3896918 destroy_loading_screen
+0x65922921 jamsession_vocals_note_range
+0x6f5b992d period_array
+0xd081993a jamsession_song_vocals
+0x5f4dc94f PopupElement
+0x7f261953 pos
+0xe2eb0955 ui_memcard_delete_jam
+0x41272956 velocity
+0xfba0195b process_sound_times
+0x4316395b song_struct
+0x0fe2195d jam_difficulty_select_go_back
+0xb30d9965 controller
+0xfea66978 artist
+0xb1b61978 melody
+0xd1aa397a jam_current_bpm
+0x0195a97e jam_current_tuning
+0x8e0bc989 drum_array
+0x37d9198b guitar_gem_array
+0x1993c98e i
+0x2820e

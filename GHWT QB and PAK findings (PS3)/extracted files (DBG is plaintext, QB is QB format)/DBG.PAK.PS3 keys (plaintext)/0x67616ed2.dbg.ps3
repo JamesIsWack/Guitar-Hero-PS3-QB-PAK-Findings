@@ -1,0 +1,25 @@
+use
+0xc4685697 long
+0x6aaae6a2 do_gh3_pause
+0xbab776aa kill_intro_celeb_ui
+0x794c86b0 control_dis_paused
+0x5f47d6e4 ui_controller_disconnect_pause
+0x26bf66f3 textblock
+0xeb39f715 option1_func
+0x2cb33744 LaunchEvent
+0xbcab976e generic_event_replace
+0xd4c98794 title
+0xdcd6d79e ui_deinit_controller_disconnect
+0xae7ee7a3 create_popup_warning_menu
+0x92eca7bd uistate_select_tutorial
+0x30d8f7ec bg_rgba
+0x2350d7ee restart_song_state
+0x7a8e97f1 ui_controller_disconnect_return_to_main_menu
+0x3e7727fa isXenon
+0x0c33181f vocals_mic_distribution_is_valid
+0xf4d9a825 add_user_control_helper
+0x809a9834 j
+0xc4745838 text
+0x9d2d8850 z
+0x40c698af id
+0xd9efb8bd ui_i

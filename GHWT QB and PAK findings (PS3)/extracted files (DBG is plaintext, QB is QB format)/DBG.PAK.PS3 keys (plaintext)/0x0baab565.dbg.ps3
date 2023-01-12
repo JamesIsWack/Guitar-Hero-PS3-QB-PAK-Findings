@@ -1,0 +1,61 @@
+) (88,7953) (100,7954) (102,7955) (125,7956) (143,7957) (157,7958) (159,7959) (180,7960) (188,7961) (190,7962) (224,7964) 
+net_career_wait_until_menu_update_is_done 7 (0,7967) (2,7968) (40,7969) (42,7970) (44,7971) (96,7972) (98,7973) 
+net_career_asign_band_leader_icon 11 (0,7976) (64,7977) (66,7980) (104,7981) (106,7982) (108,7983) (160,7984) (162,7985) (180,7987) (220,7988) (262,7989) 
+net_career_check_instruments 67 (0,7993) (36,7994) (42,7999) (60,8000) (72,8001) (76,8002) (88,8003) (90,8004) (92,8005) (104,8007) (116,8008) (128,8009) (140,8010) (152,8011) (161,8012) (173,8014) (175,8015) (192,8016) (210,8017) (227,8018) (235,8019) (245,8020) (266,8021) (296,8022) (309,8023) (330,8024) (360,8025) (373,8026) (394,8027) (407,8028) (428,8029) (436,8030) (457,8031) (487,8032) (489,8033) (491,8034) (512,8035) (520,8036) (538,8038) (550,8039) (568,8040) (603,8041) (621,8042) (641,8043) (659,8044) (679,8045) (691,8046) (709,8047) (735,8048) (748,8049) (774,8050) (787,8051) (805,8053) (837,8054) (857,8055) (889,8056) (909,8057) (941,8058) (961,8059) (993,8060) (995,8061) (999,8062) (1031,8063) (1033,8064) (1035,8065) (1037,8066) (1039,8067) 
+net_career_set_instruments 14 (0,8070) (64,8071) (76,8073) (88,8074) (100,8075) (102,8076) (136,8077) (154,8078) (166,8079) (186,8080) (198,8081) (200,8082) (221,8083) (229,8084) 
+ui_band_mode_ps3_invite_received 6 (0,8087) (36,8088) (55,8089) (61,8090) (63,8091) (65,8092) 
+net_career_host_finalize_menu_ui 11 (0,8095) (52,8096) (88,8097) (100,8098) (102,8099) (127,8100) (145,8101) (173,8102) (175,8103) (196,8104) (203,8105) 
+
+[Checksums]
+0x8de7f7f0 scripts\guitar\menu\states\layouts\ui_band_mode.qb
+0x8505d001 ui_band_mode_ps3_invite_received
+0xb990d003 target
+0x8e411006 b
+0x6c955007 career_friendslist_scroll
+0x1bff900b quickplay
+0xbadda00c net_remove_party_joiner
+0x44949010 difficulty
+0x0253a010 gamertag_dims
+0x006e801c ui_band_mode_signin_changed
+0xa0353020 waiting_for_data
+0x77b86025 set_server_list_mode
+0x450d6026 text_scale
+0xc6870028 Die
+0xf967002a destroy_net_popup
+0x0f7e902c nullscript
+0x3eeae02d hard
+0xcd0dc02d KillSpawnedScript
+0x25e0f034 logo_drum
+0xe126e035 top
+0x94a5103b ui_event_get_stack
+0x475bf03c event_handlers
+0x6383e040 net_ui_band_mode_choose
+0x3923b046 reposition_pos
+0xee58504b pan1y
+0x367a104f add_exclusive_device
+0x9775a050 msg
+0x4304e054 character_savegame
+0x1971b05e net_career_set_instruments
+0xa828e05f net_clear_all_remote_player_status
+0x23538061 ui_deinit_band_mode
+0xe6795062 button_text
+0x21902065 checksum
+0xbec5106b UpdateStructElement
+0x059ea070 red
+0x578e807c desc_item
+0x0e9bb087 msg_type
+0xf9462090 c
+0x23bc5091 num
+0x9a2e9095 set_focus_color
+0x66852097 ui_band_mode_signin
+0x35332099 load_z_Tool
+0xf9f6b09b logo_guitar
+0x06b1c0a2 uistate_band_difficulty
+0xe13620a8 no_sound
+0x6c3100ad IsAnyControllerSignedIn
+0xd2f070b4 band_mode_remap_controllers_1_to_4
+0x4addb0b4 ui_band_mode_kill_character
+0x88fc10b5 descs
+0x36e6f0b5 generic_menu_up_or_down_sound
+0x106b00c3 profanity_allowed
+0x2141a0ca diff_a

@@ -1,0 +1,38 @@
+1357) 
+
+[Checksums]
+0x20852496 scripts\tutorials\training_band_tutorial.qb
+0xb990d003 target
+0x46801009 OnlineLobbyInterface
+0x44949010 difficulty
+0x56d17010 training_container
+0x2e9dd01c Tutorial_Mode_Finish_Chord
+0x1483e026 training_spawned_script
+0xcd0dc02d KillSpawnedScript
+0xe126e035 top
+0x475bf03c event_handlers
+0xb455f040 training_hide_narrator
+0x16ed2044 training_band_tutorial_show_title
+0x21902065 checksum
+0x9a2e9095 set_focus_color
+0x696fe0ab number
+0xd95930ac player1_status
+0x88fc10b5 descs
+0x3371d0c1 call
+0xa49050e7 player_5_color
+0xbcee00ef player_5_instrument
+0xe4f130f4 s
+0xe632c101 life
+0x22410101 player_8_instrument
+0x6f724103 locked_to_players
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0xc5473127 player_8_color
+0x67952127 gh3_start_pressed
+0x3611c136 GetTags
+0x73665140 CreateScreenElement
+0x5ef31148 array
+0x0558714f AssertIf
+0xf9f29155 cash_text
+0xcc12115e song
+0x01dd6

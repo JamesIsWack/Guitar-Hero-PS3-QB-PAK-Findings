@@ -1,0 +1,25 @@
+4ad4 training_arrow_red_end
+0x56a1eae3 root_window
+0xb7248af1 placement
+0x19fa5af7 SpawnScriptNow
+0xd96a5b02 transitions_locked
+0x078b8b0c lesson
+0x4bfabb14 use_backdrop
+0xb7ffcb6a guitar_whammy_down
+0x1d7cdb79 tutorial_arrow_green_wham_start
+0x7ac48bb1 tutorial_arrow_red_wham_end
+0xe1892bdf safe_destroy
+0x35e05be6 training_destroy_gem_scroller
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0x61359c3e training_2_end
+0x513d9c52 training_clear_lesson_body_text
+0x430e0c6f star_power_lesson
+0x07713c7b sound
+0x60d16ca4 training_wait_for_gem_scroller_startup
+0x44a31cb5 SetGlobalTags
+0x90356cb9 SetScreenElementProps
+0x4adf0cd3 unfocus
+0x177facd8 training_arrow2
+0xa962ad1a GetDeltaTime
+0x92

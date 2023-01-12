@@ -1,0 +1,374 @@
+_Dammit_100_01
+0x5afe692a GH3xp1_Crowd_Jerod_Good_Slow1
+0x2625b92d GH3xp1_Crowd_Becki_Reg_Fast3
+0xd6cbe92e GH3xp1_Crowd_Jerod_Reg_Fast4
+0x8d9bb944 Drum_Andy_T3S_2_C1_T1S_120
+0x02c03946 RegisterAnimEvents_TempoMatching
+0xb85eb948 GH3xp1_crowd_Bill_reg_med1
+0x4c137957 Sing_Jeff_LowKey_100_01
+0xfa9b5959 GH3xp1_Crowd_Genna_Reg_Slow1
+0x5ce0a963 Guit_Sam_Dammit_120_01
+0xd7987966 Guit_Dan_Damnit_075
+0xe8d7e96d AnimEvents_TempoMatching
+0x953e2970 Drum_Andy_HS_2_C2_T3S_120
+0x83fca977 GH3xp1_Crowd_Becki_Starpower_Fast2
+0x2862697a GH3xp1_Crowd_Genna_Starpower_Slow3
+0x577e897a GH3xp1_Crowd_Jerod_Reg_Med2
+0x5ab61981 Guit_Davidicus_Bulls_075
+0x36af2982 Guit_Davidicus_Joker_100_01
+0x7d3ee988 Guit_JoeR_Hot_120
+0x5bfb3989 Drum_Andy_C2S_2_C2_T3S_120
+0xb4c8498b GH3xp1_Crowd_Genna_Good_Slow3
+0xe5dda993 sing_natalie_areyou_100_1
+0xb499f999 Drum_Andy_C2S_2_C1C2_HS_120
+0x08df89a0 Drum_Andy_T1S_2_C1C2_RS_120
+0xfada29a6 Sing_RockG_Bulls_100_01
+0xfdda79a8 Guit_Dan_Joker_100
+0x279459a9 Drum_Andy_HS_2_C1_SS_120
+0xa97669aa Drum_Andy_T3S_2_C1_C2S_120
+0xc2bee9b2 Guit_Sonny_StillBorn_100_01
+0xa1ccd9b8 GH3xp1_Crowd_Jerod_Reg_Fast5
+0x512289bb GH3xp1_Crowd_Becki_Reg_Fast2
+0x9532e9bf Drum_Andy_SS_2_C1C2_T3S_120
+0x368819ca Guit_Zakk_Stillborn_075_01
+0x809159cb Drum_Andy_SS_2_C2_SS_120
+0x0c74c9d5 GH3xp1_crowd_Bill_starpower_slow4
+0x68d5a9de Drum_Andy_T1S_2_C1_T3S_120
+0xf4fb99e1 GH3xp1_Crowd_Becki_Starpower_Fast3
+0x5f6559ec GH3xp1_Crowd_Genna_Starpower_Slow2
+0x2079b9ec GH3xp1_Crowd_Jerod_Reg_Med3
+0xeb3e59f5 Drum_Andy_T1S_2_C1_RS_120
+0xafb679f7 GH3xp1_Crowd_Colin_Good_Med4
+0xe83d89ff GH3xp1_Crowd_Becki_Good_Fast1
+0x2620fa03 Guit_Sam_Dammit_100_01
+0xc3835a05 Drum_Andy_T1S_2_C1C2_SS_120
+0x98879a08 GH3xp1_crowd_Bill_starpower_med2
+0xecc88a0c Drum_Andy_HS_2_C1_RS_120
+0x91abfa15 GH3xp1_Crowd_Jerod_Special_Slow2
+0xe5ffaa1a Guit_Judita_Bulls_100
+0xfb9b6a22 Drum_Andy_RS_2_C2_T1S_120
+0x36d32a37 Sing_Jeff_LowKey_120_01
+0xbb971a44 Guit_Sam_Joker_120_01
+0x197f4a46 Sing_Haley_Dammit_120_01
+0x20628a50 Drum_Andy_T1S_2_C1_SS_120
+0xa96dda63 Drum_Andy_StandardLP_T1S_100_01
+0x64feca65 Drum_Andy_C2S_2_C2_HS_120
+0xfb284a69 Sing_Haley_Joker_120_01
+0x36fdca6c Sing_JoeH_AreYou_075_01
+0x4bcd8a6e Drum_Andy_SS_2_C2_RS_120
+0x43a17a71 sing_natalie_areyou_075_1
+0x92dbca72 GH3xp1_Crowd_Jerod_Starpower_Fast4
+0x00ab9a82 GH3xp1_Crowd_Genna_Good_Med1
+0xe6acca83 GH3xp1_Crowd_Jerod_Special_Slow3
+0xef80aa9e GH3xp1_crowd_Bill_starpower_med3
+0xb9cbda9f GH3xp1_Crowd_Becki_Special_Slow1
+0x84df9abb Drum_Andy_T3S_2_C2_RS_120
+0x801a7ac6 Sing_RockG_Bulls_120_01
+0xdf76bacc Drum_Andy_RS_2_C2_C2S_120
+0xb87ebad2 Guit_Sonny_StillBorn_120_01
+0x4c6f7ae2 Guit_Davidicus_Joker_120_01
+0xe5dcfae4 GH3xp1_Crowd_Jerod_Starpower_Fast5
+0x748f4ae5 Drum_Andy_RS_2_C2_HS_120
+0x628b4af9 Sing_JoeH_Hot_075_01
+0x419a3b03 Guit_JoeS_AreYou_150_01
+0x4f088b0a Guit_JoeR_Hot_100
+0xd6c26b18 Drum_Andy_RS_2_C2_RS_120
+0x20c28b25 GH3xp1_Crowd_Becki_Special_Slow2
+0xb653cb29 Drum_Andy_RS_2_C2_T3S_120
+0xcfec1b2a Guit_Dan_Joker_120
+0x99a2cb38 GH3xp1_Crowd_Genna_Good_Med2
+0x2692bb46 Drum_Andy_T3S_2_C2_HS_120
+0xd260ab46 Guit_Sonny_Bulls_75_01
+0x1b67bb49 Sing_Rob_Bulls_120_02
+0x527d6b68 Guit_Judita_Joker_075
+0x024edb82 GUIT_JoeR_AreYou_150
+0xafda7b8d SING_Jeff_LowKey_120_02
+0xe980ab93 Drum_Andy_SS_2_C2_HS_120
+0xc434eb96 Sing_josh_joker_120_1
+0xc6b3eb98 Drum_Andy_C2S_2_C2_RS_120
+0x98549ba4 Anim
+0xf794bbac Guit_Ginger_Joker_075_01
+0xeea5fbae GH3xp1_Crowd_Genna_Good_Med3
+0x08a2abaf GH3xp1_Crowd_Jerod_Special_Slow1
+0x018ecbb2 GH3xp1_crowd_Bill_starpower_med1
+0x57c5bbb3 GH3xp1_Crowd_Becki_Special_Slow3
+0x21529bb9 Drum_Andy_StandardLP_HS_100_01
+0xdd880bc1 Drum_Andy_C2S_2_C1C2_SS_120
+0x673ffbc5 Guit_ChrisVance_Damnit_100_02
+0x4e85abf1 Drum_Andy_HS_2_C1_HS_120
+0xc7d84bf4 Guit_JoeS_AreYou_075_01
+0xdbbc6bfa Sing_rockG_Dammit_075_1
+0x36252c04 Drum_Andy_SS_2_C1_T3S_120
+0xc00aac12 Drum_Andy_HS_2_C2_HS_120
+0x3fa84c1b GH3xp1_Crowd_Jerod_Reg_Fast2
+0x2aacdc28 GH3xp1_Crowd_Genna_Good_Slow4
+0x55927c37 Drum_Andy_StandardLP_C2S_100_01
+0x2b415c39 Guit_ChrisVance_Joker_150_01
+0x0216bc47 Drum_Andy_HSHS_120
+0xbe1d2c4f GH3xp1_Crowd_Jerod_Reg_Med4
+0x31d2ec54 GH3xp1_Crowd_Colin_Good_Med3
+0xce2e0c57 Drum_Andy_T3S_2_C1C2_C2S_120
+0x44542c5e GH3xp1_Crowd_Genna_Special_Fast1
+0xd3260c60 Guit_JoeS_Hot_120_01
+0x57381c62 GH3xp1_Crowd_Genna_Reg_Med1
+0x63b1fc65 Drum_Andy_StandardLP_StickhitsOne
+0x8d04ec66 GH3xp1_Crowd_Colin_Good_Fast3
+0x670fac70 Drum_Andy_SS_2_C1_HS_120
+0x92105c76 GH3xp1_crowd_Bill_starpower_slow3
+0x483cec7b Drum_Andy_C2S_2_C1_RS_120
+0x3eff4c7e Drum_Andy_T1S_2_C1C2_T1S_120
+0x48af7c8d GH3xp1_Crowd_Jerod_Reg_Fast3
+0x93115c8e GH3xp1_crowd_Bill_good_slow1
+0x1a129c90 Drum_Andy_T1S_2_C1C2_C2S_120
+0x8c477c9e Sing_Rob_Stillborn_120_01
+0x3f14fca1 Guit_Ginger_Bulls_075_01
+0xa81dbca5 Drum_Andy_T3S_2_C1_HS_120
+0xc0c16ca9 Guit_Davidicus_Damnit_75_02
+0xeac3dcb9 Drum_Andy_T3S_2_C1C2_T1S_120
+0x5dabecbe GH3xp1_Crowd_Genna_Good_Slow5
+0x46d5dcc2 GH3xp1_Crowd_Colin_Good_Med2
+0x8f7facc3 Drum_Andy_T3S_2_C1C2_RS_120
+0xb5da4cc4 Guit_Ginger_AreYou_075_01
+0x07473cca Guit_Jimi_joker_120
+0xad032cce Guit_ChrisVance_Joker_075_01
+0x561eacd1 Drum_Andy_StandardLP_RS_075_01
+0xc91a1cd9 GH3xp1_Crowd_Jerod_Reg_Med5
+0xe5176ce0 GH3xp1_crowd_Bill_starpower_slow2
+0xfa03dcf0 GH3xp1_Crowd_Colin_Good_Fast2
+0x584d6cfb Drum_Andy_RS_2_C1_RS_120
+0xc4a2bd04 GH3xp1_Crowd_Genna_Good_Slow6
+0xfa004d06 Drum_Andy_RS_2_C1_HS_120
+0x7bed8d0f Drum_Andy_SS_2_C1_T1S_120
+0x5d93ad33 GH3xp1_Crowd_Jerod_Good_Slow5
+0x0a180d34 GH3xp1_crowd_Bill_good_slow2
+0x2d328d3e Drum_Andy_T3S_2_C1C2_HS_120
+0x4d0f4d45 GUIT_JoeR_AreYou_120
+0x630a8d4a GH3xp1_Crowd_Colin_Good_Fast1
+0x0a509d58 Drum_Andy_T3S_2_C1_RS_120
+0x7c1e3d5a GH3xp1_crowd_Bill_starpower_slow1
+0xc9390d62 Drum_Andy_StandardLP_T3S_075_01
+0x50134d63 GH3xp1_Crowd_Jerod_Reg_Med6
+0x33a80d64 Sing_Haley_Bulls_120_01
+0x119cbd67 Guit_Davidicus_Damnit_120_02
+0xaa5a4d72 GH3xp1_Crowd_Genna_Special_Fast3
+0x7337ed75 Drum_Andy_T1S_2_C1C2_T3S_120
+0xdfdc8d78 GH3xp1_Crowd_Colin_Good_Med1
+0xea71cd86 Drum_Andy_C2S_2_C1_HS_120
+0xc5428d8d Drum_Andy_SS_2_C1_RS_120
+0xe2ac9d90 Drum_Andy_StandardLP_Stickhits
+0xa6a11da1 GH3xp1_Crowd_Jerod_Reg_Fast1
+0x7d1f3da2 GH3xp1_crowd_Bill_good_slow3
+0x2a949da5 GH3xp1_Crowd_Jerod_Good_Slow4
+0xa70b7db2 Drum_Andy_T3S_2_C1C2_T3S_120
+0xaeed8db3 Drum_Andy_T1S_2_C2_SS_120
+0xc8344dc7 GH3xp1_crowd_Bill_reg_med4
+0xce314dd8 GH3xp1_Crowd_Genna_Reg_Med2
+0xa2302de0 Guit_Matt_Bulls_075_01
+0x5f005de1 Drum_Andy_SS_2_C1_C2S_120
+0xdd5d7de4 GH3xp1_Crowd_Genna_Special_Fast2
+0x62478def Drum_Andy_HS_2_C2_RS_120
+0x27147df5 GH3xp1_Crowd_Jerod_Reg_Med7
+0x49685e04 Sing_Haley_Bulls_100_01
+0x6b5cee07 Guit_Davidicus_Damnit_100_02
+0x46fade0a anim_events
+0x70c16e0d GH3xp1_Crowd_Genna_Good_Med4
+0x65b15e16 Drum_Andy_T1S_2_C2_RS_120
+0x0e1e5e28 Drum_Andy_SS_2_C1_SS_120
+0x35715e48 Guit_Jimi_joker_100
+0xa91b5e4a Drum_Andy_HS_2_C2_SS_120
+0x240ade64 Guit_Davidicus_Damnit_75
+0xdcbd6e68 GH3xp1_crowd_Bill_reg_fast2
+0xfc11ae71 GH3xp1_Crowd_Becki_Starpower_Med1
+0xc1bafe7b GH3xp1_Crowd_Becki_Reg_Med3
+0x6dd9be81 Guit_ChrisVance_Damnit_75
+0x07c65e9b GH3xp1_Crowd_Genna_Good_Med5
+0x25ec4ea3 GH3xp1_Crowd_Colin_Reg_Slow1
+0x5bfd1ea6 GH3xp1_Crowd_Colin_Special_Fast2
+0x325a6eab Sing_RockG_Joker_100_01
+0xce3e7eb9 Sing_josh_Dammit_120_1
+0xb6bdceed GH3xp1_Crowd_Becki_Reg_Med2
+0x69023ef9 Guit_Jeff_LowKey_075_01
+0xc10c4efd Drum_Andy_T3S_2_C1_SS_120
+0xe2b13efd GH3xp1_Crowd_Jerod_Starpower_Fast1
+0xabba5efe GH3xp1_crowd_Bill_reg_fast3
+0xa9e65f00 Guit_JoeS_Hot_100_01
+0xbce51f19 GH3xp1_Crowd_Colin_Reg_Slow2
+0xc2f44f1c GH3xp1_Crowd_Colin_Special_Fast1
+0x71e43f3d GH3xp1_crowd_Bill_starpower_med4
+0xf00b6f43 Guit_Jeff_LowKey_075_02
+0x7bb86f47 GH3xp1_Crowd_Jerod_Starpower_Fast2
+0x327f7f4f Guit_JoeR_Hot_150
+0x2f522f57 Drum_Andy_StandardLP_C2S_120_01
+0x2fb49f57 GH3xp1_Crowd_Becki_Reg_Med1
+0x121fcf5d GH3xp1_Crowd_Becki_Starpower_Med3
+0x9311bf5e Drum_Andy_RS_2_C1_SS_120
+0x44237f66 Drum_Andy_T3S_2_C1C2_SS_120
+0x75122f75 GUIT_JoeR_AreYou_75
+0xcbe22f8f GH3xp1_Crowd_Colin_Reg_Slow3
+0x06e30fab GH3xp1_crowd_Bill_starpower_med5
+0x7f392fc7 Guit_JoeR_AreYou_100
+0x65165fc9 Guit_Judita_AreYou_075
+0x6518ffcb GH3xp1_Crowd_Becki_Starpower_Med2
+0x0cbf5fd1 GH3xp1_Crowd_Jerod_Starpower_Fast3
+0x45b43fd2 GH3xp1_crowd_Bill_reg_fast1
+0x83603fde Drum_Andy_C2S_2_C1_SS_120
+0xc7fc7feb Drum_Andy_T1S_2_C2_HS_120
+0x3a03cfec Guitar_Joker_100
+0xf6872ffe Sing_Rob_Stillborn_100_01
+
+         [LineNumbers]
+
+[Checksums]
+0xeeda1f5c c:/gh4/data/scripts/game/anim/animevents_standard.qb.ps3
+0xc77e191c c:/gh4/data/scripts/game/anim/animevents_tempomatching.qb.ps3
+
+                 [LineNumbers]
+create_node_flags 20 (0,1) (36,2) (72,3) (108,4) (144,5) (180,6) (216,7) (252,8) (288,9) (324,10) (360,11) (396,12) (432,13) (468,14) (504,15) (540,16) (576,17) (612,18) (648,19) (684,20) 
+
+[Checksums]
+0x70523f92 scripts\nodeflags.qb
+0x26f53048 ls_mood_falling
+0xdbf29075 ls_perf_medium_good
+0x2725b0ed ls_mood_blackout
+0x11bdf13b ls_mood_strobe
+0x81faa173 ls_mood_resolution
+0x85c6a282 ls_perf_poor
+0x5f5862f5 ls_mood_tension
+0x2c5e3375 ls_mood_intro
+0xc01853ea ls_mood_exposition
+0x8e4c1409 ls_mood_climax
+0xac1b4435 ls_mood_silhouette
+0xbc1b445a ls_mood_rising
+0xfe3fe4aa ls_mood_flare
+0x83ae9640 nodeflag_viewerlights
+0x8e14f6fd ls_mood_wash
+0xab74584a ls_mood_prelude
+0x8689986e ls_mood_pyro
+0xbcdc78f5 ls_perf_good
+0x4635599e createnodeflag
+0xfe1c9e5d create_node_flags
+0x62acefe9 ls_perf_medium
+
+                    [LineNumbers]
+SafeCreate 6 (0,3) (15,4) (31,5) (49,6) (51,7) (53,8) 
+SafeKill 4 (0,11) (15,12) (33,13) (35,14) 
+
+[Checksums]
+0x09b09dfe scripts\misclightutils.qb
+0x130aa125 IsInNodeArray
+0xa1dc81f9 name
+0xe4b8221b IsCreated
+0xbb0db7d3 SafeCreate
+0xf8d6a996 Kill
+0x9f92ba78 nodeName
+0x3cd16cbb SafeKill
+0x70291f04 Create
+
+                [LineNumbers]
+
+[Checksums]
+0x8169e474 scripts\aaaaloopchecker.qb
+0xdbfdd02f Obj_WaitMove
+0x4c21a036 Ped_RandomWaitAtNode01
+0x21d88036 igc_cycle_actor_anims
+0x15036130 WaitForEvent
+0x730ed1ae AVOIDSTATE_STOP
+0x2f3771ea GoalInit_PlayAnim
+0x18b3b291 WaitOneGameFrame
+0x9fe5936b WaitAnimWalkingFrame
+0x215d13b9 BlockingFunctions
+0x248424b8 Skater_WaitAnimFinished
+0x34bba5a8 WaitWalkingFrame
+0xfa97b79d LegacyDoMorph
+0x603ea7f3 WaitAnimFinished
+0xdaff480b WaitAnimWalking
+0xbdc4c878 Obj_WaitRotate
+0x7ce468dd Block
+0xb628a959 Obj_WaitAnimFinished
+0x7962eb9f Ped_WaitAnimFinished
+0x82117c1a Wait
+0x7109fd0a z_storyselect_loop_anims
+0xbb937f80 fadein_fadeout
+0x8b860fef DoNotAssertForInfiniteLoopsInTheseScripts
+
+  [LineNumbers]
+
+[Checksums]
+0x9cf0fa80 scripts\cas_ped_m.qb
+0x5e5d6077 Sec_Barker
+0x3cc913bc ped_body
+0x1e90c5a9 mesh
+0x4bb2084e desc_id
+
+              [LineNumbers]
+
+[Checksums]
+0x87fcc63e scripts\cgen\localize_ps2_strings.qb
+
+               [LineNumbers]
+
+[Checksums]
+0x21805200 scripts\cgen\localize_wii_strings.qb
+
+               [LineNumbers]
+
+[Checksums]
+0x7080f955 scripts\create_a_rocker\cab_layers.qb
+0x4e045016 CAB_Head_03_Finishes
+0x4af1802b CAB_Head_01_Finishes
+0x431a2051 CAB_Head_05_Finishes
+0x47eff06c CAB_Head_07_Finishes
+0x741f10bb CAB_Body_Chunder01_Finishes
+0x0084c0c8 CAB_PGrd_Grumbel01
+0x5926c0df CAB_Head_09_Finishes
+0xd2a940e9 CAB_PGuardChndr01
+0xd92a10ea CAB_Skull_Details
+0x8f3750ee CAB_Body_Rubaiyat_Finishes
+0xbf924100 CAB_Body_GRMBL_Details
+0x4f572144 CAB_Head_11_Details
+0x998d9172 CAB_PGrd_Grumbel02
+0x36e7d193 CAB_BodyFoots01_Finishes
+0x2072019d CAB_Body_Chunder01_Details
+0xdc7e31c2 CAB_Body_Rubaiyat_Details
+0xee8aa1e4 CAB_PGrd_Grumbel03
+0x17f07224 CAB_Body_UNOS_Details
+0x1118a262 no_skew
+0x5cf10269 CAB_PG_XREND03
+0x8e6362fc CAB_Head_03_Details
+0x2bf632ff CAB_PG_XREND02
+0xb2ff6345 CAB_PG_XREND01
+0x34494354 CAB_Neck_02_Finishes
+0x11eb0368 CAB_Body_Kelly_Finishes
+0x5c430371 pattern
+0x26b07386 CAB_Body_SixTease_Finishes
+0x589983bf CAB_Body_XRend01_Finishes
+0xd38f33f0 CAB_Head_07_Details
+0x05c0640b CAB_Head_14_Details
+0xba65d474 CAB_FTS_PickGuard03
+0x6d5694af CAB_Head_14_Finishes
+0x64b814c5 CAB_Body_Kelly_Details
+0xc0f014d4 CAB_ARCOS_PGrd01
+0x64bd34d5 CAB_Head_10_Finishes
+0xcd62e4e2 CAB_FTS_PickGuard02
+0x6048e4e8 CAB_Head_12_Finishes
+0xd5c484f0 CAB_PGuardChndr05
+0x1c9df4fe o_u_flip
+0x582c3507 CAB_Head_10_Details
+0x0b17650f no_u_flip
+0x2f3c2524 wrap_texture
+0x4ccdd54a CAB_PGuardChndr06
+0x546bb558 CAB_FTS_PickGuard01
+0x7cbe6589 CAB_Body_Icross_Details
+0x6a2b45b4 CAB_BodyFoots01_Details
+0x3bcae5dc CAB_PGuardChndr07
+0xc6e0c5f9 CAB_Body_Bandera_Finishes
+0x77a21642 hidden
+0xf5fec6a8 no_scale
+0x991876bf CAB_Head_02_Details
+0x5e7e0721 CAB_UNOS_PGrd01
+0x8d8317a1 no_v_flip
+0xc4f427b3 CAB_Head_06_Details
+0x77f49808 frontend_desc
+0x2885d827 CAB_Body_Prediktor_Finishes
+0xfaee5829 CAB_Body_Phunq01_Finishes
+0x1a1c883d CAB_Body_La

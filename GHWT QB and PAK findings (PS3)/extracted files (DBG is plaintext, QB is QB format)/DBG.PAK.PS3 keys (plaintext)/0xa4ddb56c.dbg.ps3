@@ -1,0 +1,22 @@
+eslaeffectmanager
+0x0956ec5d default_game_type
+0xf6475c5d vocalist_hud_debug_pitch
+0xdcd72c5d vocal_highway_text_height
+0xfb705c5e agent_disableinteresttests
+0x167ffc5e brake_ramp_range
+0x3d413c60 colors
+0x1c471c60 netlobby
+0x6355cc60 my_orient_type
+0x71f2ec60 last_scale
+0xdb830c61 lightshow_initeventmappings
+0xeb7a1c62 deformmainskeleton
+0x99a30c62 numplayers
+0xa98f5c63 bouncyobj_add_components
+0xa1f67c63 stay
+0x55b63c63 rot_speed_association
+0x46bacc64 microseconds
+0x15d0dc64 minrotvel
+0x119e1c65 motionextractedsource
+0xba9bbc65 particlecolor
+0xa8398c67 flexible
+0xd469bc67 sections

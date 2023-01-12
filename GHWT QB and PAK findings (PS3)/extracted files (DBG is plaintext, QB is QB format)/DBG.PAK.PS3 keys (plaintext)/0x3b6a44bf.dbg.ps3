@@ -1,0 +1,14 @@
+ly
+0x82117c1a wait
+0x8de83c1c ui_init_signin
+0x90e07c79 async
+0x520c0c9c data
+0xd6521cee generic_event_back
+0x0fae4cf3 uistate_memcard
+0xd01d4cff gsid
+0x5c6c2d04 state
+0x97c1bd73 create_signin_complete_menu
+0x044dcd88 ui_signin_warning_back
+0x7e149e2f nosound
+0x7b477e36 ui_signin_process_complete
+0xfd2c9e

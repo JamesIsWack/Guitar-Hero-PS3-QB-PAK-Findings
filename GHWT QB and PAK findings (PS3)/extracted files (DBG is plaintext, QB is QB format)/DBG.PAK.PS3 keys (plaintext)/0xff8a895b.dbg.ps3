@@ -1,0 +1,45 @@
+) (620,430) 
+HandofGod_ElectricCenter_Sparks_02 6 (0,433) (36,434) (88,435) (532,457) (584,458) (620,459) 
+HandofGod_Smoke_01 5 (0,462) (36,463) (480,485) (532,486) (568,487) 
+HandofGod_Smoke_02 5 (0,490) (36,491) (480,513) (532,514) (584,515) 
+Credits_ScreenFX 13 (0,524) (2,526) (40,527) (42,528) (44,529) (96,531) (98,532) (152,534) (404,547) (406,548) (460,550) (804,567) (806,568) 
+
+[Checksums]
+0x5bcd85bc scripts\fx\misc_fx.qb
+0x8e411006 b
+0xe836f013 end_color
+0xc6870028 Die
+0xdbfdd02f obj_waitmove
+0x5ce4e030 materialfilter
+0x27ab5063 kill_when_empty
+0x8cc73072 Credits_ScreenFX
+0x837f6076 HOG_ElectricCenter
+0xcd281077 fadeout_end
+0x66ecc08a start_scale
+0x73cc309a HOG_ElectricCenter_Glow
+0xb12b510a SpriteElement
+0x437b2131 ObjectExists
+0x37d50137 min_rotation
+0x73665140 CreateScreenElement
+0x9fd29151 viewport
+0x0bb3c16a sys_Big_Bolt01_Red_sys_Big_Bolt01_Red
+0xcf66717b GotParam
+0xa78cc17d SetLightIntensity
+0x071f4183 bg_viewport
+0x723ed188 Create2DParticleSystem
+0x993981ac HandofGod_ElectricCenter_Anim_Scale_02
+0x174841bc a
+0xca5831ca JOW_Stars
+0xa7a611dd max_rotation
+0x9179f1e5 jowYellow
+0xd10721f0 stepG
+0xa1dc81f9 name
+0xe4b8221b IsCreated
+0x500eb224 Obj_GetID
+0x8b60022f just
+0xe4a7e23b lightposition
+0xc7970243 HandofGod_ElectricCenter_Flare_02
+0x46159266 out
+0xd5d55277 saturation
+0x53310289 HandofGod_ElectricCenter
+0

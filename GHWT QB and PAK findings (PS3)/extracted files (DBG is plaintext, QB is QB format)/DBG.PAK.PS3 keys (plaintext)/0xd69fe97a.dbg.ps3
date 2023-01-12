@@ -1,0 +1,38 @@
+m_recording_create_metaview 13 (0,5873) (2,5919) (40,5921) (42,5922) (44,5923) (79,5925) (112,5928) (137,5929) (163,5930) (189,5931) (213,5932) (264,5934) (266,5935) 
+jam_recording_update_metaview 1 (0,5941) 
+jam_recording_destroy_metaview 4 (0,6044) (36,6045) (72,6046) (74,6047) 
+jam_studio_hide_tilt_meter 11 (0,6095) (156,6098) (169,6099) (324,6101) (337,6102) (358,6104) (382,6105) (384,6106) (405,6108) (429,6109) (431,6110) 
+jam_studio_tilt_meter 72 (0,6114) (16,6116) (172,6119) (185,6120) (340,6122) (353,6123) (370,6126) (380,6127) (390,6128) (403,6129) (416,6130) (429,6131) (442,6132) (455,6133) (468,6134) (492,6135) (527,6136) (529,6137) (542,6138) (555,6139) (557,6140) (573,6143) (597,6144) (621,6145) (647,6146) (660,6147) (664,6148) (677,6149) (679,6150) (697,6152) (715,6154) (739,6155) (774,6156) (778,6157) (802,6158) (837,6159) (839,6160) (843,6161) (861,6163) (885,6164) (909,6165) (913,6166) (937,6167) (972,6168) (974,6169) (976,6170) (989,6173) (991,6174) (1014,6175) (1031,6176) (1064,6178) (1074,6179) (1084,6180) (1124,6181) (1137,6182) (1177,6183) (1179,6184) (1183,6185) (1193,6186) (1203,6187) (1243,6188) (1256,6189) (1296,6190) (1309,6191) (1349,6192) (1362,6193) (1402,6194) (1404,6195) (1406,6196) (1408,6197) (1460,6199) (1462,6200) 
+jam_studio_animate_mouse 2 (64,6205) (117,6206) 
+
+[Checksums]
+0x60a4f620 scripts\guitar\menu\menu_jam_recording.qb
+0xb990d003 target
+0x323a1004 jam_highway_paste_control
+0x8e411006 b
+0xd2183009 measure_count_text
+0x6c671015 jam_copy_highlight
+0x97c17016 delete_toggle
+0x40514017 destroy_jam_band_menu
+0x0ff5b01a block_snap
+0x958a501c arraylist
+0x9fe43020 jam_recording_setup_timesig
+0x661d1021 jam_menu_get_lefty
+0xba297025 CD
+0x50427026 blue_now_on
+0x2f90302a jam_advanced_hide_arpeggiator_box
+0xcd0dc02d KillSpawnedScript
+0xc8ed402d new_time_rounding_check
+0xeddb302e no_snap
+0x0ebec034 MemcardController
+0xe126e035 top
+0x81872036 begin_song
+0x0a23f03c control_playstop
+0x475bf03c event_handlers
+0xa6cc8049 jam_clear_track_go_back
+0x2d154052 jam_highway_end_time
+0x3682d052 jam_band_pause
+0xcad82058 no_marker_snap
+0xc812b05a jam_current_quantize
+0x21902065 checksum
+0x3ddc70

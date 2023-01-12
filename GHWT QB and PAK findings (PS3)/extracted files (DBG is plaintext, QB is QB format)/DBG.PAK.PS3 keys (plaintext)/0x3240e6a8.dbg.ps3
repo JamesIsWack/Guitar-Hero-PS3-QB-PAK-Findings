@@ -1,0 +1,1101 @@
+able
+0xab76e33e player1_device
+0xffd56346 timesig_size
+0x597b534d p2_battle
+0xde655351 uselaststarttime
+0xe58ba351 ps2_venues
+0x1fcdc358 toggle_LagTestPart3_menuitem
+0x4570735d drummer
+0x5622735e back_to_skipbytime_menu
+0x4ab27360 difficulty_analyzer_back
+0xae582360 toggle_rockmeterdebug
+0x1b381365 toggle_LagTestPart1_menuitem
+0x24a05374 destroy_changevenue_menu
+0xbb9dd376 unlock_purchase_all_cas_parts
+0x9f72c37e HideByType_Visible
+0xcd17437f ui_sfx_scroll
+0x1aa1f382 get_song_struct
+0x15bc1386 changeguitarist_scrolling_menu
+0x9374838b debug_output
+0xee9bc392 SpawnScriptLater
+0xae91c393 create_changevenue_menu
+0xe5188398 changevenue_scrolling_menu
+0xacd30398 LS_ENCORE_PRE
+0x6768b3a2 destroy_menu
+0x617a33a3 setup_gigtags
+0x1c8983a6 x_pos
+0x0df493ba back_to_cameracut_group_menu
+0x21f8b3bf changeguitarist_vmenu
+0x6d6323c2 destroy_changeguitarist_menu
+0xb10b63c2 get_heap_sizes
+0xb23983c8 current_song_version
+0x64c743cc uistate_gameplay
+0xf3f973ce debug_backdrop
+0xb99ae3d6 gameframes
+0x8b54c3d8 toggle_tilt
+0xdc2493dd looppoint_vmenu
+0x9da7a3e3 Load_Venue
+0x67e093e4 internal_just
+0x651533ec level
+0xc5bc93ee ScreenElementExists
+0xa53583f1 highwayvisible
+0x494153f6 select_cameracut_video_end
+0x1ba593fb edit_inputlagvalue_right
+0x079bc3fd toggle_showsongstars_setprop
+0x7546a402 menu_func
+0xff0db407 textname
+0x1632d407 heap_cas
+0x1a1ee416 new_value
+0xe2c43418 destroy_changebassist_menu
+0x50cc241b back_to_changehighway_menu
+0x67c69425 toggle_showsongtime_menuitem
+0x9277f428 FormatText
+0x32ed4432 StartWildcardSearch
+0xa11ba435 start_touch_sensor_test
+0xf8a4443a get_savegame_from_controller
+0x374ed43a viewerreload
+0xd7e8d442 text_nl
+0x131e0443 edit_inputlog_lines_setprop
+0x7f87e444 edit_inputlog_lines_menuitem
+0x42079455 edit_inputlagvalue_menuitem
+0x234e2462 back_to_online_menu
+0x2c5b7467 character_viewer_vmenu
+0xa793b469 play_log_lines
+0x1c74946f setslomo_song
+0xa2762473 create_character_viewer_menu
+0x8320d478 game_mode
+0x48674490 part_list_props
+0xdf485490 toggle_highway_menuitem
+0x903c2496 debug_only
+0xc7f88497 debug_toggle_changelist
+0x76aa949a select_playermode
+0x71de349f select_slomo_menuitem
+0x00dd64a4 character_viewer_scrolling_menu
+0x316524a8 get_musician_instrument_size
+0x23dea4af debug_camera_array_count
+0x39b5c4b0 getarraysize
+0x5d91f4b3 create_changeguitar_menu
+0x937c94b6 replay_vmenu
+0xbf7154bf edit_audiolagvalue_left
+0xda02a4c3 gem_containerp4
+0xdeef04cd StructureContains
+0xcb9fb4cf bass
+0x5b6634d4 hide
+0xbf0f14db center
+0x716ae4e1 tier1
+0x10f034e7 edit_inputlagvalue_left
+0xc10b44e8 current_level
+0xb4cb94f2 toggle_playermode_setprop
+0x6e6ee4f2 venue
+0x8da97503 primary_controller
+0x988a3508 ps2
+0x9d3fb516 focus
+0xa3b9c521 create_togglevisibility_menu
+0xaa2e652b create_skipbymeasure_menu
+0x317b852c toggle_hyperspeed_right
+0x6722b533 d
+0x1e3e253b pad_choose
+0xbec9353b show_cpu_time
+0x88606542 framerate_warning
+0x6c525544 map
+0xf00b154c skipbymarker_vmenu
+0xb66d154e measure_count
+0xc451f558 event
+0xc741e55a toggle_lagtestpart1_setprop
+0x1beb3564 create_guitarist
+0xb69d6568 easy
+0x0df9f56d toggle_showcameraname_menuitem
+0x2aed7570 training
+0x34a68574 dims
+0xd524d574 difficulty2
+0x7b8b4578 song_scrolling_menu
+0xfc48f57b toggled_fps_on
+0x1ae9557c selectcameracut_scrolling_group_menu
+0x81a3d586 input_lag_ms
+0x1cc1f589 ToggleFPS
+0x9ecf7589 destroy_replay_menu
+0x4599b58c reset_score
+0xd6166590 edit_audiolagvalue_setprop
+0x67e6859a player
+0x4e35c59d LevelZones
+0xf259859d array_count
+0xe424c59e p1_boss
+0xef8d059e ps3
+0xc77a75a9 select_venue
+0xa55ec5b0 edit_gemlagvalue_setprop
+0xac3985b5 level_checksum
+0x324995c3 togglestar
+0xf7de45c4 create_cameracuts
+0x82cdf5ca check_time_early
+0x3b70c5cb sfx
+0x767a45d7 black
+0x664105e4 hide_band_members
+0x798985e6 debug_with_rhythm
+0x4109e5eb toggle_guitar_touch_test
+0x8f61d602 arrayname
+0xd2dce603 GetMarkerArraySize
+0x2de8c60e printf
+0x0abec610 debug_difficulty_analyzer
+0x785aa611 LS_3_5_PRE
+0xd029f619 seconds
+0x9785861a show_play_log
+0xc3409622 instrument
+0x8d2b0627 back_to_skipbymarker_menu
+0x8a4c762d song_checksum
+0x4d0b062f fps_text
+0x05465631 debug_dumpheaps
+0x135df632 folder
+0xf649d637 on
+0x89bef647 viewer_buttons_enabled
+0x86d1e649 basename
+0x1d8a865b create_movie_viewport
+0x48f6c668 togglebot
+0xddddd66a lagtestpart2
+0x0c939671 menu_focus
+0x2b848677 skipbytime_scrolling_menu
+0x942de677 ui_menu_scroll_sfx
+0x59009685 toggle_lsinfo_menuitem
+0x95741693 pad_option2
+0x2f1fc695 alpha
+0xa2907698 SetScreenElementLock
+0xc3f4169a filename
+0x94db569c roland_drumkit
+0x8dd1b69d diff_size
+0x27f3a6a7 menu_itemname
+0x3285e6af ps3_props
+0xbedc26b5 part_text
+0x0287b6b8 get_musician_instrument_struct
+0x8e8106d0 HideByType_List
+0x558a86da shut_down_flow_manager
+0x5a7846e9 textures
+0x332816ed menu_id
+0x0183a6ef destroy_cameracuts
+0x339fe6f9 HideObjectByType
+0xaadae6fc lagtestpart3
+0xcf321700 destroy_difficulty_analyzer
+0xd24f570c song_name
+0x0ecc271a destroy_skipintosong_menu
+0xa1cd771c toggle_hyperspeed_left
+0xbbeb271e lefthanded_gems
+0x5b850723 edit_gemlagvalue_menuitem
+0x35844724 global_toggle
+0x2f6bf72d font
+0x33da472d show_band_members
+0xfffb1731 playday_unlockall
+0x3d79a737 toggle_vocalsfreeform_menuitem
+0x2f7b7737 load_z_testlevel_peds
+0x97d51738 destroy_changevocalist_menu
+0x6bf2973c ui_sfx_select
+0x404b1741 venue_checksum
+0x2cb33744 LaunchEvent
+0xc6abb744 toggle_highway
+0x6f22e745 skipintosong_vmenu
+0x57d6374f player2_status
+0x9207975d toggle_playermode_right
+0xe787d761 menu_pos
+0x16f42765 is_video_capture_session
+0xc6e5f76b debug_camera_name_text
+0x30d90779 debug_checkcasassets
+0x3ac1877c guitarist
+0xce5c977e toggle_forcescore
+0xc718d780 fretbar_array
+0x6a65c781 get_LevelZoneArray_checksum
+0x388d6786 CrowdIncrease
+0xa0b11786 DestroyPakManMap
+0x88b07787 info_struct
+0x4eef678b increase_band_money_by_100000
+0x2113f78f Camera_Array
+0x811f0792 band_unload_anim_paks
+0xd4c98794 title
+0xec6f0799 type_checksum
+0xfa97b79d LegacyDoMorph
+0x496fc7a1 for_autolaunch
+0x906b67ba time
+0xb90f37bf create_difficulty_analyzer_difficulty_menu
+0x694f67c7 framerate_value
+0x1c57f7c8 toggle_leftyflip_menuitem
+0x44d487d0 lagtestpart1
+0x171e27d5 SetPakManCurrentBlock
+0x9b6227e6 RefreshFPSDisplay
+0x561387f6 disable_bg_viewport_properties
+0x9e23a7f7 crowd_reset
+0x84f397fa toggle_rolandkit_menuitem
+0x1613b7ff create_skipbytime_menu
+0x130ef802 vmenu
+0xaad7c80f fps
+0xc0196810 toggletext
+0x90fec815 structure
+0x30a4f836 pad_up
+0x4a92a836 toggle_lagtestpart2
+0xa265c837 back_to_looppoint_menu
+0xc4745838 text
+0x03a17838 current_song
+0xdfa0683d instrument_size
+0x9a7c783e Z_TestLevel_Peds_Row3
+0x5b9da842 ContainerElement
+0x03f44846 create_changebassist_menu
+0x06b2e84a wildcard
+0x935ab858 debug
+0x6d74f860 get_difficulty_text
+0xfae6b865 toggletext_on
+0xf00fa866 toggle_LagTestPart2_menuitem
+0x65fd5868 toggle_star_setprop
+0xd815f86f g_rockout_show_in_debug_menu
+0x0172e876 touch_sensor_spawned
+0x7c02287a changevenue_vmenu
+0x05ddd87c pad_right
+0xdd5a3884 ToggleViewMode
+0x6a68a885 toggle_showcameraname_setprop
+0xdd7e088b select_start_song
+0xb00e188e get_progression_globals
+0x85981897 left
+0xb99c689a SongList
+0xf94bf89c selectcameracut_scrolling_menu
+0x3d9598a0 toggle_lagtestpart3
+0xeb4ec8a3 LightShow_ToggleDebugInfo
+0xd64ca8a3 toggle_highway_setprop
+0xa176f8a4 LS_ENCORE_POST
+0x134478a5 unlock_all_profiles
+0x08ea58a5 transition
+0x36ab88a5 guitar_motion_test
+0xed7b48a8 Z_TestLevel_Peds_Row2
+0x7f3698a9 show_hud
+0x40c698af id
+0xac78a8b5 events
+0x1c95e8c4 Hyperspeed_Fastest
+0x78d108c4 toggle_bandvisible_menuitem
+0x81a698c5 progression_play_completion_movie
+0x404128cc destroy_difficulty_analyzer_menu
+0x63f708d0 Cheat_Line6Unlock
+0x9c3cd8d3 switch_to_debug_menu
+0xac22c8d4 edit_gemlagvalue_right
+0x7321a8d6 type
+0x6fee68db toggle_vocalsfreeform
+0xca4df8e2 intro_name
+0x6a3568fb song_prefix
+0xf8b928fd p2_career
+0x7f8c98fe index
+0x97642907 part2
+0x2d7f7909 force_coop
+0x6b0ec90a CreatePakManMap
+0x74721912 Z_TestLevel_Peds_Row1
+0xb22a5918 debug_menu_mode
+0x2f8bb91f toggle_viewvolumesonscreen_menuitem
+0x6b66b921 unlock_order
+0x7bcf0924 row
+0x3dbd792c destroy_part_menu
+0x05a35934 back_to_cameracut_menu
+0x12c4c937 Debug_Audible_Open
+0x5b2e7939 get_song_saved_in_globaltags
+0x1af1d946 measures_per_menuitem
+0xfa032952 toggle_tilt_menuitem
+0x7f261953 pos
+0x9580f956 togglevisibility_scrolling_menu
+0xe586795e uistate_play_song
+0xdd7bb962 debug_playcredits
+0xb30d9965 controller
+0x480b0969 toggle_model_viewer
+0xc19f796a part_list
+0x825d296c startmarker
+0x6c4e7971 prefix
+0x4b1e1975 destroy_skipbymeasure_menu
+0x4679797a toggle_guitar_touch_test_setprop
+0x3c521982 kill_gem_scroller
+0x03752984 Z_TestLevel_Peds_Row0
+0xf567f987 back_to_part_menu
+0x37a6d98b switch_to_retail_menu
+0xd39bf98c toggle_lagtestpart1
+0x1993c98e i
+0x262fe991 create_difficulty_menu
+0x776dd995 difficulties
+0xf8d6a996 kill
+0x2820e997 file_name
+0xfeccd99f toggle_lagtestpart2_setprop
+0x57d7d9a1 toggle_intro_select_left
+0x8bcd99a8 GHZones
+0x875989ac debug_showmeasures
+0xca6d29ae toggle_hidebytype
+0xfcee49af togglehyperspeed
+0x9e2949b1 debug_song_volume_info
+0x73b8d9b3 vocals_distribute_mics
+0xc81599b5 Celeb_Intro_Transitions
+0x3c15e9b6 DestroyScreenElement
+0xf6a179c0 xenon
+0x1b0509c5 savegame
+0xbd42b9cb toggle_rolandkit
+0x34d3e9ce white2
+0x39b669da FinalBuildMemReport
+0x01d8d9de slomo_text
+0xaf2c09e2 unpausegh3
+0x5c3979e3 pad_square
+0xc130f9e5 ScriptIsRunning
+0x1cb4c9e8 destroy_menu_backdrop
+0xc43899ea capture_frame_count
+0xd959e9f3 CameraCuts_UpdateDebugCameraName
+0xd97809f9 create_part_menu
+0x189e19ff toggle_bandvisible
+0x93907a00 bankrupt_band
+0x1695ba05 toggle_showsongtime
+0xc9428a08 device_num
+0xfb36ba09 get_LevelZoneArray_size
+0xc37dea0a settings_scrolling_menu
+0xf2e3ca11 toggle_tilt_setprop
+0xad45aa17 pausegh3
+0x13d0da1e DontAssertForChecksums
+0xdd69ba20 get_musician_profile_size
+0x0bc06a21 CastToInteger
+0x966c0a23 create_settings_menu
+0x54aeba27 back_to_character_viewer_menu
+0x03928a27 p1_quickplay
+0xfc1eca2f GlobalTags_UnlockAll
+0x84298a3c vscrollingmenu
+0x6d24aa3d changeguitar_scrolling_menu
+0xc7149a3e text_upper
+0x88778a41 hide_hud
+0x275cca46 selectcameracut_vmenu
+0x398cba48 medium
+0x04495a49 default_lag_settings
+0xccacaa60 measures_per_menuitem_count
+0x1b3daa61 back_to_skipintosong_menu
+0xf1567a6d toggle_allowcontroller
+0xf780aa70 video_capture_session_end
+0x17da9a70 skipbymeasure_scrolling_menu
+0x13b9da7b scale
+0x35c64a85 LS_3_5_POST
+0x2b489a86 Circle
+0xb1beba8f toggle_guitarmotion_menuitem
+0x76fa7a8f checksumname
+0x4e6cfa9c selectcameracut_group_vmenu
+0xc1300a9f xenon_props
+0xd0abfab0 toggle_forcescore_menuitem
+0x61cceab1 edit_inputlog_lines_left
+0x85689ab1 disable_highway_prepass
+0x74cf7acf profiles
+0xe5fa3adf intro
+0x4c846ae2 debug_vmenu
+0x56a1eae3 root_window
+0x19fa5af7 SpawnScriptNow
+0x67dfab04 safe_create_gh3_pause_menu
+0x5b30bb04 looppoint_scrolling_menu
+0xf60d9b07 marker_array
+0xc3cf6b08 toggle_inputlog_menuitem
+0x26c80b0d replay
+0xe1fbfb10 testlevel_debug
+0xdcd6cb13 pakname
+0x9a6c7b13 allow_controller_for_all_instruments
+0x54916b14 debug_playcredits_active
+0xaa616b1a poor
+0xe3a61b1b get_songlist_size
+0xbea1db21 toggle_showcameraname
+0x20d70b31 toggle_guitar_touch_test_menuitem
+0xd3a7ab35 progression_unlock_tier_last_song
+0xe7937b49 debug_quitcredits
+0xe4ee2b4d play_replay
+0x15726b56 difficulty_analyzer_show
+0xcbf30b59 timesig_entry
+0x98da8b5c destroy_skipbymarker_menu
+0x7ebacb5d edit_audiolagvalue_right
+0xa93f8b5e togglevisibility_vmenu
+0x6e965b60 bassist
+0x5fc51b6a toggle_vocalsfreeform_setprop
+0xbcaecb6f debug_camera_array_pakname
+0x8e10bb70 SetArrayElement
+0x77c71b72 user_options
+0x6949db75 pad_left
+0x55615b75 back_to_togglevisibility_menu
+0x84531b7d destroy_create_session_menu
+0x978f5b87 check_time_late
+0x63645b89 select_cameracut_video
+0x137f4b8b translate_gamemode
+0x4e130b8e UIstate_debug_color_calibration
+0x13ebeb90 instrument_text
+0x083fdb95 size
+0x2712fb96 IsAlive
+0xbe1a5b9b wait_for_diff_analyzer
+0x68c47ba2 menuitem_checksum
+0x1be75bb7 create_changevocalist_menu
+0x405ddbbe verify_cas_budgets
+0x3a833bc1 show_gpu_time
+0x16d91bc1 current_speedfactor
+0xf567bbc8 set_looppoint
+0x4b819bd5 destroy_autotest_menu
+0x71360bd9 toggle_intro_select_setprop
+0x86068bd9 callback
+0xb1a8cbe0 from_gameplay
+0xf852bbe1 part_menu
+0xbcd6abe2 toggle_showmeasures_setprop
+0x99dc5be4 edit_inputlog_lines_right
+0xc3fa2bf0 p2_pro_faceoff
+0x5fd27bf1 gh3
+0x5ab34bf6 toggle_viewvolumesonscreen
+0x1d83ec02 star_power_debug_mode
+0x02d3cc0b create_crowd_models
+0x96c29c16 start_song_with_intro
+0xe874dc16 debug_forcescore_dir
+0x82117c1a wait
+0x57cacc21 back_to_settings_menu
+0x9f23dc21 SE_SetProps
+0x0fd1ac26 pad_down
+0x9a70ec26 p2_quickplay
+0x9d11bc27 Z_TestLevel_Peds_Row7
+0x6c30ac28 destroy_cameracut_menu
+0x87f75c2d n
+0x940a6c30 ChangeNodeFlag
+0x31bd7c36 playing_song
+0x40e32c3c version
+0x1bff0c3d player_status
+0x58c29c3f block_scripts
+0x8353bc47 instrument_checksums
+0x55d58c52 debug_songstars_text
+0x6c4c9c6f create_cameracut_group_menu
+0xa93cdc7a back_to_debug_menu
+0xe955ec7e part_count
+0xf2c9ac8b pak
+0x5ca15c8f array_entry
+0x51addc95 instrument_progression_list
+0xa7562c97 instrument_index
+0x520c0c9c data
+0xabe58ca0 size_zones
+0x406a3ca6 difficulty_vmenu
+0x12710ca7 debug_camera_name_text2
+0xea504ca7 skipbytime_vmenu
+0x1d9adcad get_song_title
+0x2bfa0caf toggle_inputlog
+0x0830ecaf objid
+0xea168cb1 Z_TestLevel_Peds_Row6
+0xa572dcb2 p2_coop
+0x44a31cb5 SetGlobalTags
+0x90356cb9 SetScreenElementProps
+0xb0e46cbd expert
+0x79ea8cc3 toggle_hidebytype_setprop
+0x30e30cc9 ui_sfx_scroll_add
+0x1323ccca difficulty_text
+0x4adf0cd3 unfocus
+0x5cc16cdf drum
+0x424abce4 destroy_skipbytime_menu
+0x351bbcea toggle_forcescore_setprop
+0xd6521cee generic_event_back
+0xbdc53cf2 guitar
+0x094bccfa timesig
+0x69f93d01 l
+0x1290fd01 set_bandvisible
+0x5c6c2d04 state
+0x8ac9dd09 dont_save_song_data
+0x512a3d0a toggletext_off
+0x731fdd0b Z_TestLevel_Peds_Row5
+0x4d883d13 song_version
+0xb7205d14 band
+0xa63ecd17 create_skipbymarker_menu
+0x94f2ed1b ps2_props
+0xd9f5bd1b size_zones_vram
+0x5a11ed1c skipbymarker_scrolling_menu
+0x22489d1e Hyperspeed_Slowest
+0x6b47cd20 save_replay
+0xa8099d20 skipbymeasure_vmenu
+0x970e7d22 destroy_changehighway_menu
+0x7ee0fd2a pad_back
+0xcbf63d2b destroy_looppoint_menu
+0x66a54d2d generic_event_choose
+0x20d0ad37 bot_play
+0x8bb08d3c ui_menu_select_sfx
+0x2bc28d41 kill_debug_elements
+0x89477d44 unlock_order_list
+0xdeaa6d47 song_vmenu
+0x28369d47 toggle_bandvisible_setprop
+0x9146ed4b select_slomo_setprop
+0xbf3f4d4b rock_meter_debug
+0x7f5b3d4d array_size
+0xe3cd7d55 fretbar_count
+0x05c65d5a camera_count
+0x1db3fd5f DownloadContentLost
+0xa2660d69 current_num_players
+0x4825ed79 create_menu_backdrop
+0x4f185d7d audio_lag_ms
+0xbaebdd7f quit_network_game
+0xfc41bd82 select_cameracut
+0x214bdd84 changeguitar_vmenu
+0x2ae27d8e get_songlist_checksum
+0x1efe0d97 m
+0x0418ed9d Z_TestLevel_Peds_Row4
+0x4339cda9 Capture_File_Name
+0x2b37fdb5 Camera_Name
+0x3f6bcdba rgba
+0x2a0bcdbf destroy_debug_backdrop
+0x982f5dc7 generic_menu_pad_back
+0x90abcdc7 Bonus_Songs
+0x7a7d1dca rhythm
+0xe8e6adcb vocals
+0x8a897dd2 shadow
+0x9ee93dd5 GetPakManCurrentName
+0x1e755dd6 CameraCutPrefixArray
+0xe9b7cddc toggle_lagtestpart3_setprop
+0x4e3d4de7 EndWildcardSearch
+0x7068adea setslomo
+0x8539cdf4 bandvisible
+0xd8eeddfa update_slomo
+0xeddf5dfd Camera_Group
+0xad311e02 looppoint
+0xab53de05 timesig_num
+0xf1c9be09 create_cameracut_menuitem
+0xfe09fe09 norestart
+0x2f4fae19 create_online_menu
+0x67cb2e19 end_touch_sensor_test
+0xc4e78e22 all
+0x119eae23 select_slomo
+0x4680be2e wait_for_diff_analyzer_spawned
+0xfd2c9e38 structurename
+0x10517e4b debug_scrolling_menu
+0xabd7be4b settings_vmenu
+0x8c6e3e4d toggle_visibility_menuitem
+0x8abd1e4e start_flow_manager
+0xd41f7e5b create_ui_physics_test
+0x45134e64 songs
+0xdb9b6e6d debug_measures_text
+0x71560e71 toggle_hyperspeed_setprop
+0x0c6f5e82 toggle_allowcontroller_menuitem
+0x05ec9e85 destroy_changedrummer_menu
+0xbe304e86 printstruct
+0x1d4fbe95 UIstate_rockout
+0x7a354e97 zones
+0x0dabae9b new_cash
+0x71d2fea1 diff_index
+0x894adeb0 SetList_Songs
+0xc2fd2eb2 destroy_settings_menu
+0x663a3ec2 show_guitar_tilt
+0x5fd80edc current_time
+0xeb6c9ede create_cameracut_menu
+0x2e7d5ee7 links
+0xa8e2fef3 get_part_text_nl
+0xe3d25ef8 vocal_enable_freeform_always
+0x7d30df01 marker
+0x70291f04 create
+0xfc37df05 gameframe
+0x534aff08 toggle_showsongstars_menuitem
+0xa5ba6f13 toggle_showsongstars
+0xb321df1c toggle_rolandkit_setprop
+0x76362f1e p1_career
+0x99f11f2f fps_display_hold_red
+0x806fff30 none
+0x57710f31 z_priority
+0x92344f33 get_part_text
+0xc6ad2f34 platform
+0xb60d1f35 unhide
+0x29427f39 difficulty_count
+0xb6f08f39 part
+0x10e88f3f create_changeguitarist_menu
+0x1f10bf44 create_autotest_menu
+0xad57ff49 create_debug_backdrop
+0x60986f4b edit_audiolagvalue_menuitem
+0xe0917f4d debug_menu_choose_guitarist
+0x6062ef58 Camera_Array_pakname
+0x81563f5a vram_size
+0x2b277f68 end_credits
+0xfb433f75 restore_dummy_bg_camera
+0xb88a3f78 slomo
+0x2eebef7e Debug_Audible_HitNote
+0x76843f83 back_to_changeguitar_menu
+0xa10d4f87 gh_songlist
+0x835d0f90 GlobalExists
+0xdef9bf95 toggle_showmeasures_menuitem
+0x11fe9f98 fps_anchor
+0x32ba3fa2 lefty_flip_p1
+0xc7b61faa setup_bg_viewport
+0x7617afae current_looppoint
+0xc2719fb0 parent
+0x34d2afb5 toggle_global
+0x5200dfb6 TextElement
+0x2d474fb6 profile_struct
+0xe3006fc4 down
+0xeb117fd0 MemPushContext
+0x4caa0fdd create_looppoint_menu
+0xd301ffdd SoundEvent
+0x807dafe1 part_vmenu
+0x2b669fe7 GetPlatform
+0x123a6fed debug_songtime_text
+0x11be8ff0 menutext
+0x5d458ff3 changehighway_scrolling_menu
+0x993f3ff4 debug_showcameraname
+
+ [LineNumbers]
+
+[Checksums]
+0x84185fe5 scripts\guitar\guitar_demo.qb
+0x54e72043 themetal
+0x614910ae paintitblack
+0xddebc0ce mynameisjonas
+0xcd3000e1 GH3_Demo_Songs_Multiplayer
+0x71b14112 sabotage
+0x783951d0 defaultunlocked
+0x89dee270 load_z_budokan
+0xfc3db2e8 slowride
+0x651533ec level
+0x68525477 GH3_Demo_Songs_Career
+0x716ae4e1 tier1
+0xae3b752b num_tiers
+0xf372f551 bossslash
+0x3ada655d welcometothejungle
+0x80d135f1 evenflow
+0x24541776 laydown
+0xd4c98794 title
+0x8cf2b87a cherubrock
+0x6c4e7971 prefix
+0xc10199c5 boss
+0x837b1a08 load_z_dive
+0x1a3efa44 GH3_Demo_Songs_Coop
+0x335a5a9f knightsofcydonia
+0x23fc5b5f cultofpersonality
+0xcd2febba unlocked_levels
+0xaee0dc58 barracuda
+0xbd963c89 encorep1
+0xda21ecba rocknrollallnite
+0xbe95ad86 load_z_wikker
+0x45134e64 songs
+0x80540f4b schoolsout
+0xc2807fea GH3_Demo_Songs_Quickplay
+
+[LineNumbers]
+get_difficulty_text 2 (28,54) (57,56) 
+get_difficulty_text_nl 8 (0,60) (40,62) (63,63) (65,64) (104,66) (133,67) (135,68) (164,70) 
+get_difficulty_text_upper 2 (28,74) (57,76) 
+difficulty_setup 20 (0,80) (12,81) (24,82) (30,85) (48,86) (63,87) (78,88) (80,89) (103,92) (126,93) (145,95) (159,96) (161,97) (179,99) (201,100) (223,101) (225,102) (246,104) (285,105) (324,106) 
+get_current_difficulty 4 (0,115) (64,116) (81,118) (95,120) 
+get_band_difficulty 13 (0,130) (6,131) (19,134) (32,135) (34,136) (59,137) (88,138) (107,139) (121,140) (123,141) (145,142) (153,143) (177,144) 
+
+[Checksums]
+0xb16940c1 scripts\guitar\guitar_difficulty.qb
+0x44949010 difficulty
+0x3eeae02d hard
+0x0473903d GameMode_GetNumPlayers
+0x7875f170 hyperspeed
+0xcf66717b GotParam
+0xbfa801df change
+0x884cc295 get_num_non_vocals_players_onscreen
+0x6c609315 difficulty_list
+0x5531739d p2_scroll_time_factor
+0xd7e8d442 text_nl
+0x1032b444 easy_rhythm
+0x4c29c545 RequireParams
+0xb69d6568 easy
+0x67e6859a player
+0xafc975d1 hyperspeed_scale
+0x01e5b60a get_current_difficulty
+0x1cb2a6b0 num_players
+0x1b40170a get_difficulty_text_nl
+0x47ba1751 AddParams
+0xc4745838 text
+0x6d74f860 get_difficulty_text
+0x818af862 difficulty_text_nl
+0xc2ea7886 game_speed
+0x1c95e8c4 Hyperspeed_Fastest
+0x7f8c98fe index
+0x9b2f5962 current_difficulty
+0xef06b974 text_nl_real
+0x1993c98e i
+0x6541d9b8 no_rhythm
+0xbfa0c9d7 band_difficulty
+0x8147e9dd get_difficulty_text_upper
+0xd9456a25 scroll_time
+0xc7149a3e text_upper
+0x398cba48 medium
+0x61b06be8 lowest_difficulty
+0xdfd2ec38 difficulty_list_props
+0x1bff0c3d player_status
+0x2ce85c5a difficulty_index
+0xb0e46cbd expert
+0x1323ccca difficulty_text
+0xac784ceb battle_do_or_die_speed_scale
+0xb7e14d62 num_non_vocals_players
+0x3bf07d6a game_speed_factor
+0x89866d6b difficulty_setup
+0xc1f7fd7d get_band_difficulty
+0xc4e78e22 all
+0xfd2c9e38 structurename
+0x65485eea GetPlayerInfo
+0x112b8f9d p2_game_speed_factor
+0x76c2cfd0 scroll_time_factor
+
+         [LineNumbers]
+scan_globaltag_downloads 22 (0,77) (36,78) (72,79) (86,81) (92,83) (110,84) (122,85) (124,86) (186,88) (248,89) (310,90) (372,91) (434,92) (482,94) (528,95) (574,96) (622,97) (668,98) (690,100) (700,101) (702,102) (708,104) 
+Downloads_EnumContent 54 (14,115) (32,117) (38,120) (44,123) (75,124) (77,125) (86,126) (88,127) (92,128) (128,129) (180,130) (182,131) (184,132) (186,133) (192,134) (201,136) (207,137) (476,153) (512,155) (514,156) (532,157) (534,158) (536,159) (588,160) (590,161) (592,162) (610,164) (612,165) (614,166) (620,169) (629,170) (664,171) (671,172) (677,173) (712,175) (756,176) (762,177) (768,178) (774,179) (808,180) (810,181) (812,182) (818,183) (836,185) (843,187) (849,188) (853,189) (888,190) (890,191) (924,192) (960,194) (966,195) (968,196) (974,198) 
+destroy_downloads_EnumContent 4 (0,201) (36,202) (72,203) (108,204) 
+Downloads_LoadLanguageContent 30 (0,207) (46,209) (55,210) (101,211) (112,212) (160,213) (171,214) (219,215) (230,216) (278,217) (289,218) (337,219) (339,220) (351,222) (369,223) (392,224) (398,226) (432,227) (476,228) (482,229) (488,230) (494,231) (496,232) (498,233) (504,234) (522,236) (528,237) (532,238) (555,239) (557,240) 
+Downloads_PostEnumContent 2 (0,244) (6,245) 
+Downloads_Enumcontentfiles_Continue 2 (0,249) (36,250) 
+Downloads_UnloadContent 15 (0,253) (36,254) (72,256) (108,257) (144,259) (150,260) (152,261) (176,263) (190,264) (232,265) (234,266) (258,268) (272,269) (316,270) (318,271) 
+Downloads_OpenContentFolder 35 (0,280) (36,281) (42,282) (44,283) (62,284) (64,285) (66,286) (85,287) (111,289) (117,290) (148,291) (150,292) (200,293) (202,294) (236,296) (258,298) (264,299) (296,300) (298,301) (300,303) (306,304) (324,306) (360,307) (366,308) (396,309) (398,310) (416,312) (418,313) (420,314) (472,316) (474,317) (500,319) (518,320) (524,322) (556,323) 
+Downloads_CloseContentFolder 37 (28,327) (34,328) (52,330) (70,331) (76,332) (78,333) (80,334) (82,335) (100,337) (136,338) (140,339) (166,340) (184,341) (190,342) (220,343) (222,344) (224,345) (242,347) (257,348) (261,349) (296,350) (298,351) (320,353) (356,354) (362,355) (392,356) (394,357) (396,359) (402,360) (420,362) (422,363) (424,364) (476,366) (478,367) (512,369) (518,371) (548,372) 
+find_instrument_index 2 (0,375) (48,376) 
+store_select_downloads 4 (0,379) (36,380) (42,381) (48,385) 
+fmod_diskejected_event 3 (0,389) (36,390) (42,391) 
+DownloadContentLost 7 (0,394) (36,395) (72,396) (108,397) (160,398) (196,399) (232,400) 
+DownloadContentLost_Spawned 21 (0,403) (19,404) (21,405) (23,406) (41,407) (43,409) (45,410) (80,411) (116,412) (122,413) (156,415) (232,416) (238,417) (288,418) (380,419) (416,420) (468,422) (474,423) (480,424) (516,425) (552,426) 
+create_downloadcontentlost_menu 3 (0,429) (6,430) (296,448) 
+downloadcontentlost_reboot 6 (0,452) (36,453) (42,454) (92,455) (184,456) (220,457) 
+destroy_downloadcontentlost_menu 2 (0,460) (6,461) 
+recreate_downloadcontentlost_menu 3 (0,464) (6,465) (12,466) 
+net_match_send_available_items 11 (0,489) (36,490) (42,491) (76,492) (85,494) (91,495) (95,496) (101,497) (103,498) (136,500) (172,501) 
+net_match_send_available_items_host 7 (0,504) (36,509) (112,512) (118,514) (136,517) (142,520) (176,523) 
+net_match_send_available_items_client 2 (0,526) (6,533) 
+net_match_clear_available_items 15 (0,536) (22,538) (24,539) (26,540) (32,543) (44,544) (46,545) (64,546) (90,547) (121,548) (123,549) (144,550) (152,551) (175,552) (204,554) 
+net_match_set_available_items 12 (0,558) (6,561) (18,562) (20,563) (38,564) (64,565) (95,566) (97,567) (118,568) (126,569) (149,570) (180,572) 
+net_match_calc_available_items 23 (0,576) (36,577) (42,579) (48,582) (60,583) (62,584) (80,585) (106,587) (127,588) (139,589) (158,591) (189,592) (193,593) (224,594) (226,595) (230,596) (261,597) (263,598) (265,599) (286,601) (294,602) (328,604) (360,605) 
+clear_wait_for_net_match_available_items 2 (0,608) (36,609) 
+wait_for_net_match_available_items 8 (28,612) (30,613) (49,614) (51,615) (53,616) (104,617) (106,618) (112,619) 
+net_match_verify_host 13 (0,622) (9,623) (21,624) (25,625) (37,626) (39,627) (59,629) (92,630) (99,631) (128,632) (132,633) (164,634) (166,635) 
+net_match_download_items_send 32 (0,638) (36,639) (58,642) (60,643) (62,644) (72,646) (108,647) (110,648) (136,650) (142,651) (154,652) (156,653) (174,654) (200,656) (209,657) (221,658) (239,659) (257,660) (259,661) (263,662) (284,663) (302,664) (304,665) (306,666) (308,667) (329,669) (337,670) (343,671) (392,673) (418,675) (452,676) (488,678) 
+net_match_init_items 4 (0,681) (36,682) (72,683) (90,684) 
+net_match_add_item 10 (0,687) (48,688) (74,689) (92,691) (118,692) (124,693) (160,694) (164,695) (178,696) (180,697) 
+net_match_send_items 8 (52,700) (90,702) (105,703) (120,704) (133,705) (148,706) (155,707) (162,708) 
+net_match_download_items_send_callback 21 (0,711) (36,712) (43,713) (65,716) (67,717) (69,718) (87,720) (99,721) (101,722) (137,723) (149,724) (171,725) (192,726) (234,728) (236,729) (257,731) (265,732) (267,733) (285,735) (313,736) (315,737) 
+
+[Checksums]
+0xb20e6149 scripts\guitar\guitar_download.qb
+0xb990d003 target
+0x162c4004 available_on_other_client
+0xc6a01017 shutdown_game_for_signin_change
+0x226f401b noassert
+0xcd0dc02d killspawnedscript
+0x3176f093 UnloadPak
+0xb9a6e0c3 GH4_Download_Songs_Drums
+0xbc5bf0ce pak_name
+0xaf3050df fmod_diskejected_event
+0xe4f130f4 s
+0x301dd0f9 GetGlobalTags
+0x7031f10c params
+0x2aac6120 heap_downloads
+0x0281513f globalarray
+0xf24ff15b Downloads_Enumcontentfiles_Continue
+0x508a31a1 French
+0x6017f1cc ui_event
+0x783951d0 defaultunlocked
+0x58ac81d7 create_downloadcontentlost_menu
+0xbfa801df change
+0xa1dc81f9 name
+0xdb69820c data_to_send
+0x576a1215 GH4_Download_Songs_Bass
+0xa52bc223 is_host
+0x2d2dd267 net_match_add_item
+0x2c89d26e downloadcontentlost_reboot
+0xd443a2bc off
+0x24df42bc dofiles
+0x1353f2bd uistate_signin_changed
+0x279d32c5 net_match_init_items
+0xa8f782d9 num_globaltag_sets
+0x4b40630d newvalue
+0x6470e320 title_props
+0x132aa339 final
+0x0203b372 true
+0x0dccc372 no_bink
+0x36472376 net_match_dlc_sync_finished
+0xc5207390 net_match_send_available_items_client
+0x5bbf13b3 boot_download_scan
+0xb99ae3d6 gameframes
+0x651533ec level
+0xff0db407 textname
+0x8286e409 Downloads_PostEnumContent
+0x9277f428 FormatText
+0xbd09544c func
+0x46f0745a net_match_available_items_request_finished
+0x24de1487 wait_for_blade_complete
+0xdc3b14a0 GH4_download_songlist
+0xb74ce4a3 respond_to_signin_changed
+0xffb5e4c4 net_match_calc_available_items
+0x445114c8 NetSessionFunc
+0xcb9fb4cf bass
+0x12e0a4d6 disable_pause
+0x9583b4d7 DownloadContentLost_Spawned
+0x716ae4e1 tier1
+0xcfc0a4ee EnumContentFilesFinished
+0x6fa2e4f3 num_net_checksum_packet
+0x8da97503 primary_controller
+0xae3b752b num_tiers
+0xd9e4052c StartRendering
+0x35a5c54d EnumContentFiles
+0xd33b354f net_match_set_available_items
+0xc451f558 event
+0x2fca0578 options
+0x7120e598 EnableDuplicateSymbolWarning
+0xd35d55cb net_match_send_available_items
+0x47ee35d2 scan_globaltag_downloads
+0x724ab5de message_struct
+0x5b5d55e1 GetContentFolderState
+0x8f61d602 Arrayname
+0x2de8c60e printf
+0xd029f619 seconds
+0x46f9a629 printscriptinfo
+0x8a4c762d song_checksum
+0xa8469630 Italian
+0x31d75630 IsHost
+0x6d5ed65c spawn_script_now
+0xc3f4169a filename
+0x489ec6a3 net_match_clear_available_items
+0x593c36b8 destroy_downloads_EnumContent
+0x598d56f2 CloseContentFolder
+0x26bf66f3 textblock
+0x1978b70d RemoveContentFiles
+0xc0cab738 LockGlobalTags
+0x2cb33744 LaunchEvent
+0xbac63759 UIstate_boot_iis
+0xe787d761 menu_pos
+0xaf52876b ShowMarketPlaceUI
+0xe89c0776 playerid
+0xd4c98794 title
+0xae7ee7a3 create_popup_warning_menu
+0x0a01a7a8 destroy_downloadcontentlost_menu
+0xffe6b7bd setup_setlisttags
+0xd43297cf false
+0xe05e77fd Downloads_Startup
+0x83fd0806 load_z_frathouse
+0xc4745838 text
+0x1473a845 unpausespawnedscript
+0x14e2885f SendStructure
+0x1ae24866 additional_info
+0xb99c689a songlist
+0xadec189f global_content_index_pak
+0x52a9d8a4 opened
+0x1f6b98c2 LoadPakAsync
+0xd318c8cf Downloads_CloseContentFolder
+0x7321a8d6 type
+0xd07638e0 Downloads_Shutdown
+0xa4cf88ed is_song_downloaded
+0xf85f28ee net_match_send_items
+0x7f8c98fe index
+0xdebdf900 total_num_net_checksum_packet
+0x6cef5907 menu_change
+0xf3896918 destroy_loading_screen
+0x2519a934 net_match_download_items_send_callback
+0x2e86d939 ui_event_block
+0x7f261953 pos
+0xc7e24959 global_content_index_pak_language
+0xb30d9965 controller
+0x6c4e7971 prefix
+0xf6d04971 device
+0x1993c98e i
+0xe7045990 downloadcontentfolder_lock
+0x91a5e994 practice_songpreview_changing
+0xb3768997 SetSearchAllContentFolders
+0x32e1b99a Downloads_LoadLanguageContent
+0xf847999e net_match_send_available_items_host
+0x7d5d29a9 SetButtonEventMappings
+0x9d6ad9c0 clear_cache
+0x1b0509c5 savegame
+0x5a4b6a0c Downloads_EnumContent
+0x046e1a31 net_match_download_items_send
+0x41f87a36 uistate_null
+0xe6470a41 Downloads_UnloadContent
+0x66a6aa46 Downloads_Enumcontentfiles_Continue_Flag
+0xab9e5a4c ScriptExists
+0xe1493a65 setupsongtags
+0xac841a76 GH4_Download_Songs_Vocals
+0x13b9da7b scale
+0x5897ea8e wait_for_net_match_available_items
+0xcbe70acb Spanish
+0xe0e4dae1 item
+0x56a1eae3 root_window
+0x19fa5af7 SpawnscriptNow
+0x4f653b0b unblock_menu_input
+0xdcd6cb13 pakname
+0xe3a61b1b get_songlist_size
+0xf9a78b4f GH4_Download_Songs_Guitar
+0x8e10bb70 SetArrayElement
+0x347b7b76 num_valid
+0xc3be5b8b packet
+0xf0cb0b97 mark_safe_for_shutdown
+0xe997db9f is_changing_levels
+0x2bd5fbce GH4_Download_Songs_Band
+0x86068bd9 callback
+0x74d55bee create_loading_screen
+0x4f4e9bfd destroy_popup_warning_menu
+0x82117c1a wait
+0xf58c2c2b clear_previous_stack
+0x944fcc2c content_index
+0x4e997c71 clear_wait_for_net_match_available_items
+0x90e07c79 async
+0x61745c88 failed
+0x520c0c9c data
+0x2259bcac GetNumRemoteConnections
+0x44a31cb5 SetGlobalTags
+0xefa0bcc1 net_checksum_packet
+0x33ffbcc2 globaltag_checksum
+0x4adf0cd3 unfocus
+0x68977cd7 force
+0x5cc16cdf drum
+0x5e2d3ce0 GetLatestContentIndexFile
+0xbdc53cf2 guitar
+0x5c6c2d04 state
+0x80a30d05 num_finished
+0x45a6bd0d downloadcontentfolder_index
+0x4e256d11 setlist_choose_song
+0xb7205d14 band
+0xdf406d1a stem
+0x42d6dd1e heap
+0xc956dd38 net_match_verify_host
+0x8cf25d39 shutdown_game_for_signin_change_flag
+0x7f5b3d4d array_size
+0x1db3fd5f DownloadContentLost
+0x5a078d7c net_checksum_packet_for_host
+0xe2a43d80 contentfolderstate
+0x2ae27d8e get_songlist_checksum
+0x87e57d8f download
+0xe36d8d97 for_host
+0x323d6db1 get_num_globaltag_sets
+0xe8e6adcb vocals
+0xbcfcddd3 IsEnumContentFilesDamaged
+0x01917df2 noqbid
+0xd37cfdff English
+0x3aec4e02 num_connections
+0xb2d13e37 free
+0x1894de5b Downloads_OpenContentFolder
+0x45134e64 songs
+0x400c9e6e downloadcontentfolder_count
+0xbe304e86 printstruct
+0x5a7ece86 menu_back
+0x894adeb0 SetList_Songs
+0xb7822ed8 song_count
+0xa9485ee9 store_select_downloads
+0xd7428eef find_instrument_index
+0xfc37df05 gameframe
+0x89594f27 recreate_downloadcontentlost_menu
+0x806fff30 none
+0xb6f08f39 part
+0xe8c30f40 OpenContentFolder
+0x013acf56 content
+0x5dcbbf5e German
+0x152faf8e GetContentFolderIndexFromFile
+0x1c127f9b GlobalTagExists
+0x86253fdb mark_unsafe_for_shutdown
+0xd79f4ff2 net_items
+
+                  [LineNumbers]
+create_guitar_events 18 (0,43) (23,44) (56,45) (68,46) (70,47) (104,48) (133,49) (162,50) (191,51) (209,52) (269,53) (273,54) (302,55) (343,56) (345,57) (366,58) (374,59) (380,61) 
+event_spawner 2 (0,64) (48,65) 
+event_iterator 38 (0,68) (35,70) (53,72) (110,73) (122,75) (135,77) (153,79) (155,80) (157,81) (175,84) (177,85) (224,86) (226,87) (228,88) (250,89) (258,90) (280,91) (298,93) (300,94) (302,95) (304,97) (351,99) (353,100) (362,102) (380,103) (382,104) (384,105) (436,106) (438,108) (444,109) (474,112) (489,113) (586,114) (603,115) (678,116) (680,117) (702,120) (710,121) 
+GuitarEvent_ExplodeGem 58 (28,125) (98,129) (149,131) (195,133) (213,161) (235,162) (242,163) (255,164) (268,165) (280,166) (292,167) (305,168) (334,169) (363,170) (379,171) (395,172) (407,173) (419,174) (431,175) (443,176) (455,177) (467,178) (479,179) (491,180) (503,181) (519,182) (531,183) (533,184) (535,185) (586,187) (604,189) (626,190) (633,191) (646,192) (659,193) (671,194) (683,195) (696,196) (725,197) (754,198) (770,199) (786,200) (798,201) (810,202) (822,203) (834,204) (846,205) (858,206) (870,207) (882,208) (894,209) (910,210) (922,211) (924,212) (926,213) (976,215) (999,217) (1022,218) 
+GuitarEvent_MissedNote 37 (28,223) (46,225) (53,227) (55,228) (89,231) (107,232) (159,233) (161,234) (165,235) (193,236) (211,238) (230,239) (248,240) (300,242) (304,243) (323,244) (352,245) (358,246) (396,247) (398,248) (400,249) (402,250) (404,251) (406,253) (424,258) (442,259) (472,260) (517,261) (544,262) (546,263) (548,264) (550,265) (552,266) (582,268) (600,270) (643,271) (645,272) 
+highway_pulse_black 10 (0,276) (22,277) (80,279) (124,280) (141,281) (166,283) (210,284) (214,285) (258,286) (260,287) 
+GuitarEvent_UnnecessaryNote 36 (0,293) (7,298) (42,300) (71,301) (77,302) (115,303) (117,304) (135,309) (153,310) (183,311) (228,312) (266,313) (268,314) (270,315) (272,316) (274,317) (292,319) (310,320) (341,321) (371,322) (393,323) (430,324) (452,325) (474,326) (496,327) (523,330) (536,331) (538,332) (557,342) (579,343) (625,344) (629,345) (675,346) (677,347) (679,348) (681,349) 
+GuitarEvent_HitNotes 24 (0,354) (18,356) (52,357) (54,358) (72,360) (108,361) (144,362) (173,363) (187,364) (217,365) (264,367) (300,368) (330,369) (352,370) (370,371) (416,372) (420,373) (466,374) (468,375) (470,376) (488,378) (494,379) (532,380) (534,381) 
+GuitarEvent_HitNote 2 (0,397) (20,398) 
+GuitarEvent_HitNote_Spawned 26 (0,401) (36,403) (66,405) (104,407) (134,409) (172,411) (190,413) (194,415) (225,416) (255,417) (257,418) (308,421) (344,423) (411,424) (413,425) (429,427) (469,430) (520,432) (543,434) (592,436) (613,438) (631,439) (633,440) (635,441) (641,443) (647,444) 
+GuitarEvent_DrumFillHit 4 (0,448) (36,449) (43,450) (45,451) 
+GuitarEvent_HitMine 2 (0,623) (20,624) 
+GuitarEvent_HitMine_Spawned 98 (0,627) (25,628) (60,629) (64,630) (100,631) (102,632) (133,634) (194,636) (220,637) (262,638) (280,639) (287,640) (300,641) (313,642) (325,643) (337,644) (350,645) (379,646) (408,647) (424,648) (440,649) (452,650) (464,651) (476,652) (488,653) (500,654) (512,655) (524,656) (536,657) (548,658) (564,659) (576,660) (578,661) (628,662) (671,663) (689,664) (696,665) (709,666) (722,667) (734,668) (746,669) (759,670) (788,671) (817,672) (833,673) (849,674) (861,675) (873,676) (885,677) (897,678) (909,679) (921,680) (933,681) (945,682) (957,683) (973,684) (985,685) (987,686) (1036,687) (1079,688) (1097,689) (1104,690) (1117,691) (1130,692) (1142,693) (1154,694) (1167,695) (1196,696) (1225,697) (1241,698) (1257,699) (1269,700) (1281,701) (1293,702) (1305,703) (1317,704) (1329,705) (1341,706) (1353,707) (1365,708) (1381,709) (1393,710) (1395,711) (1409,712) (1422,713) (1445,715) (1470,718) (1488,719) (1506,720) (1508,721) (1544,724) (1546,725) (1564,726) (1581,727) (1589,728) (1612,732) (1635,733) (1658,734) 
+KillMineFX 9 (0,738) (36,740) (72,741) (140,744) (166,745) (195,746) (260,748) (286,749) (315,750) 
+Drum_Accent_Hit_particle_FX 27 (0,753) (61,755) (110,756) (117,760) (130,761) (143,762) (155,763) (167,764) (180,765) (209,766) (238,767) (254,768) (270,769) (282,770) (294,771) (306,772) (318,773) (330,774) (342,775) (354,776) (366,777) (378,778) (394,779) (406,780) (408,781) (460,783) (484,785) 
+GuitarEvent_StarPowerOn 14 (0,822) (36,824) (54,827) (72,828) (74,829) (129,831) (161,832) (179,833) (197,836) (208,837) (244,838) (280,839) (282,840) (284,841) 
+GuitarEvent_StarPowerOff 24 (0,860) (36,862) (45,865) (80,866) (116,867) (120,868) (160,869) (162,870) (189,872) (220,873) (240,874) (312,875) (333,876) (362,877) (364,878) (437,879) (458,880) (487,881) (489,882) (547,883) (568,884) (600,885) (602,886) (636,887) 
+GuitarEvent_PreFretbar 76 (0,891) (36,893) (48,895) (65,897) (154,899) (172,900) (224,901) (260,902) (296,903) (298,904) (316,905) (351,906) (384,907) (420,908) (440,909) (476,910) (512,911) (532,912) (568,913) (604,914) (624,915) (660,916) (696,917) (716,918) (752,919) (788,920) (808,921) (844,922) (880,923) (882,924) (884,925) (904,926) (956,927) (974,928) (1008,929) (1044,930) (1064,931) (1100,932) (1136,933) (1156,934) (1192,935) (1228,936) (1248,937) (1284,938) (1320,939) (1340,940) (1376,941) (1412,942) (1432,943) (1468,944) (1504,945) (1506,946) (1510,947) (1528,948) (1546,949) (1580,950) (1616,951) (1636,952) (1672,953) (1708,954) (1728,955) (1764,956) (1800,957) (1820,958) (1856,959) (1892,960) (1912,961) (1948,962) (1984,963) (2004,964) (2040,965) (2076,966) (2078,967) (2080,968) (2082,969) (2116,971) 
+GH_Audible_Metronome 5 (0,976) (18,977) (73,990) (108,992) (110,993) 
+GuitarEvent_Fretbar 2 (0,1000) (6,1001) 
+GuitarEvent_Fretbar_Early 1 (0,1193) 
+GuitarEvent_Fretbar_Late 1 (0,1196) 
+check_first_note_formed 17 (0,1199) (6,1200) (28,1201) (64,1202) (66,1203) (126,1204) (145,1205) (174,1206) (180,1207) (218,1208) (220,1209) (272,1211) (278,1213) (306,1214) (308,1215) (310,1216) (312,1217) 
+GuitarEvent_FirstNote_Window_Open 9 (0,1220) (30,1221) (59,1222) (102,1223) (106,1224) (135,1225) (141,1226) (179,1227) (181,1228) 
+GuitarEvent_Note_Window_Open 7 (0,1231) (18,1241) (70,1254) (104,1255) (160,1256) (196,1258) (198,1259) 
+GuitarEvent_Note_Window_Close 4 (0,1263) (18,1265) (52,1267) (54,1268) 
+Destroy_AllWhammyFX 3 (0,1394) (36,1404) (72,1405) 
+GuitarEvent_WhammyOn 2 (0,1408) (7,1409) 
+GuitarEvent_WhammyOff 2 (0,1435) (7,1436) 
+GuitarEvent_SongFailed 23 (0,1459) (18,1461) (20,1462) (22,1463) (56,1465) (92,1467) (123,1469) (125,1470) (127,1471) (160,1474) (172,1476) (178,1477) (198,1478) (232,1480) (236,1481) (272,1483) (308,1484) (344,1485) (350,1486) (356,1487) (392,1490) (428,1491) (430,1492) 
+GuitarEvent_SongFailed_Spawned 144 (0,1497) (18,1499) (96,1500) (98,1501) (100,1502) (119,1504) (125,1505) (131,1506) (133,1507) (139,1509) (151,1511) (184,1512) (190,1514) (208,1515) (214,1516) (216,1517) (222,1519) (224,1520) (230,1522) (248,1523) (254,1525) (260,1526) (278,1529) (284,1531) (309,1533) (344,1535) (351,1538) (364,1539) (376,1540) (388,1541) (394,1542) (400,1543) (406,1544) (408,1545) (450,1547) (466,1549) (478,1550) (502,1552) (519,1553) (532,1554) (534,1555) (558,1557) (575,1558) (588,1559) (590,1560) (614,1562) (631,1563) (644,1564) (646,1565) (680,1568) (732,1569) (768,1599) (827,1603) (829,1605) (847,1607) (853,1608) (859,1609) (932,1610) (936,1611) (988,1613) (1040,1614) (1042,1615) (1044,1616) (1050,1618) (1062,1620) (1068,1621) (1074,1622) (1076,1623) (1112,1626) (1148,1627) (1184,1628) (1220,1629) (1256,1631) (1262,1632) (1296,1633) (1302,1634) (1308,1635) (1320,1639) (1372,1640) (1390,1641) (1403,1646) (1405,1648) (1423,1650) (1436,1651) (1438,1652) (1444,1654) (1462,1655) (1468,1656) (1520,1657) (1596,1658) (1672,1659) (1756,1660) (1832,1661) (1834,1662) (1852,1663) (1928,1664) (1940,1665) (1947,1666) (1954,1667) (1962,1668) (1974,1669) (1982,1670) (1994,1671) (2007,1672) (2019,1673) (2039,1674) (2041,1675) (2043,1676) (2045,1677) (2047,1678) (2051,1679) (2164,1680) (2166,1681) (2186,1682) (2224,1683) (2230,1684) (2306,1685) (2420,1686) (2424,1687) (2540,1688) (2542,1689) (2544,1690) (2548,1691) (2588,1692) (2594,1693) (2670,1694) (2784,1695) (2788,1696) (2904,1697) (2906,1698) (2908,1699) (2910,1700) (2928,1702) (2964,1703) (3000,1704) (3036,1705) (3072,1706) (3076,1707) (3078,1710) (3090,1712) (3096,1713) (3098,1714) (3132,1717) (3188,1718) 
+GuitarEvent_SongWon 94 (28,1723) (37,1724) (55,1726) (64,1727) (160,1728) (164,1729) (256,1730) (258,1731) (320,1737) (334,1738) (336,1739) (359,1741) (361,1742) (379,1744) (472,1745) (478,1747) (512,1749) (559,1750) (577,1751) (644,1752) (662,1753) (709,1754) (727,1755) (774,1756) (792,1757) (839,1758) (857,1759) (883,1760) (932,1761) (936,1762) (1000,1763) (1002,1764) (1020,1765) (1046,1766) (1096,1767) (1100,1768) (1172,1769) (1174,1770) (1192,1771) (1215,1773) (1217,1774) (1219,1775) (1237,1778) (1243,1779) (1261,1780) (1312,1781) (1332,1782) (1383,1783) (1385,1784) (1420,1785) (1422,1786) (1440,1788) (1459,1789) (1492,1791) (1528,1792) (1565,1795) (1602,1796) (1623,1801) (1644,1802) (1673,1803) (1702,1804) (1708,1807) (1744,1810) (1780,1811) (1782,1812) (1816,1815) (1843,1816) (1862,1817) (1896,1818) (1898,1819) (1925,1821) (1944,1822) (1980,1823) (1982,1824) (1986,1825) (1992,1827) (2028,1830) (2064,1831) (2100,1832) (2102,1833) (2104,1834) (2140,1837) (2176,1838) (2212,1839) (2218,1840) (2224,1841) (2260,1844) (2296,1847) (2332,1848) (2351,1850) (2384,1851) (2390,1852) (2424,1853) (2426,1854) 
+GuitarEvent_SongWon_Spawned 305 (0,1857) (18,1859) (52,1860) (54,1861) (56,1862) (87,1865) (120,1866) (122,1867) (141,1869) (143,1875) (163,1877) (196,1879) (202,1881) (215,1882) (233,1883) (242,1884) (255,1885) (257,1886) (277,1887) (286,1888) (299,1889) (301,1890) (303,1891) (362,1893) (374,1896) (380,1897) (398,1899) (400,1900) (402,1901) (420,1903) (426,1904) (428,1905) (440,1907) (447,1908) (459,1909) (480,1911) (501,1912) (522,1913) (524,1914) (526,1915) (528,1917) (546,1919) (564,1920) (640,1921) (642,1922) (644,1923) (664,1924) (666,1925) (668,1926) (674,1928) (680,1930) (686,1931) (704,1933) (826,1934) (860,1936) (862,1937) (864,1938) (932,1941) (968,1944) (974,1946) (1008,1948) (1020,1986) (1038,1987) (1072,1988) (1084,1989) (1100,1990) (1112,1991) (1116,1992) (1134,1993) (1155,1995) (1176,1996) (1195,1997) (1207,1998) (1211,2000) (1223,2001) (1225,2003) (1237,2005) (1256,2006) (1271,2007) (1275,2008) (1290,2009) (1292,2010) (1315,2011) (1338,2012) (1361,2013) (1378,2014) (1382,2015) (1416,2016) (1418,2017) (1434,2018) (1446,2019) (1479,2021) (1500,2022) (1521,2023) (1540,2024) (1552,2025) (1573,2027) (1585,2028) (1589,2030) (1602,2031) (1604,2033) (1622,2035) (1634,2036) (1650,2037) (1662,2038) (1678,2039) (1682,2040) (1694,2041) (1713,2042) (1728,2043) (1732,2044) (1747,2045) (1749,2046) (1772,2047) (1789,2048) (1793,2049) (1827,2050) (1829,2051) (1845,2053) (1857,2054) (1859,2055) (1863,2056) (1881,2057) (1902,2058) (1923,2059) (1942,2060) (1954,2061) (1970,2062) (1986,2063) (1998,2064) (2002,2065) (2014,2066) (2030,2067) (2046,2068) (2058,2069) (2060,2070) (2064,2071) (2076,2072) (2092,2073) (2108,2074) (2120,2075) (2122,2076) (2124,2077) (2126,2078) (2160,2081) (2196,2082) (2232,2083) (2250,2084) (2284,2085) (2300,2089) (2312,2091) (2328,2092) (2346,2094) (2356,2095) (2387,2096) (2393,2097) (2411,2098) (2432,2099) (2453,2100) (2472,2101) (2485,2102) (2557,2103) (2559,2104) (2563,2105) (2576,2106) (2648,2107) (2650,2108) (2652,2109) (2654,2110) (2656,2111) (2692,2113) (2710,2115) (2716,2116) (2734,2118) (2740,2119) (2746,2121) (2780,2122) (2786,2124) (2820,2126) (2826,2128) (2832,2133) (2908,2134) (3016,2135) (3020,2136) (3112,2137) (3114,2138) (3126,2139) (3146,2140) (3152,2141) (3158,2143) (3192,2144) (3198,2146) (3232,2148) (3238,2150) (3272,2152) (3292,2153) (3328,2154) (3364,2155) (3400,2156) (3452,2157) (3454,2158) (3458,2159) (3464,2160) (3495,2161) (3528,2162) (3532,2163) (3568,2164) (3570,2165) (3576,2166) (3612,2167) (3618,2168) (3620,2169) (3624,2170) (3630,2171) (3664,2172) (3700,2178) (3736,2179) (3772,2180) (3774,2181) (3848,2182) (3900,2183) (3936,2184) (3988,2185) (4024,2186) (4030,2187) (4032,2188) (4050,2191) (4084,2195) (4096,2196) (4113,2197) (4148,2198) (4150,2199) (4154,2200) (4228,2201) (4230,2202) (4264,2206) (4320,2207) (4354,2208) (4388,2212) (4444,2213) (4500,2214) (4536,2215) (4572,2216) (4586,2219) (4613,2220) (4704,2221) (4708,2223) (4744,2224) (4750,2225) (4768,2234) (4844,2235) (4846,2236) (4884,2238) (4902,2239) (4976,2240) (4980,2241) (4992,2242) (4998,2243) (5016,2245) (5031,2246) (5040,2247) (5052,2248) (5054,2249) (5074,2250) (5089,2251) (5098,2252) (5110,2253) (5112,2254) (5114,2255) (5132,2257) (5168,2259) (5204,2260) (5240,2261) (5292,2262) (5296,2264) (5327,2265) (5333,2266) (5409,2267) (5484,2268) (5488,2269) (5564,2270) (5566,2271) (5570,2272) (5576,2274) (5652,2275) (5744,2276) (5748,2277) (5840,2278) (5842,2279) (5844,2280) (5846,2281) (5848,2282) (5850,2283) (5852,2284) (5888,2288) (5924,2289) (5936,2291) (5952,2293) (5970,2294) (5976,2295) (5978,2296) (5982,2297) (5988,2298) (5990,2299) (5992,2300) 
+SongWon_WriteLeaderboardStats 58 (0,2303) (72,2305) (108,2306) (115,2307) (133,2308) (142,2309) (154,2310) (158,2311) (170,2312) (172,2313) (206,2316) (250,2317) (268,2318) (320,2319) (324,2320) (354,2321) (356,2322) (360,2323) (378,2324) (380,2325) (384,2326) (436,2327) (438,2328) (442,2329) (499,2330) (505,2333) (523,2334) (596,2335) (600,2336) (636,2337) (638,2338) (642,2339) (660,2340) (690,2341) (723,2342) (729,2343) (731,2344) (733,2345) (735,2346) (741,2348) (759,2349) (777,2350) (786,2351) (792,2352) (794,2353) (798,2354) (804,2355) (806,2356) (808,2357) (826,2360) (835,2361) (853,2362) (855,2363) (876,2364) (889,2365) (907,2366) (909,2367) (911,2368) 
+kill_you_rock_movie 2 (0,2371) (36,2372) 
+Do_Or_Die_Helper_Text 46 (0,2375) (96,2382) (168,2384) (239,2385) (260,2386) (296,2387) (330,2388) (337,2389) (349,2390) (362,2391) (374,2393) (390,2394) (403,2395) (415,2396) (427,2397) (456,2398) (475,2399) (487,2400) (489,2401) (560,2403) (581,2404) (616,2405) (650,2406) (657,2407) (669,2408) (682,2409) (694,2411) (710,2412) (723,2413) (735,2414) (747,2415) (776,2416) (795,2417) (807,2418) (809,2419) (860,2421) (867,2423) (880,2424) (892,2425) (904,2426) (906,2427) (913,2429) (926,2430) (938,2431) (950,2432) (952,2433) 
+Boss_Unlocked_Text 42 (0,2437) (96,2444) (114,2446) (164,2447) (180,2448) (200,2449) (216,2450) (268,2451) (288,2452) (304,2453) (356,2454) (358,2455) (408,2457) (460,2458) (518,2459) (584,2461) (605,2463) (623,2464) (625,2465) (632,2467) (644,2468) (657,2469) (669,2471) (682,2472) (695,2473) (707,2474) (719,2475) (748,2476) (767,2477) (779,2478) (785,2479) (801,2480) (830,2481) (832,2482) (884,2484) (905,2486) (912,2487) (925,2488) (937,2489) (949,2490) (951,2491) (953,2492) 
+wait_and_play_you_rock_movie 8 (0,2496) (2,2497) (24,2498) (60,2499) (62,2500) (64,2501) (116,2502) (118,2503) 
+waitAndKillHighway 3 (0,2506) (52,2507) (58,2508) 
+tempo_matching_iterator 105 (0,2523) (23,2524) (41,2526) (91,2527) (104,2528) (116,2529) (129,2530) (141,2531) (153,2532) (165,2533) (187,2535) (199,2537) (211,2538) (223,2539) (256,2541) (292,2542) (328,2543) (364,2544) (382,2545) (395,2547) (415,2550) (417,2552) (438,2553) (463,2554) (482,2555) (484,2556) (486,2557) (508,2558) (510,2559) (528,2562) (547,2563) (549,2565) (568,2566) (612,2567) (644,2568) (676,2569) (688,2570) (709,2571) (711,2572) (713,2573) (750,2575) (752,2576) (754,2577) (775,2578) (796,2579) (815,2580) (836,2581) (848,2582) (850,2583) (858,2584) (879,2585) (901,2586) (903,2588) (945,2590) (947,2591) (956,2593) (974,2594) (993,2596) (1037,2597) (1069,2598) (1101,2599) (1113,2600) (1134,2601) (1136,2602) (1138,2603) (1157,2605) (1222,2606) (1268,2607) (1270,2608) (1272,2609) (1274,2610) (1324,2611) (1326,2613) (1332,2614) (1356,2616) (1378,2619) (1399,2621) (1418,2622) (1439,2623) (1451,2624) (1457,2625) (1459,2626) (1478,2628) (1507,2629) (1534,2630) (1568,2634) (1572,2635) (1608,2636) (1644,2637) (1646,2638) (1664,2642) (1686,2643) (1705,2645) (1734,2646) (1761,2647) (1765,2650) (1800,2651) (1836,2652) (1838,2653) (1850,2655) (1854,2656) (1866,2657) (1868,2658) (1876,2660) (1878,2661) 
+SetMeasureCallback 5 (0,2667) (36,2668) (54,2669) (58,2670) (60,2672) 
+ClearMeasureCallbacks 2 (0,2675) (36,2676) 
+SetBeatCallback 5 (0,2679) (36,2680) (54,2681) (58,2682) (60,2684) 
+GetTimeToNextBeat 3 (0,2687) (36,2688) (59,2689) 
+ClearBeatCallbacks 2 (0,2693) (36,2694) 
+spawn_measure_callbacks 2 (0,2697) (36,2699) 
+spawn_beat_callbacks 2 (0,2702) (32,2704) 
+measure_test_script 2 (0,2707) (52,2708) 
+beat_test_script 2 (0,2711) (34,2712) 
+GuitarEvent_StarSequenceBonus 134 (0,2735) (18,2737) (20,2738) (22,2739) (67,2741) (76,2744) (112,2745) (116,2746) (156,2747) (158,2748) (228,2750) (250,2752) (271,2753) (304,2755) (334,2757) (366,2759) (378,2761) (380,2763) (412,2764) (430,2766) (456,2769) (492,2770) (494,2771) (496,2772) (500,2773) (512,2774) (514,2775) (537,2777) (562,2779) (601,2780) (640,2781) (644,2782) (683,2783) (722,2784) (724,2785) (803,2787) (825,2789) (832,2790) (844,2791) (857,2792) (870,2793) (882,2794) (911,2795) (924,2796) (937,2797) (950,2798) (969,2799) (981,2800) (983,2801) (985,2802) (1073,2804) (1091,2806) (1117,2807) (1139,2809) (1146,2810) (1159,2811) (1172,2812) (1184,2813) (1196,2814) (1209,2815) (1238,2816) (1267,2817) (1283,2818) (1299,2819) (1311,2820) (1323,2821) (1335,2822) (1347,2823) (1359,2824) (1371,2825) (1383,2826) (1395,2827) (1407,2828) (1423,2829) (1435,2830) (1437,2831) (1439,2832) (1528,2834) (1554,2836) (1576,2838) (1583,2839) (1596,2840) (1609,2841) (1621,2842) (1633,2843) (1646,2844) (1675,2845) (1704,2846) (1720,2847) (1736,2848) (1748,2849) (1760,2850) (1772,2851) (1784,2852) (1796,2853) (1808,2854) (1820,2855) (1832,2856) (1844,2857) (1860,2858) (1872,2859) (1874,2860) (1876,2861) (1965,2863) (1991,2865) (2013,2867) (2020,2868) (2033,2869) (2046,2870) (2058,2871) (2070,2872) (2083,2873) (2112,2874) (2141,2875) (2157,2876) (2173,2877) (2185,2878) (2197,2879) (2209,2880) (2221,2881) (2233,2882) (2245,2883) (2257,2884) (2269,2885) (2281,2886) (2297,2887) (2309,2888) (2311,2889) (2313,2890) (2315,2892) (2336,2894) (2344,2895) (2396,2897) (2439,2899) 
+destroy_big_bolt 17 (0,2902) (12,2904) (48,2905) (50,2907) (82,2908) (100,2910) (179,2911) (197,2912) (285,2914) (374,2915) (463,2916) (487,2918) (511,2919) (535,2920) (537,2921) (558,2923) (566,2924) 
+GuitarEvent_Multiplier4xOff 4 (0,2931) (36,2934) (72,2935) (123,2937) 
+GuitarEvent_Multiplier3xOff 3 (0,2942) (36,2945) (87,2947) 
+GuitarEvent_Multiplier2xOff 3 (0,2951) (36,2954) (87,2956) 
+GuitarEvent_KillSong 2 (28,2961) (47,2963) 
+GuitarEvent_EnterVenue 12 (0,2972) (36,2975) (89,2976) (144,2977) (166,2979) (178,2981) (180,2982) (202,2984) (214,2986) (216,2987) (250,2991) (284,2992) 
+GuitarEvent_ExitVenue 3 (0,2996) (88,3000) (176,3001) 
+GuitarEvent_CreateFirstGem 2 (0,3005) (20,3007) 
+first_gem_fx 40 (0,3010) (36,3012) (38,3013) (40,3014) (78,3016) (116,3019) (147,3020) (164,3021) (168,3022) (185,3023) (187,3024) (191,3025) (208,3026) (210,3027) (228,3029) (235,3030) (248,3031) (261,3032) (273,3033) (285,3034) (298,3035) (327,3036) (356,3037) (372,3038) (388,3039) (400,3040) (412,3041) (424,3042) (436,3043) (448,3044) (460,3045) (472,3046) (484,3047) (496,3048) (512,3049) (524,3050) (526,3051) (569,3053) (620,3054) (643,3055) 
+destroy_first_gem_fx 8 (0,3059) (2,3061) (24,3062) (42,3063) (44,3064) (46,3065) (96,3066) (98,3067) 
+GuitarEvent_GemStarPowerOn 1 (0,3071) 
+GuitarEvent_BattleAttackFinished 2 (0,3074) (7,3077) 
+GuitarEvent_TransitionIntro 1 (0,3088) 
+GuitarEvent_TransitionFastIntro 1 (0,3091) 
+GuitarEvent_TransitionPreEncore 1 (0,3094) 
+GuitarEvent_TransitionEncore 1 (0,3097) 
+GuitarEvent_TransitionPreBoss 1 (0,3100) 
+GuitarEvent_TransitionBoss 1 (0,3103) 
+GuitarEvent_Kick_Drum_Hit_Note 100 (28,3108) (54,3109) (72,3110) (108,3111) (110,3112) (139,3116) (197,3117) (258,3119) (308,3120) (325,3128) (400,3130) (436,3134) (472,3135) (479,3136) (492,3137) (505,3138) (517,3139) (529,3140) (542,3141) (571,3142) (600,3143) (613,3144) (626,3145) (638,3146) (650,3147) (662,3148) (674,3149) (686,3150) (698,3151) (710,3152) (722,3153) (734,3154) (750,3155) (762,3156) (764,3157) (781,3187) (799,3188) (816,3189) (820,3190) (832,3191) (834,3192) (852,3194) (928,3195) (964,3196) (1000,3197) (1007,3198) (1020,3199) (1033,3200) (1045,3201) (1057,3202) (1070,3203) (1099,3204) (1128,3205) (1141,3206) (1154,3207) (1166,3208) (1178,3209) (1190,3210) (1202,3211) (1214,3212) (1226,3213) (1238,3214) (1250,3215) (1262,3216) (1278,3217) (1290,3218) (1292,3219) (1344,3221) (1368,3222) (1392,3224) (1396,3225) (1472,3226) (1508,3227) (1544,3228) (1551,3229) (1564,3230) (1577,3231) (1589,3232) (1601,3233) (1614,3234) (1643,3235) (1672,3236) (1685,3237) (1698,3238) (1710,3239) (1722,3240) (1734,3241) (1746,3242) (1758,3243) (1770,3244) (1782,3245) (1794,3246) (1806,3247) (1822,3248) (1834,3249) (1836,3250) (1888,3252) (1912,3253) (1936,3255) (1938,3256) 
+GuitarEvent_Hit_Open_Note 2 (0,3259) (30,3260) 
+GuitarEvent_Hit_Easy_Rhythm_Note 2 (0,3263) (18,3264) 
+PlayerSetVolume 19 (0,3267) (36,3268) (63,3269) (100,3270) (108,3273) (118,3274) (148,3275) (161,3276) (191,3277) (204,3278) (234,3279) (247,3280) (277,3281) (279,3282) (281,3284) (283,3285) (285,3286) (315,3288) (317,3289) 
+PlayerGetVolume 16 (0,3292) (27,3293) (64,3294) (72,3295) (82,3296) (105,3297) (118,3298) (141,3299) (154,3300) (177,3301) (190,3302) (213,3303) (215,3304) (217,3305) (219,3306) (242,3308) 
+Create_HandsOfGod 8 (28,3311) (34,3312) (65,3313) (104,3315) (140,3316) (142,3317) (252,3325) (292,3326) 
+Anim_HandsOfGod 21 (0,3329) (96,3330) (256,3332) (308,3333) (428,3335) (440,3336) (476,3338) (564,3340) (576,3341) (664,3343) (676,3344) (796,3347) (808,3348) (844,3350) (846,3352) (1079,3353) (1091,3354) (1098,3355) (1220,3358) (1232,3359) (1238,3360) 
+hot_start_achieved 45 (28,3370) (34,3372) (52,3373) (54,3374) (56,3375) (74,3377) (124,3378) (133,3379) (149,3380) (162,3381) (193,3383) (226,3384) (242,3385) (255,3386) (286,3388) (313,3389) (329,3390) (342,3391) (373,3393) (377,3394) (390,3395) (406,3396) (437,3398) (439,3399) (443,3400) (492,3401) (523,3402) (539,3403) (552,3404) (583,3406) (610,3407) (626,3408) (639,3409) (670,3411) (674,3412) (687,3413) (703,3414) (734,3416) (736,3417) (738,3418) (748,3420) (777,3422) (797,3423) (932,3425) (934,3426) 
+
+[Checksums]
+0xf193531b scripts\guitar\guitar_events.qb
+0xb990d003 target
+0x1c750003 save_current_powerups_p2
+0xe0132005 blueWhammyFXID02p1
+0x8e411006 b
+0xe595f007 Skate8_SFX_Backgrounds_New_Area
+0x1bff900b quickplay
+0x5880700b rock_legend
+0x874d2012 GuitarEvent_Multiplier3xOff
+0xe836f013 end_color
+0x39940016 tutorial
+0x55a6d017 button_models
+0x6ff13018 spawn
+0xf6f5c01c particle2_id
+0xc6c91022 GuitarEvent_HitMine_Spawned
+0x703f5024 hand_of_god_2_alpha
+0xc302c027 Star_Clap_Right
+0xc6870028 die
+0x0f7e902c NullScript
+0xcd0dc02d killspawnedscript
+0xa9520036 time_in_lead
+0x0473903d GameMode_GetNumPlayers
+0x1cc6c03f end_active_session
+0xaa68504c gem_containerp1
+0x93f60062 r
+0x27ab5063 kill_when_empty
+0x43f4a06b hit_note
+0x059ea070 red
+0x7f94d07d star_sequence_bonus
+0xfbba8085 measure_test_script
+0x0ab76089 p1_health
+0x66ecc08a start_scale
+0x7cf0a08a waittime
+0x8c9c708b container_pos
+0x30bfe08d even
+0x51e55096 GuitarEvent_SongWon_Spawned
+0x8da1f0a1 yourock_text_2
+0x779e60a1 boss_unlocked
+0x0eb2f0a3 current_boss
+0xe13620a8 no_sound
+0xd95930ac player1_status
+0x46b8f0ac devil_finish
+0xc47520b7 no_hold
+0xea5cd0bd preencore
+0x3371d0c1 call
+0x1cc260c4 Star_Clap_LeftCenterRight
+0x90ae90c5 winner_scale
+0x2a1fe0cc shadow_offs
+0xe8dc80d1 AddToStringLookup
+0x05f7d0d3 Current_Crowd_Clap_Right_SoundEvent
+0xf64710db first_gem
+0x0e4d80e1 hand_of_god_2_pos
+0x38de00e3 current_song_time
+0x293f40e7 first_gem_fx

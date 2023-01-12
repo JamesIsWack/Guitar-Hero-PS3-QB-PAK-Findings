@@ -1,0 +1,41 @@
+460,688) (473,689) (486,690) (499,691) (512,692) (525,693) (538,694) (551,695) (564,696) (577,697) (590,698) (603,699) (616,700) (629,701) (642,702) (655,703) (668,704) (681,705) (694,706) (696,707) (713,709) (727,710) (741,711) (816,713) (823,714) (835,715) (847,716) (859,717) (873,718) (892,719) (905,720) (967,721) (979,722) (1008,723) (1020,724) (1022,725) (1072,727) (1074,728) 
+
+[Checksums]
+0xc812fa1f scripts\engine\menu\misctools.qb
+0x8e411006 b
+0x849ff013 profiler_vblanks
+0xc6870028 DIE
+0xe126e035 top
+0x0f55e08e zone_file_size
+0x95e2a0a9 height_title
+0xb9a350e4 bottomleft
+0xb12b510a spriteElement
+0x7031f10c params
+0xe5f2f10d pass_index
+0x18abe11a thick
+0x82059125 bottomright
+0xa0285133 topcenter
+0x73665140 CreateScreenElement
+0xaf00d15b sysnotify_outline_anchor
+0xcf66717b GotParam
+0x21e7b18d topleft
+0x279a719c show_poly_count
+0x174841bc a
+0xd28551d5 texture_list
+0xbfa801df change
+0xa1dc81f9 name
+0x8b60022f just
+0xbd30325b white
+0xa8c11275 LegacyDoScreenElementMorph
+0x7d99f28d texture
+0x463832aa y_idx
+0xf08952b6 GetCurrentLevel
+0xd443a2bc off
+0x2bd672e1 system_notification_position
+0xce42c2e8 title_left
+0xc6a1f2f3 texture_file_size
+0xd6e9d2f4 Thread0AIBudget
+0xaf12f32a MangleChecksums
+0x0203b372 true
+0xe3dcf377 center_horz
+0x3098037b force_nodelistman

@@ -1,0 +1,14 @@
+params
+0xb16e056f ui_init_options_manage_band_font
+0x34a68574 dims
+0x3acee5c0 add_generic_menu_icon_item
+0xe88e660c destroy_generic_menu
+0x9a6bd624 icon
+0x4686163a make_generic_menu
+0x1920d6c2 create_options_manage_band_font_vmenu
+0x894496d9 fit_height
+0x2f6bf72d font
+0x2cb33744 LaunchEvent
+0xd4c98794 title
+0x373ae7f7 change_demo_font_on_focus
+0x77f4980

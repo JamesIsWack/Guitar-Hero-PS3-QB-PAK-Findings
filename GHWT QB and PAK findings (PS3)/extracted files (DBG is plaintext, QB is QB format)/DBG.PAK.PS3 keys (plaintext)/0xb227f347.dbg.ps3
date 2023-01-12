@@ -1,0 +1,59 @@
+ (1697,117) (1699,118) (1701,119) 
+
+[Checksums]
+0xb14850a3 scripts\engine\menu\keyboard.qb
+0x7f506035 output_file
+0xf9462090 c
+0x244620b9 current_page
+0x7bdfa0bb MoveProfileCursor
+0x4c8350e7 current_cpu
+0x586fe150 user_keyboard_script
+0xcf66717b GotParam
+0xbc6b118f up
+0xbfa801df change
+0x3b4631df isps3
+0xc844f1e2 output_text
+0xc539d1ec got_escape
+0xa1dc81f9 name
+0x4f647253 got_f3
+0x386342c5 got_f2
+0xa16a137f got_f1
+0xc15e23eb got_up
+0xff0db407 textname
+0x9277f428 FormatText
+0x36624446 BeginCPUCapture
+0x756f5456 key
+0x09e3b485 num_cpus
+0x39b5c4b0 GetArraySize
+0x285f8558 Profile_Pages
+0x2de8c60e printf
+0x84c21642 GetMetricsMode
+0x79526767 dumpprofile
+0xd4c98794 title
+0xd100e7f0 got_f4
+0xc4745838 text
+0x6835b854 mode
+0x85981897 left
+0xf79da8a2 k
+0xa6ed4911 handle_keyboard_input
+0xbf287938 got_right
+0x076e6952 ToggleMetrics
+0x27db5a30 key_name
+0xab9e5a4c scriptexists
+0x4cde9a81 got_left
+0x1dfcfac7 dumpprofileend
+0x4b358aeb right
+0x3a833bc1 show_gpu_time
+0xb96e0be5 freeze
+0x9808abfc num_pages
+0x7f5b3d4d array_size
+0x2a46edd2 got_down
+0x457dfe14 dumpprofilestart
+0x835d0f90 GlobalExists
+0xe3006fc4 down
+0x457fafd1 cpu
+
+[LineNumbers]
+
+[Checksums]
+0xfc5cb218 scripts\engine\menu\

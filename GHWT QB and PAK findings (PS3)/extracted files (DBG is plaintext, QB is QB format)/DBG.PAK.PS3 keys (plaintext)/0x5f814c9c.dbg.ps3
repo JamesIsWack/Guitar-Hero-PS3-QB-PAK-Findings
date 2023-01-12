@@ -1,0 +1,16 @@
+sor
+0xd800b94f UI
+0xb30d9965 controller
+0x1993c98e i
+0x427d09a7 eq_setting
+0x3c15e9b6 DestroyScreenElement
+0x5536b9bc SoundBussLock
+0x1b0509c5 savegame
+0xa58079eb SetTags
+0xd57cc9f7 EnableDolbyDigital
+0xb32979f7 IgnoreSlomo
+0xf99d5a06 fade_time
+0xc9428a08 device_num
+0xbeff0a0b new_volume
+0x1b49ca15 ui_options_audio_update_mic_volume
+0xd5

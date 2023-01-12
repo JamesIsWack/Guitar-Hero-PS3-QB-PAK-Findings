@@ -1,0 +1,16 @@
+95) (327,497) (479,498) (485,499) (487,500) 
+EnableAllInput 11 (0,509) (12,510) (14,511) (31,512) (68,513) (91,514) (95,515) (113,516) (115,517) (136,518) (144,519) 
+ui_return_pausemenu 5 (0,527) (12,528) (48,529) (54,530) (56,531) 
+pause_drop_player 3 (0,534) (36,535) (54,537) 
+unpause_and_drop_player 2 (0,540) (7,542) 
+pause_end_game 3 (0,545) (36,546) (54,548) 
+unpause_and_endgame 3 (0,551) (6,552) (13,553) 
+ui_pausemenu_anim_out 2 (0,561) (36,562) 
+
+[Checksums]
+0xd514f2d9 scripts\guitar\menu\states\layouts\ui_pausemenu.qb
+0x8e411006 b
+0x1bff900b quickplay
+0xd743f00f song_ended_menu_select_new_song
+0x4c06d022 is_in_debug
+0xba29

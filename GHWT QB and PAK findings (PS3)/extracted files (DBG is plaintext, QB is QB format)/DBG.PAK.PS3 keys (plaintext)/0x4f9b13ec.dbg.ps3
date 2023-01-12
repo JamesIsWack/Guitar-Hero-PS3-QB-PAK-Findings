@@ -1,0 +1,166 @@
+ (34,1934) (47,1935) (54,1937) (58,1938) (71,1939) (89,1941) (134,1942) (154,1943) (199,1944) (219,1945) (264,1946) (284,1947) (329,1948) (331,1949) (333,1950) (424,1952) (446,1954) (455,1955) (467,1956) (480,1957) (500,1959) (512,1960) (514,1961) (543,1963) (550,1966) (563,1967) (575,1968) (583,1969) (585,1970) (597,1971) (609,1972) (621,1973) (623,1974) (625,1975) (637,1976) (639,1977) (641,1978) (649,1979) (662,1980) (674,1981) (686,1982) (692,1983) (694,1984) (696,1985) (736,1987) (749,1989) (768,1990) (781,1991) (787,1993) (789,1994) 
+destroy_highway_prepass 12 (0,1998) (63,1999) (84,2000) (97,2001) (99,2002) (188,2003) (209,2004) (244,2005) (257,2006) (259,2007) (308,2009) (360,2010) 
+disable_highway_prepass 9 (0,2014) (36,2015) (72,2016) (124,2018) (176,2019) (244,2020) (312,2021) (314,2022) (316,2023) 
+enable_highway_prepass 9 (0,2026) (36,2027) (72,2028) (124,2030) (176,2031) (244,2032) (312,2033) (314,2034) (316,2035) 
+move_highway_2d 35 (0,2040) (61,2044) (67,2045) (85,2046) (127,2048) (153,2050) (165,2052) (177,2053) (189,2054) (201,2055) (213,2056) (272,2059) (302,2060) (336,2062) (338,2064) (356,2065) (358,2066) (360,2067) (412,2068) (414,2069) (420,2072) (441,2073) (443,2075) (502,2076) (532,2077) (564,2083) (587,2084) (610,2085) (629,2087) (688,2088) (718,2089) (720,2090) (722,2091) (772,2092) (774,2093) 
+move_highway_camera_to_default 2 (28,2098) (64,2099) 
+disable_bg_viewport_properties 7 (0,2102) (52,2103) (104,2104) (140,2106) (208,2107) (276,2108) (278,2109) 
+disable_highway 37 (0,2112) (36,2113) (104,2114) (106,2115) (144,2116) (212,2117) (214,2118) (252,2119) (320,2120) (322,2121) (360,2122) (428,2123) (430,2124) (468,2125) (536,2126) (538,2127) (576,2128) (644,2129) (646,2130) (684,2131) (752,2132) (754,2133) (792,2134) (860,2135) (862,2136) (900,2137) (968,2138) (970,2139) (1008,2140) (1076,2141) (1078,2142) (1116,2143) (1184,2144) (1186,2145) (1224,2146) (1292,2147) (1294,2148) 
+disable_bg_viewport 8 (0,2151) (7,2152) (13,2154) (52,2156) (92,2157) (94,2158) (100,2160) (152,2162) 
+enable_bg_viewport_properties 17 (0,2165) (36,2166) (88,2167) (140,2168) (192,2169) (244,2170) (296,2171) (364,2172) (432,2173) (436,2174) (488,2175) (540,2176) (592,2177) (644,2178) (696,2179) (698,2180) (764,2181) 
+enable_highway 37 (0,2184) (36,2185) (88,2186) (90,2187) (128,2188) (180,2189) (182,2190) (220,2191) (272,2192) (274,2193) (312,2194) (364,2195) (366,2196) (404,2197) (456,2198) (458,2199) (496,2200) (548,2201) (550,2202) (588,2203) (640,2204) (642,2205) (680,2206) (732,2207) (734,2208) (772,2209) (824,2210) (826,2211) (864,2212) (916,2213) (918,2214) (956,2215) (1008,2216) (1010,2217) (1048,2218) (1100,2219) (1102,2220) 
+enable_bg_viewport 4 (0,2223) (7,2224) (13,2225) (52,2227) 
+destroy_bg_viewport 16 (0,2230) (13,2232) (22,2233) (35,2234) (41,2235) (43,2236) (49,2238) (88,2240) (124,2241) (126,2242) (160,2245) (212,2246) (264,2247) (282,2249) (288,2250) (290,2251) 
+setup_bg_viewport 64 (0,2295) (36,2297) (42,2299) (51,2301) (69,2302) (104,2303) (108,2304) (144,2305) (146,2306) (150,2307) (168,2308) (204,2309) (208,2310) (244,2311) (246,2312) (248,2313) (264,2315) (286,2316) (314,2317) (349,2318) (388,2320) (395,2321) (407,2322) (419,2323) (431,2324) (450,2325) (463,2326) (476,2327) (478,2328) (485,2330) (497,2331) (505,2334) (517,2335) (529,2336) (541,2337) (554,2339) (573,2340) (586,2341) (615,2342) (627,2343) (639,2344) (651,2346) (663,2348) (665,2349) (673,2351) (675,2352) (687,2353) (699,2354) (711,2355) (723,2356) (736,2357) (755,2358) (768,2359) (797,2360) (809,2361) (822,2362) (834,2363) (847,2366) (849,2367) (851,2369) (853,2370) (855,2371) (861,2373) (896,2375) 
+highway_pulse_multiplier_loss 53 (48,2380) (79,2382) (81,2383) (83,2384) (95,2386) (103,2387) (113,2388) (129,2389) (142,2390) (158,2391) (171,2392) (187,2393) (200,2394) (216,2395) (228,2396) (236,2397) (252,2398) (254,2399) (259,2401) (274,2402) (290,2403) (306,2404) (322,2405) (324,2406) (328,2408) (350,2410) (352,2411) (380,2413) (401,2415) (422,2416) (426,2418) (450,2419) (481,2420) (499,2422) (512,2423) (596,2426) (686,2427) (703,2428) (784,2429) (867,2430) (884,2431) (968,2432) (1066,2433) (1083,2434) (1164,2435) (1247,2436) (1264,2437) (1348,2438) (1446,2439) (1463,2440) (1525,2441) (1527,2442) (1529,2443) 
+highway_pulse_multiplier_loss_cleanup 2 (0,2447) (20,2448) 
+highway_visible 2 (0,2451) (36,2454) 
+highway_invisible 2 (0,2457) (36,2460) 
+get_non_vocalist_player_number 17 (0,2470) (6,2472) (19,2473) (32,2474) (34,2475) (61,2476) (83,2477) (85,2478) (104,2479) (130,2480) (173,2481) (175,2482) (189,2483) (191,2484) (213,2485) (221,2486) (280,2488) 
+player_is_lowest_numbered_guitar_or_bass 12 (0,2499) (64,2500) (82,2501) (95,2503) (97,2504) (152,2505) (184,2506) (186,2507) (208,2508) (224,2509) (226,2510) (256,2511) 
+tempo_light_on 1 (0,2519) 
+highway_streak_glow 26 (28,2548) (54,2551) (72,2552) (90,2553) (114,2554) (118,2555) (142,2556) (144,2557) (148,2558) (216,2559) (285,2560) (306,2561) (324,2562) (342,2563) (346,2564) (364,2565) (366,2566) (368,2567) (389,2568) (407,2569) (425,2570) (429,2571) (447,2572) (449,2573) (451,2574) (453,2575) 
+
+[Checksums]
+0x423bc7d4 scripts\guitar\guitar_highway.qb
+0x8e411006 b
+0x22b3200f rscale
+0xe178f011 Mat_NB_Yellow_Cup_POS3
+0x39940016 tutorial
+0x55a6d017 button_models
+0x3a85201b UseFourLaneHighway
+0x9bb8201e material_4d_down
+0xc6870028 Die
+0xc10e802c gem_container
+0xcd0dc02d KillSpawnedScript
+0xe126e035 top
+0xaa68504c gem_containerp1
+0x0720d051 neck_lip_add
+0xc5c6b05d neck_scale
+0x059ea070 red
+0x58f99079 Mat_NB_4D_Yellow_rim_POS2
+0xb5ba407b no_resolve_depthstencilbuffer
+0xce744082 rangle
+0x8c9c708b container_pos
+0x763cf0a8 gHighwayTiling
+0x442a40aa GetFPS
+0x5fb1c0b1 hpos
+0x3e4f70b3 sys_String01_sys_String01
+0x96b270b8 playline_scale
+0xa9bf20b9 sidebar_y_scale
+0xe8dc80d1 AddToStringLookup
+0x188cf0d2 Mat_NB_5D_Yellow_Cup_POS2
+0xca8ba0dc material_5d_mid
+0xc57ee0de Mat_NB_Blue_Cap_LIT_POS2
+0x2f6cb0e0 Mat_NB_4D_Green_Cap_POS1
+0xe37030e5 m_playerIndex
+0xc1bff0f3 Obj_ForceUpdate
+0xb35860f3 draw_debug_lines
+0xe4f130f4 s
+0xf5ce40fe Set2DHighwaySpeed
+0x262ee0fe prepass_border
+0xf0d90109 speed
+0xb12b510a spriteElement
+0x7031f10c params
+0xb8ab7112 highway_fader_2p_ps3
+0xaaf74113 PlayerInfoEquals
+0x2dd4e11a highway_pulse_multiplier_loss
+0x347ff11b Obj_EnableScaling
+0x785ce11e rot_offset
+0xe28ca13b touch_glow_color
+0x73665140 CreateScreenElement
+0x7df8614e p
+0x82030150 left_pos_2d
+0x9fd29151 viewport
+0xdf3e6155 nowbar_scale_x
+0xb8d14159 prepass_offset
+0x6b3f915d mat
+0x44663160 gem_containerp3
+0x35f7416d Mat_NB_Neck
+0xb7c08174 Mat_NB_5D_Orange_Cup_DWN_POS2
+0x75f91174 destroy_time
+0x3e8cb183 roty
+0x071f4183 bg_viewport
+0xb8bfa192 Mat_NB_5D_Green_Cup_DWN_POS1
+0x95313194 button_b
+0x448d01a7 fs
+0x174841bc a
+0xf509c1be toggle_debug_highways
+0xa83951c3 nowbar_scale_y
+0x9a18b1c4 disable_bg_viewport
+0x2f6511de green
+0xbfa801df change
+0x3cb031e6 Mat_NB_4D_Yellow_Cup_DWN_POS2
+0xc7b581e6 string_scale
+0x657ff1ed Obj_ApplyScaling
+0x888621f0 button_r
+0x336101f6 gem_containerp2
+0xa1dc81f9 name
+0x7a8291f9 hdims
+0xc4e311fa camera
+0x214c3209 get_highway_pos_and_scale
+0x27a5920b pos_left
+0x2765220c Mat_NB_4D_Green_Cup_DWN_POS1
+0x8eab920e flip_scale
+0x96354210 lefthanded_button_ups
+0x7a07721c Mat_NB_4D_Red_rim_POS1
+0x17e7321e FOV
+0x7378122f Mat_NB_5D_Blue_Cap_POS3
+0x8b60022f just
+0x581e623b pos_add
+0xd865723c destroy_highway
+0x1984c24d battle_alert_containerp3
+0xc1395256 RemovePrepassViewport
+0x1963425a clear_depthstencilbuffer
+0xbd30325b white
+0xf0cd925c pos_table
+0x581e025d Mat_NB_Orange_Cup_POS1
+0xd4b50263 gem_colors
+0x46159266 out
+0xa8c11275 LegacyDoScreenElementMorph
+0x0c7cd27a RemoveTags
+0x715cb280 Mat_NB_Green_Cap_LIT_POS1
+0x7d99f28d texture
+0xd40f8291 m_endFade
+0x5e459291 enable_highway_prepass
+0x381ab293 highway_slope
+0x884cc295 get_num_non_vocals_players_onscreen
+0xffafa299 highway_start
+0xb2c0f29a extra
+0xf881329d w0
+0x11f692a6 SetPlayerInfo
+0xd443a2bc off
+0x3053b2c7 CompositeObjectExists
+0x6e83f2db battle_alert_containerp2
+0x958be2de highway_position
+0x302b92e7 old_parts
+0xb76802f1 material_down
+0xb24032f4 CCam_DoMorph
+0x144412f5 TOD_Proxim_Update_LightFX_Viewport
+0xfd069300 pos_sub
+0x4ebc130d Mat_NB_Red_Cup_DWN_POS2
+0x4b40630d newvalue
+0x1fbad314 name_head
+0x452fb315 Obj_SetBoundingSphere
+0x740de321 Property
+0xaa17b328 Mat_NB_4D_Blue_Cap_POS2
+0x869bc32d lightning_rgba
+0x59652340 highlight_scale
+0x597b534d p2_battle
+0xa8ee7357 ScriptAssert
+0x4ad4735b Mat_NB_Red_rim_POS2
+0x4570735d drummer
+0xbcf9635d enable_bg_viewport
+0x3a2a835f viewport0
+0x2ffb1360 yellow
+0xf78aa361 battle_alert_containerp1
+0x6901a364 hud_parent
+0xf7a82369 langle
+0x9e5ef36d material_4d_head_lit
+0x0203b372 true
+0x320fe376 debug_highway_material
+0x01d77379 material_4d_mid
+0xdfa4437a touch_glow_props
+0x3b5bc37e Mat_NB_5D_Green_Cup_POS1
+0x072e838b AddPrepassViewport
+0x0971b38c layout_c

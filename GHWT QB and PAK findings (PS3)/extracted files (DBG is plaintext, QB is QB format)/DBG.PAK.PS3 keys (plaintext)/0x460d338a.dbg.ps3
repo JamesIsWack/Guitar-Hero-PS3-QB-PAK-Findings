@@ -1,0 +1,53 @@
+20,312) (353,313) (355,314) (368,315) (370,316) (420,319) (422,320) 
+guitar_select_handler_change_return 6 (0,328) (52,329) (88,331) (124,332) (126,333) (176,335) 
+
+[Checksums]
+0x422b68e6 scripts\engine\menu\sliderbar.qb
+0xb990d003 target
+0xe126e035 top
+0x475bf03c event_handlers
+0xff2f103e sliderbar_focus_text_item
+0x90ff204d success
+0x2660a07c target3
+0x953320b8 guitar_select_handler_change_return
+0x2a1fe0cc shadow_offs
+0x516790ea target2
+0x1533a0ef on_color
+0x2f2740ff menu_highlight
+0xb12b510a SpriteElement
+0x7031f10c params
+0x73665140 CreateScreenElement
+0x66dda149 pad_down_handler
+0x223a314f arrow_rgba
+0xc86ec150 target1
+0xcf66717b GotParam
+0xd97271c6 down_arrow
+0x3f93a1ef replace_handlers
+0x1e7bb1f5 shadow_rgba
+0x500eb224 Obj_GetID
+0x5e84e22f min
+0x8b60022f just
+0xd2f63257 bar_pos
+0xa8c11275 LegacyDoScreenElementMorph
+0x7d99f28d texture
+0x06f602b0 sliderbar_unfocus_text_item
+0xd443a2bc off
+0x5a8c82db focus_script
+0x157912eb up_arrow_id
+0x6d015303 DE_highlight_bar
+0x7875d343 UI_text_shadow_color
+0xb5a243cd highlight_angle
+0x8a2283d9 anchor_id
+0xc5bc93ee ScreenElementExists
+0x7f44f420 sliderbar_rescale_to_bar
+0x1d944426 not_focusable
+0xd27bc437 color_bar_id
+0xbe88f472 is_enabled_script
+0xbf0f14db center
+0x9d3fb516 focus
+0x1e3e253b pad_choose
+0x6c9c3557 text_pos
+0xb8437568 pad_choose_params
+0x34a68574 dims
+0xe976f57c rescaled_value
+0x8d85358f pa

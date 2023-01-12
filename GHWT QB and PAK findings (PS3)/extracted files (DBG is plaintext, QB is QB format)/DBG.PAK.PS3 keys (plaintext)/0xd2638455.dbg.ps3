@@ -1,0 +1,94 @@
+86,790) (402,791) (404,792) (440,794) (476,796) (536,797) (572,798) (598,799) (600,800) (602,801) 
+cap_increment_target 28 (0,810) (12,811) (38,812) (72,813) (74,814) (76,815) (108,816) (139,817) (176,819) (212,820) (214,821) (248,823) (255,824) (267,825) (296,826) (327,827) (339,828) (355,829) (375,830) (395,831) (411,832) (413,833) (450,835) (488,837) (548,838) (575,839) (577,840) (579,841) 
+focus_copy_element 28 (0,850) (36,853) (88,854) (92,855) (94,856) (96,857) (132,860) (184,861) (196,862) (200,863) (202,864) (204,865) (240,868) (276,869) (278,870) (316,872) (352,873) (359,874) (371,875) (400,876) (423,877) (435,878) (451,879) (471,880) (491,881) (507,882) (509,883) (511,884) 
+cap_paste_layer 21 (0,893) (36,895) (48,897) (75,898) (96,899) (98,900) (116,901) (134,902) (147,903) (154,905) (198,908) (232,911) (268,912) (304,913) (310,914) (314,915) (348,916) (400,917) (442,918) (564,919) (566,920) 
+cap_layers_full_alert_return 3 (0,929) (6,930) (40,931) 
+cap_paste_layer_animate 2 (0,937) (36,938) 
+cap_paste_layer_animate_worker 13 (0,941) (52,943) (88,945) (160,946) (164,947) (166,948) (168,949) (220,951) (256,953) (328,954) (332,955) (334,956) (336,957) 
+
+[Checksums]
+0x68822968 scripts\guitar\menu\states\layouts\cap\ui_cap_layers_list.qb
+0xb990d003 target
+0x8e411006 b
+0x475bf03c event_handlers
+0x445bf05c layers_list_focus_text_font
+0x059ea070 red
+0x572a9093 ui_event_remove_params
+0x1b0d4095 save_data_dirty
+0xb62ff0a5 cap_change_copy_handler
+0x65b990a9 test_menu_font
+0x36e6f0b5 generic_menu_up_or_down_sound
+0xe4f130f4 s
+0x627f90fe no_rotate_zoom_text
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x3611c136 GetTags
+0x73665140 CreateScreenElement
+0x5ef31148 array
+0xd726c14c move_layer
+0x01dd615f DescInterface
+0xa7290172 SetCASAppearanceCAP
+0xcf66717b GotParam
+0xbc6b118f up
+0x2d258192 MatchLayers
+0x174841bc a
+0xbebfa1c6 element
+0x6017f1cc ui_event
+0xd87251d6 scale each line if larger
+0x2f6511de green
+0xbfa801df change
+0x3f93a1ef replace_handlers
+0xa1dc81f9 name
+0x3cd9d1fc setup_cas_menu_handlers
+0x8098d205 InsertArrayElement
+0x8b60022f just
+0xbf17a257 show_history
+0x40d92263 TextBlockElement
+0xf335b287 DoNotResolve
+0x7d99f28d texture
+0x197712af layers
+0x17a542ba menu_refresh
+0x6c50d2d2 get_div_info
+0x4b40630d newValue
+0xa8ee7357 ScriptAssert
+0x0203b372 true
+0x5b058376 param
+0xee9bc392 SpawnScriptLater
+0x4837e397 pos_anchor
+0xf44a53ab desc
+0xc5f953c2 button
+0xde8b63c2 cap_paste_layer_animate
+0xd11443cb ui_create_cap_layers_list
+0xfe3bf3ce divisions
+0x67e093e4 internal_just
+0xc5bc93ee ScreenElementExists
+0xc32703f2 target_index
+0xa564a3ff car_rotate_zoom
+0xff0db407 textname
+0xd6148418 curent_index
+0x892cd41f f
+0x9277f428 FormatText
+0x05770439 layers_list_focus
+0x39b5c4b0 GetArraySize
+0x86c7f4c4 layer_target_index
+0x56ec54c7 fit_width
+0xdeef04cd StructureContains
+0xbf0f14db center
+0xb52f44ef additional_focus_params
+0x044f94fb scale down if larger
+0x3f114509 focus_copy_element
+0x9d3fb516 focus
+0xa0564517 num_layers
+0x9836251b cam_name
+0x50abd535 layers_list_focus_text_material
+0x1e3e253b pad_choose
+0x4c29c545 RequireParams
+0x9e2ee54e div_id
+0x0acc054f car_helper_text
+0xd50a0555 cap_copy_layer_handler_change_return
+0x7a95a557 t
+0xc451f558 event
+0xb8437568 pad_choose_params
+0x34a68574 dims
+0x8c84f57c item_container_id
+0x

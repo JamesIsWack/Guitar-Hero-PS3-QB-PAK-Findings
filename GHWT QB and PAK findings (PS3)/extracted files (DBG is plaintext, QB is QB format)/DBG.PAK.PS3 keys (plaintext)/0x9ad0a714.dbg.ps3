@@ -1,0 +1,17 @@
+ram
+0xb8b0217d num_frames
+0xbfa801df change
+0x589a71df UnPauseGame
+0xa52bc223 is_host
+0x78b6635b career_matchmaking_complete
+0x4da4937b career
+0xbd09544c func
+0xe11b3452 net_pause
+0x1e93946b alias
+0xbe578495 stack
+0x445114c8 NetSessionFunc
+0x8da97503 primary_controller
+0x9d3fb516 focus
+0xc78a4520 ui_create_online_quit_warning
+0x840d6547 GameMode_GetType
+0xae8ec56b quit_career_back_to

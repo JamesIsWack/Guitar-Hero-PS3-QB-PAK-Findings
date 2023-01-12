@@ -1,0 +1,13 @@
+210 manage_band_set_font
+0x40d92263 TextBlockElement
+0x360502b3 ui_deinit_options_manage_band_font
+0x5b058376 param
+0x6ca9a3a5 selected_index
+0x9277f428 FormatText
+0xac535435 car_font_list
+0x39b5c4b0 GetArraySize
+0x56ec54c7 fit_width
+0xb52f44ef additional_focus_params
+0x044f94fb scale down if larger
+0x9d3fb516 focus
+0xb

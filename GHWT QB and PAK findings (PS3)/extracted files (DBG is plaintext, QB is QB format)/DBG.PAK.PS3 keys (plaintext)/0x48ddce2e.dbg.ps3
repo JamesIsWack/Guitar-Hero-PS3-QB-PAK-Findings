@@ -1,0 +1,24 @@
+u_array
+0x8b60022f just
+0xd9a78236 vmenu_tutorial
+0x7968923a training_6_2_show_highway
+0x40d92263 TextBlockElement
+0xaf07b281 training_6_3_trigger_band_star_power
+0xb82f7295 desired
+0x11f692a6 SetPlayerInfo
+0xbc1522bc training_create_narrator_icons
+0x06e572bd training_6_2_spawn_meter_changing
+0xf5b682d5 training_check_for_all_tutorials_finished
+0xe10a22e8 destroy_all_exploding_text
+0xfd4db2fc show_training_pause_screen
+0x2fde531b training_set_health
+0xe467734c training_6_3_show_highway
+0xa8ee7357 ScriptAssert
+0xce37e368 training_6_3_show_band_playing_in_unison
+0x8ef82384 cooperative
+0x9109a39b scrollid
+0x6768b3a2 destroy_menu
+0xf44a53ab desc
+0x7c4473c7 training_show_narrator
+0x4d92e3e2 training_generic_lesson_complete
+0x67e093e4 

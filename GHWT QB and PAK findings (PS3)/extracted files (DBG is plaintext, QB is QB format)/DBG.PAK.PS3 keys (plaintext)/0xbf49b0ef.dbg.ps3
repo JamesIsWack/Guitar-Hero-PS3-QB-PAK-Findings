@@ -1,0 +1,38 @@
+94,472) (908,473) 
+
+[Checksums]
+0x31488458 scripts\guitar\menu\states\layouts\ui_select_difficulty.qb
+0xb990d003 target
+0x8e411006 b
+0x44949010 difficulty
+0x6a18b016 completed_songs
+0x3eeae02d hard
+0x475bf03c event_handlers
+0xb922906a proportional
+0x9a2e9095 set_focus_color
+0x65b990a9 test_menu_font
+0x36e6f0b5 generic_menu_up_or_down_sound
+0x4ba430f2 p2_faceoff
+0xe4f130f4 s
+0x301dd0f9 GetGlobalTags
+0xb12b510a SpriteElement
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x3611c136 GetTags
+0x4b1f8137 icon_difficulty_hard
+0x73665140 CreateScreenElement
+0xcc12115e song
+0x01dd615f DescInterface
+0xab386173 instrument_movie_bg
+0x3b315178 go_through_songs
+0xcf66717b GotParam
+0x506aa183 icon_difficulty_beginner
+0xbc6b118f up
+0x83aaa1a0 tier_global
+0x391ec1ab item_scale
+0xa01371b1 in
+0x267181b8 ui_create_select_difficulty
+0x174841bc a
+0x95be71d1 highlight_pos
+0x1fe341d2 internal_scale
+0xd87251d6 scale each line if larg

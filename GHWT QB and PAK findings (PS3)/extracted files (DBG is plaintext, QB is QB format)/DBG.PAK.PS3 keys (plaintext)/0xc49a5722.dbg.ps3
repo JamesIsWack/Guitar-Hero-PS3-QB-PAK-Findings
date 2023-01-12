@@ -1,0 +1,104 @@
+42,742) (44,743) (56,745) (80,747) (97,750) (115,751) (132,753) (150,754) (168,755) (222,756) (224,757) (226,759) (232,761) 
+select_net_preferences_difficulty 10 (0,769) (40,770) (42,771) (44,772) (56,774) (91,776) (115,778) (161,779) (163,781) (169,785) 
+select_net_preferences_lefty_flip 25 (0,793) (40,794) (42,795) (44,796) (56,798) (68,800) (78,801) (88,802) (101,803) (114,804) (127,805) (129,806) (153,808) (177,809) (201,810) (225,811) (249,812) (267,814) (276,816) (319,817) (340,818) (383,819) (385,820) (391,822) (397,824) 
+select_net_preferences_vocal_style 13 (0,828) (40,829) (42,830) (44,831) (56,832) (74,833) (98,835) (107,837) (150,838) (171,839) (214,840) (216,841) (222,844) 
+
+[Checksums]
+0x326d196a scripts\guitar\menu\states\layouts\ui_net_preferences.qb
+0xb990d003 target
+0x46801009 OnlineLobbyInterface
+0x44949010 difficulty
+0xc6870028 Die
+0x3eeae02d hard
+0xe126e035 top
+0x475bf03c event_handlers
+0x21902065 checksum
+0xb922906a proportional
+0x36e6f0b5 generic_menu_up_or_down_sound
+0x5942a100 item_width
+0xb12b510a SpriteElement
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0xe31e110e net_preferences_up_or_down_action
+0x3611c136 GetTags
+0x0281513f globalarray
+0x73665140 CreateScreenElement
+0x5ef31148 array
+0x0558714f AssertIf
+0x01dd615f DescInterface
+0xb850f167 alias_left_side_vscollingmenu
+0xcf66717b GotParam
+0xeec9418a character_id
+0xbc6b118f up
+0x47b4b196 dim_y
+0x9675219d submenu_height
+0xca4d619e set_net_preferences_helper_text
+0x3f4b019e Base
+0xa01371b1 in
+0x5e9d11b2 player_num
+0xce4aa1b3 scroll_bar
+0xfed2d1bd Mismatch
+0xafb911c6 appended_id
+0xbebfa1c6 element
+0x3e0bf1cf get_musician_profile_struct_by_index
+0xd87251d6 scale each line if larger
+0x708af1d9 msg_checksum
+0x3b4631df IsPs3
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0x96354210 lefthanded_button_ups
+0xa90f7219 menu_unfocus_color
+0x500eb224 Obj_GetID
+0x8b60022f just
+0x8fae8247 title_text
+0x6e9a8251 fullname
+0x40d92263 TextBlockElement
+0x46159266 out
+0x2ee97273 add_net_preferences_item
+0x7d99f28d texture
+0x2b7fc28e pref_character
+0xb82f7295 desired
+0x11f692a6 SetPlayerInfo
+0xd443a2bc off
+0xffd7b2c0 ui_create_net_preferences
+0x4b40630d NewValue
+0xd41f231e left_side_container
+0x597b534d p2_battle
+0xaac93364 subvmenu_id
+0xb833736d action
+0x94ac7375 scrollbar_arrow_up_pos
+0x5b058376 param
+0x2f01f3a1 submenu_type
+0x6ca9a3a5 selected_index
+0xf44a53ab desc
+0xda3403b0 null
+0x1ae5f3ce net_helper_text_strings
+0x67e093e4 internal_just
+0xc5bc93ee ScreenElementExists
+0x67d2e3f0 SE_GetProps
+0x060703f2 set_band_character_id_globaltag
+0x6c582425 destroy_net_preferences_submenu
+0xf8a4443a get_savegame_from_controller
+0x1032b444 easy_rhythm
+0x1e93946b alias
+0x0cb7c473 default_difficulty
+0xfc5fe48d net_preferences_submenu_down
+0x92258496 Pref_Get
+0x4b4e14ab spacing_between
+0x39b5c4b0 GetArraySize
+0x56ec54c7 fit_width
+0xdeef04cd StructureContains
+0xf77614d8 ResolveScreenElementId
+0xbf0f14db center
+0x81fa44f9 pref_vocal_style
+0x044f94fb scale down if larger
+0x8da97503 primary_controller
+0xcd94f50a scrollbar_thumb_pos
+0x9d3fb516 focus
+0xe17d6523 scrollbar_bg_dims
+0xe426b525 net_preferences_popup
+0x1e3e253b pad_choose
+0x4c29c545 RequireParams
+0xb69d6568 easy
+0x1870556c lefthanded_gems_flip_save
+0x2cc

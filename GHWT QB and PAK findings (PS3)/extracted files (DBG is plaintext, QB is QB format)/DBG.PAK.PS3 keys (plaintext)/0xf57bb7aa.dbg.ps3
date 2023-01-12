@@ -1,0 +1,177 @@
+(182,490) (186,491) (213,492) (215,493) (228,495) (240,496) (253,497) (265,498) (277,499) (279,501) (281,502) (283,503) (290,505) (302,506) (314,507) (326,508) (338,509) (351,513) (353,514) (404,516) (456,517) (462,520) (568,522) (586,525) (607,526) (648,527) (716,528) (739,529) (780,530) (848,531) (852,532) (890,533) (956,534) (958,535) (978,536) (999,537) (1040,538) (1108,539) (1131,540) (1172,541) (1240,542) (1244,543) (1282,544) (1348,545) (1350,546) (1352,547) (1392,550) (1448,551) (1460,552) (1466,554) (1472,555) (1479,558) (1491,559) (1503,560) (1515,561) (1527,562) (1552,563) (1581,564) (1600,565) (1616,566) (1628,567) (1630,568) (1637,571) (1649,572) (1661,573) (1673,574) (1698,575) (1714,576) (1726,577) (1738,578) (1767,579) (1779,580) (1781,581) (1803,584) (1825,585) (1848,586) (1861,588) (1863,589) (1944,590) (1996,592) (2038,594) (2067,595) (2073,597) (2098,599) (2120,601) (2127,602) (2160,604) (2172,606) (2178,608) (2190,610) (2192,611) (2235,612) (2281,614) (2312,621) (2348,622) (2391,624) (2414,625) (2448,626) (2466,628) (2488,629) (2490,630) (2532,632) (2589,633) (2602,637) (2620,639) (2633,640) (2635,641) (2642,643) (2654,644) (2666,645) (2678,646) (2691,647) (2704,648) (2719,649) (2738,650) (2767,651) (2788,652) (2801,653) (2803,654) (2849,656) (2874,657) (2916,658) (2938,660) (2948,661) (3000,663) (3036,668) (3116,670) (3153,672) (3204,674) (3260,676) (3266,678) (3308,680) (3360,684) (3400,686) (3436,688) (3476,690) (3528,692) (3568,694) 
+menu_calibrate_lag_destroy_circles 8 (0,701) (12,702) (14,703) (57,704) (75,706) (97,708) (107,709) (140,711) 
+do_calibration_update 97 (0,718) (13,720) (15,721) (58,722) (93,723) (115,725) (125,726) (131,728) (133,730) (145,731) (157,732) (178,734) (180,735) (223,736) (236,738) (259,740) (274,742) (298,744) (332,745) (350,747) (383,749) (399,751) (445,753) (463,755) (485,756) (487,757) (509,761) (539,762) (557,766) (575,767) (581,768) (583,769) (607,771) (609,772) (611,773) (630,775) (643,778) (661,780) (674,781) (676,782) (729,784) (731,787) (793,790) (824,791) (852,792) (876,793) (878,794) (900,796) (938,799) (940,801) (967,803) (992,805) (1014,819) (1024,820) (1043,823) (1080,824) (1082,825) (1109,827) (1122,828) (1143,831) (1163,832) (1176,833) (1178,834) (1198,836) (1211,837) (1213,838) (1236,839) (1256,840) (1269,841) (1271,842) (1291,844) (1304,845) (1306,846) (1326,848) (1339,849) (1341,850) (1361,852) (1374,853) (1376,854) (1396,856) (1409,857) (1411,858) (1431,860) (1444,861) (1446,862) (1450,863) (1456,864) (1477,865) (1490,866) (1492,867) (1494,868) (1506,870) (1548,871) (1550,872) (1552,873) (1604,875) (1606,876) 
+cl_fade_circle 4 (0,883) (18,884) (81,885) (83,886) 
+cl_do_ping 6 (28,895) (84,896) (141,897) (153,898) (224,899) (236,900) 
+menu_calibrate_lag_say_lines_are_even 47 (0,907) (18,909) (20,910) (22,911) (67,913) (89,915) (91,916) (93,917) (132,919) (134,920) (136,921) (149,923) (167,929) (185,930) (207,932) (228,934) (250,936) (269,939) (271,941) (273,942) (292,944) (294,946) (296,947) (305,949) (327,950) (329,951) (338,953) (356,954) (378,955) (380,956) (382,957) (430,959) (464,961) (470,965) (494,970) (522,971) (540,974) (580,979) (636,984) (708,989) (720,990) (792,991) (804,992) (827,994) (860,995) (866,997) (868,998) 
+cl_create_particles 25 (0,1005) (7,1006) (19,1007) (49,1008) (61,1009) (73,1010) (85,1011) (114,1012) (143,1013) (159,1014) (175,1015) (187,1016) (199,1017) (211,1018) (223,1019) (235,1020) (247,1021) (259,1022) (271,1023) (283,1024) (299,1025) (311,1026) (313,1027) (364,1029) (416,1030) 
+kill_off_and_finish_calibration 24 (14,1037) (64,1038) (100,1040) (106,1042) (112,1044) (141,1046) (159,1047) (180,1048) (192,1049) (215,1050) (227,1051) (231,1052) (258,1053) (260,1054) (273,1055) (285,1056) (298,1057) (310,1058) (322,1059) (324,1061) (328,1062) (364,1063) (400,1065) (402,1066) 
+get_closest_circle_above_line 17 (0,1073) (18,1074) (20,1075) (22,1076) (34,1078) (36,1079) (79,1081) (97,1083) (159,1086) (172,1088) (185,1089) (210,1091) (212,1092) (214,1093) (236,1095) (255,1096) (269,1098) 
+menu_calibrate_lag_finish_up_calibration 65 (0,1105) (18,1107) (20,1108) (22,1109) (56,1111) (69,1113) (82,1114) (94,1116) (106,1117) (118,1118) (120,1119) (163,1120) (185,1121) (187,1122) (189,1123) (202,1125) (214,1128) (236,1129) (259,1130) (278,1132) (294,1133) (296,1134) (315,1136) (331,1137) (333,1138) (356,1140) (358,1141) (380,1143) (390,1144) (408,1146) (431,1148) (454,1149) (484,1151) (502,1154) (515,1155) (536,1156) (550,1157) (552,1158) (588,1160) (624,1162) (642,1165) (655,1166) (702,1167) (722,1168) (728,1169) (741,1170) (781,1172) (783,1173) (785,1176) (803,1178) (836,1179) (856,1180) (892,1181) (894,1182) (944,1184) (996,1187) (1002,1189) (1040,1191) (1076,1192) (1112,1193) (1132,1195) (1168,1196) (1170,1197) (1172,1198) (1174,1199) 
+menu_calibrate_lag_reset_lag 10 (0,1206) (36,1208) (54,1210) (88,1211) (90,1212) (92,1213) (128,1215) (204,1216) (210,1218) (244,1221) 
+menu_calibrate_lag_manual_choose 27 (0,1228) (52,1229) (81,1231) (120,1233) (156,1234) (192,1235) (216,1236) (240,1237) (244,1238) (280,1239) (316,1240) (340,1241) (364,1242) (366,1243) (373,1246) (385,1247) (397,1248) (409,1249) (417,1251) (439,1252) (461,1253) (483,1254) (505,1255) (507,1256) (509,1257) (560,1259) (566,1260) 
+menu_calibrate_lag_manual_back 15 (0,1267) (52,1268) (88,1269) (124,1271) (160,1272) (196,1273) (264,1274) (332,1275) (336,1276) (372,1277) (408,1278) (476,1279) (544,1280) (546,1281) (552,1283) 
+menu_calibrate_lag_manual_up 18 (0,1290) (13,1291) (52,1293) (65,1294) (120,1296) (133,1297) (135,1298) (139,1299) (152,1300) (188,1302) (201,1303) (203,1304) (205,1305) (223,1307) (247,1308) (282,1309) (316,1311) (318,1312) 
+menu_calibrate_lag_manual_down 18 (0,1319) (13,1320) (52,1322) (65,1323) (120,1325) (133,1326) (135,1327) (139,1328) (152,1329) (188,1331) (201,1332) (203,1333) (205,1334) (223,1336) (247,1337) (282,1338) (316,1340) (318,1341) 
+menu_calibrate_lag_adjust 33 (44,1348) (80,1349) (98,1351) (111,1352) (115,1353) (145,1354) (147,1355) (180,1356) (194,1358) (228,1359) (257,1360) (271,1361) (289,1363) (312,1364) (331,1365) (360,1366) (380,1367) (412,1368) (414,1369) (418,1370) (441,1371) (460,1372) (492,1373) (512,1374) (544,1375) (546,1376) (548,1377) (578,1379) (601,1380) (636,1382) (667,1383) (673,1384) (704,1386) 
+BeatSound 2 (0,1391) (36,1392) 
+
+[Checksums]
+0x287ed4a7 scripts\guitar\menu\menu_calibrate_lag.qb
+0xb990d003 target
+0x8e411006 b
+0x8f11d009 circle_id
+0x96a59013 calibrate_lag_shock_alpha
+0xe836f013 end_color
+0xcd0dc02d killspawnedscript
+0xe126e035 top
+0x67919037 new_lag_calibration
+0x475bf03c event_handlers
+0x63cfe03f half_circle_width
+0x8badf062 alias_calibrate_lag_option_video_arrow_top
+0x27ab5063 kill_when_empty
+0x1485d066 UIstate_options_calibrate_lag
+0x059ea070 red
+0xcdc74073 create_calibrate_lag_dialog_menu
+0x66ecc08a start_scale
+0x1512808d tex
+0x9a2e9095 set_focus_color
+0x0c4c809e vel
+0x442a40aa GetFPS
+0x24dde0af new_input_diff
+0x70b6d0b3 BeatSound
+0x36e6f0b5 generic_menu_up_or_down_sound
+0xe2d3f0d0 calibrate_lag_menu_num_circles
+0x779e70f2 do_morph
+0x1d8380f7 alias_calibrate_lag_option_audio_arrow_top
+0x301dd0f9 GetGlobalTags
+0xb12b510a SpriteElement
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x008aa113 cl_countdown_circle
+0xe1f4711f relative_scale
+0x3611c136 GetTags
+0x37d50137 min_rotation
+0x0281513f globalarray
+0x73665140 CreateScreenElement
+0x2274b147 ControllerMake
+0x20ef115e menu_calibrate_lag_setup_vmenu
+0x01dd615f DescInterface
+0xb1f1e168 sounded
+0x6ee50173 calibrate_lag_fail_threshold_num
+0x46c6c174 options_calibrate_lag_ping
+0xcf66717b GotParam
+0x071f4183 bg_viewport
+0x723ed188 Create2DParticleSystem
+0x717a818c old_lag
+0xbc6b118f Up
+0x15092197 pinged
+0x695311b4 alias_calibrate_lag_vmenu
+0x174841bc a
+0x9a18b1c4 disable_bg_viewport
+0x6017f1cc ui_event
+0xa7a611dd max_rotation
+0x2f6511de green
+0xbfa801df change
+0x3b4631df isps3
+0x0d2f81f8 destroy_calibrate_lag_dialog_menu
+0xa1dc81f9 name
+0x8a8c11f9 y_off
+0x500eb224 Obj_GetID
+0x721a5224 new_y_off
+0xcb14222b memcard_cleanup_messages
+0x3174522c buttonchar
+0x8b60022f just
+0x5e84e22f min
+0xf5629246 init_play_log
+0xbd30325b white
+0x79327278 cl_countdown_text
+0x20689278 TRIANGLE
+0xe3d0a27e menu_calibrate_lag_say_lines_are_even
+0x6ea7b280 menu_calibrate_focus
+0x7d99f28d texture
+0xcc3dd298 gameplay_restart_song
+0x9f04f299 calibrate_lag_end_checks
+0x8012c29f SetSpawnInstanceLimits
+0x2e7042a1 QuickPlay_Remove_All_Songs
+0x7337c2ae menu_calibrate_lag_manual_back
+0x703112b8 from_in_game
+0x616a42ba initial_position
+0x17a542ba menu_refresh
+0x941f62c4 lag_calibration
+0x100382da menu_calibrate_lag_create_circles
+0xe32832df calibrate_lag_bottom_text_text
+0x9a96e2f3 menu_calibrate_go_back
+0x7d8c6300 audio_calibration
+0x00284309 calibrate_lag_results
+0x4b40630d NewValue
+0x59fcc325 options_calibrate_lag_target
+0xe8c62340 calibrate_lag_circle_index
+0x27caf349 alias_calibrate_lag_option_audio_arrow_bottom
+0xbcf88354 setup_calibration_lag_none
+0xa8ee7357 ScriptAssert
+0xbcf9635d enable_bg_viewport
+0xeab2436e last_start_pressed_device
+0x0203b372 true
+0xe36b7386 cl_particles
+0x9caaf387 output_log_text
+0x9ed37389 calibrate_lag_real_time_requirement
+0x3815b38f text_rgba
+0x3254f395 calibrate_lag_late_window
+0x6768b3a2 destroy_menu
+0x020693a2 menu_calibrate_lag_manual_down
+0xf44a53ab desc
+0xc5f953c2 button
+0x64c743cc uistate_gameplay
+0xd974b3d6 default_focus_color
+0xb99ae3d6 gameframes
+0x9d6ba3ea lag_value_text
+0xc37153ec check
+0xc5bc93ee ScreenElementExists
+0xff0db407 TextName
+0x8e9a640e emit_rate
+0x80adb417 audio_lag
+0x9277f428 FormatText
+0x9b4e9434 cl_create_particles
+0xbd09544c func
+0x91f0e45a body_text
+0xc029545a 2p_song_summary_circle
+0x1e93946b alias
+0x8320d478 game_mode
+0xc4452478 cl_arrow_color
+0x287dd4a2 cl_do_ping
+0x9dd9b4a3 StartPinkNoiseLoopForCalirateLagScreen
+0x39b5c4b0 GetArraySize
+0x1fcda4c6 cl_option_audio_ms
+0x5b6634d4 hide
+0x12e0a4d6 disable_pause
+0xbf0f14db center
+0x8da97503 primary_controller
+0x9d3fb516 focus
+0x64946516 CheckForSignin
+0x7ad57518 delta_time
+0x08c1051d one_frame
+0x0e61b525 RunScriptOnScreenElement
+0xf15f1526 Enter_Band_Name_Scroll_down
+0xa3428532 set_user_control_color
+0x6722b533 d
+0x1e3e253b pad_choose
+0x7a95a557 t
+0xc451f558 event
+0x2aed7570 training
+0xe8a3d570 ui_memcard_autosave_replace
+0x40de9572 set_unfocus_color
+0x34a68574 dims
+0x2fca0578 options
+0xbaf0a589 generic_menu_pad_choose_sound
+0xcbddf58d steps
+0x062a4596 screenelementpos
+0xc1cf0597 total_val
+0x6820459a val
+0x161b059b emit_radius
+0x9025f5a5 calibrate_lag_menu_circle_velocity
+0x459d85a5 GH_SFX_Calibration_BeatSoundEvent
+0x833825d3 video
+0x35aac5e6 Ball_Particle_01
+0xd2fd65f2 circle_alpha
+0x8f6

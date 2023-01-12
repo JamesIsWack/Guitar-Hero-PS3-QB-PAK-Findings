@@ -1,0 +1,61 @@
+1,33) (273,34) (275,35) (306,37) (325,38) (338,39) (340,40) (347,42) (378,43) (409,44) (421,45) (433,46) (454,47) (456,48) (477,50) (485,51) (520,54) (568,56) (636,58) 
+ui_destroy_create_character_genre 2 (0,69) (6,70) 
+ui_init_create_character_genre 2 (0,78) (36,79) 
+cas_create_character_genre_focus 26 (0,87) (18,89) (52,90) (54,91) (56,92) (64,94) (74,95) (86,96) (99,97) (111,98) (124,99) (136,100) (149,101) (161,102) (174,103) (186,104) (199,105) (211,106) (224,107) (236,108) (249,109) (261,110) (269,111) (281,112) (283,113) (332,115) 
+cas_create_character_genre_chosen 13 (0,124) (6,126) (8,129) (48,130) (50,131) (52,132) (104,133) (106,134) (140,137) (160,140) (205,141) (207,142) (256,144) 
+cas_create_character_rerandomize 7 (0,153) (9,155) (35,157) (41,159) (86,161) (88,163) (90,165) 
+
+[Checksums]
+0x242a3db6 scripts\guitar\menu\states\layouts\ui_create_character_genre.qb
+0xb990d003 target
+0x475bf03c event_handlers
+0xe13620a8 no_sound
+0x627f90fe no_rotate_zoom_text
+0x9c0331a3 cas_create_character_genre_focus
+0xbfa801df change
+0x3f93a1ef replace_handlers
+0xa2391247 ui_init_create_character_genre
+0x68a04270 cas_current_profile
+0xe8d7a2a7 Glam Rock
+0xf6ab82f2 cas_current_savegame
+0x24613344 CAS_Body
+0x2ffb1360 yellow
+0x0203b372 true
+0xc5f953c2 button
+0x5d92f3c8 cas_current_is_female
+0xc6a0d43d Punk
+0xc8b6445d Rock
+0x39b5c4b0 GetArraySize
+0xdeef04cd StructureContains
+0xb52f44ef additional_focus_params
+0x9d3fb516 focus
+0x5fbe251f genre_select
+0xb6209561 character_name
+0xbaf0a589 generic_menu_pad_choose_sound
+0x3acee5c0 add_generic_menu_icon_item
+0x38f775d0 UIstate_customize_character
+0xe88e660c destroy_generic_menu
+0x9a6bd624 icon
+0x4686163a make_generic_menu
+0x55678642 cas_create_character_genre_chosen
+0x8e3bf692 cas_queue_wait
+0x95741693 pad_option2
+0x4b27f6a2 cas_editing_new_character
+0x4fced6cb ui_load_cas_rawpak
+0x33fb36dc Goth
+0x7806c6f6 do_not_modify
+0x2cb33744 LaunchEvent
+0xd4c98794 title
+0x77f49808 frontend_desc
+0x90fec815 structure
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0xe5c2f84c is_female
+0x4bb2084e desc_id
+0x9d2d8850 z
+0x40c698af id
+0x109a68b0 Heavy Metal
+0x7321a8d6 type
+0xe62f48e9 Pop
+0x6611b93a intial_genre_focus_hack
+0x

@@ -1,0 +1,2215 @@
+ly 3 (0,269) (7,270) (13,271) 
+load_guitar_save 34 (0,274) (72,275) (108,276) (150,278) (163,279) (189,281) (235,282) (237,284) (263,285) (309,286) (311,288) (337,289) (383,290) (385,292) (411,293) (457,294) (459,296) (485,297) (531,298) (533,300) (559,301) (605,302) (607,304) (633,305) (679,306) (681,308) (707,309) (753,310) (755,311) (781,313) (827,314) (829,315) (835,317) (841,318) 
+slot_focus_script 12 (0,327) (21,329) (35,330) (47,331) (59,332) (71,333) (100,334) (102,335) (104,336) (140,338) (153,339) (155,340) 
+slot_unfocus_script 9 (0,348) (21,350) (35,351) (47,352) (59,353) (71,354) (100,355) (102,356) (104,357) 
+slot_delete_entry 2 (0,368) (18,369) 
+slot_delete_entry_worker 6 (0,377) (72,379) (114,381) (148,383) (200,384) (236,385) 
+exit_save_instrument 2 (0,393) (68,394) 
+exit_save_instrument_worker 119 (0,402) (80,403) (120,406) (166,407) (304,414) (306,415) (308,416) (310,417) (336,419) (365,420) (373,421) (380,422) (393,423) (395,424) (397,425) (399,426) (425,427) (454,428) (462,429) (469,430) (482,431) (484,432) (486,433) (488,434) (514,435) (543,436) (551,437) (558,438) (571,439) (573,440) (575,441) (577,442) (603,443) (632,444) (640,445) (647,446) (660,447) (662,448) (664,449) (666,450) (692,451) (721,452) (729,453) (736,454) (749,455) (751,456) (753,457) (755,458) (781,459) (810,460) (818,461) (825,462) (838,463) (840,464) (842,465) (844,466) (870,467) (899,468) (907,469) (914,470) (927,471) (929,472) (931,473) (933,474) (959,476) (988,477) (996,478) (1003,479) (1016,480) (1018,481) (1020,482) (1022,483) (1048,485) (1077,486) (1085,487) (1092,488) (1105,489) (1107,490) (1109,491) (1111,492) (1137,494) (1166,495) (1174,496) (1181,497) (1194,498) (1196,499) (1198,500) (1200,501) (1230,503) (1256,505) (1264,506) (1271,507) (1284,508) (1286,509) (1328,511) (1334,512) (1393,513) (1397,514) (1439,515) (1447,516) (1454,517) (1475,518) (1477,519) (1501,520) (1513,521) (1519,522) (1531,523) (1543,524) (1551,525) (1557,526) (1614,527) (1616,528) (1618,529) (1620,531) (1644,533) (1664,534) (1690,535) (1710,536) (1712,537) 
+set_save_instrument_return 4 (0,541) (54,543) (60,545) (119,546) 
+load_drum_save 14 (0,555) (42,558) (55,560) (81,561) (127,562) (129,563) (155,565) (201,566) (203,567) (229,569) (275,570) (277,571) (283,573) (343,575) 
+apply_cap_design 5 (0,584) (36,586) (78,587) (105,589) (140,590) 
+load_cap_design 5 (0,598) (76,599) (118,601) (145,603) (194,604) 
+save_cap_design 2 (0,612) (68,613) 
+save_cap_design_worker 42 (0,621) (40,624) (86,625) (224,632) (226,633) (228,634) (230,635) (260,637) (290,639) (311,640) (337,641) (345,642) (352,643) (365,644) (367,645) (409,646) (415,647) (474,648) (478,649) (520,651) (528,653) (535,654) (556,655) (558,656) (582,657) (594,658) (600,659) (612,660) (624,661) (632,662) (638,663) (695,664) (697,665) (699,666) (701,667) (734,669) (778,670) (798,671) (800,672) (835,673) (855,674) (857,675) 
+set_save_cap_return 4 (0,684) (54,686) (60,687) (119,688) 
+is_name_unique 14 (0,697) (76,699) (106,701) (124,703) (136,704) (138,705) (180,706) (207,708) (236,709) (238,710) (259,712) (267,713) (269,714) (300,716) 
+save_slots_return_from_warning 3 (0,724) (6,726) (40,727) 
+save_slots_set_helper_text_delete 7 (0,736) (6,737) (72,738) (140,739) (180,740) (248,741) (250,742) 
+save_slots_set_helper_text 4 (0,747) (6,748) (72,749) (140,750) 
+
+[Checksums]
+0x5b778025 scripts\guitar\menu\states\layouts\cas\ui_cas_save_slots.qb
+0xb990d003 target
+0x59de0018 disable_delete
+0x536c201e exit_save_instrument
+0xa465802f GetCASAppearancePartInstance
+0x475bf03c event_handlers
+0x059ea070 red
+0xe9576099 autoSizeDims
+0x65b990a9 test_menu_font
+0x7031f10c params
+0x73665140 CreateScreenElement
+0x01dd615f DescInterface
+0x05e37165 Achievements_INKED
+0xcf66717b GotParam
+0xaaddb192 slot_text_text
+0x1f394199 neck_part
+0x8ccc01a0 Achievements_modified_logo
+0xbebfa1c6 element
+0x6017f1cc ui_event
+0x749d71cd choose_yes_func
+0x2f6511de green
+0xbfa801df change
+0xa1dc81f9 name
+0x252ff213 max_num_instrument_saves
+0xbf17a257 show_history
+0x80db125a hist_tex
+0x40d92263 TextBlockElement
+0xd4de628f entry
+0xfa5822a7 no_helper_text
+0x197712af layers
+0x0cdca2b8 globaltag_getarraysize
+0x17a542ba menu_refresh
+0x5a8c82db focus_script
+0x73b9b30b ui_create_cas_save_slots
+0xba418336 ui_return_cas_save_slots
+0x24613344 CAS_Body
+0xe374335b body_part
+0x0203b372 true
+0xa95e337c globaltag_removearrayelement
+0x201cc37f highway_part
+0xa2904391 pick_guard_part
+0xee9bc392 SpawnScriptLater
+0xf44a53ab desc
+0xda3403b0 null
+0xc5f953c2 button
+0x3257f3c4 drum_save
+0x48efe3d2 no_show_history
+0xd26bd3db slot_text_material
+0x7ebfc3e2 lock_to_text_entry
+0xc5bc93ee ScreenElementExists
+0xff0db407 textname
+0x51c22410 slot_text_rgba
+0x1d944426 not_focusable
+0x9277f428 FormatText
+0x2457f44d Body
+0xd5c86472 cas_load_graphic_data
+0x30e4748c cag_update_photo
+0x1ef944c0 load_guitar_save
+0xb2b824c2 pad_start_params
+0xdeef04cd StructureContains
+0xd1c554d0 Left Arm
+0xfc9734eb slot_delete_entry_worker
+0xb52f44ef additional_focus_params
+0x8da97503 primary_controller
+0x49d4050c globaltag_getarrayelement
+0x9d3fb516 focus
+0x1e3e253b pad_choose
+0x4c29c545 RequireParams
+0xd786d547 load_guitar
+0x61c9354b blue
+0xeb8f554c knobs_part
+0x9e2ee54e div_id
+0xc451f558 event
+0x328a1564 save_slots_set_helper_text
+0xb8437568 pad_choose_params
+0xe8a3d570 ui_memcard_autosave_replace
+0x34a68574 dims
+0x1d9ed57f max_num_logo_saves
+0xbaf0a589 generic_menu_pad_choose_sound
+0xb9eda58b SetCASAppearancePartInstance
+0x05f7858b sys_fontgrid_text_a6_fire_sys_fontgrid_text_a6_fire
+0x02b0c58d slot_bg_texture
+0x4b5135a9 pad_square_script
+0x2cf735cd load_drum
+0xb876d5d3 save_slots_return_from_warning
+0x4871b5fd RebuildCurrentCASModel
+0xec76a602 save_cap
+0x7bb9c604 menu_replace
+0xe88e660c destroy_generic_menu
+0x2de8c60e printf
+0xa7d7c610 choose_script
+0x9a6bd624 icon
+0x561a4628 pad_triangle_params
+0x4686163a make_generic_menu
+0xd798f64a load_guitar_save_apply
+0x42269652 globaltag_addarrayelement
+0xf75f766e save_cap_design_worker
+0x95741693 pad_option2
+0xfc6a36b0 slots_add_item
+0x0e3db6b3 bridge_part
+0x6a3b36b5 unfocus_script
+0x8a7426d5 slot_focus_script
+0x2ae116da stand_part
+0x5ccd66da UIstate_cas_text_entry
+0xd6b86721 array_name
+0x2f6bf72d font
+0x2cb33744 LaunchEvent
+0xa22fa765 set_save_instrument_return
+0xd4c98794 title
+0x387977a3 pickups_part
+0x984357b0 is_name_unique
+0xd3db27bd save_slots_set_helper_text_delete
+0x5962a7c4 num_items
+0xd43297cf false
+0x91ab97da load_drum_save
+0xbb3707e7 list
+0x90fec815 structure
+0x36d6a816 max_saves
+0xf4d9a825 add_user_control_helper
+0x809a9834 j
+0xc4745838 text
+0x3272583c UIstate_generic_dialogue
+0x17be883d extract_current_layers
+0x4bb2084e desc_id
+0x9d2d8850 z
+0x862ba85b CAS_Band_Logo
+0xe5257882 slot_boarder
+0x3eaa78a6 UIstate_generic_alert_popup
+0x40c698af id
+0xbf3138b2 Achievements_ONE_OF_A_KIND_AXE
+0x7321a8d6 type
+0xb90a78d7 is_popup
+0x2e6ef8e7 pad_start
+0x7f8c98fe index
+0x6cef5907 menu_change
+0xd7be490d UIstate_cag_custom
+0x098f2916 loaded_index
+0x8905092d load_guitar_save_edit
+0x2e86d939 ui_event_block
+0xc9684941 no_up_down_sound_handlers
+0x7f261953 pos
+0xb30d9965 controller
+0x1993c98e i
+0x3c15e9b6 DestroyScreenelement
+0xda3ae9be apply_cap_design
+0x1b0509c5 savegame
+0x5c3979e3 pad_square
+0xf2dfb9eb add_generic_menu_up_down_sound_handlers
+0xc7eb59f5 Achievements_CUSTOM_BEATS
+0xb18b3a27 fontgrid_text_a6
+0x2c8a3a6d child_index
+0x69ce0a79 Right Arm
+0x13b9da7b scale
+0xf04afadf save_guitar
+0x56a1eae3 root_window
+0x19fa5af7 SpawnScriptNow
+0x1bf16af8 save_cap_design
+0x70087b59 num_slots
+0x2a9dcb5e part_instance
+0x0fc0bbdf slot_boarder_no
+0x0aea9bef head_part
+0x4d49ac0a current_menu
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0xb64c7c26 requested_autosave
+0x2503ac32 slot_unfocus_script
+0x0c714c3f menu_finish
+0xd81ebc60 pad_square_params
+0x04fe8c71 ui_memcard_autosave
+0x58f34c7a load_design
+0x520c0c9c data
+0x2b0cfca1 pad_choose_script
+0x90356cb9 SetScreenElementProps
+0xaed97cc2 UIstate_cap_layers_list
+0x4adf0cd3 unfocus
+0x5cc16cdf Drum
+0x6265fce1 slot_delete_entry
+0xd6521cee generic_event_back
+0xbdc53cf2 Guitar
+0xe3e97d00 instrument_info
+0x5c6c2d04 state
+0x21f7ad0b pad_start_script
+0x2660cd26 additional_focus_script
+0x66a54d2d generic_event_choose
+0xcffa4d33 ui_destroy_cas_save_slots
+0x7f5b3d4d array_size
+0x651ead70 slot_list
+0xf55d0d85 set_save_cap_return
+0x80677da2 guitar_save
+0x3f6bcdba rgba
+0xc4e78e22 all
+0x7e149e2f nosound
+0x6985de7a stick_part
+0x3f100e80 fontgrid_text_a6_fire
+0x5a7ece86 menu_back
+0x41c21e87 slot_text_font
+0x8842aea9 ui_event_wait
+0xfc37df05 gameframe
+0x771cdf0a num_states
+0x02141f19 clean_up_user_control_helpers
+0x87caff20 globaltag_setarrayelement
+0xb6f08f39 part
+0x4eda5f3a exit_save_instrument_worker
+0x92518f47 load_cap_design
+0x6f967f73 printcurrentappearance
+0x3e271faf UIstate_cadrm_hub
+0xc2719fb0 parent
+0x810d1fbd Achievements_STAMP_OF_APPROVAL
+0x34984fd9 choose_params
+0xc555cfe1 pad_triangle_script
+0xd43e7ff9 overwrite
+
+                  [LineNumbers]
+ui_create_character_face_deformation 40 (0,9) (84,15) (316,19) (700,34) (707,36) (719,37) (731,38) (743,39) (788,40) (790,41) (797,42) (809,43) (821,44) (833,45) (889,46) (891,47) (898,48) (910,49) (922,50) (934,51) (979,52) (981,53) (988,54) (1000,55) (1012,56) (1024,57) (1080,58) (1082,59) (1089,60) (1101,61) (1113,62) (1125,63) (1170,64) (1172,65) (1208,67) (1226,68) (1270,69) (1392,70) (1394,71) (1428,73) 
+ui_return_character_face_deformation 3 (0,82) (6,84) (40,85) 
+ui_destroy_character_face_deformation 2 (0,95) (6,96) 
+ui_init_character_face_deformation 7 (0,104) (6,105) (80,106) (156,107) (232,108) (308,109) (314,110) 
+ui_deinit_character_face_deformation 2 (0,118) (60,119) 
+
+[Checksums]
+0x50fb1a03 scripts\guitar\menu\states\layouts\cas\ui_character_face_deformation.qb
+0x0e52f043 PushTemporaryCASAppearance
+0x767490a7 Head_Eyebrow
+0x301dd0f9 GetGlobalTags
+0xe632c101 life
+0x7031f10c params
+0xb776417e UIstate_character_face_deformation_options
+0x3cd9d1fc setup_cas_menu_handlers
+0xbf17a257 show_history
+0x66cd8259 ui_init_character_face_deformation
+0x80db125a hist_tex
+0xf6ab82f2 cas_current_savegame
+0x24613344 cas_body
+0x5b058376 param
+0x14aa037e UIstate_popout_select_part
+0x225823fc Head_Age
+0x195294ab Stance_Select_Profile
+0xdc0524c4 cas_head_bone_options
+0xf110b4ff Head_Eye
+0x0acc054f car_helper_text
+0xc451f558 event
+0xb9eda58b SetCASAppearancePartInstance
+0x3acee5c0 add_generic_menu_icon_item
+0x4871b5fd RebuildCurrentCASModel
+0xe88e660c destroy_generic_menu
+0x39df261c return_stance
+0x9a6bd624 icon
+0x4686163a make_generic_menu
+0x4b9fc644 cas_helper_dialogue
+0xfe69e648 cas_nose_bone_options
+0x6808e64d CAS_Age
+0x22a3d652 face_deformation_vmenu
+0x3f6e367e zoom_camera
+0xd4c98794 title
+0xc31987fa Head_Nose
+0x6128f82c visit_deformation
+0xc4745838 text
+0x4bb2084e desc_id
+0xb90a78d7 is_popup
+0x5d1698fa Stance_Select_head
+0x6cef5907 menu_change
+0x3756194d ui_create_character_face_deformation
+0x4c450964 CAS_Acc_Face
+0xc19f796a part_list
+0x1b0509c5 savegame
+0x633e59ef CAS_Hair
+0xd5241a82 ui_deinit_character_face_deformation
+0x5b335ab6 CAS_Hat
+0x251b9af7 ui_destroy_character_face_deformation
+0x43a52b3b CAS_Hat_Hair
+0x2a9dcb5e part_instance
+0xf1ff8b68 choose_state
+0x31dc7bab camera_list
+0xab948bdb cas_mouth_bone_options
+0x6718ac20 option_array
+0x0c714c3f menu_finish
+0x58d30c60 CAS_Eyes
+0x520c0c9c data
+0x02573cb4 cas_brow_bone_options
+0x44a31cb5 SetGlobalTags
+0x7d02bcc3 stance
+0x82451cc5 ui_return_character_face_deformation
+0x5c6c2d04 state
+0x4e8b5d34 UIstate_helper_dialogue
+0x16d19dc2 choose_state_data
+0x8fbabdfe icon_head_scale
+0x0e36ce9d Head_Mouth
+0x8842aea9 ui_event_wait
+0xa1598eed vmenu_id
+0xb2161ef7 num_icons
+0x02141f19 clean_up_user_control_helpers
+0x806fff30 none
+0x69e07f37 cas_eye_bone_options
+0xb6f08f39 part
+0xc4e3df4a MergePartIntoTemporaryCASAppearance
+
+      [LineNumbers]
+ui_create_character_face_deformation_options 137 (0,9) (18,11) (56,13) (124,14) (126,15) (159,17) (209,18) (211,19) (218,21) (230,22) (243,24) (249,25) (251,26) (480,29) (516,31) (528,32) (530,33) (566,35) (619,37) (652,38) (688,39) (702,40) (704,41) (740,42) (771,43) (775,44) (808,45) (810,46) (846,47) (893,48) (937,49) (950,52) (986,53) (1022,54) (1035,55) (1048,56) (1099,57) (1112,58) (1163,59) (1196,60) (1232,61) (1268,62) (1304,63) (1306,64) (1308,65) (1326,66) (1339,67) (1390,68) (1403,69) (1454,70) (1488,71) (1524,72) (1560,73) (1596,74) (1598,75) (1605,77) (1618,78) (1649,79) (1680,80) (1693,81) (1706,82) (1719,83) (1750,84) (1763,85) (1776,86) (1789,87) (1802,88) (1815,89) (1828,90) (1841,91) (1854,92) (1885,93) (1898,94) (1905,95) (1919,96) (1933,97) (1945,98) (1957,99) (1969,100) (2104,101) (2141,102) (2143,103) (2147,105) (2154,106) (2167,107) (2179,108) (2191,109) (2211,110) (2213,112) (2215,113) (2217,114) (2219,116) (2255,118) (2292,120) (2339,121) (2376,122) (2383,123) (2414,124) (2445,125) (2457,126) (2724,127) (2726,128) (2728,129) (2730,130) (2732,131) (2768,133) (2804,135) (2835,136) (2837,137) (2873,138) (2904,139) (2906,140) (2913,142) (2944,143) (2975,144) (2987,145) (2995,146) (3026,147) (3057,148) (3063,149) (3094,150) (3107,151) (3120,152) (3291,153) (3293,154) (3295,155) (3297,157) (3318,160) (3326,161) (3333,163) (3345,164) (3357,165) (3369,166) (3413,167) (3425,168) (3427,169) (3460,173) 
+ui_return_character_face_deformation_options 2 (0,182) (36,184) 
+ui_destroy_character_face_deformation_options 2 (0,194) (6,195) 
+ui_init_character_face_deformation_options 3 (0,204) (36,205) (42,206) 
+ui_deinit_character_face_deformation_options 3 (0,215) (36,218) (42,220) 
+restore_group_defaults 34 (0,228) (72,230) (94,233) (140,234) (142,235) (180,238) (216,239) (252,240) (264,241) (266,242) (302,245) (352,246) (399,248) (401,250) (439,252) (489,253) (540,255) (542,257) (544,258) (565,260) (573,261) (575,263) (605,266) (611,267) (644,270) (656,271) (658,272) (696,274) (740,276) (787,277) (817,278) (819,280) (840,282) (848,283) 
+update_bone_deformation 9 (0,292) (72,294) (90,296) (128,299) (137,300) (139,301) (181,303) (211,305) (248,307) 
+
+[Checksums]
+0xb9cf7a49 scripts\guitar\menu\states\layouts\cas\ui_character_face_deformation_options.qb
+0xebc0d000 pad_right_script
+0x8b738001 cas_bonemenu_apply_changes
+0x8e411006 b
+0x0e52f043 PushTemporaryCASAppearance
+0x7e0c6048 is_part_capable
+0x7a3d505b buildscriptparams
+0xbec5106b UpdateStructElement
+0xe4f130f4 s
+0x80dab125 target_desc_id
+0x0ded9138 invert
+0xddd29170 fill_type
+0xcf66717b GotParam
+0x174841bc a
+0xbc4601c3 step
+0xbebfa1c6 element
+0x6017f1cc ui_event
+0xa1dc81f9 name
+0x3cd9d1fc setup_cas_menu_handlers
+0x5e84e22f min
+0x1d12d237 update_bone_deformation
+0xbf17a257 show_history
+0x80db125a hist_tex
+0xf335b287 DoNotResolve
+0x1f79a29e ui_destroy_character_face_deformation_options
+0xcec732bd ui_deinit_character_face_deformation_options
+0x2aa592d4 bones
+0xd7b52316 set_up_down
+0x24613344 CAS_Body
+0x299ee352 buildScript
+0x708fe356 SetCASAppearanceBones
+0xa8ee7357 ScriptAssert
+0xc7d40357 ui_return_character_face_deformation_options
+0x0203b372 true
+0x14aa037e UIstate_popout_select_part
+0x3a70639b cas_get_bone_slider_value
+0x192bc3a2 pad_back_script
+0x646bf3ba NullSound
+0x10c6f3db structure_name
+0x7127a3fb car_helper_text_extra
+0x1a1ee416 new_value
+0x9277f428 FormatText
+0x569b244b pad_down_script
+0x0f8a5493 button_widget_set_value
+0x39b5c4b0 GetArraySize
+0xdeef04cd StructureContains
+0x3b6af503 deform_bones
+0x3f20752c pad_up_script
+0xd0cbc53f init_script
+0x4c29c545 RequireParams
+0x0acc054f car_helper_text
+0x7a95a557 t
+0xc451f558 event
+0xb8437568 pad_choose_params
+0xfa1a4573 deform_info
+0xbf1045b1 find_bone_deform_info
+0x3acee5c0 add_generic_menu_icon_item
+0xa655b5c5 min_slider
+0x485745ce ui_create_character_face_deformation_options
+0xe88e660c destroy_generic_menu
+0xe126860e cas_bonemenu_begin
+0x39df261c return_stance
+0x9a6bd624 icon
+0x4686163a make_generic_menu
+0xc11e166d create_character_face_deformation_options_vmenu
+0x3f6e367e zoom_camera
+0x377556bb GetCASAppearancePart
+0x31b1d75e CAR_Blue_Eyes
+0x37c38790 newstruct
+0xd4c98794 title
+0x605807b4 restore_group_defaults
+0xa04027c9 horiz
+0xcf04e7c9 bone_deform_info
+0xe288a7cb value
+0xd43297cf false
+0x51a1a7d0 character_reset
+0x3ef5a7df pad_left_params
+0x63af57f5 UIstate_cap_artist_layer_popout
+0x90fec815 structure
+0x2fbb5822 ui_init_character_face_deformation_options
+0x22bdd82b accept_script
+0xc4745838 text
+0xa2a4d849 pad_choose_sound
+0x4bb2084e desc_id
+0xb4282855 widget_init_cap
+0x27abd858 ui_event_add_params
+0x4191d85a icon_rot
+0x4a80c8c4 bonemenu
+0x456d28d1 struct
+0xb90a78d7 is_popup
+0x128ef8e1 widget_default
+0x89d918fc pad_direction
+0x450ca94f widget_restore_cap
+0xaa7fe952 get_section_index_from_desc_id
+0xca839981 deinit_script
+0x1993c98e i
+0xc56e59c2 cas_create_bonemenu_slider
+0x788f59c9 pad_right_params
+0x04177a1d widget_id
+0x8a644a6b pad_back_params
+0x8886da89 group_name
+0x76fa7a8f checksumname
+0xdc2d3b23 replacemenu
+0xf1ff8b68 choose_state
+0x31dc7bab camera_list
+0x6718ac20 option_array
+0x94264c27 cas_add_item_to_appearance
+0x0c714c3f menu_finish
+0x1d72dc4e reskin_model_from_appearance
+0x58d30c60 CAS_Eyes
+0x2b0cfca1 pad_choose_script
+0x46c5dcc2 widget_accept_cap
+0x7d02bcc3 stance
+0xac6ffce5 pad_up_params
+0x03daecee GetActualCASOptionStruct
+0x7056ed02 RemoveParameter
+0xc1ab9d18 button_widget_add_item
+0x97ddbd3a start_value
+0xba2c7d43 init_helper_text
+0x133fdd45 RemoveComponent
+0x7f5b3d4d array_size
+0x6289dd76 max
+0xc5d4ad82 pad_down_params
+0x248f3d82 kill_objects
+0x5aa45d8f deinit_helper_text
+0x16d19dc2 choose_state_data
+0xadba2e16 pad_left_script
+0xc4e78e22 all
+0x79eefe35 car_helper_text_back
+0x891e6e3a UpdateCurrentCASModel
+0x32b10e57 PopTemporaryCASAppearance
+0xb866de7e button_icon
+0x5a7ece86 menu_back
+0x940cde9c ChecksumEquals
+0xa1598eed vmenu_id
+0xb6f08f39 part
+0xbef6af46 capmenu
+0xa7592f71 max_slider
+0xe8dbff9a section_index
+0xd301ffdd soundevent
+0x5cb25fe8 cas_bonemenu_exit
+0x3038eff8 slider
+
+                      [LineNumbers]
+ui_create_character_selection 4 (0,18) (36,19) (72,21) (92,22) 
+ui_create_character_selection_spawned 153 (0,26) (36,28) (72,29) (108,31) (144,32) (180,34) (216,35) (220,36) (256,37) (258,38) (312,40) (330,42) (364,44) (366,45) (404,46) (406,47) (408,48) (460,49) (462,50) (464,52) (470,66) (488,67) (523,69) (554,71) (615,74) (633,77) (668,78) (672,79) (712,81) (734,82) (736,83) (738,84) (750,85) (768,87) (775,89) (787,90) (832,91) (844,92) (846,93) (858,97) (887,99) (924,102) (960,103) (962,104) (1008,105) (1015,106) (1027,107) (1039,108) (1051,109) (1067,110) (1080,111) (1092,112) (1104,113) (1120,114) (1149,115) (1168,116) (1180,117) (1182,118) (1195,120) (1214,121) (1221,123) (1233,124) (1245,125) (1257,126) (1278,127) (1290,128) (1323,129) (1325,130) (1337,131) (1350,132) (1352,133) (1370,135) (1382,136) (1384,137) (1414,139) (1435,140) (1447,142) (1484,143) (1517,144) (1529,145) (1533,146) (1545,147) (1547,148) (1551,149) (1577,150) (1611,151) (1632,152) (1644,153) (1646,154) (1648,155) (1650,156) (1716,159) (1758,161) (1779,162) (1812,164) (1818,165) (1852,166) (1918,167) (1920,168) (1927,170) (1940,171) (1953,172) (1974,173) (1987,174) (2000,175) (2045,176) (2057,177) (2102,178) (2104,179) (2140,181) (2159,182) (2172,183) (2174,184) (2176,185) (2197,187) (2199,188) (2236,190) (2272,191) (2274,192) (2295,194) (2303,195) (2321,197) (2356,198) (2358,199) (2376,201) (2388,202) (2390,203) (2408,205) (2410,206) (2412,207) (2442,209) (2463,210) (2529,212) (2576,213) (2583,215) (2589,216) (2602,217) (2604,218) (2606,219) (2627,221) (2635,222) (2668,224) (2736,226) (2804,227) (2844,228) (2912,229) (2914,230) (2962,232) (2968,234) (3004,236) (3022,239) (3056,240) (3058,241) 
+character_select_back_out_and_fix_cam 7 (0,250) (36,257) (72,258) (124,259) (128,260) (164,261) (166,262) 
+get_car_photo_icon 20 (0,271) (76,273) (88,275) (114,276) (135,277) (139,278) (172,279) (210,281) (239,282) (261,284) (300,285) (336,290) (378,291) (384,292) (386,293) (388,294) (401,296) (403,298) (405,299) (419,301) 
+cleanup_photo_assets 14 (0,310) (64,312) (124,314) (142,317) (154,318) (156,319) (186,321) (207,322) (245,324) (274,325) (320,327) (338,328) (359,330) (367,332) 
+cleanup_all_photo_assets 10 (0,341) (9,343) (21,344) (23,345) (41,346) (62,347) (69,348) (73,349) (108,350) (110,351) 
+ui_destroy_character_selection 8 (0,361) (36,363) (72,364) (74,365) (80,367) (86,368) (104,369) (110,370) 
+ui_init_character_selection 44 (0,379) (36,383) (54,385) (101,386) (119,387) (123,388) (156,390) (192,391) (194,392) (200,395) (227,396) (245,398) (251,400) (292,402) (298,404) (332,405) (338,406) (372,407) (374,408) (412,410) (432,412) (468,413) (472,415) (494,417) (517,420) (536,422) (569,424) (575,427) (605,428) (660,430) (662,432) (666,434) (686,436) (720,437) (722,439) (724,441) (733,443) (769,445) (928,461) (934,462) (1000,463) (1036,464) (1038,466) (1040,467) 
+ui_deinit_character_selection 9 (0,476) (6,479) (25,481) (76,483) (78,484) (112,487) (118,489) (124,491) (160,494) 
+create_new_custom_character 36 (0,503) (36,504) (54,506) (120,507) (122,508) (128,512) (134,515) (140,518) (146,520) (165,523) (228,524) (230,525) (236,526) (254,529) (293,531) (311,533) (326,534) (330,535) (345,536) (347,537) (365,540) (383,542) (389,543) (424,544) (432,546) (439,547) (452,548) (465,549) (480,550) (482,551) (512,553) (557,555) (586,557) (616,558) (652,560) (728,562) 
+choose_character_to_edit 24 (28,571) (46,573) (112,574) (114,575) (152,577) (158,579) (160,580) (166,583) (196,585) (215,587) (276,588) (278,589) (284,590) (320,593) (356,595) (383,596) (385,597) (387,599) (396,600) (433,601) (435,602) (437,603) (488,604) (490,605) 
+purchase_character_to_edit 2 (0,614) (51,615) 
+purchase_character_continue_to_edit 3 (0,623) (30,625) (48,627) 
+purchase_character_to_play 2 (0,635) (51,636) 
+purchase_character_continue_to_play 3 (0,644) (30,646) (48,648) 
+choose_character_to_play 8 (28,656) (64,659) (70,662) (76,665) (82,668) (112,669) (155,672) (186,674) 
+change_character_focus 110 (0,683) (52,685) (124,686) (154,687) (187,689) (194,690) (206,691) (213,692) (215,693) (234,694) (246,695) (254,696) (266,697) (272,698) (284,699) (296,700) (304,701) (310,702) (343,703) (345,704) (347,705) (349,706) (351,707) (367,708) (380,709) (382,710) (388,711) (390,712) (396,713) (464,714) (532,715) (572,716) (640,717) (642,718) (708,719) (712,721) (745,723) (784,725) (797,727) (801,728) (814,730) (816,731) (823,733) (835,734) (842,735) (844,736) (864,737) (876,738) (884,739) (896,740) (902,741) (914,742) (926,743) (934,744) (940,745) (973,746) (975,747) (977,748) (979,749) (981,750) (998,751) (1011,752) (1013,753) (1019,754) (1021,755) (1025,757) (1031,758) (1033,759) (1039,761) (1076,763) (1109,764) (1176,765) (1178,766) (1182,767) (1248,768) (1250,769) (1316,770) (1349,772) (1388,774) (1401,776) (1414,777) (1418,778) (1484,779) (1497,780) (1510,781) (1512,782) (1528,784) (1549,785) (1565,786) (1567,787) (1612,788) (1652,789) (1656,790) (1696,791) (1698,792) (1700,794) (1702,796) (1740,798) (1773,799) (1780,800) (1792,801) (1800,802) (1816,803) (1861,804) (1863,805) (1869,806) (1871,807) (1873,808) (1875,809) (1915,812) 
+character_select_back_out 14 (0,821) (6,824) (44,827) (50,828) (54,829) (92,830) (127,832) (133,834) (165,835) (222,838) (224,840) (226,842) (228,843) (246,846) 
+delete_character_profile 8 (0,854) (6,857) (76,859) (106,860) (112,861) (144,862) (174,863) (222,864) 
+reset_preset_character 8 (0,871) (6,874) (76,876) (106,878) (124,880) (168,882) (170,883) (218,885) 
+cleanup_character_select_handlers 5 (0,894) (212,904) (218,906) (284,907) (352,908) 
+new_custom_char_focus 29 (0,916) (64,918) (70,919) (108,921) (120,924) (130,925) (164,926) (207,927) (220,928) (256,929) (299,930) (312,931) (348,932) (391,933) (399,934) (432,935) (475,936) (477,937) (481,938) (501,939) (544,940) (566,941) (609,942) (631,943) (674,944) (678,945) (721,946) (723,947) (725,948) 
+display_character_logic 35 (0,957) (76,959) (116,961) (148,962) (150,963) (188,966) (222,967) (260,970) (278,971) (311,972) (340,973) (342,974) (346,975) (376,976) (378,977) (382,978) (412,979) (414,980) (416,982) (418,983) (451,985) (472,986) (512,987) (544,988) (548,989) (589,990) (620,991) (624,992) (656,993) (658,994) (660,995) (664,996) (696,997) (698,998) (700,999) 
+get_custom_musician_bio 25 (0,1008) (76,1010) (84,1012) (94,1014) (140,1015) (153,1016) (199,1017) (212,1018) (258,1019) (271,1020) (317,1021) (330,1022) (376,1023) (389,1024) (435,1025) (448,1026) (494,1027) (507,1028) (553,1029) (566,1030) (612,1031) (620,1032) (648,1033) (650,1034) (664,1035) 
+external_edit_character 19 (0,1044) (36,1046) (72,1048) (90,1050) (137,1051) (155,1052) (159,1053) (192,1055) (228,1056) (230,1057) (250,1059) (256,1062) (274,1063) (301,1064) (332,1066) (354,1068) (398,1069) (425,1071) (460,1072) 
+is_custom_modified 24 (0,1081) (72,1083) (105,1085) (134,1087) (153,1088) (184,1089) (188,1090) (218,1091) (240,1092) (276,1093) (295,1094) (324,1096) (345,1097) (352,1098) (387,1099) (416,1100) (420,1101) (452,1102) (454,1103) (458,1105) (488,1106) (490,1107) (492,1109) (494,1111) 
+
+[Checksums]
+0xdc80beee scripts\guitar\menu\states\layouts\cas\ui_character_selection.qb
+0xb990d003 target
+0x8e411006 b
+0xccc9300a create_frontend_lock_targets
+0x6ff13018 spawn
+0x7c87801d get_custom_musician_bio
+0xaa7f2028 pad_l1
+0x0f7e902c nullscript
+0x475bf03c event_handlers
+0x033e4045 cas_current_player
+0xb7de6056 cas_edit_character_profile
+0x55d2b05b create_character_selection_vmenu
+0x059ea070 red
+0x65962075 character_select_num_custom_profiles
+0xf14f508a instrument_button
+0xbc6610a3 character_selection_animate_in
+0x0c7800b0 BottomUpHeap
+0xe4f130f4 s
+0x301dd0f9 GetGlobalTags
+0x7031f10c params
+0xf66ff117 in_game
+0x6276b11a pad
+0x73665140 CreateScreenElement
+0xbecd0146 create_new_custom_character
+0xcf66717b GotParam
+0xb8b0217d num_frames
+0xad01f188 max_num_create_a_rockers
+0xeec9418a character_id
+0x9ad1718f delete_custom_profile
+0xfaea61a2 band_name
+0x174841bc a
+0x03c6d1ca player_name
+0x6017f1cc ui_event
+0x749d71cd choose_yes_func
+0x3e0bf1cf get_musician_profile_struct_by_index
+0x2f6511de green
+0xbfa801df change
+0x3f75c1e5 external_edit_character
+0x3f93a1ef replace_handlers
+0xa1dc81f9 name
+0xcb5c11fa pad_option
+0x5c5e120a UIstate_character_selection
+0x5008320c autolaunch_cas_soak_test
+0xf042f21d cas_destroy_all_characters
+0x8b60022f just
+0x4ec17239 hide_old_character
+0x6e9a8251 fullname
+0x40d92263 TextBlockElement
+0x46159266 out
+0xbf21a27a Career_Guitar
+0xf335b287 DoNotResolve
+0x9bdb5289 is_custom_modified
+0x8012c29f SetSpawnInstanceLimits
+0xfa5822a7 no_helper_text
+0xe8d7a2a7 Glam Rock
+0x72d562b4 from_main_menu
+0x0cdca2b8 globaltag_getarraysize
+0x681f62c3 character_select_reset_sound
+0x2ec622d0 get_musician_profile_struct_by_id
+0xf6ab82f2 cas_current_savegame
+0x2c2812fc cancel_all_cas_loads
+0x3417c307 MemPopContext
+0x919da331 last_singleplayer_character
+0x656f5347 respond_to_signin_changed_func
+0x2841434c cas_set_object_node_pos
+0xa8ee7357 ScriptAssert
+0x4570735d Drummer
+0x2ffb1360 yellow
+0x0203b372 true
+0x05b3737a cas_player1
+0xee9bc392 SpawnScriptLater
+0x192bc3a2 pad_back_script
+0x65a1c3bc destroy_character_selection_menu
+0xc5f953c2 button
+0xac4f83dd new_custom_char_focus
+0xc5bc93ee ScreenElementExists
+0x2b9983f4 is_profile_unlocked
+0xff0db407 TextName
+0x17cdd408 character_select_edit_sound
+0x1d944426 not_focusable
+0x9277f428 FormatText
+0x8caed42d destroy_band_money_display
+0x45b84431 asset_name
+0xc6a0d43d Punk
+0xbd09544c func
+0x79b30453 customize_char_popup
+0xc8b6445d Rock
+0xa4cba477 achievements_creating_character
+0xfe2be489 g
+0x0f1f2495 axel_mug
+0xb74ce4a3 respond_to_signin_changed
+0xba0874ac reset_preset_character
+0x8733c4b0 new_custom_character_name
+0x39b5c4b0 GetArraySize
+0xb386e4c7 cleanup_photo_assets
+0xdeef04cd StructureContains
+0xcb9fb4cf bass
+0xbf0f14db center
+0xb52f44ef additional_focus_params
+0x8da97503 primary_controller
+0x0fb83507 destroy_frontend_lock_targets
+0x9d3fb516 focus
+0x64946516 CheckForSignin
+0x3bda151a is_allowed_part
+0x6722b533 d
+0x4c29c545 RequireParams
+0x61c9354b blue
+0xc451f558 event
+0xb6209561 character_name
+0xb8437568 pad_choose_params
+0xed238568 no_charsel
+0xe8a3d570 ui_memcard_autosave_replace
+0x5938c571 purchase_character_continue_to_play
+0x25303573 purchase_character_to_edit
+0x34a68574 dims
+0x2fca0578 options
+0x22df9584 bio
+0x67e6859a player
+0x76afa5a6 skip_add
+0x4be975bd generate_random_name
+0x4750d5cf blurb
+0x38f775d0 UIstate_customize_character
+0x8684c5d1 purchase_character_continue_to_edit
+0xfa8c35d3 purchase_character_to_play
+0x19ad45d5 choose_yes_params
+0x77ef75db cleanup_character_select_handlers
+0xe783c5e5 get_savegame_from_player_status
+0x713315ee first_character_hub_enter
+0x56e0d5f0 PhotoCreateImageAsset
+0x7ea855f0 profile
+0x7bb9c604 menu_replace
+0x4ac20606 cas_queue_new_character_profile
+0x2de8c60e printf
+0xa7d7c610 choose_script
+0x6f305617 from_difficulty
+0x9a6bd624 icon
+0x0223a64e rich_presence_context
+0xc07ef64e except
+0x3d92465e dont_assert
+0xa6f6a663 default_custom_musician_profile_female
+0x6749e668 Singer
+0x95741693 pad_option2
+0x4b27f6a2 cas_editing_new_character
+0x33fb36dc Goth
+0x2fa1f6ec UIstate_character_purchase
+0x26bf66f3 textblock
+0xd28d7711 current_progression_flag
+0x74297717 local
+0x56331720 fontgrid_text_a8
+0xd6b86721 array_name
+0x0d068725 CASCancelLoading
+0x2f6bf72d font
+0xb085b735 new_character_id
+0xc9d1c737 character_select_back_out
+0x8aa6d741 PhotoExistsInGlobalTags
+0x2cb33744 LaunchEvent
+0x15369756 Career_Bass
+0x24dab764 choose_character_to_play
+0x3ac1877c Guitarist
+0x33e0977e cas_free_resources
+0xc0a3e790 random_name
+0xd4c98794 title
+0xae7ee7a3 create_popup_warning_menu
+0xa4b8c7b0 presence_menus
+0x7a8017ba node
+0xfb66b7c4 choose_character_to_edit
+0xd43297cf false
+0xa366c7ef isGuitarController
+0x3e7727fa IsXenon
+0x41d56801 uistate_select_difficulty
+0x1a952806 PhotoDeleteImageAsset
+0x88d9a812 PhotoRemoveFromGlobalTags
+0x90fec815 structure
+0x86c19821 ss_focus_on_create_new_character
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0x3272583c UIstate_generic_dialogue
+0x9b0c084b any
+0xe5c2f84c is_female
+0x9d2d8850 z
+0x6d9ea873 create_band_money_display
+0xaf43c87b UIstate_create_character_gender
+0x2937888a set_cas_loading_setup
+0x40c698af id
+0x109a68b0 Heavy Metal
+0x7321a8d6 type
+0xb90a78d7 is_popup
+0x21cc38d9 ExtendCRC
+0x3558d8e6 single
+0xe62f48e9 Pop
+0x7f8c98fe index
+0x6cef5907 menu_change
+0xc637b908 savegamename
+0x2bd1d90f in_cas
+0x9dd1b91b CompareStructs
+0x0ad46922 controller_index
+0xeafc692e no_background
+0x9f8b4945 cas_queue_block
+0x7f261953 pos
+0xca3aa956 Black Metal
+0xb30d9965 controller
+0x0da6698d ignore_spawn_request
+0x1993c98e i
+0x1b639995 preset_icon
+0x3c15e9b6 DestroyScreenElement
+0x1b0509c5 savegame
+0xdae2a9cf setup
+0xd4d2c9df LB
+0x99bac9ea is_menu_camera_finished
+0x3329d9f4 cas_queue_add_request
+0xbc03e9f9 ui_deinit_character_selection
+0x61d499ff cas_free_resources_camera_fix
+0xdd69ba20 get_musician_profile_size
+0x91594a27 find_profile_by_id
+0x098b3a52 cas_heap_state
+0x53c2ba5a cas_get_player_status
+0xbf216a5d cas_current_appearance
+0x8a644a6b pad_back_params
+0x2c8a3a6d child_index
+0x3684ea70 ui_create_character_selection_spawned
+0x13f5ca78 cas_soak_test
+0x13b9da7b scale
+0xd9551a7c add_new_custom_profile
+0x7dcb7a7d ui_destroy_character_selection
+0xb08f3a83 ui_create_character_selection
+0x76fa7a8f checksumName
+0x91e14a94 Z_Soundcheck_TRG_Waypoint_CAR_Select
+0xf4b16ab0 management
+0x137ebac2 Classic Rock
+0x56a1eae3 root_window
+0xc29c7aeb is_profile_purchased
+0x19fa5af7 SpawnScriptNow
+0x5f261b21 make_character_selection_menu
+0x291b0b3d Jimi
+0x6e965b60 Bassist
+0xb9e54b8c cas_load_and_setup_resources
+0xe0df5b8d default_custom_musician_profile_male
+0xee20bb99 menu_index
+0xa57acbc4 is_completely_custom_musician
+0x5b4d3bfc axel
+0x4f4e9bfd destroy_popup_warning_menu
+0x7cafcc07 genre
+0x82117c1a wait
+0x8780ec1a ui_init_character_selection
+0x8ae2cc1c choose_yes_script
+0x87f75c2d n
+0x7bb2dc33 add_character_selection_item
+0x45ff2c3b Menu_Character_Bio_Panel
+0x1bff0c3d player_status
+0x0c714c3f menu_finish
+0x58c29c3f block_scripts
+0x53fb0c71 change_character_focus
+0x0df47c7a generate_random_genre
+0x80214c90 num_profiles_text
+0x520c0c9c data
+0x2b0cfca1 pad_choose_script
+0x44a31cb5 SetGlobalTags
+0x90356cb9 SetScreenElementProps
+0x43030ce1 Preset_Musician_Profiles_Modifiable
+0xd6521cee generic_event_back
+0xbdc53cf2 guitar
+0x7056ed02 RemoveParameter
+0x5c6c2d04 state
+0x11c47d05 cas_from_main_menu
+0xb7205d14 band
+0x2660cd26 additional_focus_script
+0x3537dd26 price
+0x66a54d2d generic_event_choose
+0x8bb08d3c ui_menu_select_sfx
+0x7f5b3d4d array_size
+0xcce9dd4d charselect_previous_character_id
+0x4ed8fd58 hide_glitch
+0xe440dd5d can_create_new_character
+0xcbfbed5d cas_current_player_name
+0x710fed62 character_select_delete_sound
+0xc7437d68 display_character_logic
+0x554c7d6f appearance
+0x6289dd76 max
+0xabdcbd77 pad_button
+0x911d9dab custom_profiles
+0x3f6bcdba rgba
+0x15d5ddcb profile_can_be_modified
+0xcfcdfdcc get_car_photo_icon
+0x27576dec isDrumController
+0x04537e00 bandplay
+0xc4e78e22 all
+0x254afe28 profile_exists
+0x5485ce2c cleanup_all_photo_assets
+0x7e149e2f nosound
+0xfd2c9e38 structurename
+0xce5fee3f cas_queue_kill_player
+0xc5543e68 restore_custom_musician_parts
+0x3e75be69 menu_over_ride_exclusive_device
+0x1fb19e6d generate_random_appearance
+0x5a7ece86 menu_back
+0xbe304e86 printstruct
+0xe23a4e87 orange
+0x54900e8f get_current_band_name
+0x940cde9c ChecksumEquals
+0x8842aea9 ui_event_wait
+0xaf6eeed0 delete_character_profile
+0x155a0edf IsAssetLoaded
+0x3946deea struct2
+0xa1598eed vmenu_id
+0xfc37df05 gameframe
+0x37bf4f09 base_name
+0x771cdf0a num_states
+0x30e75f0c new_car_character
+0xa19eef0e popup_warning_container
+0x02141f19 clean_up_user_control_helpers
+0x806fff30 none
+0x57710f31 z_priority
+0xb6f08f39 part
+0x82684f46 Career_Drum
+0xa04f8f50 struct1
+0x1178ff51 current_character_id
+0x2d97df54 is_selectable_profile
+0x49a39f55 character_select_back_out_and_fix_cam
+0x95554f58 cas_override_object
+0xeba28f88 focus_index
+0x65729f89 purchase_profile
+0xc2719fb0 parent
+0x2d474fb6 profile_struct
+0xeb117fd0 MemPushContext
+0xfee23fd3 stars
+0xd301ffdd soundevent
+0xa094dfde custom_char_icon
+0xeabb5fe2 this_id
+
+            [LineNumbers]
+ui_create_customize_character 89 (0,13) (36,15) (72,16) (108,18) (139,19) (172,21) (272,29) (308,31) (524,35) (558,37) (595,39) (607,40) (611,41) (625,42) (627,43) (636,45) (704,50) (706,51) (715,53) (727,54) (738,55) (750,56) (761,57) (773,58) (784,59) (796,60) (807,61) (819,62) (821,63) (828,65) (841,66) (862,67) (874,68) (956,69) (963,70) (975,71) (977,72) (1010,74) (1076,80) (1144,86) (1156,88) (1162,89) (1180,90) (1189,91) (1226,92) (1230,93) (1267,94) (1269,95) (1273,96) (1282,97) (1319,98) (1323,99) (1360,100) (1362,101) (1364,102) (1371,104) (1383,105) (1395,106) (1407,107) (1415,108) (1427,109) (1440,110) (1575,111) (1612,112) (1624,113) (1636,114) (1651,115) (1663,116) (1669,117) (1681,118) (1683,119) (1685,120) (1687,122) (1752,128) (1820,133) (1826,135) (1864,137) (1893,138) (1895,139) (1928,140) (1937,142) (2028,143) (2032,144) (2080,145) (2082,146) (2102,148) (2176,149) (2212,150) (2214,151) 
+ui_return_customize_character 2 (0,160) (36,162) 
+ui_destroy_customize_character 2 (0,172) (6,173) 
+ui_init_customize_character 2 (0,181) (6,183) 
+ui_deinit_customize_character 12 (0,193) (18,195) (84,196) (86,197) (104,199) (156,200) (160,201) (196,202) (198,203) (204,205) (240,207) (276,208) 
+name_entry_choose_script 3 (0,217) (46,219) (80,221) 
+get_genre_name 9 (0,230) (14,232) (26,233) (28,234) (65,236) (97,237) (99,238) (120,240) (128,241) 
+ui_return 2 (0,250) (36,251) 
+customize_character_save_prompt 9 (0,258) (34,260) (55,262) (70,263) (120,264) (156,265) (160,266) (252,267) (254,268) 
+is_from_singleplayer_hub 10 (0,277) (6,279) (18,281) (20,282) (81,283) (112,284) (114,285) (135,286) (143,287) (172,289) 
+return_to_singleplayer_hub 19 (0,298) (34,300) (68,302) (89,304) (104,305) (154,306) (160,307) (164,308) (170,309) (179,310) (214,311) (248,312) (252,313) (258,314) (260,315) (264,316) (300,317) (302,318) (304,319) 
+
+[Checksums]
+0xd928e840 scripts\guitar\menu\states\layouts\cas\ui_customize_character.qb
+0xb990d003 target
+0x6ff13018 spawn
+0x94a5103b ui_event_get_stack
+0x033e4045 cas_current_player
+0x6fc7b069 icon_name_italian
+0x3d76d0d0 icon_name
+0xf66ff117 in_game
+0xb2d8113c create_customize_character_vmenu
+0xbcb07141 hair_colorwheel
+0x04af9163 stack_size
+0xcf66717b GotParam
+0x508a31a1 French
+0xafa7d1a9 ui_return
+0xe30ba1c2 z_SoundCheck_TRG_Waypoint_CAR_Start
+0x6017f1cc ui_event
+0xbfa801df change
+0xa1dc81f9 name
+0x3cd9d1fc setup_cas_menu_handlers
+0x0b455225 icon_name_german
+0xefe30239 color_wheel
+0x6e9a8251 fullname
+0xbf17a257 show_history
+0x80db125a hist_tex
+0x68a04270 cas_current_profile
+0x2ec622d0 get_musician_profile_struct_by_id
+0xf6ab82f2 cas_current_savegame
+0x2841434c cas_set_object_node_pos
+0xa8ee7357 ScriptAssert
+0x0203b372 true
+0x14aa037e UIstate_popout_select_part
+0x192bc3a2 pad_back_script
+0x6ca9a3a5 selected_index
+0x1d944426 not_focusable
+0x8caed42d destroy_band_money_display
+0x14e5943f generic_menu_animate_in
+0x068e2458 not_replace
+0xbe578495 stack
+0x39b5c4b0 GetArraySize
+0x9d3fb516 focus
+0x64946516 CheckForSignin
+0x9836251b cam_name
+0x0acc054f car_helper_text
+0xc451f558 event
+0xb8fda564 icon_body
+0x67e6859a player
+0x3acee5c0 add_generic_menu_icon_item
+0x713315ee first_character_hub_enter
+0xe88e660c destroy_generic_menu
+0xa7d7c610 choose_script
+0x8d693612 disallow_band_edit_char_spam
+0x61a9e61b hair_cam_name
+0x9a6bd624 icon
+0xa8469630 Italian
+0x4686163a make_generic_menu
+0x0223a64e rich_presence_context
+0xb6ce8659 customize_character_save_prompt
+0x0028d66a find_physique_height
+0x1ec69675 get_genre_name
+0x3f6e367e zoom_camera
+0xa944c681 bandmanager_changestance
+0x4b27f6a2 cas_editing_new_character
+0x5ccd66da UIstate_cas_text_entry
+0x74297717 local
+0x2cb33744 LaunchEvent
+0x33e0977e cas_free_resources
+0xd4c98794 title
+0xdc5397a0 ui_return_customize_character
+0x7a8017ba node
+0x4ef487c3 UIstate_customize_character_head
+0xd43297cf false
+0x3e7727fa IsXenon
+0x77f49808 frontend_desc
+0x1a315809 genre_name
+0xc4745838 text
+0xc4a6584a icon_head
+0x4bb2084e desc_id
+0x239a5860 KillSkaterCamAnim
+0xea10986a exit_skip_save
+0x6d9ea873 create_band_money_display
+0x8390b87f cas_object
+0x2937888a set_cas_loading_setup
+0x40c698af id
+0x8ff368b5 UIstate_customize_character_instrument
+0x808918ce text_case
+0x7321a8d6 type
+0xb90a78d7 is_popup
+0xea3cb8e1 exit_save_changes
+0x3558d8e6 single
+0x145c98fb is_from_singleplayer_hub
+0x6cef5907 menu_change
+0x9dd1b91b CompareStructs
+0x0ad46922 controller_index
+0x5eb7394b return_to_singleplayer_hub
+0xb30d9965 controller
+0x1993c98e i
+0x2b5c59bc custom_musician
+0x1b0509c5 savegame
+0xdae2a9cf setup
+0x633e59ef CAS_Hair
+0x2a14da1b exit_discard_changes
+0x098b3a52 cas_heap_state
+0x53c2ba5a cas_get_player_status
+0xbf216a5d cas_current_appearance
+0x2c8a3a6d child_index
+0x98a50a90 UIstate_save_changes_dialogue
+0xcbe70acb Spanish
+0x1482dae0 GetCurrentCASObject
+0x32af7aed UIstate_customize_character_body
+0x0ab21af0 height
+0x19fa5af7 SpawnScriptNow
+0x3f9f2b04 name_entry_choose_script
+0x61cb6b16 no_changes
+0xf1ff8b68 choose_state
+0x31dc7bab camera_list
+0xf7521bb0 debug_allow_modify_preset_characters
+0xe3298bc0 ui_init_customize_character
+0xa57acbc4 is_completely_custom_musician
+0x95d70bdd icon_outfit
+0x24e8bc01 Stance_FrontEnd
+0x7cafcc07 genre
+0x1bff0c3d player_status
+0x0c714c3f menu_finish
+0x58c29c3f block_scripts
+0x304f9c52 icon_instrument
+0x0c662c92 icon_name_spanish
+0x520c0c9c data
+0x2b0cfca1 pad_choose_script
+0x7d02bcc3 stance
+0x0604dcda icon_name_french
+0x5c6c2d04 state
+0x66a54d2d generic_event_choose
+0x4e8b5d34 UIstate_helper_dialogue
+0x8cf25d39 shutdown_game_for_signin_change_flag
+0x7a441d45 ready2rock
+0x7f5b3d4d array_size
+0xd4265d59 ui_create_customize_character
+0x554c7d6f appearance
+0x19621da7 ui_destroy_customize_character
+0x16d19dc2 choose_state_data
+0x69fa6dc8 UIstate_customize_character_outfit
+0xd37cfdff English
+0xd8343e0f focusable_flags
+0x00dade17 Genre_List
+0x780a1e1e is_female_char
+0xc4e78e22 All
+0xd8aa8e23 ui_deinit_customize_character
+0x9d01de71 has_entered_CAR_before
+0x5a7ece86 menu_back
+0xc3e37ed5 modify_custom_profile_fullname
+0x3946deea struct2
+0xa1598eed vmenu_id
+0xb2161ef7 num_icons
+0x37bf4f09 base_name
+0xed6d6f30 presence_rockstar_creator
+0x806fff30 none
+0xb6f08f39 part
+0xa04f8f50 struct1
+0x5dcbbf5e German
+0xd08d8f7a original
+0x66120f7f Stance_Select_Hair
+0x2d474fb6 profile_struct
+0xffa2cfcf icon_hair
+
+    [LineNumbers]
+ui_create_customize_character_body 23 (0,9) (100,16) (312,20) (319,22) (331,23) (343,24) (351,25) (363,26) (375,27) (497,28) (534,29) (548,30) (560,31) (572,32) (584,33) (599,34) (601,35) (613,36) (615,37) (680,43) (748,48) (816,53) (852,55) 
+ui_destroy_customize_character_body 2 (0,65) (6,66) 
+
+[Checksums]
+0x7a0041a1 scripts\guitar\menu\states\layouts\cas\ui_customize_character_body.qb
+0x593a516c SkinTone
+0x3cd9d1fc setup_cas_menu_handlers
+0xfd033216 skin_colorwheel
+0xefe30239 color_wheel
+0xbf17a257 show_history
+0x80db125a hist_tex
+0x24613344 CAS_Body
+0x19ff83f8 UIstate_customize_character_appearance
+0xddbaa4a9 UIstate_cas_color_edit
+0x0acc054f car_helper_text
+0x0c219577 UIstate_customize_character_body_art
+0x3acee5c0 add_generic_menu_icon_item
+0xe88e660c destroy_generic_menu
+0x9a6bd624 icon
+0xf088f626 ui_destroy_customize_character_body
+0x4686163a make_generic_menu
+0x3f6e367e zoom_camera
+0xcdc3f6a0 back_state
+0xd9daa74b UIstate_customize_character_proportions
+0xa4c5d762 part_materials
+0x8b9d1765 icon_presence
+0xd4c98794 title
+0xfd8697e1 Skin
+0xc4745838 text
+0x94958abc icon_size
+0xb1208b30 UIstate_customize_character_stage_presence
+0xf1ff8b68 choose_state
+0x5e0f3b9f customize_body_vmenu
+0x31dc7bab camera_list
+0x955fcc38 ui_create_customize_character_body
+0x0c714c3f menu_finish
+0x22236c98 icon_graphics
+0x16d19dc2 choose_state_data
+0xa1598eed vmenu_id
+0xb2161ef7 num_icons
+0x771cdf0a num_states
+0xb6f08f39 part
+
+             [LineNumbers]
+ui_create_customize_character_body_art 59 (0,9) (84,15) (296,18) (303,20) (315,21) (327,22) (339,23) (347,24) (362,25) (374,26) (386,27) (418,28) (533,29) (570,30) (582,31) (594,32) (606,33) (618,34) (630,35) (632,36) (634,37) (641,38) (653,39) (665,40) (677,41) (685,42) (700,43) (712,44) (724,45) (760,46) (891,47) (928,48) (940,49) (952,50) (964,51) (976,52) (988,53) (990,54) (992,55) (999,56) (1011,57) (1023,58) (1035,59) (1043,60) (1058,61) (1070,62) (1082,63) (1117,64) (1244,65) (1281,66) (1293,67) (1305,68) (1317,69) (1329,70) (1341,71) (1343,72) (1345,73) (1380,79) (1428,81) 
+ui_destroy_customize_character_body_art 2 (0,91) (6,92) 
+hide_torso_parts_for_body_art 10 (0,100) (6,101) (80,102) (156,103) (165,104) (240,105) (244,106) (320,107) (322,108) (328,110) 
+unhide_torso_parts_for_body_art 2 (0,118) (48,119) 
+
+[Checksums]
+0x5e605bd1 scripts\guitar\menu\states\layouts\cas\ui_customize_character_body_art.qb
+0xb990d003 target
+0x0e52f043 PushTemporaryCASAppearance
+0x9b598086 BodyArt_RightArm
+0x3cd9d1fc setup_cas_menu_handlers
+0xbf17a257 show_history
+0x80db125a hist_tex
+0xc54dc25e Stance_Select_Tat_Chest
+0xf6ab82f2 cas_current_savegame
+0x24613344 CAS_Body
+0x6ca9a3a5 selected_index
+0x2457f44d Body
+0xa4678485 Stance_Select_Tat_Arm_L
+0xd1c554d0 Left Arm
+0x9d3fb516 focus
+0x9836251b cam_name
+0x9e2ee54e div_id
+0x0acc054f car_helper_text
+0x3336956b CAS_Acc_Left
+0xb9eda58b SetCASAppearancePartInstance
+0x3acee5c0 add_generic_menu_icon_item
+0xd713b5c1 F_Fun_Torso_Bra
+0x4871b5fd RebuildCurrentCASModel
+0xe88e660c destroy_generic_menu
+0x9a6bd624 icon
+0x4686163a make_generic_menu
+0x3f6e367e zoom_camera
+0x53476743 BodyArt_Chest
+0x2cb33744 LaunchEvent
+0x75b2077f Shirtless
+0xd4c98794 title
+0xc4745838 text
+0x4bb2084e desc_id
+0x7321a8d6 type
+0x862e48dd create_customize_character_body_art_vmenu
+0xc19f796a part_list
+0x80768988 ui_create_customize_character_body_art
+0x1b0509c5 savegame
+0x5e68b9e6 Stance_Select_Tat_Arm_R
+0xff889a51 CAS_Acc_Right
+0x2c8a3a6d child_index
+0x69ce0a79 Right Arm
+0x2a9dcb5e part_instance
+0xf1ff8b68 choose_state
+0x09f3fb6f additional_deinit_script
+0x31dc7bab camera_list
+0x0c714c3f menu_finish
+0x520c0c9c data
+0x7d02bcc3 stance
+0xa17ccd19 CAS_Torso
+0xacc4fd2e BodyArt_LeftArm
+0x16d19dc2 choose_state_data
+0x780a1e1e is_female_char
+0xd9f19edd unhide_torso_parts_for_body_art
+0xa1598eed vmenu_id
+0xb2161ef7 num_icons
+0x2013cf11 hide_torso_parts_for_body_art
+0x806fff30 none
+0xb6f08f39 part
+0xc4e3df4a MergePartIntoTemporaryCASAppearance
+0xeaed0f6d ui_destroy_customize_character_body_art
+0x55f5ef8a UIstate_cap_main
+0xe06b8ff1 additional_init_script
+
+               [LineNumbers]
+ui_create_customize_character_head 57 (0,9) (100,16) (332,20) (400,26) (412,28) (796,43) (798,44) (848,46) (884,47) (891,49) (903,50) (915,51) (927,52) (935,53) (947,54) (959,55) (972,56) (984,57) (996,58) (1002,59) (1014,60) (1026,61) (1038,62) (1173,63) (1210,64) (1212,65) (1214,66) (1248,67) (1250,69) (1300,71) (1336,72) (1343,73) (1355,74) (1367,75) (1379,76) (1387,77) (1399,78) (1411,79) (1424,80) (1436,81) (1448,82) (1454,83) (1466,84) (1478,85) (1490,86) (1625,87) (1662,88) (1664,89) (1666,90) (1700,91) (1702,93) (2160,112) (2166,114) (2204,116) (2238,117) (2240,118) (2276,120) 
+ui_return_customize_character_head 2 (0,129) (36,131) 
+ui_destroy_customize_character_head 2 (0,141) (6,142) 
+ui_init_customize_character_head 2 (0,150) (36,151) 
+hide_car_parts_for_face_paint 7 (0,159) (6,160) (80,161) (156,162) (232,163) (308,164) (314,165) 
+unhide_car_parts_for_face_paint 2 (0,173) (48,174) 
+
+[Checksums]
+0x15783dbb scripts\guitar\menu\states\layouts\cas\ui_customize_character_head.qb
+0x0e52f043 PushTemporaryCASAppearance
+0x92d490ae icon_lips
+0xe9043116 ui_create_customize_character_head
+0x80dab125 target_desc_id
+0xcf66717b GotParam
+0xa1dc81f9 name
+0x3cd9d1fc setup_cas_menu_handlers
+0xbf17a257 show_history
+0x80db125a hist_tex
+0x92ead2a2 customize_head_vmenu
+0x24613344 CAS_Body
+0x14aa037e UIstate_popout_select_part
+0x9836251b cam_name
+0xad76753b ui_init_customize_character_head
+0x9e2ee54e div_id
+0x0acc054f car_helper_text
+0xb9eda58b SetCASAppearancePartInstance
+0x6641d5b1 icon_face
+0x3acee5c0 add_generic_menu_icon_item
+0x4871b5fd RebuildCurrentCASModel
+0xe88e660c destroy_generic_menu
+0x39df261c return_stance
+0x9a6bd624 icon
+0x4686163a make_generic_menu
+0x3f6e367e zoom_camera
+0xa944c681 bandmanager_changestance
+0xcdc3f6a0 back_state
+0x4fced6cb ui_load_cas_rawpak
+0xd4c98794 title
+0x63af57f5 UIstate_cap_artist_layer_popout
+0xc4745838 text
+0x4bb2084e desc_id
+0x8390b87f cas_object
+0xf90d58c6 hide_car_parts_for_face_paint
+0xb90a78d7 is_popup
+0x5d1698fa Stance_Select_head
+0x00ef090a unhide_car_parts_for_face_paint
+0xaa7fe952 get_section_index_from_desc_id
+0xe91b995e UIstate_character_face_deformation
+0x580c0963 Head
+0x4c450964 CAS_Acc_Face
+0xc19f796a part_list
+0x633e59ef CAS_Hair
+0x5b335ab6 CAS_Hat
+0x1482dae0 GetCurrentCASObject
+0x8cd30b08 ui_destroy_customize_character_head
+0x43a52b3b CAS_Hat_Hair
+0xa659fb40 icon_makeup
+0x2a9dcb5e part_instance
+0xf1ff8b68 choose_state
+0x09f3fb6f additional_deinit_script
+0xbd876b8e icon_facial_hair
+0x31dc7bab camera_list
+0xf4cd2bbb Lip Makeup
+0x0c714c3f menu_finish
+0x22236c98 icon_graphics
+0x7d02bcc3 stance
+0x7056ed02 RemoveParameter
+0x90437d4f Eye makeup
+0x16d19dc2 choose_state_data
+0x2f332deb ui_return_customize_character_head
+0x2a4efdfd CAS_Male_Facial_Hair
+0x780a1e1e is_female_char
+0xa651ae55 no_wait
+0xa1598eed vmenu_id
+0xb2161ef7 num_icons
+0x806fff30 none
+0x577e1f34 UIstate_cas
+0xb6f08f39 part
+0xc4e3df4a MergePartIntoTemporaryCASAppearance
+0x55f5ef8a UIstate_cap_main
+0xe8dbff9a section_index
+0xe06b8ff1 additional_init_script
+
+                           [LineNumbers]
+ui_create_customize_character_mic 36 (0,9) (40,11) (71,12) (84,13) (102,14) (104,15) (188,24) (408,26) (415,28) (427,29) (439,30) (451,31) (472,32) (474,33) (481,35) (488,37) (500,38) (512,39) (524,40) (609,41) (622,42) (624,43) (631,45) (643,46) (655,47) (667,48) (740,49) (753,50) (755,51) (892,59) (1028,68) (1064,70) (1070,72) (1104,73) (1138,74) (1186,77) 
+ui_return_customize_character_mic 2 (0,86) (36,87) 
+ui_destroy_customize_character_mic 2 (0,96) (6,97) 
+ui_init_customize_character_mic 2 (0,105) (36,107) 
+ui_deinit_customize_character_mic 2 (0,116) (36,118) 
+customize_character_mic_exit_save 13 (0,127) (31,130) (51,131) (57,132) (92,133) (98,134) (148,135) (152,136) (158,137) (160,138) (164,139) (170,140) (172,141) 
+
+[Checksums]
+0x59b44e55 scripts\guitar\menu\states\layouts\cas\ui_customize_character_mic.qb
+0xb990d003 target
+0x0f7e902c nullscript
+0x5ad6606f globaltag_getarraychecksum
+0x18218093 ui_return_customize_character_mic
+0xe9576099 autoSizeDims
+0x73665140 CreateScreenElement
+0xd48b0147 UIstate_cas_save_slots
+0x01dd615f DescInterface
+0xcf66717b GotParam
+0x558d91c5 ui_init_customize_character_mic
+0xa1dc81f9 name
+0x3cd9d1fc setup_cas_menu_handlers
+0xbf17a257 show_history
+0x80db125a hist_tex
+0x27ff82c0 old_save_checksum
+0xf6ab82f2 cas_current_savegame
+0x2c11b30e dim_save_option_for_guest
+0x0203b372 true
+0x6ca9a3a5 selected_index
+0xf44a53ab desc
+0x36339408 icon_save
+0x1d944426 not_focusable
+0x686ba452 AxeSmith_Menu_Item_img_texture
+0x3af31455 Stance_Select_Mic
+0x30e4748c cag_update_photo
+0x9d3fb516 focus
+0x64946516 CheckForSignin
+0x89bd7520 generate_random_instrument
+0xd786d547 load_guitar
+0x0acc054f car_helper_text
+0xc451f558 event
+0xb8437568 pad_choose_params
+0x7409d58b customize_character_mic_exit_save
+0x3acee5c0 add_generic_menu_icon_item
+0xe88e660c destroy_generic_menu
+0x2de8c60e printf
+0xc3409622 instrument
+0x9a6bd624 icon
+0x4686163a make_generic_menu
+0x3f6e367e zoom_camera
+0xa944c681 bandmanager_changestance
+0xb1ee4709 icon_random
+0x74297717 local
+0xd6b86721 array_name
+0xa0ef573d array_checksum
+0x2cb33744 LaunchEvent
+0xd4c98794 title
+0x440717f1 ui_destroy_customize_character_mic
+0xc4745838 text
+0xa2a4d849 pad_choose_sound
+0x27abd858 ui_event_add_params
+0x8390b87f cas_object
+0x7321a8d6 type
+0x098f2916 loaded_index
+0x0ad46922 controller_index
+0xb30d9965 controller
+0x1b0509c5 savegame
+0xeb235a37 UIstate_customize_character_mic_main
+0x53c2ba5a cas_get_player_status
+0x2c8a3a6d child_index
+0x3adf7aac rebuild
+0x46534acb icon_load
+0xf04afadf save_guitar
+0x1482dae0 GetCurrentCASObject
+0xf1ff8b68 choose_state
+0x31dc7bab camera_list
+0x1bff0c3d player_status
+0x0c714c3f menu_finish
+0x04fe8c71 ui_memcard_autosave
+0x520c0c9c data
+0x2b0cfca1 pad_choose_script
+0x7d02bcc3 stance
+0xd6521cee generic_event_back
+0xe3e97d00 instrument_info
+0x89cb1d06 player_mic_save
+0x651ead70 slot_list
+0x16d19dc2 choose_state_data
+0xe8e6adcb vocals
+0xe144ddcc change_cas_instrument_if_necessary
+0xa651ae55 no_wait
+0x5a7ece86 menu_back
+0xa71e6ea4 micdrum_sponsor
+0xa1598eed vmenu_id
+0xb2161ef7 num_icons
+0x771cdf0a num_states
+0x806fff30 none
+0x36299f54 ui_deinit_customize_character_mic
+0x23e4cfa9 ui_create_customize_character_mic
+0xc2719fb0 parent
+0xd65fbfd2 create_customize_character_mic_vmenu
+0x1ec04ff1 icon_customize
+
+                       [LineNumbers]
+ui_create_customize_character_proportions 82 (0,9) (40,11) (108,12) (110,13) (143,15) (193,16) (195,17) (276,25) (488,29) (524,31) (530,33) (542,34) (576,36) (612,37) (619,38) (631,39) (643,40) (655,41) (668,42) (680,43) (700,44) (712,45) (724,46) (756,47) (768,48) (800,49) (812,50) (824,51) (836,52) (848,53) (963,54) (1000,55) (1002,56) (1004,57) (1018,59) (1030,60) (1032,61) (1070,63) (1125,65) (1163,67) (1212,68) (1256,69) (1263,70) (1276,71) (1309,72) (1342,73) (1355,74) (1368,75) (1381,76) (1414,77) (1426,78) (1478,79) (1490,80) (1542,81) (1575,82) (1587,83) (1599,84) (1611,85) (1726,86) (1763,87) (1765,88) (1769,89) (1776,90) (1789,91) (1801,92) (1813,93) (1833,94) (1835,96) (1837,97) (1839,98) (1841,100) (1862,102) (1870,103) (1877,105) (1889,106) (1901,107) (1913,108) (1945,109) (1957,110) (1959,111) (1992,113) (2028,115) 
+ui_destroy_customize_character_proportions 2 (0,125) (6,126) 
+ui_init_customize_character_proportions 2 (0,134) (6,135) 
+ui_deinit_customize_character_proportions 3 (0,143) (36,146) (42,148) 
+reset_physique_to_default 17 (0,156) (18,158) (36,160) (72,162) (86,164) (98,165) (100,166) (138,168) (145,170) (158,171) (171,172) (204,173) (206,174) (236,175) (238,176) (259,178) (267,179) 
+update_physique 5 (0,188) (18,190) (52,192) (98,194) (135,196) 
+reset_proportion_widget 6 (0,206) (38,208) (82,209) (111,210) (113,211) (164,213) 
+find_phyique_number 26 (0,222) (40,224) (108,225) (110,226) (143,228) (193,229) (195,230) (232,232) (268,234) (281,235) (320,237) (332,239) (344,240) (346,241) (377,243) (412,244) (447,246) (470,247) (484,248) (486,249) (507,251) (515,252) (517,254) (519,255) (552,257) (584,258) 
+find_physique_height 3 (28,267) (80,269) (94,270) 
+
+[Checksums]
+0xb21cdc3c scripts\guitar\menu\states\layouts\cas\ui_customize_character_proportions.qb
+0xebc0d000 pad_right_script
+0x8e411006 b
+0x0e52f043 PushTemporaryCASAppearance
+0x7a3d505b buildscriptparams
+0x84aa006e additional_bone_transforms
+0x38c010aa create_customize_character_proportions_vmenu
+0xe4f130f4 s
+0x45ea1101 reset_physique_to_default
+0xddd29170 fill_type
+0xcf66717b GotParam
+0x174841bc a
+0xbc4601c3 step
+0x6017f1cc ui_event
+0x3cd9d1fc setup_cas_menu_handlers
+0x5e84e22f min
+0x1d12d237 update_bone_deformation
+0xbf17a257 show_history
+0xb32fa2cc SetCASAppearanceAdditionalBones
+0x299ee352 buildScript
+0xa8ee7357 ScriptAssert
+0x0679638c reset_additional_bone_deform_info
+0xb6eff393 physique_num
+0x3a70639b cas_get_bone_slider_value
+0x192bc3a2 pad_back_script
+0x646bf3ba NullSound
+0xced933f4 cas_physique_bone_options
+0x1a1ee416 new_value
+0x9277f428 FormatText
+0x569b244b pad_down_script
+0x0f8a5493 button_widget_set_value
+0x39b5c4b0 GetArraySize
+0xdeef04cd StructureContains
+0x3b6af503 deform_bones
+0x3f20752c pad_up_script
+0xd0cbc53f init_script
+0x7a95a557 t
+0xc451f558 event
+0xb8437568 pad_choose_params
+0xfa1a4573 deform_info
+0xbf1045b1 find_bone_deform_info
+0x3acee5c0 add_generic_menu_icon_item
+0xa655b5c5 min_slider
+0x8f61d602 ArrayName
+0xe88e660c destroy_generic_menu
+0x2de8c60e Printf
+0xe126860e cas_bonemenu_begin
+0x9a6bd624 icon
+0x4686163a make_generic_menu
+0x0028d66a find_physique_height
+0x3f6e367e zoom_camera
+0x4f3c769f deform_array
+0x377556bb GetCASAppearancePart
+0xd9fd66c3 ui_init_customize_character_proportions
+0x2c5176d1 find_phyique_number
+0xa0ef573d array_checksum
+0xd4c98794 title
+0x36f7f794 ui_deinit_customize_character_proportions
+0xcf04e7c9 bone_deform_info
+0xe288a7cb value
+0x51a1a7d0 character_reset
+0x3ef5a7df pad_left_params
+0x90fec815 structure
+0x22bdd82b accept_script
+0xc4745838 text
+0xa2a4d849 pad_choose_sound
+0x4bb2084e desc_id
+0xb4282855 widget_init_cap
+0x2e2b88ba reset_proportion_widget
+0x4a80c8c4 bonemenu
+0x128ef8e1 widget_default
+0x00f28922 CAS_Physique
+0x450ca94f widget_restore_cap
+0xca839981 deinit_script
+0x96421981 preset_bones
+0x1993c98e i
+0xeef0d9aa preset_builds
+0xc56e59c2 cas_create_bonemenu_slider
+0x788f59c9 pad_right_params
+0x04177a1d widget_id
+0x743a0a20 ui_create_customize_character_proportions
+0x0bc06a21 CastToInteger
+0x8a644a6b pad_back_params
+0x8886da89 group_name
+0x76fa7a8f checksumname
+0x0ecadab0 Physique_widget
+0x0ab21af0 Height
+0x47930b5f cas_refresh_given_bone_slider
+0x31dc7bab camera_list
+0x0c714c3f menu_finish
+0x1d72dc4e reskin_model_from_appearance
+0x77c5ac8f widget_spread
+0x2b0cfca1 pad_choose_script
+0xa4202cb9 update_physique
+0x46c5dcc2 widget_accept_cap
+0x815d6cd6 add_bone_checksum
+0xac6ffce5 pad_up_params
+0x03daecee GetActualCASOptionStruct
+0xd1176d00 ui_destroy_customize_character_proportions
+0xc1ab9d18 button_widget_add_item
+0x97ddbd3a start_value
+0x7f5b3d4d array_size
+0x6289dd76 max
+0xc5d4ad82 pad_down_params
+0x248f3d82 kill_objects
+0xdbd24dd3 reset_bone_deform_info
+0xadba2e16 pad_left_script
+0x79eefe35 car_helper_text_back
+0x891e6e3a UpdateCurrentCASModel
+0x32b10e57 PopTemporaryCASAppearance
+0xb866de7e button_icon
+0xbe304e86 printstruct
+0x5a7ece86 menu_back
+0x940cde9c ChecksumEquals
+0x31a11ea3 Left to Right
+0xa1598eed vmenu_id
+0xb2161ef7 num_icons
+0xb6f08f39 part
+0x81afaf4b GenerateChecksumFromArray
+0xa7592f71 max_slider
+0xd301ffdd soundevent
+0x5cb25fe8 cas_bonemenu_exit
+0x3038eff8 slider
+
+                 [LineNumbers]
+ui_create_customize_character_stage_presence 7 (0,9) (84,16) (352,20) (788,37) (1224,53) (1660,69) (1696,71) 
+ui_return_customize_character_stage_presence 2 (0,80) (36,82) 
+ui_destroy_customize_character_stage_presence 2 (0,92) (6,93) 
+
+[Checksums]
+0x70d61180 scripts\guitar\menu\states\layouts\cas\ui_customize_character_stage_presence.qb
+0x5abf20c1 CAS_Intro_Anim
+0x1513b118 CAS_Lose_Anim
+0x3cd9d1fc setup_cas_menu_handlers
+0xd778b224 stage_presence_vmenu
+0xbf17a257 show_history
+0x80db125a hist_tex
+0x8cc06264 CAS_Win_Anim
+0x0203b372 true
+0x14aa037e UIstate_popout_select_part
+0x0acc054f car_helper_text
+0x8e0c6566 play_current_anim
+0x3acee5c0 add_generic_menu_icon_item
+0xe88e660c destroy_generic_menu
+0x9a6bd624 icon
+0x4686163a make_generic_menu
+0x3f6e367e zoom_camera
+0xb6de36bf Presence_Wins
+0xd4c98794 title
+0xc4745838 text
+0x192f68d0 ui_destroy_customize_character_stage_presence
+0xb90a78d7 is_popup
+0xc182c919 ui_return_customize_character_stage_presence
+0xccc80a5f Presence_Intro
+0xf1ff8b68 choose_state
+0x31dc7bab camera_list
+0xa8592c16 Presence_Loses
+0x0c714c3f menu_finish
+0x16d19dc2 choose_state_data
+0x0379fe30 disable_rotation_zoom
+0xa1598eed vmenu_id
+0xb2161ef7 num_icons
+0xb9fe0f1c hist_name
+0xb6f08f39 part
+0x4e018f80 ui_create_customize_character_stage_presence
+
+    [LineNumbers]
+ui_create_save_changes_dialogue 53 (0,9) (12,11) (18,12) (27,13) (76,14) (88,15) (90,16) (126,18) (138,19) (140,20) (142,21) (176,22) (194,23) (206,24) (208,25) (216,27) (226,28) (238,29) (250,30) (262,31) (274,32) (287,33) (299,34) (311,35) (323,36) (335,37) (337,38) (344,40) (357,41) (365,42) (378,43) (380,44) (386,45) (394,46) (396,47) (409,48) (422,49) (424,50) (426,51) (438,52) (450,53) (452,54) (454,55) (466,56) (478,57) (480,58) (482,59) (490,61) (516,62) (542,63) (556,64) (558,65) (624,68) 
+ui_destroy_save_changes_dialogue 2 (0,77) (6,78) 
+exit_save_changes 48 (0,86) (52,89) (89,91) (123,92) (125,93) (131,95) (137,97) (143,100) (189,101) (195,104) (227,105) (236,108) (283,109) (285,110) (303,113) (335,114) (355,115) (389,116) (409,117) (411,118) (413,119) (431,121) (437,123) (439,124) (445,126) (479,128) (491,130) (528,131) (540,132) (542,133) (554,135) (556,136) (604,137) (635,139) (676,141) (678,142) (741,143) (772,145) (813,147) (815,148) (861,149) (902,150) (904,151) (906,152) (927,153) (935,154) (968,156) (1009,158) 
+exit_discard_changes 43 (0,168) (6,169) (12,171) (18,173) (38,177) (44,180) (78,182) (84,184) (127,185) (156,187) (160,188) (192,189) (194,190) (198,192) (236,194) (254,196) (260,198) (262,199) (266,201) (272,204) (342,206) (344,208) (376,210) (378,212) (384,214) (396,216) (398,217) (446,218) (477,220) (512,222) (514,223) (577,224) (608,226) (644,228) (646,229) (692,230) (728,231) (730,232) (732,233) (753,234) (761,235) (796,237) (832,239) 
+exit_skip_save 35 (0,247) (52,250) (89,257) (123,258) (125,259) (131,261) (137,263) (143,266) (189,267) (195,270) (227,271) (236,274) (283,275) (285,276) (303,278) (309,280) (311,281) (317,283) (329,285) (331,286) (379,287) (410,289) (444,291) (446,292) (509,293) (540,295) (576,297) (578,298) (624,299) (660,300) (662,301) (664,302) (685,303) (693,304) (728,306) 
+
+[Checksums]
+0xcc826740 scripts\guitar\menu\states\layouts\cas\ui_save_changes_dialogue.qb
+0x94a5103b ui_event_get_stack
+0x033e4045 cas_current_player
+0x059ea070 red
+0x36e6f0b5 generic_menu_up_or_down_sound
+0x301dd0f9 GetGlobalTags
+0x7031f10c params
+0x04af9163 stack_size
+0xcf66717b GotParam
+0xeec9418a character_id
+0xbc6b118f up
+0x9ad1718f delete_custom_profile
+0xbfa801df change
+0x5c5e120a UIstate_character_selection
+0xf042f21d cas_destroy_all_characters
+0x4ec17239 hide_old_character
+0x68a04270 cas_current_profile
+0x2ec622d0 get_musician_profile_struct_by_id
+0xf6ab82f2 cas_current_savegame
+0x6f8a430a confirm_title_text
+0x919da331 last_singleplayer_character
+0x2841434c cas_set_object_node_pos
+0xbea8336e modify_custom_profile_appearance
+0x0203b372 true
+0xc5f953c2 button
+0x215563d8 confirm_func
+0xbd09544c func
+0x068e2458 not_replace
+0x39cd246a pu_warning_vmenu
+0xa4cba477 achievements_creating_character
+0xbe578495 stack
+0x445114c8 NetSessionFunc
+0x8da97503 primary_controller
+0x64946516 CheckForSignin
+0xaa99c521 save
+0xc451f558 event
+0xb6209561 character_name
+0xe8a3d570 ui_memcard_autosave_replace
+0x2fca0578 options
+0x67e6859a player
+0xc73f35b6 autosave
+0x4ac20606 cas_queue_new_character_profile
+0x2de8c60e printf
+0xe427c62c autosave_type
+0x9b834643 UIstate_singleplayer_character_hub
+0x3d92465e dont_assert
+0x4b27f6a2 cas_editing_new_character
+0x26bf66f3 textblock
+0x74297717 local
+0xd4c98794 title
+0xae7ee7a3 create_popup_warning_menu
+0xf77727ae XenonIsGuest
+0x7a8017ba node
+0x22e167bd popup_event_handlers
+0x3e7727fa IsXenon
+0xf4d9a825 add_user_control_helper
+0x93e15829 Achievements_ROCK_MAIDEN
+0x30a4f836 pad_up
+0xc4745838 text
+0x4bb2084e desc_id
+0x9d2d8850 z
+0xea10986a exit_skip_save
+0x49d4d86f FemalePhysique
+0x40c698af id
+0xe86748ca z_Soundcheck_TRG_Waypoint_Player1_Start
+0xea3cb8e1 exit_save_changes
+0xf42548f8 preserve_parent
+0x145c98fb is_from_singleplayer_hub
+0x734ad918 force_update
+0x0ad46922 controller_index
+0x00f28922 CAS_Physique
+0xeafc692e no_background
+0xb30d9965 controller
+0x1993c98e i
+0x3c15e9b6 DestroyScreenElement
+0x1b0509c5 savegame
+0x8479ca15 MalePhysique
+0x2a14da1b exit_discard_changes
+0x8dd07a26 Achievements_WARRIOR_OF_ROCK
+0x26680a2d UIstate_character_hub
+0x53c2ba5a cas_get_player_status
+0x61cb6b16 no_changes
+0x24f7eb37 confirm_option_text
+0x77c71b72 user_options
+0xa57acbc4 is_completely_custom_musician
+0x5b4d3bfc axel
+0x4f4e9bfd destroy_popup_warning_menu
+0x0fd1ac26 pad_down
+0xb64c7c26 requested_autosave
+0x1bff0c3d player_status
+0x04fe8c71 ui_memcard_autosave
+0x520c0c9c data
+0x44a31cb5 SetGlobalTags
+0x702c5cbb confirm
+0xd6521cee generic_event_back
+0x5c6c2d04 state
+0x11c47d05 cas_from_main_menu
+0x7ee0fd2a pad_back
+0xcce9dd4d charselect_previous_character_id
+0xbbb22d5e ui_destroy_save_changes_dialogue
+0x554c7d6f appearance
+0x47516db9 ui_create_save_changes_dialogue
+0xb0215dfb clean_up_menu_history_screen_elements
+0xfd2c9e38 structurename
+0x5a7ece86 menu_back
+0x7bb14e8d GetCASAppearance
+0x55d59ec3 confirm_dialog_text
+0x1192cede UIstate_band_mode
+0x37bf4f09 base_name
+0x9c293f28 cas_save_photo_of_car
+0xe3006fc4 down
+0x9ba39ffd prompt_for_save_or_confirm
+
+            [LineNumbers]
+ui_create_customize_character_outfit 64 (0,9) (84,15) (116,17) (336,21) (343,23) (355,24) (367,25) (379,26) (387,27) (399,28) (427,29) (526,30) (563,31) (575,32) (581,33) (593,34) (605,35) (611,36) (627,37) (643,38) (658,39) (671,40) (673,41) (680,42) (692,43) (704,44) (716,45) (724,46) (736,47) (764,48) (863,49) (900,50) (912,51) (918,52) (930,53) (942,54) (948,55) (963,56) (976,57) (978,58) (985,59) (997,60) (1009,61) (1021,62) (1029,63) (1041,64) (1069,65) (1168,66) (1205,67) (1217,68) (1223,69) (1235,70) (1247,71) (1253,72) (1268,73) (1281,74) (1283,75) (1348,81) (1384,87) (1420,89) (1438,90) (1482,91) (1604,92) (1606,93) 
+ui_return_customize_character_outfit 3 (0,103) (6,105) (40,106) 
+ui_destroy_customize_character_outfit 2 (0,116) (6,117) 
+
+[Checksums]
+0xd786581b scripts\guitar\menu\states\layouts\outfit\ui_customize_character_outfit.qb
+0x92ecf00b CAS_Shoes
+0x033e4045 cas_current_player
+0x301dd0f9 GetGlobalTags
+0xe632c101 life
+0x7031f10c params
+0xa0142183 CAS_node_name
+0x3cd9d1fc setup_cas_menu_handlers
+0x5176720b Stance_Select_Torso
+0x83830215 Pants
+0xefe30239 color_wheel
+0xbf17a257 show_history
+0x80db125a hist_tex
+0xf6ab82f2 cas_current_savegame
+0x2841434c cas_set_object_node_pos
+0x0a553364 Stance_Select_Pants
+0x5b058376 param
+0x14aa037e UIstate_popout_select_part
+0x9836251b cam_name
+0x0acc054f car_helper_text
+0xc451f558 event
+0x67e6859a player
+0x3acee5c0 add_generic_menu_icon_item
+0xe88e660c destroy_generic_menu
+0x9a6bd624 icon
+0x4686163a make_generic_menu
+0x4b9fc644 cas_helper_dialogue
+0x3f6e367e zoom_camera
+0x3f25f701 list_offset
+0xfedf570c icon_offset
+0x4a645786 Outfit_Torso
+0xd4c98794 title
+0x7a8017ba node
+0xc4745838 text
+0x02a4e853 ui_return_customize_character_outfit
+0xb90a78d7 is_popup
+0x6cef5907 menu_change
+0xdef5d9bf Accessories
+0x1b0509c5 savegame
+0xf1ff8b68 choose_state
+0x02d17b7c CAS_Legs
+0x31dc7bab camera_list
+0xbbbf8c22 create_customize_character_outfit_vmenu
+0x0c714c3f menu_finish
+0x520c0c9c data
+0x3e240caf UIstate_customize_character_outfit_accessories
+0x44a31cb5 SetGlobalTags
+0x7d02bcc3 stance
+0x5c6c2d04 state
+0xf2490d0f purchase_menu
+0xa17ccd19 CAS_Torso
+0x4e8b5d34 UIstate_helper_dialogue
+0x16d19dc2 choose_state_data
+0xf73d8dcb visit_outfit
+0xb7b7eddb ui_create_customize_character_outfit
+0xa5fa6e61 ui_destroy_customize_character_outfit
+0xeb307e68 Shoes
+0x8842aea9 ui_event_wait
+0xa1598eed vmenu_id
+0xb2161ef7 num_icons
+0x62e64f19 Stance_Select_Shoes
+0x02141f19 clean_up_user_control_helpers
+0xb6f08f39 part
+0xe6220fc1 clothing_colorwheel
+
+[LineNumbers]
+ui_create_customize_character_outfit_accessories 99 (0,9) (100,16) (312,20) (319,22) (331,23) (343,24) (355,25) (363,26) (375,27) (402,28) (537,29) (574,30) (586,31) (598,32) (604,33) (616,34) (631,35) (637,36) (649,37) (651,38) (653,39) (660,40) (672,41) (684,42) (696,43) (704,44) (716,45) (742,46) (877,47) (914,48) (926,49) (938,50) (950,51) (956,52) (971,53) (977,54) (989,55) (991,56) (993,57) (1000,58) (1012,59) (1024,60) (1036,61) (1044,62) (1056,63) (1087,64) (1198,65) (1235,66) (1247,67) (1259,68) (1271,69) (1277,70) (1292,71) (1298,72) (1310,74) (1322,75) (1334,76) (1336,77) (1338,78) (1345,79) (1357,80) (1369,81) (1381,82) (1389,83) (1401,84) (1433,85) (1548,86) (1585,87) (1597,88) (1609,89) (1621,90) (1627,91) (1642,92) (1648,93) (1660,95) (1672,96) (1684,97) (1686,98) (1688,99) (1695,101) (1707,102) (1719,103) (1731,104) (1739,105) (1751,106) (1783,107) (1918,108) (1955,109) (1967,110) (1979,111) (1985,112) (2000,113) (2006,114) (2018,115) (2030,116) (2042,117) (2044,118) (2046,119) (2080,126) 
+ui_return_customize_character_outfit_accessories 2 (0,136) (36,138) 
+ui_destroy_customize_character_outfit_accessories 2 (0,148) (6,149) 
+hide_car_parts_accessories 8 (0,157) (6,158) (15,159) (88,160) (92,161) (168,162) (170,163) (176,164) 
+unhide_car_parts_accessories 2 (0,172) (56,173) 
+hide_car_parts_piercings 7 (0,186) (6,187) (80,188) (156,189) (232,190) (308,191) (314,192) 
+unhide_car_parts_piercings 2 (0,200) (48,201) 
+
+[Checksums]
+0x58c27860 scripts\guitar\menu\states\layouts\outfit\ui_customize_character_outfit_accessories.qb
+0x0e52f043 PushTemporaryCASAppearance
+0x85c21087 ui_create_customize_character_outfit_accessories
+0xf9fd30cb CAS_Acc_Ears
+0xcf3e111d hide_car_parts_accessories
+0x95c66130 unhide_car_parts_piercings
+0x3cd9d1fc setup_cas_menu_handlers
+0xefe30239 color_wheel
+0xbf17a257 show_history
+0x80db125a hist_tex
+0x232fd268 icon_face_acc
+0xc7ce926d unhide_car_parts_accessories
+0xe65f329f create_customize_character_outfit_accessories_vmenu
+0x14aa037e UIstate_popout_select_part
+0xf9ec83b5 hide_car_parts_piercings
+0x3e65b46d AccessoriesHat
+0x6ea76472 Stance_Select_Glasses
+0x1c6a147b ui_destroy_customize_character_outfit_accessories
+0x9836251b cam_name
+0x0acc054f car_helper_text
+0x3336956b CAS_Acc_Left
+0xb9eda58b SetCASAppearancePartInstance
+0x3acee5c0 add_generic_menu_icon_item
+0xd713b5c1 F_Fun_Torso_Bra
+0x4871b5fd RebuildCurrentCASModel
+0xe88e660c destroy_generic_menu
+0x9a6bd624 icon
+0x4686163a make_generic_menu
+0x3f6e367e zoom_camera
+0x16480681 Stance_Select_Arm_R
+0xcdc3f6a0 back_state
+0x75b2077f Shirtless
+0xd4c98794 title
+0x8dbdc7f7 AccessoriesRightArm
+0xc4745838 text
+0x4bb2084e desc_id
+0xb90a78d7 is_popup
+0x5d1698fa Stance_Select_Head
+0x4c450964 CAS_Acc_Face
+0xc19f796a part_list
+0x7732d971 Stance_Select_Hat
+0x633e59ef CAS_Hair
+0x244cc9f1 AccessoriesLeftArm
+0xff889a51 CAS_Acc_Right
+0x5b335ab6 CAS_Hat
+0x5c341ae2 ui_return_customize_character_outfit_accessories
+0x43a52b3b CAS_Hat_Hair
+0x2a9dcb5e part_instance
+0xf1ff8b68 choose_state
+0x09f3fb6f additional_deinit_script
+0x31dc7bab camera_list
+0xec473be2 Stance_Select_Arm_L
+0x0c714c3f menu_finish
+0x7d02bcc3 stance
+0xf2490d0f purchase_menu
+0xa17ccd19 CAS_Torso
+0x16d19dc2 choose_state_data
+0x780a1e1e is_female_char
+0xa1598eed vmenu_id
+0xb2161ef7 num_icons
+0x806fff30 none
+0x577e1f34 UIstate_cas
+0xb6f08f39 part
+0xc4e3df4a MergePartIntoTemporaryCASAppearance
+0xe6220fc1 clothing_colorwheel
+0xe06b8ff1 additional_init_script
+0xafb01ffb icon_face_piercing
+
+                   [LineNumbers]
+ui_create_atom_unlock 47 (0,9) (40,11) (76,15) (168,21) (260,27) (264,34) (274,35) (284,36) (408,43) (437,45) (456,47) (469,49) (487,51) (499,52) (501,53) (557,54) (564,56) (577,57) (589,58) (638,59) (650,60) (682,61) (684,62) (705,64) (713,65) (715,66) (717,67) (730,69) (852,76) (888,78) (906,80) (918,81) (920,82) (975,83) (982,85) (995,86) (1007,87) (1055,88) (1067,89) (1098,90) (1100,91) (1121,93) (1129,94) (1131,95) (1133,125) (1135,126) (1141,128) 
+ui_destroy_atom_unlock 2 (0,138) (6,140) 
+ui_atom_unlock 2 (0,149) (30,151) 
+ui_atom_unlock_focus 1 (0,160) 
+
+[Checksums]
+0x38ddd38f scripts\guitar\menu\states\layouts\ui_atom_unlock.qb
+0xcf66717b GotParam
+0xbd40b1ba uistate_atom_unlock
+0x174841bc a
+0x2f7651cc ui_atom_unlock
+0xd2e791f4 ui_create_atom_unlock
+0xa1dc81f9 name
+0x4726c1ff ui_atom_unlock_focus
+0x444a4361 progression_global
+0x951f73ad ui_destroy_atom_unlock
+0xff0db407 TextName
+0x9277f428 FormatText
+0x8320d478 game_mode
+0x39b5c4b0 GetArraySize
+0xb52f44ef additional_focus_params
+0xb8437568 pad_choose_params
+0x4686163a make_generic_menu
+0xd28d7711 current_progression_flag
+0xd4c98794 title
+0xc7f40804 DebugForceAtomUnlock
+0xc4745838 text
+0xca5d3848 generic_ui_destroy
+0xb00e188e get_progression_globals
+0x1993c98e i
+0x13d0da1e DontAssertForChecksums
+0xdfbf1a84 atom
+0xb03dbaaf selection_width
+0xa11acadc add_generic_menu_text_item
+0xcce57b1a bg_pos
+0xf1ff8b68 choose_state
+0x0c714c3f menu_finish
+0x2b0cfca1 pad_choose_script
+0x2660cd26 additional_focus_script
+0x7f5b3d4d array_size
+0x91be9d80 bg_scale
+0x16d19dc2 choose_state_data
+0x42b60de3 Unlock_Atoms
+0x951b4f10 unlock
+0x4e755f1e scrolling
+0x806fff30 none
+0x2a4daf8c progression
+
+         [LineNumbers]
+ui_create_att_ballpark 4 (0,9) (172,19) (240,21) (292,23) 
+ui_destroy_att_ballpark 3 (0,33) (6,34) (40,35) 
+ui_att_ballpark_continue 3 (0,60) (6,63) (12,64) 
+ui_att_ballpark_should_i_show_ad 46 (0,74) (32,77) (47,79) (66,81) (96,82) (98,83) (104,85) (123,87) (152,88) (154,89) (169,91) (175,92) (195,95) (207,97) (227,98) (231,101) (280,103) (298,104) (348,106) (356,108) (366,109) (378,110) (391,111) (403,112) (416,113) (428,114) (441,115) (453,116) (455,117) (457,118) (463,120) (499,121) (516,123) (534,126) (564,127) (566,128) (578,131) (580,132) (597,133) (615,134) (655,135) (691,136) (712,137) (720,138) (738,141) (768,142) 
+
+[Checksums]
+0x8d79c534 scripts\guitar\menu\states\layouts\ui_att_ballpark.qb
+0x475bf03c event_handlers
+0xfd9b60aa att_ballpark_guitar
+0x65d6c0cc player_idx
+0x301dd0f9 getGlobalTags
+0x7031f10c params
+0x73665140 createScreenElement
+0x01dd615f descinterface
+0xa8b8f193 att_ballpark_vocals
+0x5d0671b8 channel
+0x2f6511de green
+0xc13a41de get_current_band_info
+0xa1dc81f9 name
+0x22b7931b att_ballpark_bass
+0x5b058376 param
+0x4da4937b career
+0xf44a53ab desc
+0xc5f953c2 button
+0x10c6f3db structure_name
+0x45a2a414 pc
+0x1f35e41e gamemode_getnumplayersshown
+0xf8a4443a get_savegame_from_controller
+0x2e0b1465 flag
+0x1e93946b alias
+0xcb9fb4cf bass
+0xc10b44e8 current_level
+0x8da97503 primary_controller
+0x13c2b52a my_checksum
+0x1e3e253b pad_choose
+0x840d6547 gamemode_gettype
+0xbaf0a589 generic_menu_pad_choose_sound
+0x732d75e4 num_players_shown
+0x38505620 mychannel
+0x7c12e7aa lvl
+0xe288a7cb value
+0xf4d9a825 add_user_control_helper
+0x2a22d830 my_att_ballpark
+0xc4745838 text
+0x9d2d8850 z
+0x07803853 ui_att_ballpark_should_i_show_ad
+0x40c698af id
+0x7321a8d6 type
+0xb30d9965 controller
+0x3c15e9b6 DestroyScreenElement
+0x1b0509c5 savegame
+0xd3e1daad load_z_ballpark
+0x5e087ac0 att_ballpark_band
+0xbb244ad6 show_att_ad
+0x56a1eae3 root_window
+0xb5e94b0b att_ballpark_drum
+0x4d49ac0a current_menu
+0x44a31cb5 setGlobalTags
+0x5cc16cdf drum
+0xbdc53cf2 guitar
+0xee2c3d31 my_flag
+0x4577fd38 AssignAlias
+0x72e21d40 ui_att_ballpark_continue
+0xa2660d69 current_num_players
+0xe8e6adcb vocals
+0x327eadeb ui_win_song_continue_next_menu
+0xbe304e86 printstruct
+0x08d82e9d AddParam
+0xef849eca ui_create_att_ballpark
+0x65485eea getPlayerInfo
+0x6f402ef3 band_info
+0x02141f19 clean_up_user_control_helpers
+0xb6f08f39 part
+0xfd748f78 ui_destroy_att_ballpark
+0xc2719fb0 parent
+
+                           [LineNumbers]
+ui_create_autotest_next_test 2 (0,9) (36,11) 
+ui_destroy_autotest_next_test 1 (0,21) 
+
+[Checksums]
+0x710e6ebf scripts\guitar\menu\states\layouts\ui_autotest_next_test.qb
+0x609bc04a ui_destroy_autotest_next_test
+0xa84f33c7 autotest_next_test
+0x19fa5af7 SpawnScriptNow
+0xf3ddadbf ui_create_autotest_next_test
+
+                   [LineNumbers]
+
+[Checksums]
+0xa51e5927 scripts\guitar\menu\states\layouts\ui_band_choose.qb
+
+                               [LineNumbers]
+ui_create_band_difficulty 184 (0,9) (6,11) (80,12) (168,14) (204,16) (256,19) (308,20) (334,22) (383,23) (438,24) (464,26) (513,27) (568,28) (572,30) (624,33) (676,34) (728,35) (780,36) (792,38) (794,39) (817,40) (849,41) (867,43) (892,44) (910,46) (935,47) (953,48) (1003,49) (1067,50) (1069,51) (1071,52) (1092,54) (1102,55) (1104,56) (1140,57) (1146,59) (1152,60) (1159,62) (1171,63) (1183,64) (1195,65) (1217,66) (1238,67) (1240,68) (1252,70) (1296,90) (1309,91) (1311,92) (1348,93) (1372,94) (1374,95) (1383,97) (1392,98) (1404,100) (1416,101) (1418,102) (1431,103) (1446,104) (1461,105) (1463,106) (1500,108) (1518,109) (1536,110) (1548,111) (1550,112) (1552,113) (1573,116) (1586,117) (1616,118) (1629,119) (1653,121) (1665,123) (1667,124) (1684,125) (1720,127) (1733,128) (1735,129) (1754,130) (1766,131) (1768,132) (1770,133) (1792,135) (1799,136) (1817,138) (1819,139) (1821,140) (1825,141) (1844,142) (1856,143) (1858,144) (1860,145) (1862,146) (1883,149) (1893,150) (1932,152) (1944,153) (1948,154) (1960,155) (1962,156) (1980,158) (2020,159) (2038,161) (2042,162) (2052,163) (2062,164) (2081,165) (2094,166) (2108,167) (2121,168) (2127,170) (2145,171) (2163,172) (2177,173) (2181,174) (2210,175) (2212,176) (2216,177) (2225,178) (2227,179) (2229,180) (2231,181) (2268,183) (2282,184) (2294,185) (2306,186) (2318,187) (2331,188) (2344,189) (2357,190) (2359,191) (2363,192) (2377,193) (2389,194) (2401,195) (2413,196) (2426,197) (2439,198) (2452,199) (2454,200) (2467,201) (2469,202) (2488,204) (2512,205) (2514,206) (2541,208) (2561,210) (2587,211) (2613,212) (2615,213) (2645,215) (2658,216) (2662,217) (2675,218) (2704,219) (2732,220) (2734,221) (2736,222) (2757,224) (2764,225) (2802,227) (2814,229) (2826,230) (2828,231) (2851,232) (2869,233) (2887,234) (2924,236) (2967,237) (2971,238) (2994,239) (2996,240) (3008,242) (3045,243) (3084,245) (3114,246) (3116,247) (3134,249) (3155,251) (3163,252) (3213,255) (3252,256) (3254,257) (3304,261) (3310,263) 
+ui_band_instrument_check_controllers 16 (0,273) (6,274) (20,276) (22,278) (40,279) (63,280) (97,282) (115,283) (129,284) (135,285) (137,286) (188,289) (192,290) (194,291) (196,292) (198,293) 
+ui_destroy_band_difficulty 3 (0,302) (36,304) (42,305) 
+ui_band_difficulty_continue 61 (0,314) (9,315) (11,316) (13,317) (19,318) (31,322) (43,323) (75,324) (87,327) (99,328) (101,329) (125,330) (138,331) (156,333) (178,334) (196,337) (244,340) (268,343) (270,345) (291,347) (299,348) (332,350) (350,351) (368,352) (378,353) (395,354) (507,355) (555,356) (557,357) (559,358) (561,359) (563,360) (583,362) (585,363) (589,364) (624,366) (626,367) (633,369) (646,371) (648,373) (679,374) (697,376) (768,377) (770,378) (794,380) (815,381) (823,382) (829,384) (847,387) (853,389) (855,390) (865,393) (882,395) (930,396) (932,397) (934,398) (972,400) (997,401) (1001,403) (1036,405) (1038,407) 
+ui_deinit_band_difficulty 2 (0,416) (6,417) 
+
+[Checksums]
+0x723c7605 scripts\guitar\menu\states\layouts\ui_band_difficulty.qb
+0xb990d003 target
+0x44949010 difficulty
+0x64ff9024 ticker_alpha
+0x475bf03c event_handlers
+0x3923b046 reposition_pos
+0xf9462090 c
+0x9a2e9095 set_focus_color
+0xe13620a8 no_sound
+0xd95930ac player1_status
+0x88fc10b5 descs
+0x6727f0dd band_mode_current_leader
+0x4ba430f2 p2_faceoff
+0xe4f130f4 s
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x7f4dc112 cont_check
+0x3611c136 GetTags
+0x73665140 CreateScreenElement
+0x5ef31148 array
+0x7df8614e p
+0x01dd615f DescInterface
+0xcf66717b GotParam
+0x5a630186 register_new_progression_atoms
+0xeec9418a character_id
+0xbc6b118f up
+0x0c08919e allowed
+0x5e9d11b2 player_num
+0xbebfa1c6 element
+0xbfa801df change
+0x848321e4 get_gamertag
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0xf042f21d cas_destroy_all_characters
+0xcf5f322f menu_array
+0xd98f5257 z_Soundcheck_TRG_Waypoint_Player2_Start
+0x5d9e3270 get_player_num_from_controller
+0x11f692a6 SetPlayerInfo
+0x7aad92ad Is_ui_event_running
+0x2c2812fc cancel_all_cas_loads
+0x4b40630d newValue
+0x2841434c cas_set_object_node_pos
+0x597b534d p2_battle
+0xa8ee7357 ScriptAssert
+0x339eb359 arse
+0x0203b372 true
+0xf44a53ab desc
+0xc0fee3b8 player_index
+0xb99ae3d6 gameframes
+0xf2ace3db xenon_singleplayer_session_begin_uninit
+0xc5bc93ee ScreenElementExists
+0x67d2e3f0 SE_GetProps
+0x1d944426 not_focusable
+0xf8a4443a get_savegame_from_controller
+0x0148f43e continue_data
+0x11d6b44c alias_menu
+0xbd09544c func
+0x958e3451 xenon_singleplayer_session_complete_uninit
+0x8320d478 game_mode
+0x4b4e14ab spacing_between
+0x39b5c4b0 GetArraySize
+0xf03344ba g_head_to_head_instrument_type
+0x445114c8 NetSessionFunc
+0x51c204cb ui_destroy_band_difficulty
+0xcb9fb4cf bass
+0xf77614d8 ResolveScreenElementID
+0xd0fa94eb desc_array
+0x9d3fb516 focus
+0xec1cd520 continue
+0x0e61b525 RunScriptOnScreenElement
+0x6722b533 d
+0x840d6547 GameMode_GetType
+0xe8a3c555 leader_indicator_alpha
+0x82fac56c menu
+0x40de9572 set_unfocus_color
+0x59cec576 p2
+0x8d85358f parent_id
+0x67e6859a player
+0xc156b5b1 task_menu_default_anim_in
+0x1bef75d2 ui_band_mode_create_menu
+0xe65fd5e5 SE_GetParentID
+0x8f61d602 arrayName
+0x4ac20606 cas_queue_new_character_profile
+0x2de8c60e printf
+0xc3409622 instrument
+0x55ede679 band_gamertag_rename
+0x2f1fc695 alpha
+0x5b78e6b9 invalid_mic_player
+0x8d8af730 menus
+0x2cb33744 LaunchEvent
+0x57d6374f player2_status
+0xba5f676d z_Soundcheck_TRG_Waypoint_Player4_Start
+0x0ed45788 Obj_SpawnScriptNow
+0x7a8017ba node
+0x6c63c7c5 SetProps
+0xd43297cf false
+0x78fad7e4 ui_band_mode_helper_text
+0x0c33181f vocals_mic_distribution_is_valid
+0xca7b4826 band_mode_actual_devices
+0x809a9834 j
+0x30a4f836 pad_up
+0xca5d3848 generic_ui_destroy
+0x6c80487f ui_band_difficulty_continue
+0x40c698af id
+0x05f3e8bb ui_get_controller_parts_allowed
+0xe86748ca z_Soundcheck_TRG_Waypoint_Player1_Start
+0xec66e8cb battle
+0x7321a8d6 type
+0x4d1248dc MyInterfaceElement
+0x7f8c98fe index
+0x001ff900 temp_parts
+0x9dd1b91b CompareStructs
+0x0ad46922 controller_index
+0xe586795e uistate_play_song
+0xb30d9965 controller
+0x1993c98e i
+0x73b8d9b3 vocals_distribute_mics
+0x3c15e9b6 DestroyScreenElement
+0x1b0509c5 savegame
+0x7ff859e3 z_Soundcheck_TRG_Waypoint_Player3_Start
+0xa58079eb SetTags
+0xa36b6a0e ready2
+0x50913a15 prop
+0x56a1eae3 root_window
+0x1f773af1 is_local_client
+0x19fa5af7 SpawnScriptNow
+0x9a6c7b13 allow_controller_for_all_instruments
+0x28e66b14 resolved_id
+0x90e9cb26 num_ready
+0x4fca0b5c faceoff
+0x8e10bb70 SetArrayElement
+0xa91a9bce respond_to_signin_changed_all_players
+0x90436bd9 tags
+0xc3fa2bf0 p2_pro_faceoff
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0x0fd1ac26 pad_down
+0xb5742c5a gamertag
+0x520c0c9c data
+0x62c11cb9 GetSingleTag
+0x5cc16cdf drum
+0xf26e6ce2 GameMode_GetProperty
+0xbdc53cf2 guitar
+0x670f4d02 song_failed
+0x5c6c2d04 state
+0x58062d11 curr_id
+0x66a54d2d generic_event_choose
+0x7f5b3d4d array_size
+0xf723dd58 alias_hmenu
+0xa2660d69 current_num_players
+0x86f13db2 my_allowed
+0xe8e6adcb vocals
+0xbe304e86 printstruct
+0x69897e8d Career_Band
+0xdf3c2eaf drums
+0x09ed3eb9 filter_by_character
+0x71529ec3 ui_band_instrument_check_controllers
+0x65485eea GetPlayerInfo
+0x3946deea struct2
+0x37bf4f09 base_name
+0x4e22bf24 ui_band_mode_update_menu
+0x2ce60f2a uistate_select_instrument_warning
+0x806fff30 none
+0xb6f08f39 part
+0xa04f8f50 struct1
+0x35078f5e curr_desc
+0x303c6f7d band_hmenu
+0x797cffab ui_create_band_difficulty
+0xc2719fb0 parent
+0xe3f03fb7 ui_deinit_band_difficulty
+0xe3006fc4 down
+0x7f276ff9 ui_band_mode_scroll_sound
+
+            [LineNumbers]
+ui_create_band_logo_choose 34 (0,9) (36,11) (48,13) (60,14) (72,15) (120,16) (132,17) (134,18) (171,19) (179,21) (191,22) (203,23) (216,24) (218,25) (226,27) (238,28) (250,29) (271,30) (273,32) (293,34) (301,35) (313,36) (325,37) (391,38) (393,39) (401,41) (413,42) (425,43) (427,44) (464,47) (470,48) (474,49) (540,50) (542,51) 
+ui_destroy_band_logo_choose 3 (0,61) (6,62) (12,63) 
+ui_init_band_logo_choose 9 (14,71) (32,73) (132,75) (236,76) (292,78) (348,79) (388,80) (428,81) (464,83) 
+ui_deinit_band_logo_choose 4 (0,93) (36,96) (76,97) (144,98) 
+randomize_band_logo 10 (0,107) (36,108) (72,109) (74,110) (108,111) (114,112) (143,113) (149,114) (184,115) (220,116) 
+band_logo_choose_continue 8 (0,124) (36,126) (72,128) (90,129) (96,130) (140,131) (142,132) (190,134) 
+current_band_has_band_logo 9 (14,143) (32,145) (38,146) (62,147) (100,148) (132,149) (136,150) (168,151) (170,152) 
+current_band_has_band_name 13 (14,161) (32,163) (38,164) (62,165) (100,166) (118,167) (148,168) (152,169) (184,170) (186,171) (190,172) (220,173) (222,174) 
+
+[Checksums]
+0x7af0aa4e scripts\guitar\menu\states\layouts\ui_band_logo_choose.qb
+0x0f7e902c nullscript
+0xe48fd084 SwitchOffAtomic
+0x1b0d4095 save_data_dirty
+0x301dd0f9 GetGlobalTags
+0x7031f10c params
+0x07d0c128 SwitchOnAtomic
+0xa7290172 SetCASAppearanceCAP
+0xcf66717b GotParam
+0x8ccc01a0 Achievements_modified_logo
+0x4742a1a1 BandLogoObject
+0x391ec1ab item_scale
+0x2f6511de green
+0xc13a41de get_current_band_info
+0xbfa801df change
+0xb21111e3 item_add_script
+0x657ff1ed Obj_ApplyScaling
+0xa1dc81f9 name
+0xb2f7220a UIstate_boot_download_scan
+0xd443a2bc off
+0x7397c2e5 current_band_has_band_logo
+0x9eb6e336 SpawnScript
+0x0dccc372 no_bink
+0x0203b372 true
+0x192bc3a2 pad_back_script
+0xc5f953c2 button
+0x7f3c93e5 menu_create_script
+0x8d92240c ui_event_exists_in_stack
+0xf8a4443a get_savegame_from_controller
+0x1274e474 init_band_logo
+0x8da97503 primary_controller
+0x7c3d1503 ui_deinit_band_logo_choose
+0x9836251b cam_name
+0xc451f558 event
+0xb8437568 pad_choose_params
+0xe8a3d570 ui_memcard_autosave_replace
+0x68a6c58c ui_create_band_logo_choose
+0xc156b5b1 task_menu_default_anim_in
+0x404785b7 band_logo
+0x455485ef dir
+0x7bb9c604 menu_replace
+0xe88e660c destroy_generic_menu
+0xb7589619 UpdateCASModelCAP
+0x4686163a make_generic_menu
+0x0223a64e rich_presence_context
+0x42a8865e event_params
+0x2f1fc695 alpha
+0x377556bb GetCASAppearancePart
+0xc93a26f0 current_band_has_band_name
+0x33e0977e cas_free_resources
+0xd4c98794 title
+0x906b67ba time
+0xd43297cf false
+0x259a07d3 fadetoblack
+0x99b9e800 presence_band_logo_edit_and_instrument_edit
+0xa402c808 randomize_band_logo
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0xca5d3848 generic_ui_destroy
+0x66cc784e CAP
+0x9d2d8850 z
+0x862ba85b CAS_Band_Logo
+0x9f8b4945 cas_queue_block
+0xb30d9965 controller
+0x1b0509c5 savegame
+0xc9428a08 device_num
+0x253c1a2f ui_destroy_band_logo_choose
+0xf7251a64 Obj_SetPosition
+0x13b9da7b scale
+0x064a3a86 ui_init_band_logo_choose
+0xc6f3baa5 Obj_SetOrientation
+0xa11acadc add_generic_menu_text_item
+0x19fa5af7 SpawnScriptNow
+0xb9d31b0a position
+0xf1ff8b68 choose_state
+0x0c714c3f menu_finish
+0x520c0c9c data
+0x2b0cfca1 pad_choose_script
+0x44a31cb5 SetGlobalTags
+0x99b5bcc2 cas_random_band_logo
+0xd6521cee generic_event_back
+0x5c6c2d04 state
+0x6d543d99 no_loading_screen
+0x16d19dc2 choose_state_data
+0xa651ae55 no_wait
+0x6f402ef3 band_info
+0xb2161ef7 num_icons
+0x37bf4f09 base_name
+0x806fff30 none
+0x57710f31 z_priority
+0xb6f08f39 part
+0x95554f58 cas_override_object
+0x55f5ef8a UIstate_cap_main
+0x5cc7bf9b Name_logo
+0x1de0ffba Enter_Band_Name_Caps
+0xe6f0bfd6 band_logo_choose_continue
+0xd301ffdd soundevent
+
+                          [LineNumbers]
+ui_init_band_mode 14 (0,37) (6,39) (40,40) (58,41) (92,42) (94,43) (144,45) (162,46) (252,54) (344,61) (364,62) (456,69) (458,70) (460,71) 
+ui_create_band_mode 28 (0,80) (36,81) (72,82) (108,83) (144,84) (180,85) (216,86) (252,87) (288,88) (324,89) (360,91) (379,96) (385,100) (391,101) (397,102) (432,103) (450,104) (484,105) (486,106) (490,107) (524,108) (526,109) (576,111) (594,114) (600,115) (602,116) (652,119) (688,121) 
+band_mode_remap_controllers_1_to_4 31 (0,129) (49,134) (55,137) (67,138) (69,139) (90,141) (109,142) (128,143) (163,144) (204,145) (291,146) (293,147) (314,149) (322,150) (372,153) (424,154) (476,155) (528,156) (540,159) (542,160) (563,161) (589,163) (625,164) (720,165) (724,166) (749,167) (855,168) (857,169) (878,171) (885,172) (891,175) 
+ui_create_band_mode_spawned 265 (0,184) (36,185) (56,186) (120,188) (135,190) (153,192) (188,193) (223,194) (256,195) (293,196) (328,197) (364,198) (368,199) (404,200) (406,201) (410,202) (444,203) (480,204) (482,205) (516,206) (552,209) (558,212) (608,215) (660,216) (712,217) (764,218) (770,220) (806,222) (840,223) (842,224) (848,226) (854,227) (860,229) (872,230) (968,239) (980,243) (988,245) (1001,246) (1014,247) (1016,248) (1036,249) (1072,250) (1092,251) (1127,252) (1136,253) (1145,254) (1181,255) (1183,256) (1185,257) (1194,258) (1230,259) (1232,260) (1234,261) (1258,262) (1267,264) (1276,265) (1320,267) (1333,268) (1335,269) (1347,271) (1359,272) (1371,273) (1406,274) (1418,275) (1430,276) (1442,277) (1462,278) (1474,279) (1486,280) (1498,281) (1500,282) (1513,283) (1526,284) (1539,285) (1552,286) (1564,287) (1576,288) (1588,289) (1600,290) (1612,291) (1624,292) (1636,293) (1638,294) (1650,296) (1652,297) (1665,298) (1680,299) (1695,300) (1697,301) (1710,302) (1740,304) (1753,305) (1780,308) (1798,310) (1808,311) (1818,312) (1853,313) (1907,314) (1921,315) (1934,316) (1947,317) (1959,318) (1972,319) (1985,320) (1998,321) (2011,322) (2024,323) (2026,324) (2039,325) (2069,326) (2111,327) (2125,328) (2138,329) (2151,330) (2164,331) (2177,332) (2190,333) (2203,334) (2216,335) (2218,336) (2231,337) (2250,338) (2262,339) (2266,340) (2306,341) (2318,342) (2322,343) (2334,344) (2336,345) (2338,346) (2361,347) (2375,348) (2388,349) (2400,350) (2412,351) (2425,352) (2444,353) (2457,354) (2469,355) (2482,356) (2484,357) (2504,358) (2522,359) (2524,360) (2537,361) (2560,362) (2574,363) (2586,364) (2598,365) (2610,366) (2623,367) (2642,368) (2655,369) (2668,370) (2670,371) (2688,372) (2696,373) (2754,374) (2756,375) (2760,376) (2783,377) (2797,378) (2809,379) (2821,380) (2833,381) (2846,382) (2859,383) (2872,384) (2874,385) (2892,386) (2894,387) (2912,389) (2931,390) (2945,392) (2962,393) (2964,394) (2982,395) (3000,397) (3018,398) (3036,399) (3056,400) (3080,401) (3084,402) (3107,403) (3109,404) (3111,405) (3115,406) (3133,407) (3151,408) (3169,410) (3187,411) (3205,412) (3207,413) (3209,414) (3211,415) (3231,417) (3281,418) (3331,419) (3333,420) (3354,422) (3384,423) (3397,424) (3401,425) (3456,426) (3458,427) (3517,429) (3541,430) (3543,431) (3545,433) (3566,435) (3573,436) (3586,438) (3599,439) (3612,440) (3614,441) (3648,443) (3666,444) (3678,445) (3680,446) (3703,447) (3726,448) (3747,449) (3755,450) (3757,451) (3776,453) (3789,454) (3805,455) (3807,456) (3809,457) (3815,459) (3833,460) (3851,461) (3884,462) (3886,463) (3904,464) (3940,465) (3942,466) (3960,467) (3996,468) (3998,469) (4007,470) (4060,471) (4096,472) (4098,473) (4100,474) (4135,476) (4176,477) (4178,479) (4213,481) (4248,482) (4266,483) (4300,484) (4302,485) (4322,486) (4360,488) (4400,489) (4402,490) (4404,491) (4406,493) (4456,495) (4462,497) (4496,499) (4532,502) (4550,503) (4600,506) 
+ui_band_mode_signin_changed 47 (0,515) (36,516) (72,518) (78,519) (80,520) (82,521) (100,524) (118,527) (124,528) (142,531) (160,532) (172,533) (185,535) (197,536) (209,537) (211,538) (234,539) (252,540) (271,541) (273,542) (275,543) (296,544) (304,545) (322,547) (357,548) (369,549) (373,550) (385,551) (387,552) (447,554) (453,556) (471,558) (489,560) (497,561) (507,562) (541,563) (554,564) (588,565) (601,566) (621,567) (655,568) (657,569) (659,570) (683,571) (724,573) (747,575) (812,576) 
+ui_destroy_band_mode 11 (0,586) (36,588) (48,589) (50,590) (56,592) (62,594) (68,595) (104,597) (140,598) (146,600) (152,601) 
+ui_deinit_band_mode 7 (0,610) (36,612) (54,614) (60,615) (64,616) (100,617) (102,618) 
+ui_return_band_mode 30 (0,628) (6,630) (24,632) (112,633) (118,634) (124,635) (160,637) (200,638) (240,640) (252,641) (264,642) (266,643) (297,644) (325,645) (343,646) (363,647) (388,648) (418,649) (464,650) (466,651) (494,652) (496,653) (517,657) (525,658) (543,660) (576,661) (578,662) (580,663) (582,664) (588,666) 
+is_band_character_select_up 21 (0,673) (36,676) (76,677) (88,678) (92,679) (104,680) (106,681) (118,683) (130,684) (142,685) (160,686) (162,687) (186,688) (199,689) (217,691) (248,692) (250,693) (271,694) (279,695) (281,696) (312,698) 
+band_kill_character_select_menus 27 (0,707) (36,710) (76,711) (88,712) (92,713) (104,714) (106,715) (118,717) (130,718) (142,719) (160,720) (162,721) (186,722) (207,723) (225,724) (243,726) (276,728) (288,730) (290,732) (292,733) (313,735) (321,736) (323,737) (360,739) (392,740) (394,741) (424,742) 
+ui_band_mode_choose_leader 26 (0,750) (64,752) (73,754) (104,755) (124,756) (156,757) (204,758) (236,759) (238,760) (250,762) (263,764) (265,765) (288,766) (307,768) (331,769) (349,770) (369,772) (404,773) (422,774) (424,775) (428,777) (452,778) (454,780) (476,782) (483,783) (489,785) 
+ui_band_mode_create_menu 12 (0,793) (6,794) (12,796) (57,797) (108,799) (144,800) (187,801) (191,802) (222,803) (224,804) (226,805) (260,807) 
+ui_band_mode_update_name 49 (0,816) (12,818) (48,819) (71,821) (80,823) (82,824) (100,825) (112,829) (149,830) (188,832) (218,833) (220,834) (232,836) (246,837) (250,838) (264,839) (266,840) (285,842) (309,843) (313,844) (337,845) (339,846) (341,848) (408,850) (410,851) (414,852) (416,856) (434,857) (446,859) (460,860) (464,861) (478,862) (480,863) (499,865) (523,866) (527,867) (551,868) (553,869) (571,871) (592,873) (626,875) (656,877) (660,879) (689,881) (691,883) (693,885) (744,887) (746,888) (748,889) 
+band_mode_has_player_joined 20 (0,898) (36,900) (62,902) (91,903) (128,904) (149,905) (162,906) (180,908) (212,909) (214,910) (218,911) (248,912) (250,913) (254,914) (284,915) (286,916) (316,917) (320,918) (352,919) (354,920) 
+ui_band_menu_occlude_character 23 (0,929) (12,931) (48,932) (112,933) (135,935) (172,936) (237,937) (302,938) (340,939) (369,940) (373,941) (408,942) (410,943) (414,944) (479,945) (529,946) (567,947) (596,948) (600,949) (636,950) (638,951) (640,952) (642,953) 
+ui_band_mode_update_menu 210 (0,962) (6,964) (12,965) (18,967) (24,968) (53,970) (76,972) (82,974) (100,976) (112,978) (126,980) (139,981) (189,982) (239,983) (241,984) (253,985) (255,986) (278,989) (312,991) (320,993) (330,994) (336,995) (349,997) (355,998) (373,999) (391,1000) (403,1001) (421,1002) (455,1003) (473,1004) (485,1005) (487,1006) (491,1007) (525,1008) (543,1009) (555,1010) (557,1011) (559,1012) (572,1013) (585,1014) (591,1015) (609,1016) (632,1017) (634,1018) (646,1020) (684,1021) (694,1022) (704,1023) (716,1024) (729,1025) (741,1026) (754,1027) (766,1028) (779,1029) (791,1030) (793,1031) (795,1032) (808,1033) (821,1034) (834,1035) (840,1036) (853,1037) (866,1038) (884,1039) (905,1041) (917,1042) (938,1043) (940,1044) (953,1046) (966,1047) (979,1048) (997,1049) (1003,1050) (1046,1051) (1087,1052) (1089,1053) (1093,1054) (1134,1055) (1136,1056) (1142,1057) (1167,1058) (1180,1059) (1193,1060) (1195,1061) (1208,1062) (1215,1063) (1240,1064) (1253,1065) (1266,1066) (1268,1067) (1281,1068) (1287,1069) (1312,1070) (1325,1071) (1338,1072) (1340,1073) (1353,1074) (1359,1075) (1384,1076) (1397,1077) (1410,1078) (1412,1079) (1425,1080) (1431,1081) (1452,1083) (1464,1084) (1485,1085) (1487,1086) (1500,1087) (1506,1088) (1548,1089) (1592,1090) (1604,1091) (1624,1092) (1633,1093) (1645,1094) (1649,1095) (1661,1096) (1663,1097) (1667,1098) (1688,1099) (1700,1100) (1721,1101) (1723,1102) (1725,1103) (1738,1104) (1744,1105) (1757,1106) (1763,1107) (1776,1108) (1782,1109) (1795,1110) (1801,1111) (1803,1112) (1840,1114) (1892,1115) (1894,1116) (1932,1118) (1938,1119) (1940,1120) (1964,1122) (1976,1124) (2012,1127) (2035,1128) (2054,1130) (2072,1131) (2074,1132) (2082,1134) (2092,1135) (2127,1136) (2140,1137) (2175,1138) (2188,1139) (2223,1140) (2236,1141) (2271,1142) (2279,1143) (2314,1144) (2316,1145) (2329,1147) (2347,1149) (2365,1150) (2369,1151) (2381,1152) (2393,1153) (2395,1154) (2418,1155) (2436,1156) (2455,1157) (2457,1158) (2459,1159) (2480,1160) (2488,1161) (2508,1162) (2546,1163) (2548,1164) (2550,1165) (2568,1166) (2593,1167) (2618,1168) (2636,1169) (2654,1170) (2692,1171) (2712,1172) (2738,1173) (2768,1174) (2772,1175) (2790,1176) (2792,1177) (2842,1178) (2902,1179) (2925,1180) (2985,1181) (2987,1182) (2989,1183) (2991,1184) (2993,1185) (3043,1187) (3078,1188) (3112,1189) (3116,1190) (3118,1191) (3120,1192) (3122,1193) (3160,1195) (3212,1196) (3261,1197) (3265,1198) (3314,1199) (3316,1200) 
+ui_band_mode_show_arrows 5 (0,1204) (64,1205) (85,1207) (109,1208) (111,1209) 
+ui_band_mode_hide_arrows 5 (0,1212) (64,1213) (85,1215) (109,1216) (111,1217) 
+net_ui_band_mode_quit 23 (0,1225) (36,1226) (45,1227) (80,1228) (106,1229) (108,1230) (144,1232) (180,1233) (186,1234) (220,1235) (226,1236) (230,1237) (264,1238) (290,1239) (302,1240) (333,1242) (370,1244) (413,1247) (425,1248) (438,1249) (474,1251) (480,1252) (482,1253) 
+net_ui_host_quit_lobby 3 (0,1257) (36,1258) (112,1260) 
+net_ui_client_quit_lobby 3 (0,1263) (36,1264) (73,1266) 
+correct_allowed_parts 7 (0,1274) (34,1277) (61,1278) (84,1279) (86,1280) (88,1281) (102,1283) 
+filter_allowed_parts_by_character_type 17 (0,1292) (72,1294) (90,1296) (188,1299) (206,1301) (220,1302) (222,1303) (272,1306) (294,1307) (312,1310) (342,1311) (363,1313) (404,1316) (445,1317) (486,1318) (527,1319) (541,1321) 
+ui_band_mode_create_menu_instrument 94 (0,1330) (6,1331) (12,1332) (24,1334) (36,1335) (43,1358) (50,1360) (62,1361) (74,1362) (86,1363) (102,1364) (115,1365) (127,1366) (139,1367) (154,1368) (162,1369) (175,1370) (188,1371) (220,1372) (222,1373) (234,1375) (253,1376) (272,1377) (274,1379) (307,1381) (353,1382) (355,1383) (362,1385) (374,1386) (386,1387) (398,1388) (414,1389) (427,1390) (439,1391) (451,1392) (466,1393) (474,1394) (487,1395) (500,1396) (532,1397) (534,1398) (546,1400) (565,1401) (584,1402) (586,1404) (619,1406) (665,1407) (667,1408) (674,1410) (686,1411) (698,1412) (710,1413) (726,1414) (739,1415) (751,1416) (763,1417) (778,1418) (786,1419) (799,1420) (812,1421) (844,1422) (846,1423) (858,1425) (877,1426) (896,1427) (898,1429) (931,1431) (977,1432) (979,1433) (986,1435) (998,1436) (1010,1437) (1022,1438) (1038,1439) (1051,1440) (1063,1441) (1075,1442) (1090,1443) (1098,1444) (1111,1445) (1124,1446) (1156,1447) (1158,1448) (1178,1449) (1190,1451) (1209,1452) (1228,1453) (1230,1454) (1251,1456) (1283,1457) (1318,1458) (1364,1459) (1366,1460) (1409,1462) 
+ui_band_mode_create_menu_lefty 80 (0,1471) (6,1472) (12,1473) (24,1475) (36,1476) (54,1478) (61,1479) (73,1480) (85,1481) (97,1482) (113,1483) (126,1484) (138,1485) (150,1486) (165,1487) (173,1488) (186,1489) (199,1490) (231,1491) (233,1492) (245,1494) (264,1495) (283,1496) (285,1498) (292,1499) (304,1500) (316,1501) (328,1502) (344,1503) (357,1504) (369,1505) (381,1506) (396,1507) (404,1508) (417,1509) (430,1510) (462,1511) (464,1512) (476,1514) (495,1515) (514,1516) (516,1517) (520,1518) (527,1519) (539,1520) (551,1521) (563,1522) (579,1523) (592,1524) (604,1525) (616,1526) (631,1527) (639,1528) (652,1529) (665,1530) (697,1531) (699,1532) (711,1534) (730,1535) (749,1536) (751,1538) (758,1539) (770,1540) (782,1541) (794,1542) (810,1543) (823,1544) (835,1545) (847,1546) (862,1547) (870,1548) (883,1549) (896,1550) (928,1551) (930,1552) (942,1554) (961,1555) (980,1556) (982,1557) (984,1558) 
+ui_band_mode_mic_check 33 (0,1566) (64,1567) (86,1570) (88,1571) (90,1572) (110,1575) (168,1576) (170,1577) (172,1578) (208,1584) (226,1585) (244,1586) (262,1587) (334,1588) (336,1589) (338,1590) (344,1592) (346,1594) (359,1595) (377,1596) (398,1597) (411,1599) (413,1602) (417,1603) (438,1604) (451,1605) (462,1606) (475,1607) (477,1608) (479,1609) (505,1611) (556,1626) (558,1627) 
+ui_band_mode_create_menu_difficulty 109 (0,1636) (6,1637) (24,1660) (31,1661) (43,1662) (55,1663) (67,1664) (83,1665) (96,1666) (108,1667) (120,1668) (135,1669) (143,1670) (156,1671) (169,1672) (201,1673) (203,1674) (215,1676) (234,1677) (253,1678) (255,1679) (259,1680) (266,1681) (278,1682) (290,1683) (302,1684) (318,1685) (331,1686) (343,1687) (355,1688) (384,1689) (396,1690) (415,1691) (434,1692) (440,1693) (442,1694) (444,1695) (451,1697) (463,1698) (475,1699) (487,1700) (503,1701) (516,1702) (528,1703) (540,1704) (555,1705) (563,1706) (576,1707) (589,1708) (621,1709) (623,1710) (635,1712) (654,1713) (673,1714) (675,1716) (682,1718) (694,1719) (706,1720) (718,1721) (734,1722) (747,1723) (759,1724) (771,1725) (786,1726) (794,1727) (807,1728) (820,1729) (852,1730) (854,1731) (866,1733) (885,1734) (904,1735) (906,1737) (913,1739) (925,1740) (937,1741) (949,1742) (965,1743) (978,1744) (990,1745) (10

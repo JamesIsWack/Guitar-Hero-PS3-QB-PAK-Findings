@@ -1,0 +1,18 @@
+0x34952a27 constant
+0x56381af6 FlexParticle
+0x58e36b35 FollowEmitter
+0x1de1fb72 LOD_Default
+0x5c0a0bcc EmitNum
+0x02e58c18 add
+0xf8ed7c43 QuadAnimationFPS
+0xcfcedc4a Radiate
+0x07709c4b DiffuseTextureEnabled
+0xba9bbc65 ParticleColor
+0x68977cd7 Force
+0x9f677d4e AlphaCutoff
+0x6289dd76 Max
+0x80aa8d80 EmitFunction
+0x36322e0f EmitRangeDims
+0x0cd26e25 EmitAngle
+0x13120e30 DiffuseTexture
+0x2c9

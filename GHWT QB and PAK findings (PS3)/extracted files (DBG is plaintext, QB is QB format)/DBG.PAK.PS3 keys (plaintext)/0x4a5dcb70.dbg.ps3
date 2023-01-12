@@ -1,0 +1,12 @@
+
+0x786d4b52 uistate_signin_complete
+0xc2218b53 GameProfileSettingsFinished
+0xea053b6f require_live
+0x8e10bb70 SetArrayElement
+0x891f8b9a ui_signin_changed_first_press
+0x2abffbae signin_params
+0x9ad5cbc1 StartGameProfileSettingsRead
+0x86068bd9 callback
+0x80c29beb ps3_signin_callback
+0x4f4e9bfd destroy_popup_warning_menu
+0x15e7cc09 onl

@@ -1,0 +1,21 @@
+tutorial_battle_attack_cont_alpha
+0x0c4a8291 training_7_7_explain_do_or_die
+0xbc1522bc training_create_narrator_icons
+0xd443a2bc off
+0xf5b682d5 training_check_for_all_tutorials_finished
+0xe16222da training_7_5_start_gem_scrollers
+0xe10a22e8 destroy_all_exploding_text
+0xfd4db2fc show_training_pause_screen
+0x90be0314 num_attacks
+0x872a6346 training_7_4_show_battle_highways
+0x597b534d p2_battle
+0xee9bc392 spawnscriptlater
+0xe4ce039b training_7_5_show_lesson_header
+0x9109a39b scrollid
+0x6768b3a2 destroy_menu
+0xf44a53ab desc
+0x7c4473c7 training_show_narrator
+0x4d92e3e2 training_generic_lesson_complete
+0xc5bc93ee ScreenElementExists
+0x9761c3f9 tutorial_battle_header
+0x11

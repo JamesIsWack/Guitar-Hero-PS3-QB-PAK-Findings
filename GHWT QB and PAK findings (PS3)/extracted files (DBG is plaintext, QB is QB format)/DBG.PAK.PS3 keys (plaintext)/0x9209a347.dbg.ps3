@@ -1,0 +1,27 @@
+88) (7556,1989) (7568,1990) (7580,1991) (7592,1992) (7604,1993) (7606,1994) (7610,1995) (7617,1996) (7642,1997) (7654,1998) (7666,1999) (7678,2000) (7690,2001) (7692,2002) (7694,2003) (7876,2006) 
+get_quickplay_song_score 14 (0,2012) (40,2013) (58,2014) (78,2015) (82,2016) (108,2017) (110,2018) (112,2019) (152,2021) (171,2022) (173,2023) (215,2025) (227,2027) (241,2029) 
+get_quickplay_song_stars 7 (0,2035) (40,2037) (59,2038) (61,2039) (103,2041) (115,2043) (141,2045) 
+setlist_show_helperbar 1 (92,2051) 
+setlist_return_to_2p_hub 2 (0,2178) (36,2180) 
+
+[Checksums]
+0xd189a1be scripts\guitar\menu\menu_setlist.qb
+0xb990d003 target
+0x162c4004 available_on_other_client
+0x8e411006 b
+0x1bff900b quickplay
+0x44949010 difficulty
+0xea10f011 setlist_debug_unlockall
+0x21ecd016 saved_in_globaltags
+0x226f401b noassert
+0xd71d101c ui_flow_manager_respond_to_action
+0xeda6c024 setlist_bg_head_676
+0x84db7025 Setlist_Page1_Title_it
+0xaa7f2028 pad_l1
+0xcd0dc02d killspawnedscript
+0xe126e035 top
+0x475bf03c event_handlers
+0x0473903d GameMode_GetNumPlayers
+0x78b41046 setlist_line_max
+0xc1101049 get_song_allowed_in_quickplay
+0x8efcf063 sl_bg_help

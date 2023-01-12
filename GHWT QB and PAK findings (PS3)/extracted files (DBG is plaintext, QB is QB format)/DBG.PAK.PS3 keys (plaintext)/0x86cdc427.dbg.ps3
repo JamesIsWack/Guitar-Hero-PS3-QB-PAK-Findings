@@ -1,0 +1,45 @@
+8,332) (520,333) (522,334) (544,336) (562,338) (584,339) (586,340) (608,342) (627,344) (649,345) (651,346) (683,348) (736,350) (763,351) (795,353) (848,355) (875,356) (896,358) (904,359) 
+fixed_menu_morph 9 (28,368) (92,369) (105,371) (117,373) (119,374) (151,375) (206,377) (227,379) (235,380) 
+fixed_menu_item_morph 10 (28,389) (92,390) (98,392) (111,393) (123,395) (142,396) (163,397) (193,398) (195,399) (263,401) 
+
+[Checksums]
+0x9ddeaa1f scripts\engine\menu\menu_fixed.qb
+0xb990d003 target
+0xf3619024 next_show
+0xc6870028 Die
+0x0f7e902c nullscript
+0xb8a24035 add_fixed_menu_item
+0x475bf03c event_handlers
+0xdd938080 total_items
+0xb12b510a SpriteElement
+0x7031f10c params
+0x3611c136 GetTags
+0x73665140 CreateScreenElement
+0xcf66717b GotParam
+0xbc6b118f up
+0x5ea0e211 loop
+0xa90f7219 menu_unfocus_color
+0x8b60022f just
+0xbd30325b white
+0xf0c26262 shown
+0x7d99f28d texture
+0xb2f04294 pos_mod
+0x5a8c82db focus_script
+0xeb68a31a fixed_menu_item_morph
+0x19b43382 next_index
+0x192bc3a2 pad_back_script
+0xc5bc93ee ScreenElementExists
+0xf77614d8 ResolveScreenElementID
+0xbf0f14db center
+0x9d3fb516 focus
+0x0e61b525 RunScriptOnScreenElement
+0x1e3e253b pad_choose
+0x4c29c545 RequireParams
+0x6c9c3557 text_pos
+0xb8437568 pad_choose_params
+0x34a68574 dims
+0x1ae5f578 fixed_menu_reposition
+0x455485ef dir
+0xd029f619 seconds
+0x9a6bd624 icon
+0x8197268

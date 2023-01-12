@@ -1,0 +1,121 @@
+86,1058) (109,1060) (134,1062) (136,1063) 
+Z_jet_blast_call 10 (0,1066) (2,1067) (40,1068) (42,1069) (44,1070) (96,1071) (98,1072) (110,1074) (144,1077) (180,1078) 
+Z_Jet_shadow_calls 3 (0,1084) (52,1086) (64,1087) 
+Z_Jet_shadow_takeoff 3 (0,1092) (52,1094) (64,1095) 
+Z_jet_slow 10 (0,1103) (40,1105) (80,1106) (120,1107) (160,1109) (200,1110) (252,1112) (292,1113) (344,1114) (384,1116) 
+Z_military_jet_taxi 7 (0,1121) (40,1123) (80,1124) (120,1125) (160,1126) (200,1127) (240,1128) 
+Z_military_jet_launch 10 (0,1134) (36,1136) (88,1137) (124,1138) (176,1139) (212,1141) (248,1142) (284,1143) (320,1144) (356,1146) 
+Z_military_jet_flight 6 (0,1150) (36,1152) (72,1153) (108,1154) (144,1155) (180,1157) 
+Z_jet_deflector_down 3 (0,1161) (56,1163) (128,1164) 
+Z_jet_deflector_up 3 (0,1170) (56,1172) (68,1173) 
+Z_Load_jet2 23 (0,1180) (12,1182) (24,1186) (80,1187) (92,1188) (164,1191) (176,1192) (228,1193) (300,1196) (372,1197) (384,1198) (436,1199) (508,1202) (520,1203) (592,1206) (604,1207) (676,1208) (748,1209) (760,1210) (832,1211) (844,1212) (916,1215) (928,1216) 
+z_jet2_wheel 9 (0,1223) (36,1224) (48,1225) (64,1226) (70,1227) (86,1228) (109,1230) (134,1232) (136,1233) 
+Z_military_jet2_launch 7 (0,1236) (40,1238) (80,1239) (120,1240) (160,1241) (200,1242) (240,1243) 
+Z_jet2_shadow 9 (0,1250) (36,1251) (48,1252) (64,1253) (70,1254) (86,1255) (109,1257) (134,1259) (136,1260) 
+Z_Jet2_shadow_calls 3 (0,1263) (52,1265) (64,1266) 
+Z_jet2_blast 9 (0,1274) (36,1275) (48,1276) (64,1277) (70,1278) (86,1279) (109,1281) (134,1283) (136,1284) 
+Z_jet2_blast_call 2 (0,1287) (12,1289) 
+Z_Military_Turbine_engine_01 18 (0,1304) (2,1307) (11,1308) (19,1309) (29,1310) (80,1311) (132,1312) (145,1313) (196,1314) (248,1315) (261,1316) (312,1317) (364,1318) (366,1319) (370,1320) (420,1321) (422,1322) (424,1323) 
+z_Military_CreateEncore 5 (0,1327) (36,1329) (72,1331) (108,1333) (144,1335) 
+z_Military_Kill 5 (0,1361) (36,1363) (72,1365) (108,1367) (144,1369) 
+
+[Checksums]
+0xa5ccd999 zones\z_military\z_military_scripts.qb
+0x2b13901e Z_Military_Pyro_FSC03
+0xac1d8022 color_overrides
+0x1f748026 z_military_Pyro
+0x34c4202b Z_Military_GFX_FX_JetLaunch_DeflectorSmoke
+0xcd0dc02d killspawnedscript
+0xdbfdd02f Obj_WaitMove
+0x9a8bb047 spotlights_Yellow
+0x6ec68049 top_1
+0x110ed063 Z_military_jet_land
+0x5b45706d GP_FX_Fireworks_SparkleRocket_Smoke_02
+0x059ea070 Red
+0xa47b7070 mid_2
+0x09db4073 z_military_startup
+0x022cf075 resolution
+0xc2a28080 vocalist
+0x5c14a088 Z_Military_Pyro_FSC02
+0xcab94088 bone
+0x43ebe09a front_4
+0x20fb30a7 z_Military_TRG_Encore_Jet01
+0x85c030a9 z_Military_Pyro_Fountains_Pos
+0x073df0ab spotlights_Blue
+0x554520cf Z_military_Intro_Travis_Transition
+0xfc3e20cf Z_jet_blast
+0xfb7e30d2 Z_Military_Pyro_SparkleRocketBurstsR01
+0x7eadd0d2 GP_FX_FSC_GlowSmoke_01
+0xd37c40e6 mid_3
+0x3cece0ef z_jet2_wheel
+0x800a3102 Z_Military_G_Rmm_Jet2_shadow
+0xf0d90109 speed
+0x7031f10c params
+0xb9f2611d z_Military_TRG_Encore_Jet02
+0x437b2131 ObjectExists
+0xc51df132 Z_Military_Pyro_FSC01
+0xe874b155 Z_Military_Pyro_SparkleRocketBursts_MoveGhost_Left
+0x80c8e165 top_3
+0x62776168 Z_Military_Pyro_SparkleRocketBurstsR02
+0x937bb16d good
+0x9feeb170 Z_Military_GFX_FX_Party_GoodParticles
+0xd5d0d174 Z_Military_Jet_take_off_03_KNOT_0
+0x370a8175 z_military_Encore_Setup
+0xcf66717b GotParam
+0xcef5518b z_Military_TRG_Encore_Jet03
+0x1590418e CameraCuts_CalcTime
+0x002f1191 GP_FX_Fireworks_SparkleRocket_01
+0xae79d1aa GP_FX_Fireworks_Burst_Flower_Center_01
+0xc3c111b4 Transition_PlaySimpleAnim
+0x5d0671b8 channel
+0xa863c1bc Blackout_Generic
+0x3d7221ca mid_1
+0x26ea11dc Z_Military_Encore_JetSmoke
+0x2f6511de Green
+0x9ba9b1e3 GP_FX_Fireworks_SparkleRocket_Top_01
+0x197ad1ea Z_Military_Jet_take_off_02_KNOT_0
+0xf7cfd1f3 top_2
+0x1ad0f1f3 Poor_Generic
+0x127a21f8 Crowd_Profiles
+0xa1dc81f9 name
+0x157051fe Z_Military_Pyro_SparkleRocketBurstsR03
+0x47a3520c z_Military_GFX_FX_Encore_FW03
+0xe4b8221b isCreated
+0x17e7321e FOV
+0xc9365223 enable_crowd_models_cfunc
+0xd9ca2226 z_military_Pyro_Moments_Mid_1
+0x3a041235 GH_Encore_Jet02
+0x40b1f251 back_3
+0x25977258 Z_Military_Pyro_Front_2_05
+0xbd30325b White
+0x748ca262 Quat
+0x06b6e27c Falling_01
+0xad296281 Ven_Military_Intro
+0x30a4629a z_Military_GFX_FX_Encore_FW02
+0x4d0322a3 GH_Encore_Jet03
+0x53f372bb Z_Military_GFX_FX_GhostRocket_PATH_02_KNOT_0
+0xd443a2bc off
+0x37b6c2c7 back_2
+0x529042ce Z_Military_Pyro_Front_2_04
+0x4f4822e4 Band_UnHide
+0x20d952ea z_Military_PostEncore_FX_Combined
+0x43ce02ec exposition
+0xb24032f4 CCam_DoMorph
+0x944972f6 ScriptTable
+0x9d2a931a z_military_poor_snapshots
+0xbfb0031d Obj_FollowPath
+0xa9ad3320 z_Military_GFX_FX_Encore_FW01
+0xea81a32b Obj_MoveToRelPos
+0x4a07c332 frame
+0xe8b88350 Falling_03
+0x4570735d drummer
+0x2ffb1360 Yellow
+0xdbaee367 shadow_pos
+0x0203b372 true
+0x7b3ac378 z_military_Encore_Transition
+0xaebf937d back_1
+0xa30d438f GH_Encore_Jet01
+0xee9bc392 SpawnScriptLater
+0xd84793a2 z_Military_Encore_SetSnapshot
+0x9fbfb3c6 Falling_02
+0xf3b373c6 Z_Military_

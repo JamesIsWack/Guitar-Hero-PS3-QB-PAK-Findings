@@ -1,0 +1,25 @@
+40293 allow_child_rotate
+0x8012c29f SetSpawnInstanceLimits
+0x5a8c82db focus_script
+0xee28030d character_purchase_vmenu
+0xe5a3432b character_selection_unfocus
+0x5fb0932f get_all_exclusive_devices
+0xe4b2f330 character_selection_item_name_font
+0xc0da1330 character_selection_item_icon_alpha
+0x9eb6e336 SpawnScript
+0x8c40a33a character_purchase_yes
+0xa8ee7357 ScriptAssert
+0x0203b372 true
+0x5b058376 param
+0x192bc3a2 pad_back_script
+0xf44a53ab desc
+0xda3403b0 null
+0x65a1c3bc destroy_character_selection_menu
+0xc09243be cleanup_cas_menu_handlers
+0x4616e3e4 alias_character_purchase_menu_yes
+0xc5bc93ee ScreenElementExists
+0x9fa323f3 character_purchase_price_text_text
+0xff0db407 textname
+0x1d944426 not_focusable
+0x9277f428 FormatText
+0x

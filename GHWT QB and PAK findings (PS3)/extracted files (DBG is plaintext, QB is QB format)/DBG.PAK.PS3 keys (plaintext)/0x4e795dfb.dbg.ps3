@@ -1,0 +1,18 @@
+r_whammy_up
+0xbc1522bc training_create_narrator_icons
+0xd443a2bc off
+0xf5b682d5 training_check_for_all_tutorials_finished
+0xe10a22e8 destroy_all_exploding_text
+0xfd4db2fc show_training_pause_screen
+0x4c0d1319 notes_hit
+0x9eb6e336 spawnscript
+0x62a3d337 star_sequence_bonusp1
+0xc677936b training_2_2_start_gem_scroller
+0x0203b372 true
+0x9109a39b scrollid
+0x6768b3a2 destroy_menu
+0x7c4473c7 training_show_narrator
+0xc5bc93ee ScreenElementExists
+0x113a9403 training_set_task_header_body
+0xae51640a training_2_3_destroy_sprites
+0x8f30e41e training_show_lesso

@@ -1,0 +1,70 @@
+e4d954 LightChecksum
+0x9a784963 z_space_GFX_VC_Viewer_Left_Direct01
+0x45d189a7 z_space_GFX_L_Stage_Right_Direct01
+0xfd32a9d6 ProjectorColorGreen
+0x43e699e0 z_space_GFX_L_Stage_Top_Direct01
+0x917a19fa z_space_GFX_L_Periph_Direct01
+0x3f243a3c EndRadius
+0x241e3a51 z_space_GFX_L_Band_Top_Direct01
+0x427fbaac FarAttenStart
+0x1b976ab8 Chorus02
+0xb71c7abc VolumeColorBlue
+0x738c9ade Foo
+0x86246ae1 z_space_GFX_L_Band_Back_Direct01
+0x829e3b02 Chorus01
+0xd8362b09 z_space_GFX_L_Band_Left_Direct01
+0x95d8bba9 z_space_snapshots
+0x1a419c83 z_space_GFX_L_Crowd_Direct01
+0xab9fdcdd z_space_GFX_TRG_LH_Flare_Right01
+0x8348cd39 z_space_GFX_L_Crowd_Direct02
+0x3db49d8e ProjectorColorRed
+0xf44ffdaf z_space_GFX_L_Crowd_Direct03
+0x7ec52dd1 z_space_GFX_VC_Viewer_Up_Direct01
+0xd2e15e9f z_space_GFX_L_Band_Ambient01
+0xe4d5dea3 Poor01
+0x2dff7ec7 Blackout01
+0x9211ded6 VolumeDensity
+0x2d2a1f11 FarAttenEnd
+0x50239f97 Flare01
+0x0672bfd0 VolumeColorRed
+
+[LineNumbers]
+Z_Space_G_RMM_Drumfront_02Script 2 (0,1) (6,2) 
+Z_Space_G_RMM_Drumfront_03Script 2 (0,5) (6,6) 
+Z_Space_TRG_Ped_CrowdScript 2 (0,9) (6,10) 
+Z_Space_g_speaker_cone39Script 2 (0,13) (6,14) 
+Z_Space_g_speaker_cone38Script 2 (0,17) (6,18) 
+Z_Space_g_speaker_cone36Script 2 (0,21) (6,22) 
+Z_Space_g_speaker_cone37Script 2 (0,25) (6,26) 
+Z_Space_g_speaker_cone46Script 2 (0,29) (6,30) 
+Z_Space_g_speaker_cone45Script 2 (0,33) (6,34) 
+Z_Space_g_speaker_cone35Script 2 (0,37) (6,38) 
+Z_Space_g_speaker_cone44Script 2 (0,41) (6,42) 
+Z_Space_g_speaker_cone43Script 2 (0,45) (6,46) 
+Z_Space_g_speaker_cone42Script 2 (0,558) (6,559) 
+Z_Space_g_speaker_cone41Script 2 (0,562) (6,563) 
+Z_Space_g_speaker_cone40Script 2 (0,566) (6,567) 
+
+[Checksums]
+0xcb4d64bf zones\z_space\z_space.qb
+0xaddee053 Z_Space_Lights_Stage04
+0xc935405e Z_Space_g_speaker_cone39
+0x1df32087 ObjectFixedAlpha
+0xbe3270c8 Z_Space_g_speaker_cone38
+0xef59c100 GameObject
+0x57dad166 Z_Space_g_speaker_cone45Script
+0x5df96192 Z_Space_g_temp_walls
+0xf71dc1d1 CreatedOnProgress
+0xa1dc81f9 Name
+0x9050e208 Z_Space_Tripod02
+0x9abfb20b Z_Space_g_speaker_cone39Script
+0x2ca8a299 TriggerScript
+0xaf6d129d Z_Space_G_RMM_Drumfront_02Script
+0xccd0a2b9 Venue_PulseDrumBoth
+0x7c2552b9 CreatedAtStart
+0x6cf7c2e2 Z_Space_g_speaker_cone36Script
+0x7e4813a7 LightGroup
+0xc62ba3ed Z_Space_Crowd_Peds
+0x340ae45c Z_Space_g_speaker_cone43Script
+0xddb414dc Z_Space_Lights_Stage01
+0xbf080507 Venue_PulseAn

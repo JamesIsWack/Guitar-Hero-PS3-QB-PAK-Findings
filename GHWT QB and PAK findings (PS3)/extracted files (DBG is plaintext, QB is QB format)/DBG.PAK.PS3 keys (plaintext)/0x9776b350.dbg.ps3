@@ -1,0 +1,141 @@
+1032) (2,1034) (68,1035) (74,1036) (140,1037) (146,1038) (148,1039) 
+z_Fairgrounds_CreateEncore 2 (0,1043) (36,1045) 
+z_Fairgrounds_Kill 2 (0,1050) (36,1052) 
+z_Fairgrounds_encore_killBucket 2 (0,1057) (18,1059) 
+z_Fairgrounds_encore_killWheel 4 (0,1064) (36,1066) (72,1067) (148,1068) 
+z_Fairgrounds_encore_createWheelCar 2 (0,1072) (36,1074) 
+z_Fairgrounds_CreateIntro 2 (0,1078) (36,1079) 
+z_Fairgrounds_KillIntro 2 (0,1082) (36,1083) 
+z_fairgrounds_camera_intro 8 (0,1086) (6,1088) (136,1100) (142,1102) (192,1104) (324,1116) (330,1118) (348,1124) 
+z_fairgrounds_camera_ted_intro 11 (0,1129) (6,1131) (136,1143) (142,1145) (192,1147) (324,1159) (330,1161) (380,1163) (512,1177) (518,1179) (536,1180) 
+z_fairgrounds_encore_createWheel 2 (0,1222) (36,1224) 
+Rel_anim_key1 4 (0,1229) (26,1231) (56,1232) (62,1233) 
+z_fairgrounds_encore_WheelAni 44 (0,1238) (13,1240) (15,1242) (71,1244) (127,1245) (183,1246) (239,1247) (295,1248) (351,1249) (407,1250) (463,1251) (519,1252) (575,1253) (631,1254) (687,1255) (743,1256) (799,1257) (855,1258) (911,1259) (967,1260) (1023,1261) (1079,1262) (1135,1263) (1191,1264) (1247,1265) (1303,1266) (1359,1267) (1415,1268) (1471,1269) (1527,1270) (1583,1271) (1639,1272) (1695,1273) (1751,1274) (1807,1275) (1863,1276) (1919,1277) (1975,1278) (2031,1279) (2087,1280) (2143,1281) (2199,1282) (2255,1283) (2257,1285) 
+
+[Checksums]
+0x67153b56 zones\z_fairgrounds\z_fairgrounds_scripts.qb
+0xfd270004 play_ted_intro_anims
+0xd902001f z_fairgrounds_GFX_FX_Encore_FerrisSparksEtc02
+0xac1d8022 color_overrides
+0xcd0dc02d KillSpawnedScript
+0xdbfdd02f Obj_WaitMove
+0x9fa27037 Z_fairgrounds_Intro_Ted_Transition
+0x878b1040 GSB_B_NoTempo_UJ_01
+0x9a8bb047 spotlights_Yellow
+0x6ec68049 top_1
+0x059ea070 Red
+0xa47b7070 mid_2
+0x022cf075 resolution
+0x733e807a Z_Fairgrounds_GFX_FX_PyroCylinder_02
+0xc2a28080 vocalist
+0x43ebe09a front_4
+0x2c30709b z_fairgrounds_Encore_Setup
+0x073df0ab spotlights_Blue
+0xe25390b5 Z_Fairgrounds_Meter_Good
+0x0347b0b6 z_Fairgrounds_CreateIntro
+0x52ce60d8 z_fairgrounds_Encore_Transition
+0x0f3890e4 z_fairgrounds_GFX_FX_Encore_FW04
+0xd37c40e6 mid_3
+0xf8ccb101 GH_Encore_FarrisWheel
+0x299de104 z_fairgrounds_encore_WheelAni
+0xf0d90109 speed
+0x7031f10c params
+0x7580010d callback_script
+0xd152e12a Ven_Fairgrounds_Intro
+0x80c8e165 top_3
+0x0550e167 z_fairgrounds_camera_encore
+0x937bb16d good
+0xcf66717b GotParam
+0x1590418e CameraCuts_CalcTime
+0x400b51a5 z_fairgrounds_GFX_FX_Encore_FerrisSparksEtc01
+0x5d0671b8 channel
+0xa863c1bc Blackout_Generic
+0xea37d1c0 Z_Fairgrounds_GFX_FX_PyroCylinder_01
+0x3d7221ca mid_1
+0x2f6511de Green
+0xf7cfd1f3 top_2
+0x1ad0f1f3 Poor_Generic
+0x127a21f8 Crowd_Profiles
+0xa1dc81f9 name
+0xe4b8221b isCreated
+0x17e7321e FOV
+0xc9365223 enable_crowd_models_cfunc
+0x9fa9123c Z_Fairgrounds_TedIntro_Front_1_05
+0x68783242 GP_FX_SF_Front_2_02
+0x40b1f251 back_3
+0xbd30325b White
+0x748ca262 Quat
+0x94a3526a Falling_Action01
+0x195fe297 z_fairgrounds_GFX_FX_Encore_FW_Crackle_01
+0xe8ae22aa Z_Fairgrounds_TedIntro_Front_1_04
+0x1c1b82b5 Bucket_pos
+0xd443a2bc off
+0x4a2d42be Z_Fairgrounds_Pyro_Front_2_01
+0x37b6c2c7 back_2
+0x1f7f02d4 GP_FX_SF_Front_2_03
+0x70dae2d5 Band_PlayIdle
+0xe46a22e3 Prelude01
+0x0d5712ea GH_Buffalo_Intro
+0x43ce02ec exposition
+0xb24032f4 CCam_DoMorph
+0x944972f6 ScriptTable
+0xd3241304 Z_Fairgrounds_Pyro_Front_2_02
+0x58f4830b z_fairgrounds_Performance_Changed
+0x6b95e30c z_fairgrounds_Intro_Transition
+0x1b65631a Rel_anim_key1
+0xea81a32b Obj_MoveToRelPos
+0x4a07c332 frame
+0x7d637359 Prelude02
+0x4570735d drummer
+0x2ffb1360 Yellow
+0x24314369 Z_Fairgrounds_Pyro_Front_2_10
+0x0203b372 true
+0xaebf937d back_1
+0x06a04386 Z_Fairgrounds_TedIntro_Front_1_06
+0xee9bc392 SpawnScriptLater
+0xa4232392 Z_Fairgrounds_Pyro_Front_2_03
+0x01de43a7 Band_PlayClip
+0xaaa5c3a7 z_fairgrounds_Encore_Explosions
+0xbb80b3c1 z_fairgrounds_Pyro
+0xab2943c9 Z_Fairgrounds_Bucket
+0x0daa03d0 Falling_Action02
+0xfaa0b3e9 spotlights_Magenta
+0x182f13ec anims
+0x023963ec z_Fairgrounds_encore_killBucket
+0x87fa53ed groupID
+0xf17163f8 GP_FX_SF_Front_2_01
+0x3ada33f8 Z_Fairgrounds_Big_Barn_Door_Right
+0xa2b033fd uniqueID
+0xb4e103fd active
+0x4bbdc405 transition_changeIK
+0x33811415 front_1
+0xf3b3b42a blackout
+0x3972242e Resolution_Action02
+0x8d99f440 Strobe_Generic
+0x6c459440 z_fairgrounds_encore_createWheel
+0xc011246b Ven_Fairgrounds_Camera_Encore
+0x7f52646b z_fairgrounds_GFX_FX_Encore_FW01
+0xaf06447b enabled
+0x2bfc2486 objectname
+0x439ea489 z_fairgrounds_GFX_FX_Encore_SmokeSparks_02
+0xbfbfd4a2 z_Fairgrounds_G_Bucket
+0xcbc564a4 z_fairgrounds_Encore_Fireworks
+0xa571c4b2 GSB_D_NoTempo_UJ_01
+0x4e7514b8 Resolution_Action03
+0x1eac74c6 top_4
+0x976d94c8 z_fairgrounds_poor_snapshots
+0xdeef04cd StructureContains
+0x0b05f4d6 SpecialCamera_PlayAnim
+0x1d5c24e6 spotlights_White
+0x7a1254e7 GSB_S_NoTempo_UJ_01
+0xefb8a4ec Z_Fairgrounds_Cow_Head
+0x5c81d4ee z_fairgrounds_Pyro_Moments_Top_1
+0x6e6ee4f2 venue
+0x688ab4f5 GetUniqueCompositeObjectID
+0xa7300504 Band_PlayTransitionIdles
+0xaa99c521 save
+0x2fcd1533 silhouette
+0xda97f533 z_fairgrounds_GFX_FX_Encore_SmokeSparks_01
+0xdd8f7539 front_3
+0x4d18d545 mid_4
+0x915c0547 z_fairgrounds_GFX_FX_Encore_F

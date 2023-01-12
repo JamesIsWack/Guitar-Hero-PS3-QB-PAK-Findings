@@ -1,0 +1,224 @@
+0) (245,492) (253,493) (292,495) (311,498) (313,500) 
+cas_queue_prepare_new_object 26 (0,509) (26,511) (47,512) (49,513) (73,515) (95,517) (143,518) (145,519) (158,521) (192,524) (196,526) (205,528) (218,529) (222,530) (260,531) (352,532) (354,533) (372,536) (385,537) (420,540) (422,542) (443,544) (528,545) (530,546) (532,548) (558,550) 
+cas_queue_start_job 16 (0,559) (56,561) (79,563) (105,565) (118,566) (144,567) (165,568) (178,571) (191,572) (204,573) (217,574) (230,575) (243,576) (256,577) (258,578) (293,580) 
+cas_queue_remove_job_details 11 (0,589) (52,592) (104,593) (156,594) (208,595) (260,596) (312,597) (358,598) (396,600) (414,601) (416,602) 
+cas_queue_build_new_character 52 (0,611) (23,613) (29,616) (72,617) (84,618) (133,619) (145,620) (147,621) (184,623) (220,624) (241,625) (259,626) (261,627) (263,628) (265,629) (275,631) (288,632) (301,633) (313,634) (334,635) (355,636) (357,637) (363,639) (415,640) (421,641) (444,644) (477,647) (510,648) (518,651) (525,652) (538,653) (540,654) (586,656) (624,658) (645,659) (663,660) (665,661) (667,662) (722,664) (752,665) (770,668) (774,671) (808,674) (810,693) (814,694) (820,696) (875,697) (881,698) (902,700) (920,701) (922,702) (924,704) 
+cas_queue_new_character_profile 5 (0,713) (76,715) (83,717) (113,719) (175,721) 
+cas_queue_get_unused_object 11 (0,730) (36,732) (48,733) (50,734) (73,735) (95,736) (114,737) (116,738) (137,740) (145,741) (176,743) 
+cas_queue_internal_destroy_object 18 (0,752) (18,754) (52,756) (64,757) (66,758) (89,759) (115,760) (142,762) (192,763) (228,765) (258,766) (262,767) (308,768) (310,769) (312,770) (314,771) (335,773) (343,774) 
+cas_queue_is_busy 15 (0,783) (52,785) (79,786) (81,787) (120,789) (129,790) (160,791) (162,792) (164,793) (204,795) (222,796) (252,797) (254,798) (256,799) (288,801) 
+cas_queue_wait 7 (0,810) (2,812) (18,813) (20,814) (22,815) (72,816) (74,817) 
+cas_destroy_all_characters 6 (0,826) (64,828) (100,830) (136,831) (172,832) (208,833) 
+cas_player_has_character_object 12 (0,842) (35,844) (88,845) (90,846) (111,848) (134,850) (160,852) (189,853) (216,854) (218,855) (220,856) (252,858) 
+cas_get_is_female 31 (0,867) (35,869) (88,870) (90,871) (111,873) (134,875) (160,878) (220,879) (242,880) (244,881) (280,884) (307,885) (368,886) (390,887) (392,888) (394,889) (421,892) (433,894) (447,895) (512,896) (544,897) (546,898) (567,899) (589,902) (652,903) (654,904) (676,906) (744,907) (746,908) (804,910) (818,911) 
+cas_queue_fast_update 17 (25,920) (31,922) (48,924) (54,926) (67,927) (80,928) (88,929) (95,930) (108,931) (110,932) (112,933) (125,935) (156,936) (160,937) (173,939) (204,940) (206,941) 
+cas_set_object_node_pos 30 (28,950) (92,952) (113,954) (152,956) (170,958) (188,959) (192,961) (213,964) (231,965) (249,966) (253,967) (288,968) (324,969) (326,970) (328,972) (351,975) (359,976) (366,977) (379,978) (392,979) (394,980) (440,981) (461,984) (474,986) (487,987) (512,988) (532,991) (557,992) (559,993) (561,995) 
+cas_queue_block 9 (0,1004) (2,1006) (18,1007) (20,1008) (22,1009) (28,1011) (34,1012) (84,1015) (86,1016) 
+cas_get_loading_id 3 (0,1025) (66,1027) (80,1028) 
+cas_start_loading_anim 11 (0,1037) (60,1039) (78,1041) (96,1042) (117,1045) (141,1047) (166,1048) (203,1050) (207,1052) (237,1053) (239,1054) 
+cas_stop_loading_anim 5 (0,1063) (18,1067) (39,1069) (57,1070) (59,1071) 
+kill_watch_timer 5 (0,1080) (6,1082) (40,1083) (92,1086) (98,1087) 
+get_cas_loading_pos 30 (0,1096) (64,1098) (82,1100) (121,1101) (123,1102) (133,1104) (143,1105) (151,1107) (161,1108) (204,1109) (217,1110) (260,1111) (273,1112) (316,1113) (329,1114) (372,1115) (374,1116) (387,1118) (395,1120) (405,1121) (448,1122) (461,1123) (504,1124) (506,1125) (519,1127) (560,1129) (568,1131) (604,1132) (606,1133) (649,1135) 
+set_cas_loading_setup 12 (0,1144) (64,1146) (82,1148) (94,1151) (96,1152) (114,1153) (135,1155) (153,1156) (178,1157) (180,1158) (201,1160) (208,1161) 
+
+[Checksums]
+0x24575829 scripts\game\cas\cas_build_queue.qb
+0xc6870028 die
+0x0f7e902c nullscript
+0x6622603a cas_get_loading_id
+0x94a5103b ui_event_get_stack
+0x1faed041 cas_queue_get_next_entry
+0x7a3d505b buildscriptparams
+0x0576405c cas_loading_setup
+0x8a9ff06d unused_object
+0x3815e0ad body_checksum
+0xe8dc80d1 AddToStringLookup
+0xd394d0ef get_cas_loading_pos
+0xe4f130f4 s
+0xa078e107 get_is_female_from_appearance
+0x7031f10c params
+0x292d8110 cas_current_instrument
+0x3d633117 fast_cas_update
+0x0281513f GlobalArray
+0xe863016e h2h
+0xcf66717b GotParam
+0xa0142183 CAS_node_name
+0xb5387193 make_watch_timer
+0x92512197 cas_queue_start_job
+0xbfa801df change
+0xa1dc81f9 name
+0xf042f21d cas_destroy_all_characters
+0x7dc1c229 appearance_checksum
+0x7095822f structure_checksum
+0x4ec17239 hide_old_character
+0x07f8d261 cas_queue_waiting_to_start
+0x3053b2c7 CompositeObjectExists
+0x769112d0 cas_player_has_character_object
+0x2ec622d0 get_musician_profile_struct_by_id
+0x2c2812fc cancel_all_cas_loads
+0xcfe8130a cas_object_name_list
+0x4b40630d newValue
+0x7a6a1327 watch_animate_in
+0x0cbae329 GetLogicFrame
+0x4a07c332 frame
+0x2841434c cas_set_object_node_pos
+0x3f18834c GetWaypointDir
+0xa8ee7357 ScriptAssert
+0x7d88c36f earliest_frame_index
+0x0203b372 true
+0xcb55339b Band_PlayAnim
+0xc0fee3b8 player_index
+0x10c6f3db structure_name
+0xc37153ec check
+0xc5bc93ee ScreenElementExists
+0x57525413 object
+0x9277f428 FormatText
+0x54499444 in_queue_too
+0xbefaa466 onExitRun
+0xad410467 requested_frame
+0x1e93946b alias
+0xbe578495 stack
+0x39b5c4b0 GetArraySize
+0xba4eb4b8 startedjob
+0xdeef04cd StructureContains
+0x407f74cd create_frontend_musician
+0x2f6da4d0 pending_appearance
+0xcb7874d8 kill_watch_timer
+0x7bfa951a CasWaitForComposite
+0xba1e052c cas_queue_waiting_to_start_cancelled
+0x6722b533 d
+0x70e5053f cas_rawpak_wait_for_load
+0x6c525544 map
+0x4c29c545 RequireParams
+0x11de9559 instrument_node_name
+0x9792a57a cas_stop_loading_anim
+0x5e7ae58b get_body_checksum_from_appearance
+0xc939258e aliasname
+0x67e6859a player
+0x531985ad cas_queue_player_info
+0xdcbb25d5 GenerateChecksumFromStruct
+0x1e7f75ee new_instrument
+0x455485ef dir
+0x7ea855f0 profile
+0x8f61d602 arrayName
+0x4ac20606 cas_queue_new_character_profile
+0x2de8c60e printf
+0xd029f619 seconds
+0xc3409622 instrument
+0x46f9a629 PrintScriptInfo
+0x791bc630 new_request_index
+0xc07ef64e except
+0x6bef3672 SetScriptCannotPause
+0xf52b768a cas_queue_last_job_frame
+0x8e3bf692 cas_queue_wait
+0x2ca4a6c5 BuildCASModel
+0x0d068725 CasCancelLoading
+0x7d60f726 destroy_band_member
+0xd040174b cas_queue_build_new_character
+0xf4109780 character_object
+0x0ed45788 Obj_SpawnScriptNow
+0x1e9d8794 old_object
+0x7a8017ba node
+0x906b67ba time
+0xd43297cf false
+0xe81c87db earliest_frame
+0xeb7d77de cas_queue_remove_job_details
+0xd80cf7f6 cas_queue_min_frames_between_jobs_fast_cas
+0x0ad71805 busy_player
+0x6cd45813 cas_cancel_loading_callback
+0x90fec815 structure
+0x867da834 cas_musician2
+0x0134c84b StructName
+0xe5c2f84c is_female
+0x8390b87f cas_object
+0x2937888a set_cas_loading_setup
+0xf17a98a2 cas_musician3
+0x627cd8a4 kill_pending_jobs
+0x40c698af id
+0xb7a328d1 cas_queue_update_death
+0x456d28d1 Struct
+0x3558d8e6 single
+0x7f8c98fe index
+0x2bd1d90f in_cas
+0x734ad918 force_update
+0xe5689942 UpdateCurrentCASModelSpawned
+0x9f8b4945 cas_queue_block
+0x7f261953 pos
+0x1f74f98e cas_musician1
+0x1993c98e i
+0xf8d6a996 kill
+0xb16619ae IsHidden
+0x1b0509c5 savegame
+0xdae2a9cf setup
+0xde59f9d7 cas_get_is_female
+0xc130f9e5 ScriptIsRunning
+0x3329d9f4 cas_queue_add_request
+0xaf42ba04 cas_queue_get_unused_object
+0x89644a2f cas_queue_min_frames_between_jobs
+0xf6997a33 SetPakManCurrent
+0x29eb5a4f current_body_checksum
+0xecc78a60 current_loading_rawpak
+0xf7251a64 Obj_SetPosition
+0x562dca7f cas_queue_rawpak
+0x76fa7a8f ChecksumName
+0x7b4f3a94 cas_rawpak_check_current
+0xc6f3baa5 Obj_SetOrientation
+0x19fa5af7 Spawnscriptnow
+0xc8aefb07 cas_queue_current_job
+0xb9d31b0a position
+0x51044b53 cas_start_loading_anim
+0x7609ab58 band_mode_mode
+0x811e2b5e cas_queue_rawpak_update
+0x8e10bb70 SetArrayElement
+0x50678b7f cas_queue_is_busy
+0xe98efb99 PopIn
+0x98549ba4 anim
+0x6dce2bb2 LogicFrame
+0xca070bef cas_queue_fast_update
+0x82117c1a wait
+0x9f23dc21 SE_SetProps
+0xafc86c39 new_object
+0xcbeafc54 ExistsPakManMap
+0x90e07c79 async
+0xf2c9ac8b pak
+0xf8df5c8d active_player
+0x62c11cb9 GetSingleTag
+0xcab6bcbd cancelled_loading
+0x2a104cc5 GetInstrumentNodeName
+0xfbd89cd5 Obj_KillSpawnedScript
+0x97fc2cf8 min_frames
+0x6f1e0d01 cas_musician4
+0x7056ed02 RemoveParameter
+0x55330d12 cas_queue_prepare_new_object
+0xb7205d14 band
+0xe90aad2d Obj_GetPosition
+0x4577fd38 AssignAlias
+0x133fdd45 RemoveComponent
+0x7f5b3d4d array_size
+0xf171bd59 CasBlockForComposite
+0xb8c17d5d cas_rawpaks
+0x3f4f5d63 current_player_index
+0xe534ad6a cas_queue_internal_destroy_object
+0x554c7d6f appearance
+0x5fa3dd75 watch_animate_out
+0xc4e78e22 all
+0x222ebe22 use_cache
+0xce5fee3f cas_queue_kill_player
+0xa651ae55 no_wait
+0x745aee79 cas_queue_lock
+0xbe304e86 printstruct
+0x966c9e9b player_info
+0xccae9e9b characters_only
+0x88739ea3 new_appearance
+0x38876eba instrument_havok_fix
+0x99edbed0 cas_queue_update
+0xfc37df05 gameframe
+0x37bf4f09 base_name
+0x806fff30 none
+0xb60d1f35 unhide
+0xbbcb7f7e waited
+0xb9614f9d pending_instrument
+0x2d474fb6 profile_struct
+0xae41efc7 pending_is_female
+0xa4616fd0 newpos
+0xfee23fd3 stars

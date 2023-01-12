@@ -1,0 +1,11 @@
+ GetGlobalTags
+0x2d362101 jam_create_tutorial_menu
+0x83a73107 select_jam_tutorial_option
+0x7031f10c params
+0x73665140 CreateScreenElement
+0x808b0149 rs_melody_lesson
+0x4f56b174 jam_tutorial_select_info
+0x4f935178 allow_drums
+0xe7cfa17a ghmix_tutorial_step_rec
+0x9b77f180 rs_ghmix_pro_techniques_tools_lesson
+0

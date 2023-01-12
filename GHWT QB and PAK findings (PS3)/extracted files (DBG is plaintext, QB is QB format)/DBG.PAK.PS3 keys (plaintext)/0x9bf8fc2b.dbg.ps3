@@ -1,0 +1,28 @@
+
+ui_init_jam 1 (0,37) 
+ui_deinit_jam 16 (0,49) (6,51) (12,52) (64,54) (100,56) (136,57) (184,60) (190,61) (196,64) (264,65) (296,66) (348,67) (366,68) (368,69) (374,71) (408,74) 
+deinit_jam_audio 11 (0,83) (76,85) (112,87) (148,88) (184,89) (220,90) (226,93) (264,95) (270,96) (272,97) (278,98) 
+
+[Checksums]
+0xd6ebc182 scripts\guitar\menu\states\layouts\ui_jam.qb
+0xe595f007 Skate8_SFX_Backgrounds_New_Area
+0x6c65406e jam_view_cam_created
+0x3e043075 JamMode_Vox
+0x5039d100 ClearJamSession
+0x7031f10c params
+0x5ef31148 array
+0xcf66717b GotParam
+0x287d118e jamsession_unload
+0x5d0671b8 channel
+0xbfa801df change
+0xa1dc81f9 name
+0x4537b2b0 DestroyScriptArray
+0x355b930b ui_init_jam
+0x80ab131b UnLoadMelodyKit
+0xd1bae330 keep_drumkit
+0x9277f428 FormatText
+0xb74ce4a3 respond_to_signin_changed
+0x87e1b4b7 JamMode_RhythmGuitar
+0xa9d735ad KillCamAnim
+0x000815d4 ui_create_jam
+0xb20

@@ -1,0 +1,23 @@
+or_obtain_1_attack 10 (0,1473) (2,1474) (20,1475) (22,1476) (24,1477) (48,1479) (50,1480) (52,1481) (104,1483) (106,1484) 
+training_7_wait_for_obtain_3_attacks 10 (0,1491) (2,1492) (20,1493) (22,1494) (24,1495) (48,1497) (50,1498) (52,1499) (104,1501) (106,1502) 
+
+[Checksums]
+0x5491a5e9 scripts\tutorials\training_versus_tutorial.qb
+0xb990d003 target
+0x56d17010 training_container
+0x39940016 tutorial
+0x2e9dd01c Tutorial_Mode_Finish_Chord
+0x1483e026 training_spawned_script
+0xcd0dc02d killspawnedscript
+0xe126e035 top
+0x9a7ca039 training_7_6_start_gem_scrollers
+0x475bf03c event_handlers
+0xb455f040 training_hide_narrator
+0x6e771093 training_7_5_complete_message
+0x696fe0ab number
+0xd95930ac player1_status
+0x8d3aa0b8 training_7_2_show_lead_indicator
+0x3371d0c1 call
+0xda6db0c6 tutorial_battle
+0x435e70d3 training_7_1_show_different_gametypes
+0x4ba430f2 p2_faceo

@@ -1,0 +1,41 @@
+980 DOF_CloseUp04_tod_manager
+0x7d176988 DOF_CAR_sel_drumsticks_tod_manager
+0xf4b4a9e1 Vignette
+0x692bca41 GigRoom_Section02_tod_manager
+0xf4ae4a5a DOF_CAR_Main_tod_manager
+0xf0582a79 DOF_CAR_Sel_Tat_R_tod_manager
+0xf8871a93 DOF_CloseUp01_tod_manager
+0x542b9ae3 outer_color
+0x62003b03 DOF_CAR_Sel_Instr_tod_manager
+0x5c406b0a equation
+0x0633bb1c DOF_CAR_Sel_Drums_tod_manager
+0xfe3c3b53 DOF_Band_Select_tod_manager
+0x049b4b84 fadeout_begin
+0xe0a2cbdb Noise_Lite
+0x4e12fbf4 red_mix_g
+0x1458cc19 GigRoom_Section05_tod_manager
+0x90258c6a bright_sat
+0xe3e64c9d angle_outer
+0x49c31cb5 green_mix_r
+0x54740cd1 green_mix_b
+0xbdea4d07 skycolor
+0xb2222d1c depthmodulate
+0x33705d83 scefName
+0xa7394de0 Brightness___Saturation
+0xaa8f5df7 Bloom__simplified_
+0x29461e27 strength
+0xf6a0ce36 Godray
+0x26f55e3a Depth_of_Field__simplified_
+0xcd412e61 DOF_Medium01_tod_manager
+0xbf351ec1 DOF_CAR_SelectTorso_tod_manager
+0xfa0f4f05 angle_inner
+0x23cf1f1f red_mix_r
+0x09479f52 farblurend
+0x3e780f7b red_mix_b
+0x715e8fbd amount
+0x98dbafd8 DOF_CloseUp03_tod_manager
+0xdf87fff5 Credits_MinDOF_tod_manager
+
+[LineNumbers]
+debug_ui_loadpreviewpak 15 (0,5) (12,7) (48,8) (84,9) (120,10) (122,11) (156,13) (192,17) (228,19) (237,21) (264,22) (268,23) (286,24) (288,25) (294,27) 
+debug_ui_show_paksize 28 (0,31) (36,32) (72,33) (74,34) (112,36) (114,37) (116,38) (134,40) (147,41) 

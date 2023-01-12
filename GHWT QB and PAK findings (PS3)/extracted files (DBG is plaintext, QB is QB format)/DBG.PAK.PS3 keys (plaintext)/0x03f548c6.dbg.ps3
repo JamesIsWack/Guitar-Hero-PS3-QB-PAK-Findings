@@ -1,0 +1,38 @@
+ (43,71) (45,72) 
+
+[Checksums]
+0x24aac63f scripts\guitar\menu\states\layouts\ui_cas_select_part_options.qb
+0x7031f10c params
+0xcf66717b GotParam
+0x6017f1cc ui_event
+0xbfa801df change
+0x3cd9d1fc setup_cas_menu_handlers
+0x9ddaa224 create_cas_select_part_options_vmenu
+0xbf17a257 show_history
+0x80db125a hist_tex
+0xf6ab82f2 cas_current_savegame
+0x192bc3a2 pad_back_script
+0xddbaa4a9 UIstate_cas_color_edit
+0x9836251b cam_name
+0x0acc054f car_helper_text
+0xc451f558 event
+0xc156b5b1 task_menu_default_anim_in
+0x3acee5c0 add_generic_menu_icon_item
+0xe88e660c destroy_generic_menu
+0x407bc624 GetCASPartMaterials
+0x9a6bd624 icon
+0x4686163a make_generic_menu
+0x3f6e367e zoom_camera
+0xa4c5d762 part_materials
+0xd4c98794 title
+0xdf92779b ui_destroy_cas_select_part_options
+0xc4745838 text
+0x1b0509c5 savegame
+0x8a644a6b pad_back_params
+0x19fa5af7 SpawnScriptNow
+0xe4202b13 generic_menu_block_input
+0xf1ff8b68 choose_state
+0x09f3fb6f additional_deinit_script
+0x31dc7bab camera_list
+0x0c714c3f menu_finish
+0x22236c98 icon_graphics

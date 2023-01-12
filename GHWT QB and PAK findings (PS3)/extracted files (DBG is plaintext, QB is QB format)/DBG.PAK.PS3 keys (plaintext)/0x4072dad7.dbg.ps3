@@ -1,0 +1,18 @@
+ckMaterial
+0x7321a8d6 Type
+0xde45a90d NoVisibilityTest
+0x9d2d0915 Angles
+0x7f261953 Pos
+0x1bd73987 JOW_StatueFlames01
+0x34952a27 constant
+0xe203da47 Layout2x2
+0x56381af6 FlexParticle
+0x58e36b35 FollowEmitter
+0xf1b2eb57 LOD_Distances
+0x87439b57 TextureLayout
+0x99b59b5b SortGroup
+0x5c0a0bcc EmitNum
+0x02e58c18 add
+0xf8ed7c43 QuadAnimationFPS
+0xcfcedc4a Radiate
+0x07709c4b DiffuseTex

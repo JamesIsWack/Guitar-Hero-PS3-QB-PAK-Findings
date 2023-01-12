@@ -1,0 +1,18 @@
+ions.qb
+0xb990d003 target
+0x44949010 difficulty
+0xa54d401a create_online_player_prefs
+0xd71d101c ui_flow_manager_respond_to_action
+0xe126e035 top
+0x475bf03c event_handlers
+0x98b8906c online_tie_breaker
+0x059ea070 red
+0x8d46e07a dialog_response_selected_dont_save
+0xa0c7507f flip_h
+0x1512808d tex
+0xffeb2095 setup_options_globals
+0x9a2e9095 set_focus_color
+0x36e6f0b5 generic_menu_up_or_down_sound
+0x2a1fe0cc shadow_offs
+0x301dd0f9 GetGlobalTags
+0xbfafb0fe online_op

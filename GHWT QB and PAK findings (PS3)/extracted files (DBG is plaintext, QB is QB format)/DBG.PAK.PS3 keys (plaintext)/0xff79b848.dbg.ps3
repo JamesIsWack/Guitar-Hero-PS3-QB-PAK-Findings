@@ -1,0 +1,19 @@
+script_system 3 (0,159) (36,160) (72,161) 
+debugstruct 3 (0,168) (23,169) (30,170) 
+decide_tutorial_back_destination 14 (0,177) (36,179) (72,181) (78,183) (90,185) (92,186) (153,187) (244,188) (289,189) (340,190) (342,191) (363,192) (371,193) (420,195) 
+
+[Checksums]
+0xa3e63925 scripts\tutorials\training.qb
+0x1483e026 training_spawned_script
+0xcd0dc02d killspawnedscript
+0xcbd1d03b training_waste_time_test
+0x94a5103b ui_event_get_stack
+0x3371d0c1 call
+0x04af9163 stack_size
+0xcf66717b gotparam
+0xbfa801df change
+0xa1dc81f9 name
+0x41c7a369 last_training_call_time
+0x0203b372 true
+0xee9bc392 spawnscriptlater
+0x8320d478 game_mo

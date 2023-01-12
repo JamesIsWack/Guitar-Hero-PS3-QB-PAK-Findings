@@ -1,0 +1,23 @@
+ext_case
+0x7321a8d6 type
+0x461658f0 uidesc_character_purchase_menu
+0x7f8c98fe index
+0x27526915 override_color_tag_rgba
+0x11d68916 array_color
+0x526b491b helper_bg
+0x43a7692d allow_wrap
+0x64e8e94a materials
+0x7f261953 pos
+0xf7c30957 character_purchase_price_text
+0x206c198d character_purchase_dialogue
+0xeeefd9f8 alias_character_purchase_menu
+0x10a25a11 character_purchase_dialogue_text
+0x7d0f4a22 character_purchase_price_bg
+0x0642aa26 WorkspaceForm
+0x83418a6a material
+0x13b9da7b scale
+0x49d8ba93 character_purchase_skull
+0xa0371aa0 hiddenLocal
+0x4c234aab pricetag
+0x6d853b88 padding_scale
+0x37cd7be

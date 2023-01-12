@@ -1,0 +1,49 @@
+ dlog_continue_notes_entry
+0xa0c7507f flip_h
+0x2a1fe0cc shadow_offs
+0x1ac840e3 dlog_continue_info
+0xb12b510a SpriteElement
+0xb0886111 gradient_256
+0xc45be12e uidesc_dialog_box_continue_nxgui
+0x696e4148 override_color_tag_alpha
+0xf0462150 fit content if larger
+0x1fe341d2 internal_scale
+0xd87251d6 scale each line if larger
+0x385011eb alias_dlog_vmenu
+0x1e7bb1f5 shadow_rgba
+0x3509e1f8 dlog_vmenu_container
+0xa1dc81f9 name
+0x8b60022f just
+0x4c19324a use_shadow
+0x40d92263 TextBlockElement
+0xfff8f281 dlog_continue_streak
+0x7d99f28d texture
+0xdfb72292 expand dims
+0x4d3c42d6 difficulty_icon
+0x442022f4 fontgrid_text_A11_b
+0xaf21c2f6 uidesc_dialog_box_continue
+0xe3fa22fc line_spacing
+0xf778a353 help
+0x0203b372 true
+0x4837e397 pos_anchor
+0xdf3633b6 dlog_box_continue_container
+0x67e093e4 internal_just
+0x2938b41b dlog_title
+0x4b92745c dlog_title_text
+0xb31464a8 icon_difficulty_medium
+0x4b4e14ab spacing_between
+0xa0ed44c6 aliases
+0x56ec54c7 fit_width
+0xf4ab74f0 path
+0x044f94fb scale down if larger
+0xadf03543 dlog_BG_container
+0xa4815557 props
+0x34a68574 dims
+0xdea7e576 subtract
+0xd7acc5be allow_alternate_directional_events
+0x5a7d95e0 icon_difficulty_medium_texture
+0xe43d7653 visiblename
+0x6b5f3687 dlog_continue_percent
+0x2f1fc695 alpha
+0x894496d9 fit_height
+0x5

@@ -1,0 +1,86 @@
+2,290) (180,292) (216,293) (252,294) (288,295) (300,296) (302,297) (333,298) (356,299) (374,300) (413,301) (415,302) (437,303) (439,304) (447,305) (449,306) (451,307) (488,309) (524,310) (530,311) (532,312) (544,314) (596,316) (648,317) (654,319) (672,321) (678,322) (684,323) (719,324) (808,325) (812,326) (818,327) (824,328) (859,329) (948,330) (950,331) (1056,340) (1062,342) (1064,343) 
+create_server_list_searching_dialog 59 (44,365) (51,367) (63,368) (75,369) (88,370) (107,371) (123,372) (139,373) (151,374) (153,376) (160,378) (172,379) (185,380) (198,381) (214,382) (233,383) (252,384) (268,385) (276,386) (289,387) (315,388) (341,389) (343,390) (345,392) (440,399) (557,401) (674,402) (681,405) (693,406) (705,407) (717,408) (729,409) (744,410) (756,411) (775,412) (787,413) (803,414) (805,415) (823,416) (830,419) (842,420) (855,421) (867,422) (879,423) (891,424) (906,425) (918,426) (937,427) (949,428) (984,429) (986,430) (1026,433) (1066,435) (1086,437) (1105,438) (1144,440) (1236,441) (1238,442) (1288,444) 
+destroy_server_list_searching_dialog 5 (0,455) (36,456) (72,457) (108,458) (110,459) 
+searching_dialog_select_stop 2 (0,462) (6,463) 
+searching_dialog_select_cancel 5 (0,468) (6,469) (56,470) (108,471) (114,472) 
+create_server_list_create_match_dialog 44 (60,495) (67,497) (79,498) (91,499) (104,500) (123,501) (139,502) (155,503) (167,504) (169,506) (176,508) (188,509) (201,510) (214,511) (230,512) (249,513) (268,514) (284,515) (292,516) (306,517) (319,518) (345,519) (371,520) (373,521) (375,523) (468,530) (475,532) (487,533) (499,534) (511,535) (527,536) (542,537) (554,538) (573,539) (592,540) (604,541) (620,542) (636,543) (638,544) (755,546) (872,547) (912,550) (952,552) (958,554) 
+destroy_server_list_create_match_dialog 6 (0,565) (6,566) (40,568) (76,569) (112,570) (114,571) 
+create_match_dialog_select_create 3 (0,576) (6,577) (80,578) 
+create_match_dialog_select_cancel 3 (0,583) (6,584) (12,585) 
+create_match_dialog_focus 3 (0,590) (52,592) (104,593) 
+create_match_dialog_unfocus 3 (0,598) (52,600) (104,601) 
+animate_dots 12 (0,614) (12,615) (14,616) (58,617) (83,618) (101,619) (114,620) (118,621) (140,622) (142,623) (192,624) (194,625) 
+
+[Checksums]
+0x61ec5fef scripts\game\net\menu_net_server_list.qb
+0xb990d003 target
+0x77b86025 set_server_list_mode
+0xe126e035 top
+0x475bf03c event_handlers
+0x7fa2f05c custom_search
+0x2989f068 search_results_menu
+0x059ea070 red
+0xb6fb1075 net_dummy_get_needed_search_params
+0xa0c7507f flip_h
+0x1512808d tex
+0x9a2e9095 set_focus_color
+0x8bf230ae create_online_server_list
+0x36e6f0b5 generic_menu_up_or_down_sound
+0x33a600c0 arrow_up
+0x0dd8d0d2 destroy_server_list_create_match_dialog
+0x76779100 xboxlive_menu_optimatch_results_stop
+0x7031f10c params
+0x3611c136 GetTags
+0xbff7c13b net_chosen_join_server
+0x73665140 CreateScreenElement
+0x606c0148 xboxlive_menu_optimatch_results_item_add
+0xcf66717b GotParam
+0xbc6b118f up
+0xcac971b5 searching_dialog_select_cancel
+0x174841bc a
+0xc22541cc disable_pad_handling
+0x6017f1cc ui_event
+0x2f6511de green
+0xbfa801df change
+0x0a9ae217 xb_online_bg
+0x8b60022f just
+0xbd30325b white
+0x40d92263 TextBlockElement
+0x24af2278 dots_text
+0x7d99f28d texture
+0xfe519331 arrow_down
+0xdcb8138b online_light_blue
+0x3815b38f text_rgba
+0x9a9203a1 server_list_searching_dialog_vmenu
+0x6768b3a2 destroy_menu
+0x192bc3a2 pad_back_script
+0xc5f953c2 button
+0xa31d23dd online_light_grey
+0x67e093e4 internal_just
+0x500e53eb fontgrid_title_a1
+0xc5bc93ee ScreenElementExists
+0xff0db407 textname
+0x2db9241e searching_dialog_container
+0x9277f428 FormatText
+0xbd09544c func
+0xb0ecf465 server_list_create_match_dialog_menu
+0x04ad047a get_quick_match_search_params
+0x39b5c4b0 GetArraySize
+0x925c74b7 fit_text_into_menu_item
+0x445114c8 NetSessionFunc
+0xbf0f14db center
+0xe13b94dc choose_server
+0x900a94de preserve_flip
+0x75b804ef online_frame
+0x9d3fb516 focus
+0x0e61b525 RunScriptOnScreenElement
+0xa3428532 set_user_control_color
+0x61c9354b blue
+0xc451f558 event
+0x40de9572 set_unfocus_color
+0x34a68574 dims
+0x67e6859a Player
+0x4e9395e3 create_server_list_searching_dialog
+0x7bb9c604 menu_replace
+0xa7d7c610 choose_script
+0x8a83062d create_match_dialog_con

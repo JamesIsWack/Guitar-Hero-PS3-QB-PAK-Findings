@@ -1,0 +1,138 @@
+ifficulty_select_go_back 7 (0,1780) (6,1782) (12,1784) (48,1787) (84,1788) (86,1789) (104,1791) 
+process_gem_times 4 (0,1797) (22,1801) (44,1802) (85,1803) 
+process_sound_times 4 (0,1807) (22,1809) (44,1810) (62,1811) 
+setup_jam_song 99 (28,1815) (51,1818) (65,1819) (79,1821) (97,1822) (110,1823) (112,1824) (133,1827) (166,1828) (178,1829) (180,1830) (211,1831) (244,1832) (273,1833) (295,1834) (302,1835) (352,1836) (364,1839) (376,1840) (378,1841) (407,1842) (425,1843) (447,1844) (454,1845) (460,1846) (466,1849) (472,1852) (482,1855) (492,1857) (521,1859) (572,1861) (625,1862) (644,1864) (657,1865) (670,1866) (682,1867) (694,1868) (706,1869) (708,1870) (742,1871) (772,1872) (824,1875) (860,1876) (862,1877) (885,1878) (903,1881) (916,1883) (945,1885) (1007,1886) (1067,1887) (1086,1889) (1099,1890) (1112,1891) (1124,1892) (1136,1893) (1148,1894) (1150,1895) (1179,1896) (1209,1897) (1260,1899) (1283,1900) (1301,1903) (1314,1906) (1326,1908) (1424,1909) (1482,1910) (1501,1913) (1514,1914) (1527,1915) (1539,1916) (1551,1917) (1563,1918) (1565,1919) (1583,1920) (1613,1921) (1664,1923) (1716,1924) (1752,1927) (1765,1930) (1799,1932) (1827,1933) (1839,1934) (1851,1935) (1863,1936) (1875,1937) (1877,1938) (1895,1940) (1944,1941) (1996,1942) (2002,1943) (2052,1944) (2088,1947) (2090,1949) (2096,1952) (2144,1954) (2156,1956) (2172,1979) (2194,1980) (2197,1982) 
+setup_jam_song_QP 131 (0,1988) (21,1991) (54,1992) (66,1993) (68,1994) (99,1995) (132,1996) (161,1997) (183,1998) (190,1999) (240,2000) (252,2003) (264,2004) (266,2005) (295,2006) (313,2007) (335,2008) (342,2009) (348,2010) (354,2014) (360,2017) (373,2019) (375,2020) (392,2023) (415,2026) (429,2027) (443,2030) (461,2031) (474,2032) (476,2033) (493,2036) (503,2038) (513,2039) (525,2040) (538,2041) (550,2042) (563,2043) (575,2044) (588,2045) (600,2046) (608,2047) (620,2048) (622,2049) (632,2052) (642,2054) (655,2059) (673,2060) (687,2061) (700,2062) (702,2063) (731,2067) (782,2069) (835,2070) (853,2075) (913,2076) (915,2078) (934,2080) (947,2081) (960,2082) (972,2083) (984,2084) (996,2085) (998,2086) (1032,2087) (1062,2088) (1116,2091) (1152,2092) (1154,2093) (1178,2094) (1191,2097) (1204,2102) (1222,2103) (1236,2104) (1249,2105) (1251,2106) (1280,2108) (1342,2109) (1402,2110) (1420,2115) (1480,2116) (1482,2118) (1501,2120) (1514,2121) (1527,2122) (1539,2123) (1551,2124) (1563,2125) (1565,2126) (1594,2127) (1624,2128) (1647,2130) (1671,2131) (1684,2134) (1696,2135) (1752,2136) (1810,2137) (1829,2139) (1842,2140) (1855,2141) (1867,2142) (1879,2143) (1891,2144) (1893,2145) (1911,2146) (1941,2147) (1964,2149) (1987,2150) (2000,2153) (2034,2155) (2062,2156) (2074,2157) (2086,2158) (2098,2159) (2110,2160) (2112,2161) (2130,2163) (2180,2164) (2203,2165) (2209,2166) (2232,2167) (2240,2169) (2296,2170) (2298,2171) (2320,2174) (2328,2175) (2334,2178) (2380,2180) (2392,2182) (2408,2205) (2430,2206) (2433,2208) 
+change_jamsession_songlist_props_struct 11 (60,2212) (68,2214) (85,2215) (98,2216) (111,2217) (124,2218) (126,2219) (134,2221) (147,2222) (149,2223) (167,2225) 
+start_jam_song 30 (28,2230) (34,2233) (76,2235) (89,2240) (118,2241) (147,2242) (176,2243) (205,2244) (240,2245) (276,2247) (312,2248) (318,2250) (338,2252) (369,2253) (404,2255) (440,2256) (446,2258) (476,2259) (488,2261) (490,2262) (515,2263) (536,2264) (546,2265) (552,2267) (600,2268) (636,2269) (672,2271) (752,2272) (758,2273) (792,2275) 
+jam_copy_in_game_playback_arrays 11 (0,2279) (76,2281) (105,2282) (188,2284) (217,2285) (304,2287) (333,2288) (416,2290) (445,2291) (532,2293) (561,2294) 
+jam_camera_script 20 (28,2310) (46,2312) (53,2313) (69,2314) (71,2315) (73,2317) (93,2318) (128,2319) (143,2320) (150,2321) (166,2322) (181,2323) (193,2324) (195,2325) (201,2326) (219,2327) (252,2328) (254,2329) (304,2331) (306,2332) 
+jam_camera_wait 8 (0,2341) (52,2342) (54,2343) (72,2344) (74,2345) (76,2346) (128,2348) (130,2349) 
+jam_start_song_from_quickplay 13 (0,2358) (6,2361) (12,2364) (18,2367) (36,2370) (54,2371) (85,2374) (144,2375) (148,2378) (166,2379) (184,2380) (236,2381) (238,2382) 
+jam_quickplay_do_next_song 13 (0,2389) (19,2396) (56,2399) (92,2400) (94,2401) (128,2403) (130,2405) (132,2406) (152,2410) (158,2413) (162,2415) (236,2419) (238,2420) 
+jam_quickplay_get_and_start_song 11 (0,2426) (26,2429) (39,2432) (57,2433) (79,2434) (92,2435) (124,2436) (128,2439) (158,2440) (160,2441) (190,2444) 
+jam_quickplay_save_song_score 22 (0,2447) (26,2450) (39,2453) (57,2454) (79,2455) (92,2456) (124,2457) (128,2460) (158,2461) (160,2462) (212,2465) (264,2466) (316,2467) (329,2468) (347,2470) (404,2471) (416,2472) (450,2473) (469,2475) (504,2476) (536,2477) (538,2478) 
+ui_memcard_load_jam 5 (52,2489) (88,2491) (115,2492) (117,2493) (185,2494) 
+
+[Checksums]
+0xc63926cc scripts\guitar\menu\menu_jam_song_select.qb
+0x78b0d001 song_text_params
+0xb990d003 target
+0x8e411006 b
+0xbee16006 note_count04_text
+0xe595f007 Skate8_SFX_Backgrounds_New_Area
+0x09e3900e menu_jam_create_song_unfocus
+0x91eac010 no_fade
+0x44949010 difficulty
+0x3a85201b UseFourLaneHighway
+0x226f401b noassert
+0x958a501c arraylist
+0x81ee4022 lowest_single_chord_hard
+0xcd0dc02d KillSpawnedScript
+0x3eeae02d hard
+0xcde5702f cancel_delete_jam_song
+0x1ece8039 jam_auto_generate_guitar_gem_array
+0xfd4bc03e heading
+0x3c477041 difficulty4
+0xb922906a proportional
+0x6c65406e jam_view_cam_created
+0x059ea070 red
+0xb1f79072 jam_curr_directory_listing
+0x62dfc076 editable
+0xa075808c source
+0x3176f093 UnloadPak
+0x9a2e9095 set_focus_color
+0xd95930ac player1_status
+0x7ef6e0b2 window_id
+0xaf6240b2 reset
+0xe3c8a0ba txt
+0x7e2f60bb jamsession_vocals_phrases
+0x51c4e0bd loading_text_base
+0xa3e450be note_count03_text
+0xf8f970c7 song_length
+0x781000ce jam_init_pan
+0xe8dc80d1 AddToStringLookup
+0x06c290e0 column_offset
+0xe4f130f4 s
+0x301dd0f9 GetGlobalTags
+0x559770ff rhythm_note_end
+0x5039d100 ClearJamSession
+0xdb161106 GetSongInfo
+0xb12b510a SpriteElement
+0xbc5fd10b Desc_ResolveAlias
+0x7031f10c params
+0x3e9ec113 AddNoteTrackItem
+0x53b9d118 rhythm_index
+0x5bcac126 jam_init_reverb
+0x9184c12f cas_update_band_logo
+0x0281513f GlobalArray
+0x73665140 CreateScreenElement
+0xf8710144 convert_note_mask
+0x5ef31148 array
+0xfe82614d length
+0x7df8614e p
+0x89a6e150 inst
+0x6eb7315a jam_current_recording_player
+0xcc12115e song
+0x01dd615f DescInterface
+0x82b3215f next_rhythm_measure_time
+0x9a74316e jam_tracks
+0xcf66717b GotParam
+0x178b418d Progression_CashMilestonesClear
+0x287d118e jamsession_unload
+0xbc6b118f up
+0xb36a519b CreateScriptArray
+0x3f4b019e Base
+0xf4cc51a3 jam_recording_create_editable_arrays
+0xd5de21b0 rhythm_gem_array
+0xee2cf1b5 note_count01_text
+0x5d0671b8 channel
+0x174841bc a
+0xafb911c6 appended_id
+0x7f9981c8 genre_text
+0x6017f1cc ui_event
+0xd87251d6 scale each line if larger
+0x9cf2d1d9 create_jam_song_info_text
+0x2f6511de green
+0xbfa801df change
+0x3b4631df IsPs3
+0x385011eb alias_dlog_vmenu
+0x47d481ec default_color_scheme
+0xa1dc81f9 name
+0xa90f7219 menu_unfocus_color
+0xc2f0221a jam_auto_generate_melody_gem_array
+0x56b6b21d load_jam
+0x0cbc121f assetcontext
+0x922b7223 pitch_shift
+0xf814622b JamSession_DiffCrunchParams
+0x86a9622c platform_prefix
+0x8b60022f just
+0x8e09d232 menu_jam_song_select_back
+0x60f6f242 globalname
+0x4136e247 jam_ratesong_dialog
+0x83c2824f name_text
+0x7429e252 ratings_text
+0xbe24a258 difficulty_real
+0xd4432260 drum_end_time
+0xd5c5a262 LoadJamSessionFromPak
+0x40d92263 TextBlockElement
+0x663d427d uistate_recording
+0x3c32e281 lead_gem_pattern
+0x7d99f28d texture
+0x05cda290 jam_directory_index
+0xedaef2a1 menu_jam_create_song_focus
+0x11f692a6 SetPlayerInfo
+0x4537b2b0 DestroyScriptArray
+0xd443a2bc off
+0xa0dde2cd curr_tab
+0xaecb72d0 jam_popup_play_song
+0x844102d5 jam_look_at_mixer
+0xf44ae2df num_ratings
+0x7dc5a2e0 playback_track2
+0x030572ea rhythm_done
+0xb24032f4 CCam_DoMorph
+0x6cfcc2f9 jam_init_volumes
+0x417e6305 midi_high
+0x2cb0e306 new_fretbar_time
+0x4b40630d newValue
+0x68b8831b not

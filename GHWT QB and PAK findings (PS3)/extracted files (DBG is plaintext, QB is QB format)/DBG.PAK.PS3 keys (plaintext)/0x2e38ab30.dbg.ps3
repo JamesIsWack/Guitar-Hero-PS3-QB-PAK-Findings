@@ -1,0 +1,21 @@
+am_name
+0x1e3e253b pad_choose
+0x61c9354b blue
+0xc451f558 event
+0xb8437568 pad_choose_params
+0xc156b5b1 task_menu_default_anim_in
+0xa7d7c610 choose_script
+0xa8469630 Italian
+0x4686163a make_generic_menu
+0xa164873c ui_cas_text_entry_helper_text
+0x2cb33744 LaunchEvent
+0xd4c98794 title
+0xf4d9a825 add_user_control_helper
+0xc4745838 text
+0xca5d3848 generic_ui_destroy
+0x9d2d8850 z
+0x27abd858 ui_event_add_params
+0x7321a8d6 type
+0x2c8a3a6d child_index
+0x47bc2aae ui_destroy_cas_text_entry
+0xcbe

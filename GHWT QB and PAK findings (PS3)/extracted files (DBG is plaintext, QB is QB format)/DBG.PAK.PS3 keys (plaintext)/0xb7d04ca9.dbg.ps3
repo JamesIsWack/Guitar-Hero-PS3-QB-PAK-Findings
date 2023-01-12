@@ -1,0 +1,4 @@
+ device_num
+0x82d2ba0e ui_create_net_setlist
+0x8713cb2b destroy_setlist_menu
+0x87e82e8d destroy_gamert

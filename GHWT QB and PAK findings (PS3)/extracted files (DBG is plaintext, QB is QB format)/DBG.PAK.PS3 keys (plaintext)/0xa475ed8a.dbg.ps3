@@ -1,0 +1,31 @@
+w_battle_highways
+0xd4c98794 title
+0x65dfc795 training_7_1_complete_message
+0x906b67ba time
+0xe079a7d4 bot_array
+0xeab677dc battlemode_ready
+0x666e080b player_text
+0x0ebe180e text_to_show
+0xc4745838 text
+0x5b9da842 ContainerElement
+0x9d2d8850 z
+0x335ea866 create_training_pause_handler
+0x796f8871 song_wonp2
+0xe59b8872 versus_lesson
+0xef082878 standard
+0x29f1a896 GetScreenElementChildren
+0x6af3a899 training_init_session
+0xe2c6589e rot
+0x5ec208a8 training_kill_session
+0x40c698af id
+0x4e80b8b6 lesson_header_frame
+0x756018bd fake_menu_vmenu
+0xaa23e8c2 training_7_1_show_lesson_header
+0xea5298c7 training_destroy_narrator_icons
+0xec66e8cb battle
+0x07ec08d2 retail_menu_focus
+0x7321a8d6 type
+0x81a938dd training_7_4_show_lesson_header
+0x2e6ef8e7 pad_start
+0xf4f778f4 training_add_arrow
+0x2a

@@ -1,0 +1,21 @@
+zones/z_castle/z_castle_sfx_scripts.qs
+0xf4e02339 c:/gh4/data/zones/z_castle/z_castle_cameras.qs
+0x662b52b6 c:/gh4/data/zones/z_castle/z_castle_snp.qs
+0x7a4b7a5d c:/gh4/data/zones/z_castle/z_castle_scripts.qs
+0x3e1fc745 c:/gh4/data/zones/z_cathedral/z_cathedral_sfx_scripts.qs
+0x56523379 c:/gh4/data/zones/z_cathedral/z_cathedral_cameras.qs
+0xb7d0461b c:/gh4/data/zones/z_cathedral/z_cathedral_snp.qs
+0xd8f96a1d c:/gh4/data/zones/z_cathedral/z_cathedral_scripts.qs
+0x108a8393 c:/gh4/data/zones/z_credits/z_credits_cameras.qs
+0x94dd33bb c:/gh4/data/zones/z_credits/z_credits_sfx_scripts.qs
+0x01a22990 c:/gh4/data/zones/z_credits/z_credits_snp.qs
+0x9e21daf7 c:/gh4/data/zones/z_credits/z_credits_scripts.qs
+0xe42ef247 c:/gh4/data/zones/z_diner/z_diner_cameras.qs
+0xf80fb970 c:/gh4/data/zones/z_diner/z_diner_snp.qs
+0x6a85ab23 c:/gh4/data/zones/z_diner/z_diner_scripts.qs
+0xebe1f031 c:/gh4/data/zones/z_fairgrounds/z_fairgrounds_sfx_scripts.qs
+0x830e42c0 c:/gh4/data/zones/z_fairgrounds/z_fairgrounds_cameras.qs
+0x89272eef c:/gh4/data/zones/z_fairgrounds/z_fairgrounds_snp.qs
+0x0da51ba4 c:/gh4/data/zones/z_fairgrounds/z_fairgrounds_scripts.qs
+0xf96f1e8a c:/gh4/data/zones/z_frathouse/z_frathouse_cameras.qs
+0xb6d85d78 c:/gh4/

@@ -1,0 +1,15 @@
+3) (704,114) (706,115) 
+quit_career_back_to_lobby 22 (0,120) (36,122) (84,123) (120,124) (156,125) (168,129) (174,130) (186,131) (188,132) (232,133) (245,134) (247,135) (249,136) (270,137) (278,138) (296,140) (388,141) (422,142) (426,143) (460,144) (462,145) (468,147) 
+net_career_host_disband_party 5 (0,151) (36,152) (72,153) (124,154) (160,155) 
+net_career_leave_party_confirm 4 (0,158) (36,159) (88,160) (124,161) 
+
+[Checksums]
+0x824c4f47 scripts\guitar\menu\states\layouts\ui_online_quit_warning.qb
+0xb990d003 target
+0x94a5103b ui_event_get_stack
+0xa828e05f net_clear_all_remote_player_status
+0x7031f10c params
+0x766ab11f party
+0x3611c136 GetTags
+0x04af9163 stack_size
+0xcf66717b Go

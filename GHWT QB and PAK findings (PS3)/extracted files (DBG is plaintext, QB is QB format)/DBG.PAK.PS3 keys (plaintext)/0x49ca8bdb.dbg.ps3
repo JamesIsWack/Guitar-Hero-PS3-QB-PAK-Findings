@@ -1,0 +1,47 @@
+1557,376) (1596,377) (1598,378) (1600,379) (1606,381) (1630,384) (1668,385) (1686,388) (1720,389) (1722,391) (1724,393) (1761,395) (1800,396) (1818,399) (1852,400) (1854,402) (1856,404) (1883,406) (1932,407) (1940,409) (1942,410) 
+
+[Checksums]
+0x242b39f7 scripts\engine\menu_sound_scripts.qb
+0xe595f007 Skate8_SFX_Backgrounds_New_Area
+0x39940016 tutorial
+0x94a5103b ui_event_get_stack
+0xaf6240b2 reset
+0xa43ac0b5 Bass_Affirmation
+0x7031f10c params
+0x944dc13b Menu_Options_ZoomIn
+0x04af9163 stack_size
+0xcf66717b GotParam
+0xa01371b1 in
+0x5d0671b8 channel
+0xc036a216 menu_music_fade
+0x46653221 volume
+0x46159266 out
+0xbd07730a Menu_Career_ZoomOut
+0x646bf3ba nullsound
+0x8320d478 game_mode
+0xbe578495 stack
+0xcb9fb4cf Bass
+0xc451f558 event
+0x2aed7570 training
+0xdbdfd588 no_camera
+0xbaf0a589 generic_menu_pad_choose_sound
+0xec18d5b3 top_rockers_which_mode
+0x3b70c5cb sfx
+0x2de8c60e printf
+0x4b4ca6e8 Menu_Options_ZoomOut
+0x2250777e Menu_Music_Off
+0x906b67ba time
+0xbc92d828 FrontEnd_Menu_Music
+0x4bb2084e desc_id
+0x66be78ee Menu_Career_ZoomIn
+0x64c4c92a Mic_Affirmation
+0x1993c98e i
+0xa068b9dd menu_soundevent_out
+0x03928a27 p1_quickplay
+0x634b2a2a BG_SFX_Area
+0x18a51a7f Menu_HeadToHead_ZoomIn
+0x19fa5af7 spawnscriptnow
+0xd328bb13 Loading_Screen_Crowd_Swell
+0x8013cbb1 practice
+0x720b0bb8 old_base_name
+0x3a71cbba Menu_

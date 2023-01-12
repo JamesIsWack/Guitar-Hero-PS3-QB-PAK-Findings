@@ -1,0 +1,110 @@
+York_FinalBandOutro_Airstreams 33 (0,896) (36,899) (99,900) (132,901) (195,902) (228,903) (291,904) (324,905) (387,906) (420,909) (483,910) (516,911) (579,912) (612,913) (675,914) (708,915) (771,916) (804,919) (867,920) (900,921) (963,922) (996,923) (1059,924) (1092,925) (1155,926) (1188,929) (1251,930) (1284,931) (1347,932) (1380,933) (1443,934) (1476,935) (1539,936) 
+Z_NewYork_Outro_Geo_Create 1 (0,940) 
+Z_NewYork_Outro_Geo_Kill 5 (0,944) (52,946) (104,947) (156,948) (224,949) 
+Z_NewYork_Griffin_Create 2 (0,952) (36,953) 
+Z_NewYork_Griffin_Kill 2 (0,956) (36,957) 
+Z_NewYork_Intro_CreateBaloons 5 (0,961) (36,962) (72,963) (108,964) (144,965) 
+Z_NewYork_Encore_Countdown 12 (0,968) (36,969) (88,970) (124,971) (176,972) (212,973) (264,974) (300,975) (352,976) (388,977) (424,978) (460,979) 
+Z_NewYork_Encore_Countdown_RestartEncoreSong 8 (0,982) (36,983) (72,984) (108,985) (144,986) (180,987) (216,988) (252,989) 
+Z_NewYork_Encore_RecreateNumbersEtc_ForTestingOnly 9 (0,992) (36,993) (72,994) (108,995) (144,996) (180,997) (216,998) (252,999) (308,1000) 
+Z_NewYork_Encore_BallFall 2 (0,1003) (72,1004) 
+z_newyork_Encore_Fireworks 6 (0,1007) (52,1017) (104,1018) (156,1019) (208,1020) (260,1021) 
+z_newyork_Encore_Fireworks_Kill 4 (0,1024) (52,1025) (104,1026) (156,1027) 
+z_newyork_Encore_Fireworks_Post 9 (0,1030) (36,1031) (72,1032) (124,1033) (176,1034) (228,1035) (280,1036) (332,1037) (384,1038) 
+z_newyork_Encore_Fireworks_Post_Kill 4 (0,1041) (52,1042) (104,1043) (156,1044) 
+z_newyork_Encore_Setup 1 (0,1047) 
+z_newyork_RestartEncore_TransitionSetup 5 (0,1051) (6,1052) (12,1053) (68,1054) (74,1055) 
+z_newyork_Encore_TransitionEnd 3 (0,1058) (52,1059) (58,1060) 
+z_newyork_camera_encore 24 (0,1063) (6,1065) (120,1075) (126,1077) (160,1079) (212,1080) (328,1089) (334,1091) (464,1102) (470,1104) (584,1113) (590,1115) (640,1117) (756,1128) (762,1130) (812,1132) (928,1142) (934,1144) (1064,1155) (1100,1157) (1106,1158) (1220,1170) (1226,1172) (1244,1174) 
+z_newyork_camera_Intro 8 (0,1183) (6,1186) (136,1196) (142,1198) (192,1200) (324,1211) (330,1213) (348,1214) 
+z_newyork_camera_finalbandintro 17 (0,1217) (6,1219) (136,1231) (142,1233) (192,1235) (324,1247) (330,1249) (380,1251) (512,1263) (518,1265) (568,1267) (700,1279) (706,1281) (756,1283) (888,1294) (894,1296) (928,1299) 
+z_newyork_camera_finalbandoutro 16 (0,1304) (132,1316) (184,1318) (316,1327) (368,1329) (500,1339) (552,1341) (684,1351) (736,1353) (868,1363) (920,1365) (1052,1376) (1104,1378) (1236,1390) (1242,1393) (1292,1396) 
+balloon_moves 8 (0,1400) (120,1402) (172,1403) (292,1404) (344,1405) (464,1406) (516,1407) (636,1408) 
+move_balloon 9 (0,1412) (2,1413) (52,1414) (58,1415) (72,1416) (79,1417) (85,1418) (97,1419) (99,1421) 
+balloon_path 8 (0,1425) (49,1428) (84,1429) (120,1430) (156,1431) (192,1432) (228,1433) (246,1434) 
+
+[Checksums]
+0xe53c170d zones\z_newyork\z_newyork_scripts.qb
+0x94e37010 GP_FX_StreamRockets_07
+0x7c13c01f z_newyork_camera_Intro
+0xac1d8022 color_overrides
+0xcd0dc02d killspawnedscript
+0xec4a102e z_newyork_Crowd_Peds
+0xdbfdd02f Obj_WaitMove
+0x9a8bb047 spotlights_Yellow
+0x6ec68049 top_1
+0x5b45706d GP_FX_Fireworks_SparkleRocket_Smoke_02
+0x059ea070 Red
+0xa47b7070 mid_2
+0x022cf075 resolution
+0xc2a28080 vocalist
+0xe3e44086 GP_FX_StreamRockets_06
+0xcab94088 bone
+0xc5f1a08f Hide_Band
+0x6f8e2095 Z_NewYork_Encore_RecreateNumbersEtc_ForTestingOnly
+0x43ebe09a front_4
+0x073df0ab spotlights_Blue
+0x513670d2 NYTop1
+0x6c57f0dc z_NewYork_Pyro_SideSparks_Low_Left_Pos
+0xd37c40e6 mid_3
+0xa46a70ea z_NewYork_FinalBandOutro_SetSnapshot
+0x07408104 GP_FX_Airstream_01
+0xd15ea105 balloon_pos
+0x48c4f106 GP_FX_NY_Top_RedSparks_01
+0x7031f10c params
+0x7aed113c GP_FX_StreamRockets_05
+0x99a8d13d GP_FX_SparkFountain_GlowSmoke_01
+0x80c8e165 top_3
+0xc83f2168 NYTop2
+0x937bb16d good
+0xcf66717b GotParam
+0xa9e7818a z_newyork_poor_snapshots
+0x1590418e CameraCuts_CalcTime
+0x002f1191 GP_FX_Fireworks_SparkleRocket_01
+0xae79d1aa GP_FX_Fireworks_Burst_Flower_Center_01
+0x0dea21aa GP_FX_StreamRockets_04
+0xc3c111b4 Transition_PlaySimpleAnim
+0x5d0671b8 channel
+0x8789f1ba GH_Band_Outro_Bassist
+0xa863c1bc Blackout_Generic
+0x49edc1bc Z_Newyork_GFX_FX_FinalOutro_Smoke
+0x3d7221ca mid_1
+0x2f6511de Green
+0x78bc41df Bone_Palm_R
+0x9ba9b1e3 GP_FX_Fireworks_SparkleRocket_Top_01
+0xf7cfd1f3 top_2
+0x1ad0f1f3 Poor_Generic
+0x127a21f8 Crowd_Profiles
+0xa1dc81f9 name
+0xf28bd203 Z_NewYork_Pyro_Fountains02
+0xc9e77208 GP_FX_NY_TopConfetti_01
+0x1c2bf20e Z_NY_Pyro_SparkleRocketBurstsR05
+0x218aa210 Z_NewYork_GFX_FX_GhostRocket_PATH_02_KNOT_0
+0x17e7321e FOV
+0xc9365223 enable_crowd_models_cfunc
+0x7bcbd226 Z_NY_Pyro_SparkleRocketBurstsL001
+0x03bde226 Moments_Mid_2_03
+0x69090238 move_balloon
+0x5b77c23a GH_Band_Outro_Griffin
+0x40b1f251 back_3
+0xb62cc25a Z_NewYork_Pyro_Moments_Top_3_Check
+0xbd30325b White
+0x748ca262 Quat
+0x06b6e27c Falling_01
+0xcb0df28a Z_NY_Pyro_SparkleRocketBurstsR001
+0x858ce295 Z_NewYork_Pyro_Fountains03
+0x6b2cc298 Z_NY_Pyro_SparkleRocketBurstsR04
+0x798a029a z_newyork_Encore_Fireworks_Kill
+0xd61b12a7 NYSideSparks_01
+0x74bad2b0 Moments_Mid_2_02
+0xd443a2bc off
+0x37b6c2c7 back_2
+0xe3e482e3 GH_Band_Outro_Bassist2
+0xe39d82eb Rising_04
+0x43ce02ec exposition
+0xb24032f4 CCam_DoMorph
+0x944972f6 ScriptTable
+0xedb3830a Moments_Mid_2_01
+0xbfb0031d Obj_FollowPath
+0x4f12431d NYSideSparks_02
+0xac88e329 Ven_NewYork_Intr

@@ -1,0 +1,309 @@
+tCASAppearance 4 (0,460) (6,462) (32,465) (52,467) 
+ResolveBodySpecificPart 9 (0,476) (38,478) (76,480) (103,482) (131,483) (133,484) (135,486) (137,488) (168,490) 
+ResolveBodySpecificPartInAppearance 11 (14,499) (40,501) (100,502) (119,503) (121,504) (149,505) (209,506) (228,507) (230,508) (232,509) (264,511) 
+RememberTemporaryCASAppearance 2 (0,520) (20,522) 
+RestoreTemporaryCASAppearance 2 (0,531) (20,533) 
+RememberSecondTemporaryCASAppearance 2 (0,542) (36,544) 
+RestoreSecondTemporaryCASAppearance 2 (0,553) (20,555) 
+RememberTemporaryCAPAppearance 10 (0,564) (64,566) (86,568) (132,569) (134,570) (172,572) (190,573) (194,574) (240,575) (242,576) 
+RestoreTemporaryCAPAppearance 3 (0,584) (64,586) (96,587) 
+RememberTemporaryBoneAppearance 10 (0,596) (64,598) (86,600) (127,601) (129,602) (168,604) (186,605) (190,606) (232,607) (234,608) 
+RestoreTemporaryBoneAppearance 3 (0,617) (64,618) (96,619) 
+HideInstrument 5 (0,627) (33,628) (66,629) (99,630) (132,631) 
+HideInstrument_Foreach 2 (0,634) (12,635) 
+UnHideInstrument 5 (0,643) (33,644) (66,645) (99,646) (132,647) 
+UnhideInstrument_Foreach 2 (0,650) (12,651) 
+HideMusician 5 (0,659) (52,660) (104,661) (156,662) (208,663) 
+HideMusician_Foreach 2 (0,666) (12,667) 
+get_hat_hair_choice 9 (0,675) (32,677) (59,678) (94,679) (124,680) (126,681) (128,682) (130,683) (160,685) 
+CASWaitForComposite 10 (0,694) (9,696) (11,697) (72,698) (124,699) (134,700) (136,701) (138,702) (140,703) (142,704) 
+CasBlockForComposite 4 (0,713) (9,715) (15,716) (17,717) 
+PushTemporaryCASAppearance 3 (0,726) (34,728) (52,729) 
+PrintTemporaryCASAppearanceStack 2 (0,738) (14,740) 
+PopTemporaryCASAppearance 6 (0,749) (14,751) (32,753) (71,754) (89,755) (91,756) 
+RestoreTopTemporaryCASAppearance 12 (0,765) (14,767) (32,769) (69,770) (71,771) (108,773) (126,774) (164,775) (200,776) (204,777) (210,778) (212,779) 
+MergePartIntoTemporaryCASAppearance 27 (0,788) (64,790) (73,792) (85,793) (97,794) (99,795) (131,797) (169,798) (171,799) (173,800) (203,802) (216,803) (237,805) (245,806) (259,808) (277,810) (314,812) (353,815) (371,816) (383,819) (395,820) (397,821) (447,823) (468,825) (476,826) (482,829) (484,830) 
+CompareTopTemporaryCASAppearance 7 (0,840) (14,842) (68,843) (100,844) (104,845) (136,846) (138,847) 
+generic_exit_restore 3 (0,856) (6,858) (40,859) 
+generic_exit_restore_refresh 3 (0,868) (6,870) (80,871) 
+get_best_heap_for_appearance 22 (40,882) (52,885) (64,886) (100,888) (112,889) (114,890) (137,891) (167,893) (186,895) (199,896) (212,897) (214,898) (235,900) (243,901) (275,903) (293,905) (348,906) (350,907) (371,909) (427,910) (429,911) (443,913) 
+get_appearance_heap_score 8 (0,922) (21,924) (90,925) (120,926) (124,927) (154,928) (168,929) (170,930) 
+
+[Checksums]
+0xd31cd9ce scripts\game\cas\cas_appearance.qb
+0xb990d003 target
+0x8e411006 b
+0x0a23400c ClearPart
+0xcd0dc02d KillSpawnedScript
+0xa465802f GetCASAppearancePartInstance
+0x0e52f043 PushTemporaryCASAppearance
+0x033e4045 cas_current_player
+0x1588c059 temporary_heap
+0x7a3d505b buildscriptparams
+0x21902065 checksum
+0xbec5106b UpdateStructElement
+0x84aa006e additional_bone_transforms
+0xe48fd084 SwitchOffAtomic
+0xe4f130f4 s
+0x7031f10c params
+0x292d8110 cas_current_instrument
+0x07d0c128 SwitchOnAtomic
+0x0c52d12c cas_temporary_appearance
+0x5ef31148 array
+0x7df8614e p
+0xa7290172 SetCASAppearanceCAP
+0xcf66717b Gotparam
+0x95e17184 hide_geom
+0x174841bc a
+0xd2c041c2 color_model_from_appearance
+0xbebfa1c6 element
+0x6017f1cc ui_event
+0xbfa801df change
+0xa1dc81f9 name
+0x4bfcd202 AddArrayElement
+0x6335d24d add_cap_array_to_part
+0x46159266 out
+0xf335b287 DoNotResolve
+0xe67b0295 refresh_previous_state
+0x552fa29d ModelBuilder_Build
+0x47ced2c1 RememberTemporaryBoneAppearance
+0x3053b2c7 CompositeObjectExists
+0xb32fa2cc SetCASAppearanceAdditionalBones
+0x769112d0 cas_player_has_character_object
+0x2aa592d4 bones
+0xb59352f1 EditCASAppearance
+0xef981302 hat_hair_choice
+0x24613344 CAS_Body
+0x299ee352 buildScript
+0x708fe356 SetCASAppearanceBones
+0xa8ee7357 ScriptAssert
+0xe374335b body_part
+0x0203b372 true
+0x0382b38d RememberTemporaryCASAppearance
+0xdb4db39b printcompactstruct
+0x7e4813a7 lightgroup
+0x10c6f3db structure_name
+0x1632d407 heap_cas
+0x9277f428 FormatText
+0x54499444 in_queue_too
+0x67dcc463 CAS_Full_Body
+0x6a3a546b CheckModelBuilderLock
+0x39b5c4b0 GetArraySize
+0x8c6fc4bf SetCASAppearanceMaterial
+0xdeef04cd StructureContains
+0xcb9fb4cf Bass
+0x23517501 hat_hair
+0x7bfa951a CASWaitForComposite
+0xb1ab052d update_cap
+0x6722b533 d
+0x4c29c545 RequireParams
+0xa06e4551 app_struct
+0x7a95a557 t
+0xc451f558 event
+0x1b467574 HideMusician
+0xb9eda58b SetCASAppearancePartInstance
+0x9a60d58c RememberTemporaryCAPAppearance
+0x76c45594 GetCASMaterialValue
+0xf9cd5594 update_color
+0x67e6859a player
+0x8581d5a2 heap_name
+0xf96b65a9 CASIsAssetStorageUsed
+0x7ea855f0 profile
+0x4871b5fd RebuildCurrentCASModel
+0x2de8c60e printf
+0xb7589619 UpdateCASModelCAP
+0xc3409622 instrument
+0x407bc624 GetCASPartMaterials
+0x988aa685 AppendStruct
+0x46a2869c targetParams
+0x377556bb GetCASAppearancePart
+0xd45f56d6 chosen_materials
+0x270e5717 no_resolve
+0xee2f075f ModelBuilderIsCompositingActive
+0xa4c5d762 part_materials
+0x4a55377d RememberSecondTemporaryCASAppearance
+0xf4109780 character_object
+0x37c38790 newstruct
+0x91cf27a8 get_hat_hair_choice
+0x9b0b57c5 RestoreTopTemporaryCASAppearance
+0xe288a7cb value
+0xd43297cf false
+0xb79a87e3 UnhideInstrument_Foreach
+0x83dd47e8 CompareTopTemporaryCASAppearance
+0x90fec815 Structure
+0xa2df7834 ResolveBodySpecificPartInAppearance
+0x7cfde844 part_struct
+0x4bb2084e desc_id
+0x66cc784e cap
+0x196c585d HideInstrument_Foreach
+0x8390b87f cas_object
+0xcd66c8ae score
+0x456d28d1 struct
+0x7f8c98fe index
+0x2bd1d90f in_cas
+0x9dd1b91b CompareStructs
+0x3129693a RestoreTemporaryCASAppearance
+0xe5689942 UpdateCurrentCASModelSpawned
+0x64e8e94a materials
+0x28aaf964 comparevalue
+0xc19f796a part_list
+0xe5efa980 ResolveBodySpecificPart
+0xefce598a VerifyCAPProfile
+0x1993c98e i
+0x3329d9f4 cas_queue_add_request
+0xfc3ac9f6 material1
+0xfa36aa3c UnHideInstrument
+0x098b3a52 cas_heap_state
+0xd23e1a57 part_list_instances
+0xbf216a5d cas_current_appearance
+0x83418a6a material
+0xc475ba88 generic_exit_restore_refresh
+0x76fa7a8f checksumname
+0xa40abaa7 field
+0x5c5ceaab loc_appearance
+0x1482dae0 GetCurrentCASObject
+0x19fa5af7 SpawnScriptNow
+0x7cc18b23 HideGeom
+0xcd44ab37 HideInstrument
+0x43a52b3b CAS_Hat_Hair
+0x2a9dcb5e part_instance
+0x50678b7f cas_queue_is_busy
+0x30692b8d musician_heaps
+0x35ef5bb5 ReorderStructForCAS
+0xd6b79bbc cas_temporary_appearance_stack
+0xc7a09c05 get_appearance_heap_score
+0xa3515c06 str
+0x7cafcc07 genre
+0x37f1ac0e RemoveArrayElement
+0x82117c1a wait
+0xaeaf7c1b cas_second_temporary_appearance
+0x9875cc2a best_heap
+0x421dcc47 generic_exit_restore
+0x352a7c6c cap_temporary_appearance
+0xdb796c70 ModelBuilderBlockForCompositing
+0x49a73c94 SetCASAppearance
+0x520c0c9c data
+0x335adcb2 RestoreSecondTemporaryCASAppearance
+0x62c11cb9 GetSingleTag
+0x3556dcc9 body_parts
+0x5cc16cdf Drum
+0x03daecee GetActualCASOptionStruct
+0xa0f8ecef exclusions
+0xbdc53cf2 Guitar
+0x83339d0b SetPart
+0x45cffd0d modify_all_materials
+0x133fdd45 RemoveComponent
+0x836cfd4a body_specific_parts
+0x7f5b3d4d array_size
+0xf171bd59 CasBlockForComposite
+0x554c7d6f appearance
+0x667c5d95 instrument_part_sets
+0x9ea04db4 material_groups
+0xe8e6adcb Vocals
+0x0a1daddd CASCompareAssetStorage
+0x8b50be0e globalstruct
+0xc4e78e22 all
+0x891e6e3a UpdateCurrentCASModel
+0x32b10e57 PopTemporaryCASAppearance
+0x5a7ece86 menu_back
+0xbe304e86 printstruct
+0x7bb14e8d GetCASAppearance
+0xb44d5e95 SetGenre
+0x940cde9c ChecksumEquals
+0x08d82e9d AddParam
+0x0effceb9 HideMusician_Foreach
+0xc9bafeba ForEachIn
+0x63089ee6 hair
+0x3946deea struct2
+0x6505df04 PrintTemporaryCASAppearanceStack
+0xfc37df05 gameframe
+0xec089f0a best_score
+0x806fff30 none
+0x12f95f34 RestoreTemporaryBoneAppearance
+0xb6f08f39 part
+0xa8cb0f3b RestoreTemporaryCAPAppearance
+0xc4e3df4a MergePartIntoTemporaryCASAppearance
+0xa04f8f50 struct1
+0xcb348f53 bone_temporary_appearance
+0x95554f58 cas_override_object
+0x62ba3f6a do
+0x6f967f73 printcurrentappearance
+0x80292f8a get_best_heap_for_appearance
+0xd8643fba add_chosen_materials_to_part
+0xa534bfda CASBlockForLoading
+
+             [LineNumbers]
+cas_update_accessory_bones 14 (28,97) (64,99) (66,100) (68,101) (80,103) (116,104) (118,105) (149,106) (176,108) (237,109) (239,110) (260,112) (268,113) (274,116) 
+cas_skeleton_reset 8 (0,125) (56,127) (92,129) (94,130) (96,131) (134,134) (170,135) (200,136) 
+cas_ragdoll_reset 9 (0,145) (56,147) (92,149) (94,150) (96,151) (134,153) (172,154) (208,155) (250,156) 
+cas_process_accessory_part 27 (0,166) (30,168) (68,170) (126,172) (160,174) (166,175) (184,176) (190,177) (196,178) (232,180) (262,181) (266,182) (332,183) (334,184) (352,186) (388,188) (394,189) (412,190) (418,191) (424,192) (460,194) (502,195) (506,196) (636,197) (638,198) (640,199) (642,201) 
+cas_merge_in_guitar_ragdoll 4 (0,210) (2,212) (64,214) (107,217) 
+cas_merge_in_drummer_bones 5 (0,226) (64,228) (101,230) (138,232) (168,233) 
+
+[Checksums]
+0x5d994c37 scripts\game\cas\cas_bone_merging.qb
+0x0cab301b cas_ragdoll_reset
+0xfc19e032 Bone_ACC_Torso_02
+0x41dd4038 ragdollName
+0x93f60062 r
+0x8b1ed0a4 Bone_ACC_Torso_03
+0xe4f130f4 s
+0xee51513a Bone_Mic_Adjust_Angle
+0x7df8614e p
+0xcf66717b GotParam
+0x6510b188 Bone_ACC_Torso_01
+0x3ca1f1b5 Bone_ACC_Legs_04
+0xf6edc1d7 UnpackRawSkeleton
+0x46159266 out
+0xf335b287 DoNotResolve
+0x2aa592d4 bones
+0x3417c307 MemPopContext
+0x83d6030b Bone_ACC_Head_08
+0x5996b31e Bone_IK_Hand_Slave_L
+0xa8ee7357 ScriptAssert
+0xf4d1339d Bone_ACC_Head_09
+0x8b5d73b0 ragdoll
+0xfafa93d3 UnpackRawRagdoll
+0xa2c56416 Bone_ACC_Legs_03
+0xfedd645f no_bone_work
+0xd5c25480 Bone_ACC_Legs_02
+0x8884f496 cas_all_merged_skeleton_bones
+0x39b5c4b0 GetArraySize
+0xdeef04cd StructureContains
+0x451e44ec Bone_Mic_Stand
+0x157a4507 Bone_ACC_Torso_04
+0x0cfda537 Bone_Mic_Microphone
+0x4ccb053a Bone_ACC_Legs_01
+0xbff9c550 CleanupTemoraryRagdollSkels
+0xfd50a5a3 asset
+0x2de8c60e printf
+0x1429763c cas_update_accessory_bones
+0xeadf2688 cas_drummer_bones
+0x69ea96b6 Bone_IK_Hand_Guitar_L
+0x222756d5 skeleton
+0x3fd4b7a2 acc_ragdoll
+0xb391d7b6 PushAssetContext
+0x90fec815 structure
+0x5bf70817 Ragdoll_MergeRagdoll
+0x4bb2084e desc_id
+0xc795888b Bone_Guitar_String_1
+0x8fdb68af TopDownHeap
+0x21cc38d9 ExtendCRC
+0x5e9cd931 Bone_Guitar_String_2
+0x09794932 skeletonName
+0x1993c98e i
+0x299be9a7 Bone_Guitar_String_3
+0xfbe6a9aa cas_all_merged_radgoll_bones
+0x6303ea15 Bone_ACC_Head_02
+0xc65b4a60 PopAssetContext
+0x1404da83 Bone_ACC_Head_03
+0x839b2ad5 master_editable_list
+0x08c02b0e cas_merge_in_drummer_bones
+0x791f0b41 cas_merge_in_guitar_ragdoll
+0x9871bb80 Bone_Mic_Adjust_Height
+0xfa0abbaf Bone_ACC_Head_01
+0x93e5abd5 Bone_IK_Hand_Guitar_R
+0xb7ff7c04 Bone_Guitar_String_4
+0x7522dc87 GH_Rocker_Guitar_Ragdoll
+0xc0f84c92 Bone_Guitar_String_5
+0x62c1

@@ -1,0 +1,40 @@
+7) 
+ui_event_wait_for_safe 8 (0,241) (52,243) (54,245) (64,246) (66,247) (68,248) (120,250) (122,251) 
+ui_event_exists_in_stack 16 (0,260) (64,261) (76,263) (88,265) (90,266) (125,267) (156,268) (158,269) (196,270) (231,271) (260,272) (262,273) (264,274) (285,275) (293,276) (324,278) 
+ui_event_get_stack 3 (0,287) (12,288) (17,290) 
+ui_state_pak_load 3 (0,299) (55,300) (84,302) 
+ui_state_anim_in_done 2 (0,311) (29,312) 
+ui_state_anim_out_done 2 (0,321) (29,322) 
+ui_event_get_top 6 (0,330) (6,332) (18,333) (36,334) (53,335) (55,336) 
+
+[Checksums]
+0xfac2360a scripts\engine\menu\states\uistatemachine.qb
+0x4dc74037 event_data
+0x94a5103b ui_event_get_stack
+0x572a9093 ui_event_remove_params
+0xe4f130f4 s
+0x7031f10c params
+0x437b2131 ObjectExists
+0x7df8614e p
+0x33eee163 FrontEnd
+0x04af9163 stack_size
+0xcf66717b GotParam
+0x90f371a0 continue_state_data
+0x5d0671b8 channel
+0xb67291c1 MenuStack_PrintContents
+0x6017f1cc ui_event
+0xa1dc81f9 name
+0x4ee80201 ui_state_pak_load
+0x9a44422a menu_add
+0x70798286 ui_event_add_continue
+0x7aad92ad Is_ui_event_running
+0xd443a2bc off
+0xcf4f82c6 MenuStack_GetStackContents
+0x3417c307 MemPopContext
+0x0203b372 true
+0x809d73c5 IsCompositeObjectManagerEnabled
+0x8d92240c ui_event_exists_in_stack
+0xa0132411 TaskMenu
+0x57525413 object
+0xecdf4473 UIPaks
+0xde602483 FSM_PrintS

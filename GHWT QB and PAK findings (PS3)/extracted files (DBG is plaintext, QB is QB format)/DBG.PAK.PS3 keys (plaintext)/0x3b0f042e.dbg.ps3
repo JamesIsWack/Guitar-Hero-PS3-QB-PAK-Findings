@@ -1,0 +1,31 @@
+_status
+0x0c714c3f menu_finish
+0x4db4cc50 icon_progression_vocals
+0x520c0c9c data
+0x2b0cfca1 pad_choose_script
+0x44a31cb5 SetGlobalTags
+0x5cc16cdf drum
+0xbdc53cf2 guitar
+0x5c6c2d04 state
+0xba050d30 singleplayer_player_show
+0x4ed8fd58 hide_glitch
+0x18975d69 icon_progression_guitar
+0xa2660d69 current_num_players
+0x49f4ad93 override_base_name
+0x16d19dc2 choose_state_data
+0x5918cdc6 ui_create_singleplayer_character_hub_spawned
+0xe8e6adcb Vocals
+0x15d5ddcb profile_can_be_modified
+0x27576dec IsDrumController
+0xeaf77e04 UIstate_cash_milestones
+0xd8343e0f focusable_flags
+0x3e75be69 menu_over_ride_exclusive_device
+0xd9ae3e84 create_singleplayer_character_hub_vmenu
+0x87e8de88 icon_progression_drums
+0x8842aea9 ui_event_wait
+0xa6740ed4 character_hub_continue_to_selection
+0xa1598eed vmenu_id
+0x6f402ef3 band_info
+0x0c218ef3 destroy_bg_viewport
+0xb2161ef7 num_icons
+0x37bf4f0

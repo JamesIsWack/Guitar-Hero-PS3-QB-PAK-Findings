@@ -1,0 +1,17 @@
+_pinwheelsmoke01.qb
+0xd395009e LocalWindCoeff
+0x86251142 EmitterVelocityWeight
+0x7aa9b1cd HistoryListCoordinateSpace
+0xd6ce421e JOW_Steam02
+0x7c2552b9 CreatedAtStart
+0x5af81309 SizeRange
+0x2136837e Attach
+0xf35f8382 SpecularPower
+0xfb1a83b2 RotVel
+0xdd6bb3d5 BlendMode
+0xb4e103fd Active
+0x8e9a640e Emit_Rate
+0x984d6421 ParticleType
+0x6b08443d Emit_Target
+0xb2e4947e PathFollowTime
+0xc5d87486 Knot

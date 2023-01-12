@@ -1,0 +1,8 @@
+336,1859) (338,1860) (340,1861) 
+tutorial_quit_warning_resume 3 (0,1868) (6,1869) (40,1871) 
+tutorial_quit_warning_choose 3 (0,1878) (6,1879) (12,1881) 
+tutorial_restart_warning_resume 3 (0,1888) (6,1889) (40,1891) 
+tutorial_restart_warning_choose 3 (0,1898) (6,1899) (12,1901) 
+tutorial_close_quit_warning_screen 10 (0,1909) (36,1910) (88,1911) (92,1912) (94,1913) (96,1914) (132,1916) (184,1917) (186,1918) (192,1921) 
+tutorial_close_restart_warning_screen 2 (0,1928) (6,1930) 
+rotate_highlight_sparkle_glow 32 (28,1937) (64,1938) (77,1940) (90,1941) (103,1942) (116,1943) (143,1946) (172,1947) (185,1948) (187,1949) (189,1951) (203,1952) (216,1953

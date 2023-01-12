@@ -1,0 +1,21 @@
+0x35e05be6 training_destroy_gem_scroller
+0xbd0b8c02 training_6_1_show_lesson_header
+0x5c5bbc06 Logo_Drum_GrayScale
+0x82117c1a wait
+0x96815c1d training_6_4_show_lesson_header
+0x9f23dc21 SE_SetProps
+0x18343c23 player_5_cash
+0x0fd1ac26 pad_down
+0x1bff0c3d player_status
+0x0c714c3f menu_finish
+0xd9b1bc59 players
+0x07713c7b sound
+0x274b4c80 player_4_instrument
+0xb65cec90 star_power_display_amount
+0x05310c9b player_2_cash
+0x520c0c9c data
+0x60d16ca4 training_wait_for_gem_scroller_startup
+0x44a31cb5 SetGlobalTags
+0x90356cb9 SetScreenElementProps
+0x8f678ccb training_6_2_show_instruments
+0x00b

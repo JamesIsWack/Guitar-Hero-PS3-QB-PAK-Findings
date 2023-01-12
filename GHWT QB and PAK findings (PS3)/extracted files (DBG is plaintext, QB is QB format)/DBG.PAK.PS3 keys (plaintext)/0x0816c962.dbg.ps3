@@ -1,0 +1,33 @@
+t_savegame_from_controller
+0x569b244b pad_down_script
+0x1e93946b alias
+0x661f14a2 choose_back
+0x7689a4a5 character_purchase_no
+0xb2b824c2 pad_start_params
+0xd9bf54c7 generic_event_back_block
+0xb52f44ef additional_focus_params
+0x8da97503 primary_controller
+0x9d3fb516 focus
+0x3f20752c pad_up_script
+0xa6f5352f offset
+0x3060b531 character_purchase_menu_no_font
+0x1e3e253b pad_choose
+0x4c29c545 RequireParams
+0xc451f558 event
+0x248cc562 destroy_character_purchase_menu
+0xb8437568 pad_choose_params
+0x0a95856c alias_character_selection_vmenu
+0x34a68574 dims
+0xf5bd6579 pad_option2_script
+0x8c84f57c item_container_id
+0x22df9584 bio
+0x05f7858b sys_fontgrid_text_a6_fire_sys_fontgrid_text_a6_fire
+0x4b5135a9 pad_square_script
+0x19ad45d5 choose_yes_params
+0x7acf45f2 alias_character_selection_item_bio
+0x16059603 make_character_purchase_menu
+0xdcfec609 has_enough_money
+0xd029f619 seconds
+0x9a6bd624 icon
+0x8d5b9670 pad_script
+0x

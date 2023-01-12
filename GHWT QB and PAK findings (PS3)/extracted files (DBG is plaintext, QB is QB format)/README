@@ -1,0 +1,2 @@
+the GHSDK cannot properly extract PS3 files (yet) so most contents are empty. i will try later when its fixed to find DEBUG menu offsets. 
+the debug menu setting file should be in "scripts\engine\engine_params.qb"

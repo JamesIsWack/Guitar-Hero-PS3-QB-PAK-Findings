@@ -1,0 +1,592 @@
+644) (84,1646) (126,1648) (146,1650) (172,1652) (198,1653) (219,1654) (247,1655) (296,1656) (298,1657) (317,1659) (331,1660) (345,1661) (347,1662) (373,1663) (402,1664) (404,1665) (430,1667) (459,1668) (461,1669) (515,1671) (521,1673) (563,1674) 
+delete_layer 33 (0,1681) (76,1683) (98,1685) (144,1686) (146,1687) (184,1691) (232,1692) (268,1693) (285,1694) (298,1695) (300,1696) (313,1698) (331,1699) (354,1701) (409,1702) (432,1704) (484,1705) (525,1706) (529,1707) (561,1709) (574,1710) (576,1711) (578,1713) (591,1714) (609,1715) (627,1716) (631,1717) (661,1718) (663,1720) (700,1721) (718,1722) (720,1723) (722,1724) 
+has_user_layers 14 (0,1731) (64,1732) (77,1734) (89,1735) (91,1736) (128,1738) (160,1739) (162,1740) (199,1741) (228,1742) (230,1743) (251,1745) (259,1746) (288,1747) 
+get_proper_location 22 (0,1758) (72,1759) (108,1761) (121,1762) (133,1763) (135,1764) (191,1766) (205,1767) (207,1768) (228,1769) (236,1770) (238,1771) (276,1772) (289,1773) (301,1774) (303,1775) (359,1777) (373,1778) (375,1779) (396,1780) (404,1781) (406,1782) 
+is_pre_layer_before_section 15 (0,1790) (64,1792) (100,1794) (142,1795) (144,1796) (180,1797) (222,1798) (224,1799) (255,1800) (274,1801) (304,1802) (308,1803) (340,1804) (342,1805) (344,1806) 
+get_section_index_of_pre_layer 41 (0,1813) (22,1815) (63,1816) (65,1817) (99,1818) (150,1819) (152,1820) (188,1821) (224,1822) (250,1823) (288,1824) (316,1825) (374,1826) (376,1827) (389,1829) (401,1830) (403,1831) (446,1832) (472,1833) (474,1834) (495,1835) (503,1836) (505,1837) (544,1838) (570,1839) (608,1840) (636,1841) (694,1842) (696,1843) (709,1845) (721,1846) (723,1847) (766,1848) (792,1849) (794,1850) (815,1851) (823,1852) (825,1853) (829,1854) (864,1855) (866,1856) 
+set_cap_flags 19 (0,1863) (64,1864) (76,1866) (102,1867) (123,1868) (125,1869) (151,1870) (172,1871) (174,1872) (200,1873) (212,1874) (214,1875) (240,1876) (261,1877) (263,1878) (289,1879) (310,1880) (312,1881) (326,1883) 
+flip_layer_horizontal 29 (0,1890) (22,1892) (68,1893) (70,1894) (111,1896) (148,1897) (174,1898) (200,1899) (229,1900) (243,1901) (257,1902) (261,1903) (290,1904) (304,1905) (318,1906) (320,1907) (324,1908) (338,1909) (351,1910) (353,1911) (355,1912) (386,1914) (427,1915) (463,1916) (480,1917) (493,1918) (495,1919) (525,1920) (543,1922) 
+is_flip_layer_horizontal 13 (0,1930) (22,1932) (68,1933) (70,1934) (111,1936) (148,1937) (174,1938) (200,1939) (232,1940) (234,1941) (236,1942) (238,1943) (268,1945) 
+flip_layer_vertical 29 (0,1952) (22,1954) (68,1955) (70,1956) (111,1958) (148,1959) (174,1960) (200,1961) (229,1962) (243,1963) (257,1964) (261,1965) (290,1966) (304,1967) (318,1968) (320,1969) (324,1970) (338,1971) (351,1972) (353,1973) (355,1974) (386,1976) (427,1977) (463,1978) (480,1979) (493,1980) (495,1981) (525,1982) (543,1984) 
+is_flip_layer_vertical 13 (0,1990) (22,1992) (68,1993) (70,1994) (111,1996) (148,1997) (174,1998) (200,1999) (232,2000) (234,2001) (236,2002) (238,2003) (268,2005) 
+UpdateCASModelCAP 5 (0,2013) (40,2015) (164,2016) (166,2017) (203,2019) 
+is_matching_section 18 (0,2027) (45,2029) (106,2030) (161,2032) (192,2033) (249,2034) (280,2035) (337,2036) (368,2037) (425,2038) (456,2039) (513,2040) (544,2041) (548,2042) (580,2043) (582,2044) (584,2046) (616,2047) 
+cap_set_target 22 (0,2054) (72,2055) (98,2056) (112,2057) (119,2058) (147,2059) (161,2060) (168,2061) (196,2062) (210,2063) (217,2064) (245,2065) (259,2066) (266,2067) (294,2068) (308,2069) (315,2070) (319,2071) (333,2072) (340,2073) (342,2074) (356,2075) 
+is_target_in_div 29 (0,2083) (72,2085) (94,2086) (140,2087) (142,2088) (176,2090) (227,2091) (229,2092) (268,2094) (300,2095) (340,2096) (372,2097) (376,2098) (412,2101) (430,2102) (442,2103) (444,2104) (479,2106) (522,2108) (565,2109) (596,2110) (598,2111) (600,2112) (602,2113) (623,2115) (631,2116) (633,2117) (635,2118) (664,2120) 
+get_div_info 23 (0,2129) (48,2131) (88,2133) (90,2134) (92,2135) (114,2137) (160,2138) (162,2139) (196,2141) (247,2142) (249,2143) (288,2145) (324,2146) (342,2147) (354,2148) (356,2149) (391,2150) (449,2151) (451,2152) (472,2154) (480,2155) (482,2156) (484,2157) 
+section_has_target_and_material 14 (0,2166) (64,2168) (104,2169) (136,2170) (176,2171) (208,2172) (212,2173) (239,2174) (280,2175) (312,2176) (314,2177) (316,2178) (318,2179) (348,2180) 
+add_cap_array_to_part 10 (0,2188) (72,2190) (114,2192) (173,2193) (175,2194) (212,2196) (226,2197) (240,2198) (254,2199) (256,2200) 
+cap_artist_colorwheel_focus_change 12 (0,2210) (42,2212) (80,2215) (94,2216) (108,2217) (162,2218) (164,2219) (200,2220) (214,2221) (228,2222) (282,2223) (284,2224) 
+unfocus_color_wheel 4 (0,2233) (6,2235) (40,2236) (58,2237) 
+cap_get_current_rgb 23 (0,2246) (76,2248) (118,2250) (156,2252) (182,2253) (222,2254) (226,2255) (254,2256) (286,2257) (318,2258) (331,2259) (333,2260) (337,2261) (363,2262) (403,2263) (407,2264) (435,2265) (467,2266) (499,2267) (512,2268) (514,2269) (516,2270) (530,2272) 
+average_layer_translation 20 (0,2281) (64,2282) (76,2284) (94,2285) (106,2286) (118,2287) (130,2288) (132,2289) (168,2291) (199,2292) (221,2293) (223,2294) (259,2295) (290,2296) (312,2297) (314,2298) (335,2300) (343,2301) (387,2303) (389,2304) 
+cap_no_transforms 23 (0,2313) (64,2315) (90,2319) (120,2320) (149,2322) (180,2323) (209,2324) (240,2325) (269,2326) (300,2327) (329,2328) (360,2329) (389,2330) (420,2331) (449,2332) (480,2333) (509,2334) (540,2335) (569,2336) (600,2337) (604,2338) (636,2339) (638,2340) 
+cap_populate_layer 51 (0,2350) (12,2353) (24,2354) (26,2355) (49,2356) (104,2357) (130,2359) (167,2360) (193,2361) (201,2362) (214,2363) (245,2364) (276,2365) (307,2366) (338,2367) (369,2368) (400,2369) (431,2370) (462,2371) (493,2372) (524,2373) (526,2374) (545,2375) (559,2376) (573,2377) (575,2378) (589,2380) (591,2382) (648,2383) (656,2384) (677,2385) (698,2386) (729,2387) (760,2388) (791,2389) (822,2390) (853,2391) (884,2392) (915,2393) (946,2394) (977,2395) (1008,2396) (1010,2397) (1029,2398) (1043,2399) (1057,2400) (1059,2401) (1073,2403) (1075,2404) (1096,2405) (1104,2406) 
+cap_new_artist_layer 26 (0,2414) (26,2416) (52,2417) (73,2418) (101,2419) (150,2420) (152,2421) (171,2423) (185,2424) (199,2425) (201,2426) (227,2427) (263,2428) (299,2429) (332,2430) (368,2431) (387,2432) (401,2433) (415,2434) (417,2435) (436,2436) (450,2437) (464,2438) (466,2439) (468,2440) (482,2441) 
+cap_color_wheel_focus_change_color 5 (0,2450) (42,2452) (56,2454) (70,2455) (124,2457) 
+reset_widgets 9 (0,2466) (31,2468) (62,2470) (93,2472) (124,2474) (155,2476) (186,2478) (217,2480) (248,2482) 
+reset_flip_buttons 11 (0,2486) (45,2487) (96,2488) (100,2489) (152,2490) (154,2491) (199,2493) (248,2494) (252,2495) (304,2496) (306,2497) 
+widget_restore_cap 2 (0,2500) (7,2502) 
+widget_init_cap 11 (0,2506) (6,2508) (44,2510) (76,2511) (128,2512) (132,2513) (168,2514) (170,2515) (174,2516) (208,2517) (210,2518) 
+widget_accept_cap 11 (0,2523) (6,2525) (44,2526) (76,2527) (128,2528) (132,2529) (168,2530) (170,2531) (174,2532) (208,2533) (210,2534) 
+restore_color_initial 11 (0,2538) (6,2540) (60,2542) (100,2543) (152,2544) (156,2545) (192,2546) (194,2547) (198,2548) (232,2549) (234,2550) 
+
+[Checksums]
+0x652b972c scripts\game\cas\ui\cas_capmenu.qb
+0xebc0d000 pad_right_script
+0xb990d003 target
+0x8e411006 b
+0xfdf61015 widget_flip
+0xa20af018 color_arrow_scale
+0x9cefb020 add_params
+0xba297025 CD
+0x59cc1048 deinit_params
+0x3cc7e049 max_trans
+0x276c1058 cas_max_layers
+0x7a3d505b buildscriptparams
+0xfdafe05e reset_to_default
+0xd8bc306c cap_layer_set_x_skew
+0xe12fb0a2 default_cap_blue
+0xec4020af color_wrap_arrow_right
+0x876150b3 capstruct
+0x206ef0c7 is_flip_layer_horizontal
+0x9e7f70ce flip_vert_widget
+0xe4f130f4 s
+0xd3e3d0f8 color_min_alpha
+0x627f90fe no_rotate_zoom_text
+0x018fb10e pre_layer
+0x50b8c128 old_layers
+0xeb917132 scale_increment
+0x6746e13a in_font_same_section
+0xec29b13f widget_transparency
+0xf474c13f update_cap_part
+0x5ef31148 array
+0xddd29170 fill_type
+0xa7290172 SetCASAppearanceCAP
+0xcf66717b GotParam
+0x5c2c417b UIstate_cap_color_wheel
+0xcba97188 skip_exit_script
+0x174841bc a
+0x3433b1bf capsize
+0xbc4601c3 step
+0xbebfa1c6 element
+0xf1eaa1d1 unfocus_color_wheel
+0xb1f251e2 accept_params
+0xefe0e1f6 prof_font
+0xa1dc81f9 name
+0x7a854202 is_matching_section
+0x4bfcd202 AddArrayElement
+0x8098d205 InsertArrayElement
+0xeb2c5208 min_trans
+0x8c3f520a post_layer
+0xe5134216 prev_tex
+0x8fbb1223 sum_y
+0x5e84e22f min
+0x2eb58230 pre_layers
+0x7aab6234 skip_build
+0xefe30239 color_wheel
+0x6335d24d add_cap_array_to_part
+0xb55c7251 button_generic_set_value
+0x1118a262 no_skew
+0x277b0271 Center Up/Down
+0xc9342277 cap_layer_set_rot
+0xf335b287 DoNotResolve
+0x7d99f28d texture
+0xd4de628f entry
+0x58458293 color_lookup_table
+0xbf4302a1 flip_horiz_widget
+0x197712af layers
+0x5e9f02b1 cas_1
+0xf8bc22b5 sum_x
+0x040862b9 color_max_alpha
+0x6c50d2d2 get_div_info
+0x419362d3 x_skew_widget
+0x0b0c52e0 pre_layer_section_index
+0x867c82e5 default_cap_red
+0xc796530b cas_2
+0x4b40630d newValue
+0x0d590321 color_nowrap_arrow_right
+0x21553325 trans_increment
+0xa3591336 prev_text
+0x6922433c mat_array_size
+0xe3b4c34c widget_uni_scale
+0x299ee352 buildScript
+0xa8ee7357 ScriptAssert
+0x1f20c35e cap_struct
+0x5c430371 pattern
+0x0203b372 true
+0x1e647386 set_CAP
+0xc8c1d38d mask_entry
+0x2b3773a6 GetLayer
+0x517813bb get_section_index_of_pre_layer
+0x13e0e3c9 cap_layer_set_y_skew
+0xfe3bf3ce divisions
+0x10c6f3db structure_name
+0x5bb553f4 match_new_tex
+0x8ee87404 cap_layer_set_x_trans
+0x1a1ee416 new_value
+0x1d944426 not_focusable
+0x9277f428 FormatText
+0x569b244b pad_down_script
+0xcee4344b pre_userlayer
+0xbf343476 cap_new_artist_layer
+0x83586483 clamp_u
+0xb15b2483 average_layer_translation
+0x7d67e485 delete_layer
+0xb4f84489 cap_layer_set_y_scale
+0x0f8a5493 button_widget_set_value
+0x39b5c4b0 GetArraySize
+0xdeef04cd StructureContains
+0xbf0f14db center
+0x5bc484e8 colorwheel_add_item
+0x20ed04ec color_bar_unfocus_rgba
+0xf4ab74f0 path
+0xa56ac4f4 add_layer_to_profile
+0x0b17650f no_u_flip
+0xd28c8510 section
+0xc331f51c cap_set_target
+0xa4af351e rot_widget
+0x2f3c2524 wrap_texture
+0x3f20752c pad_up_script
+0x1a513539 clamp_v
+0xd0cbc53f init_script
+0x4c29c545 RequireParams
+0x9e2ee54e div_id
+0x7a95a557 t
+0xc5c4555c color_slice_back
+0xb8437568 pad_choose_params
+0x82b3d597 color_wheel_back
+0xb84925ac Bottom to Top
+0x6066a5be restore_color_initial
+0x3acee5c0 add_generic_menu_icon_item
+0xb5bef5c4 default_cap_skew
+0x2476b5c8 is_flip_layer_vertical
+0xf4e615cf layer_index
+0x4a2355d5 max_skew
+0xdc17c5f6 cap_artist_colorwheel_focus_change
+0x3be475ff special_exit_script
+0x6abb3600 add_generic_menu_button_icon_item
+0x8f61d602 ArrayName
+0x2de8c60e printf
+0xcd06a616 skew_increment
+0xb7589619 UpdateCASModelCAP
+0xcaef6622 default_cap_scale
+0x9a6bd624 icon
+0xf649d637 on
+0x2061c64e edit_cas_layer
+0x96bb0653 no_cas_handlers
+0x9ceaf671 cap_entry
+0xede33673 match_new_text
+0x6aa8d676 x_scale
+0x3f6e367e zoom_camera
+0xf5fec6a8 no_scale
+0x90f836ab cap_color_wheel_focus_change_color
+0x0afdf6af increment_focus_script
+0x377556bb GetCASAppearancePart
+0x2955f6ca post_layers
+0x50b8e6fb y_trans
+0x99a9b716 color
+0xe25ef716 match_layers_texture
+0x2f6bf72d font
+0xae8a573a widget_shear
+0x60c5676f color_bar_focus_rgba
+0xfe6c178d is_target_in_div
+0x37c38790 newstruct
+0x8d8317a1 no_v_flip
+0x3a1e67ab color_alpha_increment
+0x518fb7c5 lookup_table
+0xdecb67c7 rgb
+0xe288a7cb value
+0xd43297cf false
+0x3ef5a7df pad_left_params
+0x9ab7c7e3 prof_texture
+0x90fec815 structure
+0xded3b81a special_choose_script
+0x22bdd82b accept_script
+0x809a9834 j
+0xc4745838 text
+0xa2a4d849 pad_choose_sound
+0x66cc784e CAP
+0x4bb2084e desc_id
+0xb4282855 widget_init_cap
+0x4191d85a icon_rot
+0x862ba85b CAS_Band_logo
+0xeba1d860 reset_widgets
+0x98aa9869 reset_layer_to_default
+0x38699880 match_prev_tex
+0xe2c6589e rot
+0x40c698af id
+0x599a58d7 found_tex
+0x128ef8e1 widget_default
+0x7f8c98fe index
+0x27b74907 found_mat
+0xf8ecd924 x_skew
+0x86127925 flip_layer_horizontal
+0x774b6931 min_scale
+0x89a01947 cap_artist_layer_edit
+0x450ca94f widget_restore_cap
+0xca839981 deinit_script
+0xd74a6981 no_rotate
+0x1993c98e i
+0x515e298e diffuse
+0x15c58995 has_user_layers
+0xb22309a7 sections_size
+0x788f59c9 pad_right_params
+0x0fa039e9 add_script
+0x639329fc mask_index
+0x61247a0b default_cap_rot
+0xa3137a19 in_tex_same_section
+0x04177a1d widget_id
+0x0bc06a21 CastToInteger
+0xac43fa34 min_skew
+0xc958da46 no_alpha
+0x83418a6a material
+0x13b9da7b scale
+0x87a88a81 color_arrow_rgba
+0x33b00a81 y_skew
+0x5d327a83 newflags
+0xe1ed2a85 new_layers
+0x76fa7a8f checksumname
+0x9650aab9 color_arrow_pos_up
+0xf6497acc default_cap_alpha
+0x124bbb17 widget_uni_move
+0x80afab38 color_nowrap_arrow_left
+0x87046b4a Counter Clockwise
+0x9c05bb56 y_skew_widget
+0x8df5cb5b get_CAP
+0x48ab0b63 default_cap
+0xf1ff8b68 choose_state
+0xa0a0db70 max_scale
+0x8e10bb70 SetArrayElement
+0xf01dfb9d min_rot
+0x759ecba1 FixImagePath
+0x644a6ba3 initial_rgb
+0x611f9ba9 cap_get_current_rgb
+0x31dc7bab camera_list
+0x7befbbc4 mask_size
+0x7feeabc5 no_color
+0xf3ee1bd2 max_rot
+0x37b80c00 cap_index
+0x37f1ac0e RemoveArrayElement
+0x939f8c12 car_helper_text_cancel
+0x00bd0c18 reset_to_default_helper
+0x347d7c19 normal_map
+0x1de80c20 horiz_on
+0xa8abfc36 special_exit_params
+0x0c714c3f menu_finish
+0xe2a8fc52 no_average
+0xd469bc67 sections
+0xd3c64c77 SetLayer
+0x2c130c9b new_tex
+0x2b0cfca1 pad_choose_script
+0xc69afca1 scale_highlight_text
+0x13875cb3 get_proper_location
+0x9bfbccb8 reset_flip_buttons
+0x9dee9cc0 post_userlayer
+0x46c5dcc2 widget_accept_cap
+0x80903ccf mask
+0xac6ffce5 pad_up_params
+0xbc8c2ce5 initial_values
+0x3099ece5 new_text
+0xac78fce6 y_trans_widget
+0x03daecee GetActualCASOptionStruct
+0x43844cf6 init_params
+0x4c972d15 new_select
+0xc1ab9d18 button_widget_add_item
+0x56885d1b default_cap_trans
+0x81063d24 alpha_widget
+0x97ddbd3a start_value
+0x8bb08d3c ui_menu_select_sfx
+0x133fdd45 RemoveComponent
+0x7f5b3d4d array_size
+0xf6cfed4f x_trans
+0x97143d73 color_wrap_arrow_left
+0x6289dd76 max
+0xc5d4ad82 pad_down_params
+0xf633ad87 default_cap_green
+0x31771d90 x_trans_widget
+0xc5802d9f rot_increment
+0x436b9da5 rot_widget_add_item
+0x0d00dda6 specular
+0xfdd28da7 vert_on
+0x409fbdb7 flip_layer_vertical
+0x3f6bcdba rgba
+0xccdfddc2 y_scale
+0x16d19dc2 choose_state_data
+0xa1bf2dc3 cap_array_size
+0xe3847dc5 cap_no_transforms
+0x77d4edcd sweep
+0x10733de0 cap_layer_set_alpha
+0x8ee0fdf4 Center Left/Right
+0xb019ae15 color_text_pos
+0xadba2e16 pad_left_script
+0xc4e78e22 all
+0x79eefe35 car_helper_text_back
+0x891e6e3a UpdateCurrentCASModel
+0xf4fabe45 flags
+0x23ba1e48 y_scale_widget
+0xbbd3be62 match_layers_font
+0x62634e64 no_translate
+0xa2b37e70 section_has_target_and_material
+0xb866de7e button_icon
+0x36afbe8e color_arrow_pos_down
+0x940cde9c ChecksumEquals
+0x7f74fec7 base_tex
+0x4367eec8 color_bar_scale
+0x04ff4ee3 prof_text
+0x1b24dee5 layer
+0x84aecef0 menu_history_color_edit
+0xcd545ef7 clamp_uv
+0x3cf95efb widget_rotate
+0xa2380f04 cap_populate_layer
+0x02141f19 clean_up_user_control_helpers
+0x53c52f22 wrap
+0xc2eb4f2a cap_entry_struct
+0xb6f08f39 part
+0x128f4f3d cap_layer_set_x_scale
+0xbeb5ff3e x_scale_widget
+0x62ccff47 no_edit_options
+0x99b27f66 increment_focus_params
+0xbf32df6c rotate_widget_set_value
+0xe4988f71 set_cap_flags
+0x8160bf79 color_bar_pos
+0xe8dbff9a section_index
+0xbae85f9d match_prev_text
+0x259e8fa0 is_pre_layer_before_section
+0x289f7fb0 cap_layer_set_y_trans
+0x948f2fcf static_alpha
+
+                               [LineNumbers]
+
+[Checksums]
+0x6981b9c9 scripts\game\cas\ui\cas_colormenu.qb
+0x78e9e01b colormenu_bar_pos
+0x0a36010f default_cas_value
+0xef785201 colormenu_bar_scale
+0x90c6d2ae colormenu_arrow_pos_down
+0xacdc74d7 colormenu_wrap_arrow_left
+0x135c273e colormenu_text_pos
+0xb9c54762 default_cas_sat
+0xc6ac0b4f colormenu_bar_focus_rgba
+0xf16dab54 colormenu_bar_unfocus_rgba
+0xcd56eb9b colormenu_arrow_pos_up
+0xeda8fc54 default_cas_hue
+0x3dc08f17 colormenu_wrap_arrow_right
+0x65bcef29 colormenu_arrow_rgba
+0x7ae5cfa7 colormenu_arrow_scale
+
+                        [LineNumbers]
+fadetoblack 41 (208,17) (244,19) (266,20) (304,21) (311,22) (323,23) (336,24) (349,25) (362,27) (375,28) (388,29) (407,30) (420,31) (432,32) (445,33) (451,34) (453,35) (457,36) (464,37) (466,38) (470,39) (488,40) (508,41) (510,42) (552,44) (592,45) (613,46) (654,47) (692,49) (735,50) (737,51) (739,52) (757,54) (779,56) (800,58) (821,59) (834,60) (836,61) (838,62) (840,63) (842,64) 
+fadetoblack_wait_and_die 3 (28,72) (50,73) (56,74) 
+igc_fadeout 3 (28,82) (62,83) (87,84) 
+igc_fadein 2 (28,92) (56,93) 
+
+[Checksums]
+0xb554d8a2 scripts\game\igc\igc_utils.qb
+0xc6870028 Die
+0xb12b510a SpriteElement
+0x7031f10c params
+0x73665140 CreateScreenElement
+0xcf66717b GotParam
+0x8b60022f just
+0xa8c11275 LegacyDoScreenElementMorph
+0x0c7cd27a RemoveTags
+0x7d99f28d texture
+0x681d62bb igc_fadeout
+0xd443a2bc off
+0xc5bc93ee ScreenElementExists
+0x18f173f3 screenfader
+0xbf0f14db center
+0x0e61b525 RunScriptOnScreenElement
+0x767a45d7 black
+0xd029f619 seconds
+0xf649d637 on
+0xd9ffc673 create_script
+0x2f1fc695 alpha
+0x906b67ba time
+0x259a07d3 fadetoblack
+0x376da86a fadetoblack_wait_and_die
+0xe1e53884 waiting_to_die
+0x40c698af id
+0x7321a8d6 type
+0x7f261953 pos
+0x40f139cb no_zwrite
+0xa58079eb SetTags
+0xb32979f7 IgnoreSlomo
+0x13b9da7b scale
+0x56a1eae3 root_window
+0x82117c1a wait
+0x62c11cb9 GetSingleTag
+0x3f6bcdba rgba
+0x1cee2dcc igc_fadein
+0xa651ae55 no_wait
+0xb0ec7ec3 TerminateObjectsScripts
+0x57710f31 z_priority
+0xc2719fb0 parent
+
+                 [LineNumbers]
+IGC_Camera_MoveToPlayer 14 (44,18) (56,20) (69,22) (76,24) (89,25) (109,26) (129,27) (142,28) (155,29) (168,31) (170,32) (208,34) (214,35) (216,36) 
+
+[Checksums]
+0x5b08aec3 scripts\game\igc\igc_camera.qb
+0x91224113 GetHFOV
+0xcf66717b GotParam
+0x17e7321e fov
+0x748ca262 quat
+0xb24032f4 CCam_DoMorph
+0x967c138c skatercam0
+0x9aa3740e no_block
+0x906b67ba time
+0x7a039889 cameraid
+0x7f261953 pos
+0x3770ebfc hfov
+0x32b38c14 CCam_WaitMorph
+0x8addac1f smooth
+0xd126cdf6 LockTo
+0x0a015e17 motion
+0x109b1e7e IGC_Camera_MoveToPlayer
+
+                 [LineNumbers]
+zone_init 59 (0,31) (23,32) (50,35) (84,36) (120,37) (122,38) (156,40) (232,42) (264,43) (276,44) (278,45) (284,47) (320,49) (327,51) (333,52) (346,54) (359,55) (361,56) (400,58) (407,59) (413,60) (426,62) (439,63) (441,64) (443,65) (480,67) (487,68) (493,69) (506,71) (519,72) (521,73) (523,74) (560,76) (567,77) (573,78) (586,80) (599,81) (601,82) (603,83) (640,85) (647,86) (653,87) (666,89) (679,90) (681,91) (683,92) (702,94) (712,95) (721,96) (723,99) (725,100) (727,101) (733,103) (743,105) (786,106) (801,108) (832,109) (834,110) (836,111) 
+zone_init_wait_run_setup 10 (0,119) (2,121) (12,122) (14,123) (16,124) (68,125) (70,126) (85,128) (92,129) (94,130) 
+zone_deinit 19 (0,139) (23,140) (46,142) (84,144) (107,145) (109,146) (148,148) (171,149) (173,150) (212,152) (235,153) (237,154) (276,156) (299,157) (301,158) (377,168) (409,169) (421,170) (423,171) 
+SetupCOIM 9 (0,175) (44,177) (51,179) (64,180) (77,181) (83,182) (90,183) (92,184) (98,186) 
+
+[Checksums]
+0x00b274b1 scripts\game\load_level.qb
+0x8e411006 b
+0x0f7e902c nullscript
+0x3324405c zone_name
+0x8002809c queue
+0x0c7800b0 BottomUpHeap
+0xe4f130f4 s
+0x7031f10c params
+0x5ef31148 array
+0xcf66717b gotparam
+0x174841bc a
+0xbfa801df change
+0xa1dc81f9 name
+0xb8b85289 mfx_array_name
+0xbe4f02bf Generic_COIM_Params
+0x6f9e02d5 RemoveEditableList
+0x3417c307 MemPopContext
+0x6e4de37c zone_editable_text
+0x0c1523f0 InFrontend
+0x25b7b3ff lfx_array_name
+0xff0db407 TextName
+0x9277f428 FormatText
+0x52b5d59f ParseNodeArray
+0x16f6a5a1 sfx_zone_name
+0xbf0b55a3 PushMemProfile
+0x2de8c60e printf
+0x8581d64e lfx_zone_name
+0x24af0659 disable_global_pedestrians
+0x7f4bd6c2 dont_call_zone_init_hack
+0xd6b86721 array_name
+0xd7e1179f zone_init_wait_run_setup
+0x6a8f8812 gfx_array_name
+0x54a9f837 zone_deinit
+0x8fdb68af TopDownHeap
+0x7321a8d6 type
+0x25dc7904 AssertOnMissingAssets
+0x84a4e950 IsCOIMInited
+0x4dc7198e next_level_script
+0x624869ed gfx_zone_name
+0xab73da2e zone_init
+0x0cbc1a46 fake_net
+0xab9e5a4c ScriptExists
+0xc5a1ea66 Generic_COIM_BlockAlign
+0x76fa7a8f ChecksumName
+0x19fa5af7 SpawnScriptNow
+0x15913b65 sfx_array_name
+0xb5527b89 COIM_Min_Scratch_Blocks
+0x083fdb95 Size
+0x054a4bdb abort
+0x1fed2be0 SetupCOIM
+0x82117c1a wait
+0x110ebca3 zone_editable_list
+0x8eb55cb3 NodeArrayBusy
+0x13937cd9 AddEditableList
+0xb0847d54 BlockAlign
+0xe7243d80 AlwaysDump
+0x407dadd8 InitCOIM
+0xb69dfdf1 zone_string_name
+0xfc37df05 gameframe
+0xbda54f12 zone_setup_script
+0x8ba3ef43 PopMemProfile
+0x022d1f89 AssertOnMissingScripts
+0x835d0f90 GlobalExists
+0x58170fcb mfx_zone_name
+0xeb117fd0 MemPushContext
+0xa1da6fe9 InNetGame
+
+ [LineNumbers]
+create_band_money_display 4 (0,12) (6,14) (100,21) (118,23) 
+destroy_band_money_display 4 (0,32) (36,34) (72,35) (74,36) 
+refresh_band_money_display 12 (14,45) (20,48) (44,49) (78,51) (112,52) (148,53) (155,54) (167,55) (180,56) (193,57) (195,58) (197,59) 
+decrease_band_money 7 (14,75) (76,77) (82,79) (106,80) (128,82) (172,84) (190,86) 
+increase_band_money 7 (14,95) (76,97) (82,99) (106,100) (128,102) (172,104) (190,106) 
+increase_band_money_by_100000 4 (0,115) (20,116) (49,117) (78,118) 
+bankrupt_band 3 (0,127) (20,128) (49,129) 
+set_band_money 5 (14,137) (76,139) (82,141) (126,142) (144,144) 
+get_band_money 4 (25,153) (31,155) (55,156) (69,158) 
+has_enough_money 9 (14,167) (76,169) (82,171) (106,172) (125,174) (156,175) (160,176) (192,177) (194,178) 
+increase_career_earnings 7 (14,187) (76,189) (82,191) (106,192) (128,194) (172,196) (190,198) 
+increase_band_cash_and_earnings 5 (0,207) (64,209) (84,211) (114,212) (144,213) 
+
+[Checksums]
+0xe4cf8d9e scripts\game\menu\bandmoney.qb
+0x48cee080 decrease_band_money
+0x301dd0f9 GetGlobalTags
+0x7031f10c params
+0x73665140 CreateScreenElement
+0xf9f29155 cash_text
+0xb4ff3156 increase_career_earnings
+0x01dd615f DescInterface
+0x4cc5815f career_earnings
+0xc13a41de get_current_band_info
+0xf6ab82f2 cas_current_savegame
+0x0203b372 true
+0xf44a53ab desc
+0x823203d1 increase_band_money
+0xc5bc93ee ScreenElementExists
+0xff0db407 TextName
+0x9277f428 FormatText
+0x8caed42d destroy_band_money_display
+0xf8a4443a get_savegame_from_controller
+0x8da97503 primary_controller
+0x4c29c545 RequireParams
+0xdcfec609 has_enough_money
+0x6f4a8715 earnings_text
+0x4eef678b increase_band_money_by_100000
+0xe288a7cb value
+0xd43297cf false
+0xf44b67f2 career_earnings_value_text
+0x6d9ea873 create_band_money_display
+0x40c698af id
+0x7321a8d6 type
+0xb30d9965 controller
+0x1993c98e i
+0x3c15e9b6 DestroyScreenElement
+0x1b0509c5 savegame
+0x93907a00 bankrupt_band
+0xf9461a46 cash
+0xf1b2da9a increase_band_cash_and_earnings
+0x56a1eae3 root_window
+0x44a31cb5 SetGlobalTags
+0x90356cb9 SetScreenElementProps
+0x0a759ceb cash_available_value_text
+0xb0359cfb get_band_money
+0x3537dd26 price
+0x809d8dd9 band_money_id
+0xc4e78e22 all
+0x6f402ef3 band_info
+0xcf2b2f8c set_band_money
+0x56c05f98 refresh_band_money_display
+0xc2719fb0 parent
+0x715e8fbd amount
+
+                  [LineNumbers]
+add_character_bio 17 (0,7) (36,11) (78,12) (82,13) (89,15) (101,16) (113,17) (139,18) (151,19) (163,20) (176,21) (189,22) (202,23) (225,24) (227,25) (260,27) (262,29) 
+destroy_character_bio 4 (0,38) (36,40) (72,41) (74,42) 
+animate_character_bio 14 (0,52) (52,55) (88,58) (

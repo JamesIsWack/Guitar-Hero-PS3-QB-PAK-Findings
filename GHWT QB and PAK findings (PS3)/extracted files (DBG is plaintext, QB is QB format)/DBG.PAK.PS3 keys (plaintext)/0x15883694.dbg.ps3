@@ -1,0 +1,27 @@
+xtureOverride
+0xc9a2e72b CreateViewport
+0xcc424795 style
+0x17cfe79b DestroyViewport
+0x4bc18835 zones/z_Soundcheck/z_Soundcheck.tex
+0x9b5f2847 frontend_load_soundcheck
+0x40c698af id
+0x00e838cd keep_current_level
+0x7321a8d6 type
+0xf5a8696c viewport_root
+0xc22dba29 tex/zones/Sound_stage/Temp_Viewport01.dds
+0xcb4b1aaa create_viewport_ui
+0x56a1eae3 root_window
+0x339c9b61 DestroyViewportTextureOverride
+0xa13adbb7 WindowElement
+0x52fb9c3e ViewportExists
+0x01d5fce4 texdict
+0xef175d12 has_ui_only
+0xc3e24d76 viewport_ui_texture
+0x6701be09 destroy_viewport_ui
+0x95142e56 window_dims
+0x7684bf26 has_ui
+0xd2dcbf38 viewport_override_id
+0xc2719fb0 parent
+
+[LineNumbers]
+menu_soundevent_in 158 (0,23) (40,26) (42,28) (44,29) (52,35) (72,38) (108,39) (110,40) (114,41) (152,42) (188,43) (228,45) (236,46) (267,47) (300,48) (336,49) (338,50) (340,52) (342,54) (392,57) (414,59) (488,61) (524,62) (560,63) (562,64) (566,65) (604,66) (640,67) (648,68) (676,70) (712,71) (737,73) (772,74) (795,76) (828,77) (849,79) (884,80) (913,82) (948,83) (971,85) (1004,86) (1021,88) (1072,89) (1093,91) (1144,92) (1146,94) (1148,95) (1150,96) (1152,97) (1204,100) (1225,101) (1264,102) (1266,103) (1270,104) (1308,105) (1344,106) (1346,107) (1348,109) (1379,112) (1416,113) (1418,114) (1456,115) (1489,116) (1495,117) (1497,118) (1501,119) (1536,120) (1538,122) (1556,124) (1592,125) (1594,126) (1596,127) (1619,129) (1656,130) (1658,131) (1662,132) (1696,133) (1698,135) (1729,137)

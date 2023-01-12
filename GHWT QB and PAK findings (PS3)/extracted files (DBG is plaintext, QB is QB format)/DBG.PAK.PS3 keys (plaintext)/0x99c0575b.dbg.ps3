@@ -1,0 +1,24 @@
+l_Mode_Finish_Chord
+0x1483e026 training_spawned_script
+0xcd0dc02d KillSpawnedScript
+0x3eeae02d hard
+0xe126e035 top
+0x1b8ab038 Training_VO
+0x475bf03c event_handlers
+0xc551e03c notes_missed
+0xb455f040 training_hide_narrator
+0x3c477041 difficulty4
+0xe17ed063 set_vo_sub_text
+0x21902065 checksum
+0xc2a28080 vocalist
+0x687da089 inc
+0x0383f08e tutorial_close_quit_warning_screen
+0xc5f1a08f Hide_Band
+0x5b395092 pausemenu_bg
+0xe9576099 autosizedims
+0x696fe0ab number
+0xd95930ac player1_status
+0xba43b0bd tutorial_shutdown
+0xc86350be enable_pause
+0xda6db0c6 tutorial_battle
+0x00788100 tuto

@@ -1,0 +1,11 @@
+ ready_banner_texture
+0x8d8af730 menus
+0xb085b735 new_character_id
+0x33e1073e ui_band_mode_save_tags
+0x3f7e7743 emicrophone
+0x2cb33744 LaunchEvent
+0x6768d754 net_band_leader_player_num
+0x8eaff759 change_profile
+0x406dd761 GetScreenElementDims
+0xd4447761 no_mic
+0x79d7e762 ui_band_mode_create_menu_net_local_ro

@@ -1,0 +1,23 @@
+) (20,12) (32,13) (44,14) (46,15) (52,17) (64,18) (104,19) (116,20) (118,21) (132,25) (144,26) (146,27) (203,29) (222,30) (235,31) (237,32) (244,34) (277,35) (310,36) (322,37) (363,38) (375,39) (416,40) (418,41) (439,43) (447,44) (453,46) (504,47) (552,49) 
+ui_destroy_options_manage_band_font 2 (0,59) (6,60) 
+ui_init_options_manage_band_font 20 (0,68) (40,69) (52,71) (58,72) (70,73) (108,75) (120,76) (122,77) (129,79) (141,80) (153,81) (165,82) (178,83) (191,84) (220,85) (236,86) (252,87) (264,88) (276,89) (278,90) 
+ui_deinit_options_manage_band_font 3 (0,99) (40,100) (76,102) 
+manage_band_set_font 5 (0,111) (6,113) (43,114) (75,115) (81,116) 
+change_demo_font_on_focus 3 (0,124) (37,126) (61,127) 
+debug_dump_current_band_font 4 (0,136) (6,138) (29,139) (36,141) 
+
+[Checksums]
+0x98232471 scripts\guitar\menu\states\layouts\ui_options_manage_band_font.qb
+0xb990d003 target
+0x301dd0f9 GetGlobalTags
+0x627f90fe no_rotate_zoom_text
+0x7031f10c params
+0x73665140 CreateScreenElement
+0xf51c4142 ui_create_options_manage_band_font
+0xcf66717b GotParam
+0x4742a1a1 BandLogoObject
+0xf88cc1bd demo_band_font
+0xd87251d6 scale each line if larger
+0xc13a41de get_current_band_info
+0x657ff1ed Obj_ApplyScaling
+0xa1dc

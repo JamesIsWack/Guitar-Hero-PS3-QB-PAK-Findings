@@ -1,0 +1,640 @@
+akerCone15Script 2 (0,3102) (6,3103) 
+Z_metalfest_G_JG_CrowdSigns08Script 7 (0,3106) (2,3107) (52,3108) (58,3109) (108,3110) (114,3111) (116,3112) 
+Z_metalfest_G_JG_SpeakerCone05Script 2 (0,3115) (6,3116) 
+Z_metalfest_G_JG_SpeakerCone44Script 2 (0,3119) (6,3120) 
+Z_metalfest_G_JG_SpeakerCone35Script 2 (0,3123) (6,3124) 
+Z_metalfest_G_JG_SpeakerCone25Script 2 (0,3127) (6,3128) 
+Z_metalfest_G_JG_SpeakerCone06Script 2 (0,3131) (6,3132) 
+Z_metalfest_G_JG_SpeakerCone16Script 2 (0,3135) (6,3136) 
+Z_metalfest_G_JG_SpeakerCone26Script 2 (0,3139) (6,3140) 
+Z_metalfest_G_JG_SpeakerCone36Script 2 (0,3143) (6,3144) 
+Z_metalfest_G_JG_SpeakerCone47Script 2 (0,3147) (6,3148) 
+Z_metalfest_G_JG_SpeakerCone17Script 2 (0,3151) (6,3152) 
+Z_metalfest_G_JG_SpeakerCone07Script 2 (0,3155) (6,3156) 
+Z_metalfest_G_JG_SpeakerCone46Script 2 (0,3159) (6,3160) 
+Z_metalfest_Tentacle_SupportScript 2 (0,3163) (6,3164) 
+Z_metalfest_G_JG_SpeakerCone37Script 2 (0,3167) (6,3168) 
+Z_metalfest_G_JG_SpeakerCone27Script 2 (0,3171) (6,3172) 
+Z_metalfest_G_JG_CrowdSigns04Script 7 (0,3175) (2,3176) (52,3177) (58,3178) (108,3179) (114,3180) (116,3181) 
+Z_metalfest_G_JG_SpeakerCone19Script 2 (0,3184) (6,3185) 
+Z_metalfest_G_JG_SpeakerCone09Script 2 (0,3188) (6,3189) 
+Z_metalfest_G_JG_SpeakerCone39Script 2 (0,3192) (6,3193) 
+Z_metalfest_Tentacle_Segment01Script 2 (0,3196) (6,3197) 
+Z_metalfest_G_JG_SpeakerCone29Script 2 (0,3200) (6,3201) 
+Z_metalfest_Tentacle_Segment11Script 2 (0,3204) (6,3205) 
+Z_metalfest_G_JG_SpeakerCone48Script 2 (0,3208) (6,3209) 
+Z_metalfest_G_JG_SpeakerCone08Script 2 (0,3212) (6,3213) 
+Z_metalfest_G_JG_SpeakerCone18Script 2 (0,3216) (6,3217) 
+Z_metalfest_G_JG_SpeakerCone49Script 2 (0,3220) (6,3221) 
+Z_metalfest_Tentacle_Segment10Script 2 (0,3224) (6,3225) 
+Z_metalfest_G_JG_SpeakerCone28Script 2 (0,3228) (6,3229) 
+Z_metalfest_G_JG_SpeakerCone38Script 2 (0,3232) (6,3233) 
+Z_metalfest_G_JG_CrowdSigns06Script 7 (0,3236) (2,3237) (52,3238) (58,3239) (108,3240) (114,3241) (116,3242) 
+Z_metalfest_Tentacle_Segment03Script 2 (0,3245) (6,3246) 
+Z_metalfest_G_JG_CrowdSigns07Script 7 (0,3249) (2,3250) (52,3251) (58,3252) (108,3253) (114,3254) (116,3255) 
+Z_metalfest_Tentacle_Segment02Script 2 (0,3258) (6,3259) 
+Z_metalfest_Tentacle_Segment05Script 2 (0,3262) (6,3263) 
+Z_metalfest_Tentacle_Segment04Script 2 (0,3266) (6,3267) 
+Z_metalfest_G_JG_CrowdSigns01Script 7 (0,3270) (2,3271) (52,3272) (58,3273) (108,3274) (114,3275) (116,3276) 
+Z_metalfest_Tentacle_Segment07Script 2 (0,3279) (6,3280) 
+Z_metalfest_G_JG_CrowdSigns02Script 7 (0,3283) (2,3284) (52,3285) (58,3286) (108,3287) (114,3288) (116,3289) 
+Z_metalfest_Tentacle_Segment06Script 2 (0,3292) (6,3293) 
+Z_metalfest_G_JG_CrowdSigns03Script 7 (0,3296) (2,3297) (52,3298) (58,3299) (108,3300) (114,3301) (116,3302) 
+
+[Checksums]
+0x6da6ea55 zones\z_metalfest\z_metalfest.qb
+0xf6d04005 Z_metalfest_G_JG_CrowdSigns07
+0x1eebc010 Z_metalfest_G_JG_SpeakerBank17
+0x6d048014 Z_metalfest_G_JG_SpeakerCone42
+0xccbe4018 Z_Metalfest_encore_tentacle07
+0xe00be025 Z_metalfest_G_JG_SpeakerCone04
+0x8de01025 Z_metalfest_G_JG_SpeakerCone22Script
+0xb9e14030 Z_metalfest_TRG_Waypoint_Drummer_Start
+0xe7c27036 Z_metalfest_G_JG_OctoHead
+0xb1999038 Z_metalfest_G_JG_Tentacle02
+0x717ad041 Z_metalfest_TRG_Geo_Camera_Performance_BASS01
+0x171eb048 Z_metalfest_G_JG_SpeakerCone16
+0x26f53048 LS_MOOD_FALLING
+0x2e526067 Z_metalfest_Tentacle_Segment05Script
+0x17358074 Z_metalfest_TRG_Geo_Camera_Performance_GUIT02
+0x9a11d079 Z_metalfest_G_JG_SpeakerCone50
+0xe9fe907d Z_metalfest_G_JG_SpeakerBank05
+0x1a03b082 Z_metalfest_G_JG_SpeakerCone43
+0xacc54082 Z_metalfest_G_JG_OctoArms
+0x69ecf086 Z_metalfest_G_JG_SpeakerBank16
+0xc4845086 AdInventoryElement
+0x1df32087 ObjectFixedAlpha
+0xbbb9708e Z_Metalfest_encore_tentacle06
+0x81d77093 Z_metalfest_G_JG_CrowdSigns06
+0x970cd0b3 Z_metalfest_G_JG_SpeakerCone05
+0x414a10bb Z_metalfest_G_JG_SpeakerCone32Script
+0xba2e60c6 Z_metalfest_G_JG_Monitors
+0xa1fe70ce Z_metalfest_G_JG_OzzfestName
+0x742af0cf Z_metalfest_G_JG_Screen_silhouette
+0x601980de Z_metalfest_G_JG_SpeakerCone17
+0x9ef9a0eb Z_metalfest_G_JG_SpeakerBank04
+0x2725b0ed LS_MOOD_BLACKOUT
+0xef59c100 GameObject
+0x0e058109 Z_metalfest_G_JG_SpeakerCone06
+0xf0d90109 speed
+0x1a7f010c Z_metalfest_G_JG_SpeakerCone20Script
+0x22b02134 Z_Metalfest_encore_tentacle05
+0x830ae138 Z_metalfest_G_JG_SpeakerCone40
+0xf0e5a13c Z_metalfest_G_JG_SpeakerBank15
+0xe3dea141 Z_metalfest_G_JG_FogMachines
+0xb9cd714e Z_metalfest_Tentacle_Segment07Script
+0x07f0f151 Z_metalfest_G_JG_SpeakerBank07
+0xf910d164 Z_metalfest_G_JG_SpeakerCone14
+0xcea64188 Z_metalfest_G_JG_OctoScreen
+0xd6d50192 Z_metalfest_G_JG_SpeakerCone30Script
+0x7902b19f Z_metalfest_G_JG_SpeakerCone07
+0x55b711a2 Z_Metalfest_encore_tentacle04
+0x4f8501a7 Z_metalfest_Tentacle_Segment08Script
+0x87e291aa Z_metalfest_G_JG_SpeakerBank14
+0xf40dd1ae Z_metalfest_G_JG_SpeakerCone41
+0x6fd911bf Z_metalfest_G_JG_CrowdSigns04
+0x70f7c1c7 Z_metalfest_G_JG_SpeakerBank06
+0xfd27d1ca Z_metalfest_G_JG_TrapDoorStage
+0x8e3cd1ce Z_metalfest_TRG_Geo_Camera_Performance_GUIT01
+0x5934a1e4 Z_metalfest_G_JG_JumboScreen
+0x8bec11ed z_metalfest_NodeArray_SortedIndices
+0x8e17e1f2 Z_metalfest_G_JG_SpeakerCone15
+0xa1dc81f9 Name
+0x099571fa Z_metalfest_TRG_Waypoint_Vocalist_Start
+0xe87381fb Z_metalfest_TRG_Geo_Camera_Performance_BASS02
+0xe138d204 Z_metalfest_TRG_Grab01
+0xedf81216 Z_metalfest_G_JG_SpeakerCone43Script
+0x9417522c Z_metalfest_G_JG_CrowdSigns06Script
+0xa53ab231 Z_metalfest_G_JG_SpeakerCone25
+0xe2067235 Z_metalfest_G_JG_PeriphStage01
+0x9738c23b Empty
+0x59e7c242 Z_metalfest_G_JG_Trees01
+0x522fe25c Z_metalfest_G_JG_SpeakerCone37
+0xac152262 Z_metalfest_G_JG_SpeakerCone04Script
+0xaccfc269 Z_metalfest_G_JG_SpeakerBank24
+0x2ca8a299 TriggerScript
+0xd23d82a7 Z_metalfest_G_JG_SpeakerCone24
+0x7c2552b9 CreatedAtStart
+0x2528d2ca Z_metalfest_G_JG_SpeakerCone36
+0x14b872d0 Z_metalfest_G_JG_CrowdBarriers
+0x3f9c72d9 Z_metalfest_G_JG_StageRiser
+0x5f5862f5 LS_MOOD_TENSION
+0x194502fb AdTexture
+0x60bf22fc Z_metalfest_G_JG_SpeakerCone14Script
+0xdbc8f2ff Z_metalfest_G_JG_SpeakerBank25
+0x03884305 Z_metalfest_G_JG_CrowdSigns04Script
+0x89e33311 Z_metalfest_G_JG_TrapDoorHole
+0x4b34d31d Z_metalfest_G_JG_SpeakerCone27
+0xb5d4f328 Z_metalfest_G_JG_SpeakerBank34
+0x0168433c Z_metalfest_G_JG_SpeakerCone19Script
+0x7a67033f Z_metalfest_G_JG_SpeakerCone41Script
+0x42c1a345 Z_metalfest_G_JG_SpeakerBank26
+0x3b8a334b Z_metalfest_G_JG_SpeakerCone06Script
+0x1fd72353 Z_metalfest_Crowd_Peds
+0x49d7536c Z_metalfest_G_JG_StageTrapDoor
+0xbc218370 Z_metalfest_G_JG_SpeakerCone35
+0x369c638b Z_metalfest_G_JG_rearMonitors
+0x3c33e38b Z_metalfest_G_JG_SpeakerCone26
+0x7b0f238f Z_metalfest_G_JG_PeriphStage02
+0xcdc243a2 Z_metalfest_G_JG_SpeakerCone09Script
+0x7e4813a7 LightGroup
+0x149013af Z_metalfest_G_JG_Screen_Rising
+0xc2d3c3be Z_metalfest_G_JG_SpeakerBank35
+0x783183be Z_metalfest_TRG_Grab02
+0x35c693d3 Z_metalfest_G_JG_SpeakerBank27
+0xf72033d5 Z_metalfest_G_JG_SpeakerCone16Script
+0x24e123df Z_metalfest_TRG_Encore_Tentacle
+0xcb26b3e6 Z_metalfest_G_JG_SpeakerCone34
+0xc01853ea LS_MOOD_EXPOSITION
+0x26c743fc Z_metalfest_G_JG_Screen_Climax
+0xcbd38401 Z_Metalfest_encore_tentacle03
+0x12b74407 Z_metalfest_G_JG_Screen_Flare
+0x19860409 Z_metalfest_G_JG_SpeakerBank13
+0x8e4c1409 LS_MOOD_CLIMAX
+0x6a69440d Z_metalfest_G_JG_SpeakerCone46
+0xf1bd841c Z_metalfest_G_JG_CrowdSigns03
+0xac1b4435 LS_MOOD_SILHOUETTE
+0x79af3436 Z_metalfest_G_JG_SpeakerCone26Script
+0x434d4441 Z_metalfest_G_JG_SpeakerCone39Script
+0x10737451 Z_metalfest_G_JG_SpeakerCone12
+0xbc1b445a LS_MOOD_RISING
+0xee935464 Z_metalfest_G_JG_SpeakerBank01
+0x3cc6d46c Z_Metalfest_encore_tentacle11
+0xda1d4474 Z_metalfest_Tentacle_Segment01Script
+0x86bab48a Z_metalfest_G_JG_CrowdSigns02
+0xbcd4b497 Z_Metalfest_encore_tentacle02
+0x1d6e749b Z_metalfest_G_JG_SpeakerCone47
+0x7cdd849e Z_metalfest_G_JG_JumboTron
+0x6e81349f Z_metalfest_G_JG_SpeakerBank12
+0xb50534a8 Z_metalfest_G_JG_SpeakerCone36Script
+0x906114aa Z_metalfest_G_JG_SpeakerCone01
+0xfe3fe4aa LS_MOOD_FLARE
+0x677444c7 Z_metalfest_G_JG_SpeakerCone13
+0x8fe744df Z_metalfest_G_JG_SpeakerCone29Script
+0x16b744ea Z_metalfest_Tentacle_Segment11Script
+0x4bc1e4fa Z_Metalfest_encore_tentacle10
+0xbf080507 Venue_PulseAny
+0x58fa350d Z_metalfest_G_JG_Tentacle04
+0x09684510 Z_metalfest_G_JG_SpeakerCone02
+0xee30251f Z_metalfest_G_JG_SpeakerCone24Script
+0x84672521 Z_metalfest_G_JG_SpeakerCone44
+0xf7886525 Z_metalfest_G_JG_SpeakerBank11
+0x25dde52d Z_Metalfest_encore_tentacle01
+0x1fb3e530 Z_metalfest_G_JG_CrowdSigns01
+0xbf4d3536 LevelGeometry
+0x348f9540 Z_metalfest_G_JG_MackiePA03
+0x009d3548 Z_metalfest_G_JG_SpeakerBank03
+0x4d82555d Z_metalfest_Tentacle_Segment03Script
+0xfe7d157d Z_metalfest_G_JG_SpeakerCone10
+0x229a2581 Z_metalfest_G_JG_SpeakerCone34Script
+0x7e6f7586 Z_metalfest_G_JG_SpeakerCone03
+0x660bd58e Z_metalfest_G_JG_Screen_Prelude
+0x24765598 Z_metalfest_G_JG_RoundScaff
+0x808f55b3 Z_metalfest_G_JG_SpeakerBank10
+0xf36015b7 Z_metalfest_G_JG_SpeakerCone45
+0x4388a5d6 Z_metalfest_G_JG_MackiePA02
+0x779a05de Z_metalfest_G_JG_SpeakerBank02
+0x897a25eb Z_metalfest_G_JG_SpeakerCone11
+0x324fb5ef Z_metalfest_G_JG_StageFront
+0x7ea855f0 Profile
+0x34ad9603 Z_metalfest_Tentacle_Segment09
+0x19b73605 Z_metalfest_G_JG_SpeakerCone47Script
+0x5cb7561d Z_metalfest_G_JG_SpeakerBank32
+0x4d5af61e Z_metalfest_G_JG_MarshallCab
+0xa2577628 Z_metalfest_G_JG_SpeakerCone21
+0x7c30a62c Z_metalfest_G_JG_Screen_Base
+0x6058763f Z_metalfest_G_JG_CrowdSigns02Script
+0x55422645 Z_metalfest_G_JG_SpeakerCone33
+0x12b4e660 Class
+0xaba20670 Z_metalfest_G_JG_SpeakerBank20
+0x253ba673 Z_metalfest_TRG_Waypoint_Guitarist_Player2_Start
+0x2bb0668b Z_metalfest_G_JG_SpeakerBank33
+0x43aaa695 Z_metalfest_Tentacle_Segment08
+0x7ede8696 Z_metalfest_G_JG_PerpihToilets
+0xd55046be Z_metalfest_G_JG_SpeakerCone20
+0x6d9f26c4 Z_metalfest_G_JG_OctoMural02
+0x224516d3 Z_metalfest_G_JG_SpeakerCone32
+0xdca536e6 Z_metalfest_G_JG_SpeakerBank21
+0xefff46ec Z_metalfest_G_JG_SpeakerCone48Script
+0x94f006ef Z_metalfest_G_JG_SpeakerCone10Script
+0x4c591704 Z_metalfest_G_JG_SpeakerCone23
+0x81b9a708 Z_metalfest_G_JG_StageWires
+0x1829e710 Z_metalfest_G_JG_Screen_Exposition
+0xde7a971b Normal
+0x8e28272c Z_metalfest_G_JG_SpeakerCone45Script
+0xb2b93731 Z_metalfest_G_JG_SpeakerBank30
+0x41ddd741 Z_metalfest_G_JG_Scaffolding
+0xcfc51758 Z_metalfest_G_JG_SpeakerCone02Script
+0x45ac675c Z_metalfest_G_JG_SpeakerBank22
+0x37b88763 Z_metalfest_TRG_Waypoint_Bassist_Start
+0xbb4c4769 Z_metalfest_G_JG_SpeakerCone31
+0x9575b777 z_metalfest_NodeArray_SortedNames
+0x4c23a77e Waypoint
+0xf496777e Z_metalfest_G_JG_OctoMural01
+0x9a7cd78a Profile_Ven_Tentacle_Obj
+0x3b5e2792 Z_metalfest_G_JG_SpeakerCone22
+0xc5be07a7 Z_metalfest_G_JG_SpeakerBank31
+0x036f17c6 Z_metalfest_G_JG_SpeakerCone12Script
+0x32ab57ca Z_metalfest_G_JG_SpeakerBank23
+0xd43297cf FALSE
+0xcc4b77ff Z_metalfest_G_JG_SpeakerCone30
+0x77a29805 Z_metalfest_G_JG_Stage
+0x10ba0815 Z_metalfest_G_JG_SpeakerCone50Script
+0x6bb54816 Z_metalfest_G_JG_SpeakerCone08Script
+0xab74584a LS_MOOD_PRELUDE
+0x51573861 Z_metalfest_G_JG_SpeakerCone17Script
+0xbdc4c878 Obj_WaitRotate
+0xa71f4888 Z_metalfest_G_JG_SpeakerCone18Script
+0xdc10088b Z_metalfest_G_JG_SpeakerCone40Script
+0x7321a8d6 Type
+0x9dfd38ff Z_metalfest_G_JG_SpeakerCone07Script
+0x390e5907 Z_metalfest_G_JG_Skyline
+0x8dd1690a Z_metalfest_G_JG_SpeakerCone48
+0x9d2d0915 Angles
+0x0fb3f945 Z_metalfest_G_JG_TarpStructure
+0xc6c82948 Z_metalfest_G_JG_SpeakerCone15Script
+0x7f261953 Pos
+0xc4282971 Z_metalfest_G_JG_CrowdSigns08Script
+0x7c109988 Z_metalfest_G_JG_Sky
+0x32605998 Z_metalfest_G_JG_CrowdSigns07Script
+0xfad6599c Z_metalfest_G_JG_SpeakerCone49
+0x4b8f19a2 Z_metalfest_G_JG_SpeakerCone42Script
+0xbbe1c9c9 Z_metalfest_G_JG_Screen_Blackout
+0x0a6229d6 Z_metalfest_G_JG_SpeakerCone05Script
+0xf9bf3a04 Z_metalfest_G_JG_SideCanvasLight03
+0xe9f20a13 Z_metalfest_Tentacle_Segment09Script
+0x74d02a13 Z_metalfest_AD_Metalfest_256x128_02
+0xea09fa1b Z_metalfest_TRG_Waypoint_Guitarist_Start
+0xd33e6a25 Z_metalfest_G_JG_JumboSupport
+0x70a20a26 Z_metalfest_G_JG_SpeakerCone31Script
+0x3d1bda28 Z_metalfest_Tentacle_Segment05
+0xd7581a73 Z_metalfest_G_JG_PyroCanisters
+0x03d71a85 Z_metalfest_AD_Metalfest_256x128_03
+0x0b231a9d Obj_RotX
+0xda26aaa0 Profile_Ped_Crowd_Obj
+0xbc080ab8 Z_metalfest_G_JG_SpeakerCone21Script
+0x4a1ceabe Z_metalfest_Tentacle_Segment04
+0x68910ac6 AbsentInNetGames
+0x4eedfae7 lod_dist1
+0x69788aed LightGroup4
+0xff7ebaf6 angle
+0x1fba7afa Z_metalfest_Tentacle_Segment06Script
+0x053dbb04 Z_metalfest_G_JG_StageBackdrop
+0xd315bb04 Z_metalfest_Tentacle_Segment07
+0x4f53ab05 crowd
+0xe73d1b0f Z_metalfest_G_JG_SpeakerCone33Script
+0x17b15b28 Z_metalfest_G_JG_SideCanvasLight01
+0xb4c3cb40 Z_metalfest_G_JG_Stars
+0xd7e4ab5d lod_dist2
+0x2b971b91 Z_metalfest_G_JG_SpeakerCone23Script
+0xa4128b92 Z_metalfest_Tentacle_Segment06
+0xe4279ba2 SuspendDistance
+0xa06baba3 Z_metalfest_G_JG_RiserParts
+0xedd97ba9 Z_metalfest_AD_Metalfest_256x128_01
+0xe52d7bb1 Obj_RotZ
+0xdce14bb4 Z_metalfest_TRG_Geo_Camera_Encore
+0x88256bd3 Z_metalfest_Tentacle_Segment04Script
+0xa64b6be6 Z_metalfest_G_JG_Screen_Overlay
+0x27a4dbe7 ObjectAlphaClamp
+0xe9bdac0e Z_metalfest_G_JG_SpeakerCone08
+0xc91e8c47 z_metalfest_NodeArray
+0xe048dc56 Z_metalfest_G_JG_SpeakerBank09
+0xae757c5d Z_metalfest_G_JG_PeriphTents02
+0xb5035c66 Profile_Ven_Camera_Obj
+0xa5181c72 Z_metalfest_G_JG_SpeakerCone13Script
+0xed712c7f Z_Metalfest_encore_tentaclehead01
+0x4bfb5c8b DisableShadowCasting
+0x3d836c96 Stage
+0x9eba9c98 Z_metalfest_G_JG_SpeakerCone09
+0x285f2c98 Z_metalfest_G_JG_SpeakerCone44Script
+0x0b836c99 Z_metalfest_Tentacle_Support01
+0xb0561c9a Z_metalfest_Crowd_Billboard_01
+0x51b06ca2 Z_metalfest_G_JG_CrowdSigns01Script
+0x974fecc0 Z_metalfest_G_JG_SpeakerBank08
+0xd9724ccb Z_metalfest_G_JG_PeriphTents03
+0x69b21cec Z_metalfest_G_JG_SpeakerCone03Script
+0x5205ecec Z_metalfest_G_JG_JumboSupport02
+0x14d3bcee Z_metalfest_TRG_Waypoint_Guitarist_Player1_Start
+0xaf1e0cf4 RenderMethod
+0x10d92cfb Z_metalfest_G_JG_WindowBack
+0xf953ed17 Z_metalfest_G_JG_SpeakerBank19
+0x2b066d1f Z_Metalfest_encore_tentacle09
+0x286a8d26 Model
+0xeac5bd3e Z_metalfest_G_JG_JumboOverlay
+0xf0a69d4f Z_metalfest_G_JG_SpeakerCone18
+0xcb0cbd56 Z_metalfest_G_JG_JumboSupport01
+0x49884d58 Z_metalfest_G_JG_SpeakerCone49Script
+0x32870d5b Z_metalfest_G_JG_SpeakerCone11Script
+0x38510d6a Z_metalfest_Tentacle_Support01Script
+0x8e54dd81 Z_metalfest_G_JG_SpeakerBank18
+0xb7b3bd86 LevelObject
+0x5c015d89 Z_Metalfest_encore_tentacle08
+0xc62f7d8b Z_metalfest_G_JG_CrowdSigns03Script
+0xeb8abd8c Z_metalfest_G_JG_Screen_Falling
+0x015c9d90 Z_metalfest_G_JG_FrontMonitorScreens
+0x666f5d94 Z_metalfest_G_JG_CrowdSigns08
+0xbfc03db1 Z_metalfest_G_JG_SpeakerCone46Script
+0xfe2d0dc5 Z_metalfest_G_JG_SpeakerCone01Script
+0x74787dc5 Z_Metalfest_encore_tentaclehead02
+0x87a1add9 Z_metalfest_G_JG_SpeakerCone19
+0x377c2de7 Z_metalfest_G_JG_PeriphTents01
+0x2ab95e12 Z_metalfest_TRG_Geo_Camera_Performance_DRUM02
+0xac8cfe1a Z_metalfest_G_JG_SpeakerCone29
+0x814f8e1b Z_metalfest_G_JG_Ampeg
+0x3a761e31 Z_metalfest_Tentacle_Segment01
+0x84ed2e35 Z_metalfest_G_JG_SpeakerCone35Script
+0xa5798e42 Z_metalfest_G_JG_SpeakerBank28
+0x30dcce50 Z_metalfest_TRG_Geo_Camera_Performance_SING01
+0x33813e68 Z_metalfest_Tentacle_SupportScript
+0x55a2de69 Z_metalfest_G_JG_OctoTV
+0x77d11e6a Z_metalfest_TRG_Ped_CrowdScript
+0x3b332e86 Z_metalfest_G_JG_FrontMonitors
+0xdb8bce8c Z_metalfest_G_JG_SpeakerCone28
+0x48472eab Z_metalfest_G_JG_SpeakerCone25Script
+0xd27ebed4 Z_metalfest_G_JG_SpeakerBank29
+0xebf55ee9 Z_metalfest_Tentacle_Segment02Script
+0xdbf4ef0d Z_metalfest_Tentacle_Support
+0x13723f1c Z_metalfest_G_JG_SpeakerCone37Script
+0xd4787f1d Z_metalfest_Tentacle_Segment03
+0x1ca1ff20 Default
+0x3e69df29 CreatedFromVariable
+0x806fff30 none
+0x9227ef31 Z_metalfest_G_JG_Screen_Tension
+0xf71c1f4e LightGroup3
+0xb597cf5b Z_metalfest_G_JG_SpeakerCone39
+0xfcac6f5e Ghost
+0xb0c04f5e Z_metalfest_Tentacle_Segment10Script
+0x29904f6b Z_metalfest_G_JG_SpeakerCone28Script
+0x236d2f70 Z_metalfest_Tentacle_Segment11
+0xdfd83f82 Z_metalfest_G_JG_SpeakerCone27Script
+0xa37f4f8b Z_metalfest_Tentacle_Segment02
+0x314c9f9d Z_metalfest_G_JG_Ground
+0x67dbafa7 Z_metalfest_G_JG_SideCanvasLight04
+0xb3b00fa8 Z_metalfest_TRG_Geo_Camera_Performance_DRUM01
+0x1eda0fb5 Z_metalfest_G_JG_HangingWires
+0x573e1fc5 Z_metalfest_TRG_Ped_Crowd
+0xc290ffcd Z_metalfest_G_JG_SpeakerCone38
+0x801b2fd8 LightGroup2
+0x546a1fe6 Z_metalfest_Tentacle_Segment10
+0xa9d59fea Z_metalfest_TRG_Geo_Camera_Performance_SING02
+0xe53a4ff5 Z_metalfest_G_JG_SpeakerCone38Script
+
+                 [LineNumbers]
+Z_Metalfest_GFX_LoadAllParticleTextures 8 (0,1) (88,2) (188,3) (276,4) (360,5) (444,6) (532,7) (616,8) 
+
+[Checksums]
+0xf0289bef zones\z_metalfest\z_metalfest_gfx.qb
+0x4b286018 ElevSpread
+0x876fc03c Z_Metalfest_GFX_TRG_TeslaNode_7
+0x4d145059 PerParticleWind
+0x29efc05a AlignWithPath
+0xd395009e LocalWindCoeff
+0xf068f0aa Z_Metalfest_GFX_TRG_TeslaNode_6
+0x72ec20d9 Z_Metalfest_GFX_FX_GodrayObject_02
+0x981810e3 PH_DustParticle
+0xacdd70ee Z_Metalfest_GFX_FX_BackStageGlow_01
+0xef59c100 GameObject
+0x6961a110 Z_Metalfest_GFX_TRG_TeslaNode_5
+0x86251142 EmitterVelocityWeight
+0xebe57163 Z_Metalfest_GFX_FX_GodrayObject_01
+0x1e669186 Z_Metalfest_GFX_TRG_TeslaNode_4
+0x858c3190 Z_Metalfest_GFX_FX_VocalistFog
+0x7aa9b1cd HistoryListCoordinateSpace
+0xa1dc81f9 Name
+0x9738c23b Empty
+0xaed0526d z_metalfest_gfx_NodeArray_SortedIndices
+0x7c2552b9 CreatedAtStart
+0x28e4d2c6 Z_Metalfest_GFX_FX_Dust_01
+0x393282e4 Bloom
+0xaaade2fb Burn
+0x5af81309 SizeRange
+0xb3d3934d Z_Metalfest_GFX_LoadAllParticleTextures
+0x1764037a ProjectorColor
+0xf35f8382 SpecularPower
+0x7e4813a7 LightGroup
+0xf44a53ab desc
+0x67f773b1 JOW_Spark01
+0xfb1a83b2 RotVel
+0xdd6bb3d5 BlendMode
+0xb4e103fd Active
+0x8e9a640e Emit_Rate
+0xa742b412 sawtooth
+0xf7458417 Z_Metalfest_GFX_FX_Castle_Dragon_FrontFlash_01
+0x984d6421 ParticleType
+0x80020425 Z_Metalfest_GFX_TRG_TeslaNode_3
+0x6b08443d Emit_Target
+0x0e7cd455 Z_Metalfest_GFX_FX_BackFog_01
+0x5f6b846d Z_Metalfest_GFX_TRG_TeslaNode_10
+0xb2e4947e PathFollowTime
+0xc5d87486 Knot
+0xf70534b3 Z_Metalfest_GFX_TRG_TeslaNode_2
+0xc0ae24f3 VertexWeight
+0x6e0c6509 Z_Metalfest_GFX_TRG_TeslaNode_1
+0xbf4d3536 LevelGeometry
+0x360ca573 Z_Metalfest_GFX_FX_CrowdFog
+0xb7c63585 z_metalfest_gfx_NodeArray_SortedNames
+0x6c78a5b6 Range
+0xaab555bb flat
+0x5e61c5bf Z_Metalfest_GFX_FX_Castle_Dragon_BottomPuffs_03
+0xd2b9e5dd PH_FirePuffs
+0x12b4e660 Class
+0x85eec66b EmitDelayStart
+0x9e7d469e ParticleObject
+0x711716f2 FillBurst
+0x99a9b716 Color
+0x39653722 Z_Metalfest_GFX_FX_Castle_Dragon_BottomTendrils_03
+0x76ed4742 SpeedRange
+0x94a97766 SoftedgeScale
+0x4c23a77e Waypoint
+0x3bee67c8 StartRadius
+0xd43297cf FALSE
+0x89ff6813 LifeRange
+0xeec86822 VolumeColor
+0x61b30828 AngleSpread
+0xfd0a0864 RotVelTimeScale
+0x8d2c287f InnerRadius
+0x6d2368b0 PH_RadialGlow_01
+0xfde348d3 QuickMaterial
+0x7321a8d6 Type
+0x2d6028f2 z_metalfest_gfx_NodeArray
+0xde45a90d NoVisibilityTest
+0x9d2d0915 Angles
+0x3987291a Z_Metalfest_GFX_FX_OzzyBats_01
+0x2eaca930 AlwaysEmit
+0x7f261953 Pos
+0x45a329da BounceCoeff
+0x34952a27 constant
+0xe7444a2f Z_Metalfest_GFX_FX_GhostRocket_PATH_02_KNOT_3
+0x09baba3c Z_Metalfest_GFX_FX_Party_LightSparks02
+0x3f243a3c EndRadius
+0xe203da47 Layout2x2
+0x2276fa53 Z_Metalfest_GFX_FX_Smoke_04
+0x34f7ea8c Lighting
+0x7ebd8aaa Z_Metalfest_GFX_FX_Party_LightSparks03
+0x90437ab9 Z_Metalfest_GFX_FX_GhostRocket_PATH_02_KNOT_2
+0x68910ac6 AbsentInNetGames
+0x4eedfae7 lod_dist1
+0x69788aed LightGroup4
+0x9e1c7aee PH_FireTendrils
+0x56381af6 FlexParticle
+0x094a2b03 Z_Metalfest_GFX_FX_GhostRocket_PATH_02_KNOT_1
+0xf77e6b35 JOW_Bats01
+0x58e36b35 FollowEmitter
+0xa50efb4c FakeAmbientOcclusion
+0x87439b57 TextureLayout
+0x360d9b5c DoCircularEmit
+0xd7e4ab5d lod_dist2
+0x1de1fb72 LOD_Default
+0x7e4d1b95 Z_Metalfest_GFX_FX_GhostRocket_PATH_02_KNOT_0
+0xe4279ba2 SuspendDistance
+0x75351bbb GodRayOnly
+0x5c0a0bcc EmitNum
+0x02e58c18 add
+0x2dbbec1f onoff
+0xf8ed7c43 QuadAnimationFPS
+0xcfcedc4a Radiate
+0x07709c4b DiffuseTextureEnabled
+0x483c6c55 sin
+0xba9bbc65 ParticleColor
+0xf0c21c76 Z_Metalfest_GFX_FX_GhostRocket_PATH_01_KNOT_0
+0x4bfb5c8b DisableShadowCasting
+0xa279ec9c Z_Metalfest_GFX_FX_StageGlows_Generic_01
+0xd0438caa LoadAsset
+0xa2487cc3 EnableRotate
+0x22a5bcd2 Z_Metalfest_GFX_FX_LowFog_01
+0x68977cd7 Force
+0x43412cdb SoftEdge
+0x6465acdb Z_Metalfest_GFX_FX_GhostRocket_01
+0x87c52ce0 Z_Metalfest_GFX_FX_GhostRocket_PATH_01_KNOT_1
+0xaf1e0cf4 RenderMethod
+0x286a8d26 Model
+0x60d7ed3b Z_Metalfest_GFX_TRG_TeslaNode_9
+0x9f677d4e AlphaCutoff
+0x1ecc7d5a Z_Metalfest_GFX_FX_GhostRocket_PATH_01_KNOT_2
+0xfd6cfd61 Z_Metalfest_GFX_FX_GhostRocket_02
+0x6289dd76 Max
+0x80aa8d80 EmitFunction
+0x1d8fdd86 BurnValue
+0xc4cb3da5 BounceHeight
+0x17d0ddad Z_Metalfest_GFX_TRG_TeslaNode_8
+0xb8b15dc8 BounceCallbackRate
+0x69cb4dcc Z_Metalfest_GFX_FX_GhostRocket_PATH_01_KNOT_3
+0xebbebde0 Z_Metalfest_GFX_FX_Castle_Dragon_FrontGlow_03
+0x7534cdf5 TwoSide
+0x36322e0f EmitRangeDims
+0x0cd26e25 EmitAngle
+0x27b3ae2a Z_Metalfest_GFX_FX_OzzySmoke_01
+0x13120e30 DiffuseTexture
+0xf6a0ce36 GodRay
+0x6b088e3d Z_Metalfest_GFX_FX_Castle_Dragon_TopTendrils_03
+0x2c926e69 TimeSeed
+0x256ece8b EmitPeriod
+0x8bdd3e8e Z_Metalfest_GFX_FX_Big_Glow02
+0xc588eebc World
+0x9211ded6 VolumeDensity
+0x54628ed7 blend
+0x2e7d5ee7 Links
+0xfe6f1f00 Z_Metalfest_GFX_FX_Castle_Dragon_TopPuffs_03
+0xe62daf01 PH_Smoke_SinglePuff_Blend_02
+0xe0d91f09 Z_Metalfest_GFX_FX_Party_LightSparks04
+0x1ca1ff20 Default
+0x806fff30 None
+0x12d46f34 Z_Metalfest_GFX_FX_Big_Glow01
+0xda644f3e Z_Metalfest_GFX_FX_GuitaristFog
+0xf71c1f4e LightGroup3
+0xfcac6f5e Ghost
+0x6ec16f66 WindCoeff
+0xcb155f66 Z_Metalfest_GFX_FX_Smoke_02
+0xc218cf77 LifeTime
+0x97de2f9f Z_Metalfest_GFX_FX_Party_LightSparks05
+0xd8458fb4 History
+0x48cd5fc4 SweepSpread
+0x801b2fd8 LightGroup2
+0xbc126ff0 Z_Metalfest_GFX_FX_Smoke_03
+
+      [LineNumbers]
+Z_Metalfest_LFX_TRG_LH_Arch_L_01Script 2 (0,1) (12,2) 
+Z_Metalfest_LFX_TRG_LH_Arch_Front_L_06Script 2 (0,5) (12,6) 
+Z_Metalfest_LFX_TRG_LH_Arch_Front_R_01Script 2 (0,9) (12,10) 
+Z_Metalfest_LFX_TRG_LH_Arch_R_06Script 2 (0,13) (12,14) 
+Z_Metalfest_LFX_TRG_LH_Arch_Front_R_02Script 2 (0,17) (12,18) 
+Z_Metalfest_LFX_TRG_LH_Arch_L_03Script 2 (0,21) (12,22) 
+Z_Metalfest_LFX_TRG_LH_Arch_Front_L_04Script 2 (0,25) (12,26) 
+Z_Metalfest_LFX_TRG_LH_Arch_R_05Script 2 (0,3575) (12,3576) 
+Z_Metalfest_LFX_TRG_LH_Arch_L_02Script 2 (0,3579) (12,3580) 
+Z_Metalfest_LFX_TRG_LH_Arch_Front_R_03Script 2 (0,3583) (12,3584) 
+Z_Metalfest_LFX_TRG_LH_Arch_R_04Script 2 (0,3587) (12,3588) 
+Z_Metalfest_LFX_TRG_LH_Arch_Front_L_05Script 2 (0,3591) (12,3592) 
+Z_Metalfest_LFX_TRG_LH_Arch_Front_L_02Script 2 (0,3595) (12,3596) 
+Z_Metalfest_LFX_TRG_LH_Arch_R_03Script 2 (0,3599) (12,3600) 
+Z_Metalfest_LFX_TRG_LH_Arch_Front_R_04Script 2 (0,3603) (12,3604) 
+Z_Metalfest_LFX_TRG_LH_Arch_L_05Script 2 (0,3607) (12,3608) 
+Z_Metalfest_LFX_TRG_LH_Arch_R_02Script 2 (0,3611) (12,3612) 
+Z_Metalfest_LFX_TRG_LH_Arch_Front_L_03Script 2 (0,3615) (12,3616) 
+Z_Metalfest_LFX_TRG_LH_Arch_L_04Script 2 (0,3619) (12,3620) 
+Z_Metalfest_LFX_TRG_LH_Arch_Front_R_05Script 2 (0,3623) (12,3624) 
+Z_Metalfest_LFX_TRG_LH_Arch_R_01Script 2 (0,3627) (12,3628) 
+Z_Metalfest_LFX_TRG_LH_Arch_Front_R_06Script 2 (0,3631) (12,3632) 
+Z_Metalfest_LFX_TRG_LH_Arch_Front_L_01Script 2 (0,3635) (12,3636) 
+Z_Metalfest_LFX_TRG_LH_Arch_L_06Script 2 (0,3639) (12,3640) 
+Z_Metalfest_LFX_LoadAllParticleTextures 4 (0,3643) (96,3644) (188,3645) (284,3646) 
+
+[Checksums]
+0x9aef6b2c zones\z_metalfest\z_metalfest_lfx.qb
+0xc89e9035 Z_Metalfest_LFX_TRG_LH_Back_C_06
+0xae201061 z_metalfest_lfx_NodeArray_SortedNames
+0xc2a28080 VOCALIST
+0xbf99a0a3 Z_Metalfest_LFX_TRG_LH_Back_C_07
+0xab9de0c6 Volume2DSoftEdge
+0x583680ea Z_Metalfest_LFX_TRG_LH_Band_Bassist_HotSpot_01
+0xef59c100 GameObject
+0x4ecc710b ProjectorSelfShadow
+0x2690f119 Z_Metalfest_LFX_TRG_LH_Back_C_04
+0xb1b6414c Z_Metalfest_LFX_L_Band_Up_Spot02_Ozzy
+0x5148d15f ProjectorMainShadow
+0x5197c18f Z_Metalfest_LFX_TRG_LH_Back_C_05
+0xa1dc81f9 Name
+0xabe2a20f Z_Metalfest_LFX_TRG_LH_HotSpot_01
+0x27a4623f Z_Metalfest_LFX_L_Band_Drummer_Spot01
+0xd211d251 Z_Metalfest_LFX_L_Stage_Front_Spot02
+0xfafcc277 Volume3D
+0xc6db2278 Z_Metalfest_LFX_TRG_LH_Arch_Front_L_02Script
+0x2ca8a299 TriggerScript
+0x0cb5a2b7 Z_Metalfest_LFX_TRG_LH_Arch_R_03Script
+0x7c2552b9 CreatedAtStart
+0xa24d02c5 Z_Metalfest_LFX_TRG_LH_Arch_L_01Script
+0xa516e2c7 Z_Metalfest_LFX_L_Stage_Front_Spot03
+0xe62442dc FallOff_TopAndBottom01
+0x7c7482fd Z_Metalfest_LFX_TRG_LH_Circle_01
+0xffbc9323 Z_Metalfest_LFX_TRG_LH_Arch_Front_R_02Script
+0xe3e7f336 Volume2D
+0xe57dd347 Z_Metalfest_LFX_TRG_LH_Circle_02
+0x4570735d DRUMMER
+0x0203b372 TRUE
+0x1764037a ProjectorColor
+0x1e196380 GO_LH_Tentacle_Small01
+0xbead3385 Z_Metalfest_LFX_L_Band_Drummer_Spot02
+0x9b2ab39e Z_Metalfest_LFX_TRG_LH_Arch_R_01Script
+0x297cb39f Z_Metalfest_LFX_TRG_LH_Band_Vocalist_HotSpot_01
+0x7e4813a7 LightGroup
+0xf44a53ab desc
+0x0a7243b4 Z_Metalfest_LFX_TRG_LH_Band_Drummer_HotSpot_01
+0x32ebf3b5 Z_Metalfest_LFX_TRG_LH_HotSpot_02
+0x303cd3c3 Z_Metalfest_LFX_L_Ambient01
+0x927ae3d1 Z_Metalfest_LFX_TRG_LH_Circle_03
+0x4b1883eb Z_Metalfest_LFX_L_Stage_Front_Spot01
+0x35d213ec Z_Metalfest_LFX_TRG_LH_Arch_L_03Script
+0xcff3542c Z_Metalfest_LFX_TRG_LH_Back_C_02
+0xd33be42c GO_NoHousing01
+0xc2f5b435 Z_Metalfest_LFX_L_Band_Arch_Omni01
+0x2ffb643c Z_Metalfest_LFX_L_Moon_Direct02
+0x50515440 Z_Metalfest_LFX_TRG_LH_Back_R_03
+0x9790447a Z_Metalfest_LFX_TRG_LH_Back_L_02
+0x786e947e RotationQuat
+0x07d654aa SmokeEffect
+0xb8f464ba Z_Metalfest_LFX_TRG_LH_Back_C_03
+0xedb194ce Z_Metalfest_LFX_L_Band_Up_Spot01
+0x275664d6 Z_Metalfest_LFX_TRG_LH_Back_R_02
+0xe09774ec Z_Metalfest_LFX_TRG_LH_Back_L_03
+0xbe5f356c Z_Metalfest_LFX_TRG_LH_Back_R_01
+0xb6f23586 Z_Meta

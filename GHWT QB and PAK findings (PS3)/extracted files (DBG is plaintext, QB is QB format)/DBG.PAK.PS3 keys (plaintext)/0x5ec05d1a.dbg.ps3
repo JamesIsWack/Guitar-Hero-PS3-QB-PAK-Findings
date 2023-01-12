@@ -1,0 +1,34 @@
+ning_8_6_hit_note
+0x696fe0ab number
+0xd95930ac player1_status
+0x12e860b2 training_8_5_complete_message
+0x3371d0c1 call
+0x00788100 tutorial_disable_hud
+0xe632c101 life
+0xb12b510a SpriteElement
+0x7031f10c params
+0x67952127 gh3_start_pressed
+0x3611c136 GetTags
+0x73665140 CreateScreenElement
+0x995de145 training_8_7_start_star_power_task
+0xcc12115e song
+0xcf66717b GotParam
+0x4c1061a1 training_play_sound
+0x761771b1 new_menu
+0x85d0c1c0 Tut_Vox_Spoken
+0xbfa801df change
+0x3b4631df IsPS3
+0xd16b61e6 starttime
+0x3f93a1ef replace_handlers
+0xc08be1f1 training_set_lesson_header_text
+0xa1dc81f9 name
+0x46653221 volume
+0x126e1223 training_8_5_wait_for_hit_notes
+0xae2ef22d vocals_miss_freeform
+0x8b60022f just
+0xd9a78236 vmenu_tutorial
+0x7d99f28d texture
+0x1f36229d LeadVox_Balance
+0xf86102a5 training_8_5_missed_note
+0xbc1522bc training_create_narrator_icons
+0x

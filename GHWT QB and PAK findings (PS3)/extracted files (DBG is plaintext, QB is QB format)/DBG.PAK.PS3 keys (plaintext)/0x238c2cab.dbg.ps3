@@ -1,0 +1,400 @@
+ck 3 (28,631) (80,633) (121,635) 
+jam_remove_song_from_slot 58 (28,639) (34,641) (68,644) (92,665) (101,670) (136,671) (168,672) (170,673) (199,679) (232,680) (264,681) (266,682) (294,684) (332,687) (368,688) (370,689) (372,690) (376,693) (412,694) (414,695) (416,696) (418,697) (424,702) (434,703) (436,704) (438,705) (476,707) (512,708) (514,709) (516,710) (552,712) (596,713) (632,714) (638,715) (663,717) (688,718) (723,721) (748,723) (760,724) (762,725) (797,726) (816,727) (852,728) (885,731) (918,732) (924,734) (930,737) (936,740) (970,742) (1004,743) (1080,744) (1082,746) (1084,747) (1086,748) (1088,749) (1110,751) (1118,752) (1152,755) 
+file_id_test 3 (0,759) (6,761) (29,762) 
+jam_upload_song_legal_check 2 (0,767) (18,769) 
+jam_upload_song_to_slot_check 9 (28,773) (80,775) (113,776) (152,778) (217,779) (221,780) (275,781) (277,782) (279,784) 
+jam_upload_song_to_slot 80 (0,788) (36,790) (72,793) (90,796) (128,798) (152,800) (161,804) (196,805) (228,806) (230,807) (259,813) (292,814) (324,815) (326,816) (354,818) (392,821) (428,822) (430,823) (432,824) (436,827) (472,828) (474,829) (476,830) (478,831) (484,836) (494,837) (496,838) (498,839) (536,841) (572,842) (574,843) (576,845) (612,847) (672,848) (708,849) (714,850) (716,852) (740,854) (749,858) (784,859) (816,860) (818,861) (847,867) (880,868) (912,869) (914,870) (942,872) (980,875) (1016,876) (1018,877) (1020,878) (1024,881) (1060,882) (1062,883) (1064,884) (1066,885) (1072,890) (1082,891) (1084,892) (1086,893) (1124,895) (1160,896) (1162,897) (1164,898) (1200,900) (1246,901) (1283,902) (1355,903) (1388,905) (1394,906) (1418,908) (1438,909) (1480,912) (1484,913) (1508,914) (1561,916) (1565,917) (1618,919) (1620,920) (1622,921) 
+jam_verify_publishing_rules 44 (0,926) (12,929) (24,930) (36,931) (38,932) (67,933) (85,934) (115,935) (128,936) (149,938) (184,939) (203,941) (217,942) (219,943) (221,944) (251,946) (264,947) (266,948) (288,950) (295,951) (313,954) (348,955) (380,956) (382,958) (401,961) (436,962) (468,963) (470,964) (504,967) (516,968) (518,969) (552,970) (581,971) (618,972) (637,973) (657,974) (692,975) (724,976) (726,977) (728,978) (730,979) (752,980) (760,981) (792,983) 
+AddJamUserContent_callback 3 (0,987) (52,989) (128,990) 
+AddJamUserContent_failed_callback 3 (0,994) (52,996) (128,997) 
+AddJamUserContent_failed_size_callback 3 (0,1001) (52,1003) (128,1004) 
+GetJamUserContentList_callback 4 (0,1015) (52,1017) (70,1019) (144,1020) 
+GetJamUserContentList_failed_callback 3 (0,1024) (52,1026) (128,1028) 
+JamUserCanUpload_callback 3 (0,1036) (52,1037) (128,1038) 
+JamUserCanUpload_callback_failed 3 (0,1042) (52,1043) (100,1044) 
+RemoveJamUserContent_callback 2 (0,1054) (36,1056) 
+jam_upload_song_dialog 30 (44,1064) (62,1067) (112,1068) (114,1069) (120,1071) (126,1073) (134,1075) (144,1076) (196,1077) (209,1078) (260,1079) (273,1080) (324,1081) (337,1082) (388,1083) (401,1084) (452,1085) (465,1086) (516,1087) (518,1088) (525,1090) (537,1091) (545,1092) (558,1093) (560,1094) (562,1095) (604,1096) (622,1101) (664,1102) (666,1103) 
+jam_upload_song_dialog_destroy 2 (0,1107) (6,1109) 
+jam_publish_timeout 3 (0,1114) (52,1116) (88,1118) 
+jam_upload_song_success 51 (28,1123) (80,1126) (86,1128) (94,1130) (104,1131) (156,1132) (208,1133) (221,1134) (234,1135) (284,1136) (336,1137) (349,1138) (362,1139) (412,1140) (464,1141) (477,1142) (479,1143) (485,1145) (503,1147) (510,1148) (523,1149) (531,1150) (544,1151) (560,1152) (562,1153) (578,1154) (586,1155) (588,1156) (602,1157) (659,1158) (671,1159) (673,1160) (675,1161) (677,1162) (681,1163) (688,1164) (701,1165) (709,1166) (722,1167) (738,1168) (740,1169) (756,1170) (764,1171) (766,1172) (780,1173) (801,1174) (813,1175) (815,1176) (817,1177) (819,1178) (821,1179) 
+jam_upload_song_success_go_back 11 (0,1183) (18,1185) (64,1186) (70,1187) (144,1189) (150,1190) (154,1191) (160,1192) (166,1193) (168,1194) (174,1196) 
+jam_upload_song_failed 89 (28,1200) (64,1203) (116,1204) (118,1205) (124,1207) (132,1209) (142,1210) (151,1211) (163,1212) (174,1213) (186,1214) (188,1215) (201,1216) (213,1217) (226,1218) (262,1219) (275,1220) (288,1221) (309,1222) (344,1223) (378,1224) (391,1225) (404,1226) (416,1227) (429,1228) (441,1229) (454,1230) (463,1231) (475,1232) (486,1233) (498,1234) (500,1235) (513,1236) (525,1237) (538,1238) (547,1239) (559,1240) (570,1241) (582,1242) (584,1243) (597,1244) (606,1245) (618,1246) (629,1247) (641,1248) (643,1249) (656,1251) (690,1252) (703,1253) (716,1254) (728,1255) (741,1256) (753,1257) (766,1258) (775,1259) (788,1260) (799,1261) (812,1262) (814,1263) (827,1264) (839,1265) (852,1266) (864,1267) (877,1268) (889,1269) (902,1271) (914,1272) (927,1273) (939,1274) (952,1275) (964,1276) (966,1277) (972,1279) (979,1280) (991,1281) (999,1282) (1012,1283) (1028,1284) (1030,1285) (1046,1286) (1054,1287) (1056,1288) (1070,1289) (1092,1290) (1104,1291) (1106,1292) (1108,1293) (1114,1294) (1116,1295) 
+jam_upload_song_failed_go_back 17 (0,1299) (18,1301) (52,1302) (58,1303) (91,1304) (97,1305) (103,1306) (136,1307) (142,1308) (148,1309) (152,1310) (158,1311) (208,1312) (210,1313) (216,1316) (284,1317) (352,1318) 
+jam_upload_check_dialog 63 (28,1322) (80,1325) (116,1329) (122,1335) (132,1336) (134,1337) (136,1338) (142,1341) (150,1343) (160,1344) (212,1345) (254,1346) (266,1347) (281,1348) (294,1349) (344,1350) (386,1351) (398,1352) (408,1353) (421,1354) (427,1357) (447,1358) (480,1359) (486,1360) (498,1362) (522,1364) (535,1365) (537,1366) (576,1369) (589,1370) (593,1371) (628,1372) (646,1373) (659,1374) (661,1375) (663,1376) (681,1379) (716,1380) (718,1381) (720,1382) (774,1385) (776,1386) (778,1387) (784,1389) (791,1390) (804,1391) (812,1392) (825,1393) (841,1394) (843,1395) (859,1396) (867,1397) (869,1398) (883,1399) (895,1400) (897,1401) (899,1402) (914,1403) (927,1404) (939,1405) (941,1406) (943,1407) (945,1408) 
+jam_upload_check_dialog_go_back 5 (0,1412) (6,1414) (72,1416) (78,1417) (128,1419) 
+jam_name_choose_script 17 (0,1426) (34,1428) (47,1430) (59,1431) (77,1433) (89,1434) (91,1435) (126,1437) (146,1438) (164,1439) (166,1440) (168,1441) (170,1442) (192,1444) (200,1445) (202,1446) (251,1448) 
+jam_rename_song_failed 23 (28,1452) (80,1455) (86,1457) (94,1459) (104,1460) (156,1461) (158,1462) (164,1464) (171,1465) (183,1466) (191,1467) (204,1468) (220,1469) (222,1470) (238,1471) (246,1472) (248,1473) (262,1474) (272,1475) (284,1476) (286,1477) (288,1478) (290,1479) 
+jam_rename_song_failed_go_back 3 (0,1483) (6,1485) (55,1487) 
+jam_save_and_quit_choose_script 13 (0,1495) (34,1498) (68,1499) (74,1506) (93,1508) (111,1509) (129,1510) (164,1512) (256,1513) (260,1514) (278,1515) (284,1516) (286,1517) 
+jam_publish_save_song 3 (0,1521) (36,1523) (128,1524) 
+jam_publish_unload 3 (0,1528) (48,1530) (54,1531) 
+jam_publish_reinit_band_logo 2 (0,1535) (36,1538) 
+jam_publish_song_back_warning 28 (0,1542) (76,1544) (128,1546) (134,1548) (141,1549) (153,1550) (159,1551) (167,1552) (179,1553) (181,1555) (189,1557) (191,1558) (205,1559) (214,1560) (226,1561) (228,1562) (230,1563) (244,1564) (301,1565) (313,1566) (315,1567) (317,1568) (331,1569) (340,1570) (352,1571) (354,1572) (356,1573) (358,1574) 
+jam_publish_song_back_cancel 3 (0,1578) (6,1579) (56,1580) 
+jam_publish_song_back_no_save 3 (0,1583) (6,1584) (12,1585) 
+jam_publish_song_back 3 (0,1588) (6,1590) (80,1592) 
+destroy_jam_publish_song_menu 12 (0,1599) (6,1605) (12,1607) (18,1608) (56,1609) (92,1610) (94,1611) (100,1613) (136,1615) (142,1616) (148,1617) (154,1619) 
+ui_create_jam_publish_signin 7 (0,1629) (36,1635) (72,1636) (76,1637) (112,1638) (114,1639) (148,1641) 
+ui_create_jam_publish_signin_spawned 3 (0,1648) (52,1650) (112,1651) 
+jam_do_lobby_check_upload 36 (0,1658) (40,1663) (92,1664) (105,1671) (111,1672) (113,1673) (152,1675) (188,1676) (190,1677) (228,1679) (234,1681) (236,1682) (240,1683) (258,1685) (276,1689) (312,1691) (348,1692) (350,1693) (356,1696) (392,1697) (396,1698) (402,1700) (436,1701) (438,1702) (468,1704) (470,1705) (472,1706) (487,1709) (493,1710) (528,1711) (560,1712) (562,1713) (612,1715) (614,1716) (616,1718) (648,1719) 
+
+[Checksums]
+0xfc25cd20 scripts\guitar\menu\menu_jam_publish_song.qb
+0xb990d003 target
+0x2a24701b ui_create_jam_publish_signin
+0xcd0dc02d KillSpawnedScript
+0x0b599032 ghtunes
+0x4dc74037 event_data
+0xd822303e network_platform_only
+0xbe050061 additional_unfocus_params
+0x21902065 checksum
+0x6c65406e jam_view_cam_created
+0x059ea070 red
+0xb1f79072 jam_curr_directory_listing
+0xb622507a jam_publish_song_back_warning
+0xfd5c4081 jam_publish_update_playback_track
+0x858fe089 jam_upload_check_dialog
+0x9a2e9095 set_focus_color
+0xb14440bd AddJamUserContent_failed_size_callback
+0xe4f130f4 s
+0x9ea680f5 UIstate_jam_publish_track_select
+0x5039d100 ClearJamSession
+0xdb161106 GetSongInfo
+0x7031f10c params
+0x221ee125 GetJamUserContentList_failed_callback
+0x07d0c128 SwitchOnAtomic
+0x9184c12f cas_update_band_logo
+0x73665140 CreateScreenElement
+0x9fd29151 viewport
+0x0f039164 is_lobby_available
+0x9a74316e jam_tracks
+0xb549d16f create_jam_publish_song_menu
+0x690cc179 create_publish_song_menu
+0xcf66717b gotparam
+0x071f4183 bg_viewport
+0x05a4918c verified_note_count
+0x287d118e jamsession_unload
+0x3f54218e lost_network_message_xenon
+0x3f4b019e Base
+0xc2f7b19f ui_create_jam_publish_signin_spawned
+0x4742a1a1 BandLogoObject
+0xf4cc51a3 jam_recording_create_editable_arrays
+0x5d0671b8 channel
+0x174841bc a
+0xf395e1c3 jam_upload_song_to_slot
+0xafb911c6 appended_id
+0x6017f1cc ui_event
+0x6bc581d8 is_connecting
+0x2f6511de green
+0xbfa801df change
+0x3b4631df isPs3
+0x657ff1ed Obj_ApplyScaling
+0xa1dc81f9 name
+0x1359c22f UIstate_jam_publish_genre
+0x6d1fc236 editable_jam_album_cover_size
+0x5e91c23f show_ghtunes_connecting_popup
+0x83c2824f name_text
+0x338b1254 CAS_Band_Logo_id
+0x7ee8d277 directory_size
+0x8c965281 jam_publish_song_back_cancel
+0x493642c2 TimeGreaterThan
+0x7dc5a2e0 playback_track2
+0x96d0e30f JamUserCanUpload_callback
+0x452fb315 Obj_SetBoundingSphere
+0x044f331c album_cover
+0x885c9321 filename_nonlocal
+0xef53a32c jam_publish_reinit_band_logo
+0xc028b32e UIstate_jam_publish_text_entry
+0xa8ee7357 ScriptAssert
+0xe4ccf35a playback_track1
+0x8d92436e JamUserCanUpload_callback_failed
+0x0203b372 true
+0x65847372 jam_publish_song_back
+0x5b058376 param
+0xd2c08383 UpdateJamUserContent_callback
+0x192bc3a2 pad_back_script
+0xc5f953c2 button
+0x78e773cb stats_init
+0xb99ae3d6 gameframes
+0xc5bc93ee ScreenElementExists
+0xc5be93f8 fileid
+0x804a03fb jam_preview_song_choose_script
+0xff0db407 TextName
+0x36339408 icon_save
+0x6cffa409 newfilename
+0x9277f428 FormatText
+0x874a242d jam_publish_song_back_no_save
+0x1d4c0432 jam_rename_song_failed_go_back
+0xf8a4443a get_savegame_from_controller
+0xc178943c verify_jam_user_content
+0xbd09544c func
+0x17a7f458 jam_go_back_from_album_art
+0x7638d462 destroy_jam_publish_song_menu
+0xbe4c54a0 jam_upload_song_dialog_destroy
+0xa6acb4a7 add_jam_user_content
+0x39b5c4b0 GetArraySize
+0x445114c8 NetSessionFunc
+0x94b604c8 jam_publish_update_playback_drumvocal_track
+0x39d5a4ca jam_camera_script
+0xf7c624ca file_id_test
+0xdeef04cd StructureContains
+0x30b5a4d2 jam_save_and_quit_choose_script
+0x5ed734ed jam_signin_manage
+0xbfac84fb GetJamUserContentList
+0x719f5501 editable_jam_album_cover
+0x6bc2f501 ghtunes_submission_agreement_array
+0x8da97503 primary_controller
+0x9d3fb516 focus
+0x64946516 CheckForSignin
+0x3f2d9526 ResetTimer
+0xd9e4052c StartRendering
+0x000d952c memcard_jamsession_file_name
+0x760f252f jam_publish_timeout
+0x4c29c545 RequireParams
+0xcc48c54a jam_publish_song_spawns
+0xc451f558 event
+0x5c0fa562 fail_type
+0xb8437568 pad_choose_params
+0x40de9572 set_unfocus_color
+0x2fca0578 options
+0x8c84f57c item_container_id
+0xe25d957c AddJamUserContent_failed_callback
+0x38ffa583 new_song
+0x44ade599 ghtunes_minimum_note_count
+0xcbe795a0 jam_delete_song_choose_script
+0xa9d735ad KillCamAnim
+0x22a915b1 guitar_playback_text
+0xdb8d55b5 manage
+0x3acee5c0 add_generic_menu_icon_item
+0x23a4e5c2 Obj_SpawnScript
+0x455485ef dir
+0x4c6bd5f3 get_jam_user_content_list
+0xd53035fb AddJamUserContent
+0x4d13e600 icon_jam_preview
+0x7bb9c604 menu_replace
+0xe88e660c destroy_generic_menu
+0x2de8c60e printf
+0xa7d7c610 choose_script
+0xd029f619 seconds
+0x9a6bd624 icon
+0xd737f632 header_x
+0x4686163a make_generic_menu
+0x8d55663b jam_recording_animate_spinning_record
+0x98b84642 memcard_jamsession_new_file_name
+0x1588164e UIstate_jam_publish_slot
+0xc539a64f SetSongInfo
+0xf43c3653 jam_curr_slot_array
+0x0e2c866a start_camera
+0x5a276675 delete_only
+0x6c348693 file_id
+0xc4685697 long
+0xc3f4169a filename
+0xc0bf269e IsAcceptableString
+0x4b27f6a2 cas_editing_new_character
+0xa030c6a4 header_y
+0x188df6d5 VerifyJamUserContent
+0x26bf66f3 textblock
+0x12a17709 slot_filename
+0xcf52b712 notetrack_size
+0x99a9b716 color
+0x74297717 local
+0x37bf7725 upload_dialog
+0x5aabf72f icon_jam_upload
+0x2cb33744 LaunchEvent
+0xc968274e gem_array
+0x291c0759 track
+0x8ccc4760 IsOldEnoughForOnline
+0xe787d761 menu_pos
+0x5994b766 jam_upload_song_failed
+0xb22f476a guitar_num
+0x9580e78a jam_upload_song_choose_script
+0x66cba78d has_content
+0xd4c98794 title
+0x4e90079d jam_mode
+0xba9e279d dialog
+0xae7ee7a3 create_popup_warning_menu
+0x6c63c7c5 SetProps
+0xd43297cf false
+0x1d2d97d4 func_params
+0x1e3d87f8 unmodifiable_color
+0x3e7727fa IsXenon
+0x90fec815 structure
+0x4a4f7821 suffix
+0xf4d9a825 add_user_control_helper
+0x933cc830 jam_publish_song_container
+0x809a9834 j
+0xc4745838 text
+0xa6e1b841 new_data
+0x5b9da842 containerelement
+0x4bb2084e desc_id
+0x66cc784e CAP
+0x9d2d8850 z
+0x4c6cf853 create_song_preview_menu
+0x862ba85b CAS_Band_Logo
+0x8a6bd888 uistate_jam_publish_song
+0x43604893 ui_memcard_save_jam
+0xe2c6589e rot
+0x40c698af id
+0x6d1878b8 jam_signin_upload
+0x825378c7 allow_back
+0x5ae888c7 ui_memcard_rename_jam
+0x3df7e8c7 Achievements_FEEDING_THE_BEAST
+0xe87708d0 header_foreground_color
+0xab6018d2 ghtunes_show_submission_agreement
+0x7321a8d6 type
+0x7ce468dd block
+0xfc77f8eb UpdateJamUserContent_failed_callback
+0x6a3568fb song_prefix
+0x7f8c98fe index
+0x2e9a1902 lost_network_message_ps3
+0x6cef5907 menu_change
+0x15ce090b ghtunes_killswitch
+0x2bd1d90f in_cas
+0x6a04491c RemoveJamUserContent_callback
+0x0ad46922 controller_index
+0x7fbd392c submission_error
+0xeafc692e no_background
+0x8dde4942 jam_upload_song_failed_go_back
+0x7f261953 pos
+0xdbf5f95e genre_chk
+0xb30d9965 controller
+0x2d4a89a8 additional_unfocus_script
+0x486a79a9 jam_user_can_upload
+0x63d4a9b2 album_art
+0x1448c9b6 jam_upload_check_dialog_go_back
+0x3c15e9b6 DestroyScreenElement
+0x3611e9c1 ensure_band_logo_object_created
+0x1b0509c5 savegame
+0x5c71a9ce verify_update_submission_agreement
+0x1cb4c9e8 destroy_menu_backdrop
+0x204dc9f1 update_jam_user_content
+0x6caf19f2 back_drop_color
+0x146419f5 StopRendering
+0xc9428a08 device_num
+0x0bc06a21 CastToInteger
+0x1dd4ca24 PlayIGCCam
+0x30183a36 generic_menu_smenu_textitem_text_rgba
+0x098b3a52 cas_heap_state
+0x425c4a5a jam_upload_song_success_go_back
+0xf7251a64 Obj_SetPosition
+0x8a644a6b pad_back_params
+0x7ebe8a6d timeout
+0x6086aa70 start
+0x13b9da7b scale
+0xc6f3baa5 Obj_SetOrientation
+0xb13baabe jam_publish_draw_album_cover
+0xce385ac1 RemoveJamUserContent
+0xa11acadc add_generic_menu_text_item
+0x56a1eae3 root_window
+0xf3973aeb jam_verify_publishing_rules
+0x19fa5af7 SpawnScriptNow
+0x61441afa empty_logo
+0xb9d31b0a position
+0x617e2b23 AppendSuffixToChecksum
+0x1975eb35 GetJamUserContentList_callback
+0x52bb8b3b uistate_jam_select_song
+0x1cf47b47 jam_publish
+0x0eea7b49 IsCableUnplugged
+0xf1ff8b68 choose_state
+0xea053b6f require_live
+0xb9e54b8c cas_load_and_setup_resources
+0x7a26bb9d count
+0x63ee2ba0 remove_jam_user_content
+0x877d9baa jam_camera_wait
+0xf362dbba replace
+0x05dacbc1 newfilename_nonlocal
+0x3d9debc5 unfocus_published_data
+0x95770bda ui_memcard_load_jam
+0x4f4e9bfd destroy_popup_warning_menu
+0xbea9ebfe end_time
+0xaf27ebff jam_view_cam
+0x7cafcc07 genre
+0x4d49ac0a current_menu
+0x82117c1a wait
+0xeb300c29 play_hold
+0x4f016c3c jam_genre_choose_script
+0x0c714c3f menu_finish
+0x827ecc73 jam_upload_song_dialog
+0x3d3d7c74 JamUserCanUpload
+0x61745c88 failed
+0x49a73c94 SetCASAppearance
+0x22236c98 icon_graphics
+0x520c0c9c data
+0x2b0cfca1 pad_choose_script
+0xe924ecb7 uistate_signin
+0x4adf0cd3 unfocus
+0xd6521cee generic_event_back
+0x5c6c2d04 state
+0xd2bf3d04 controlscript
+0x5b490d18 can_view_user_content
+0x66a54d2d generic_event_choose
+0x646d0d30 UIstate_jam_publish_update_fileid
+0xeb81fd3e jam_album_art_choose_script
+0x7f5b3d4d array_size
+0xc6f5bd4d jam_rename_song_failed
+0x61414d56 String
+0x554c7d6f appearance
+0x37d43d74 jam_publish_save_song
+0x822e0d78 AddJamUserContent_callback
+0xd06e8d88 header_background_color
+0xdb81dd8f curr_directory_file_id
+0x31c13da4 jam_remove_song_from_slot_check
+0xda541dbb jam_track_select_choose_script
+0x16d19dc2 choose_state_data
+0xe2dfddcb jam_genre_list
+0xbebeddf1 jam_upload_song_legal_check
+0x0437fdf9 bass_playback_text
+0x30463e05 slot_array
+0x7288be18 destroy_song_preview_menu
+0xc4e78e22 all
+0xfaa07e23 JamUpdateSubmissionAgreement
+0x74793e2b jam_remove_song_from_slot
+0x97b33e54 jam_name_choose_script
+0xc6c8ae60 last_end_time
+0x5a7ece86 menu_back
+0xbe304e86 printstruct
+0x7bb14e8d GetCASAppearance
+0x49e0ee96 second
+0x7f74fec7 base_tex
+0x3441aed5 ghtunes_verified
+0xa4fa6ed9 new_state
+0x94542eea SuffixString
+0xa1598eed vmenu_id
+0x0c218ef3 destroy_bg_viewport
+0xb2161ef7 num_icons
+0x1c3c5efd memcard_after_func
+0xfc37df05 gameframe
+0xedc9ff0b minimum_seconds
+0xa19eef0e popup_warning_container
+0x0a1b2f18 jam
+0x02141f19 clean_up_user_control_helpers
+0x806fff30 none
+0xb6f08f39 part
+0xb8a0bf46 jam_upload_song_to_slot_check
+0xeb005f4e jam_publish_unload
+0x95554f58 cas_override_object
+0x43df7f67 broadcastevent
+0xc3bbef70 failed_get_server_list
+0xf747ff7b show_popup
+0x55f5ef8a UIstate_cap_main
+0x835d0f90 GlobalExists
+0x8d22cf93 jam_do_lobby_check_upload
+0x53f1df98 slot
+0xc7b61faa setup_bg_viewport
+0xc2719fb0 parent
+0xd8580fb5 directorylisting
+0x17f33fc6 target_jam_camera_prop
+0x34984fd9 choose_params
+0xd7750fd9 jam_upload_song_success
+0x84398fda new_genre
+0x98fedfda uistate_jam_publish_signin
+0xa534bfda CASBlockForLoading
+0xa6ab7ff0 ghtunes_minimum_song_time
+0x3e694ff1 curr_slot_file_id
+0x3c338ffa UpdateJamUserContent
+
+                 [LineNumbers]
+jam_recording_check_disconnect 37 (0,15) (13,17) (31,18) (44,19) (46,20) (56,22) (74,23) (76,24) (78,25) (80,26) (100,28) (102,29) (115,30) (135,31) (141,33) (167,34) (204,36) (223,37) (260,38) (262,39) (264,40) (300,41) (337,42) (339,43) (341,44) (361,45) (398,46) (400,47) (402,48) (406,49) (425,50) (467,51) (469,52) (471,53) (473,54) (524,56) (526,57) 
+create_jam_recording_menu 82 (60,62) (94,64) (128,66) (164,67) (232,75) (274,78) (308,80) (314,81) (348,83) (354,86) (360,87) (396,91) (414,92) (438,93) (440,94) (457,97) (478,98) (512,99) (535,100) (561,101) (565,102) (588,104) (590,105) (596,108) (632,110) (668,113) (704,114) (740,115) (776,118) (812,119) (908,127) (944,130) (950,131) (992,133) (1005,135) (1040,136) (1069,139) (1104,142) (1140,143) (1176,144) (1218,147) (1227,150) (1272,151) (1296,152) (1298,153) (1300,154) (1306,157) (1325,160) (1360,161) (1396,162) (1417,165) (1474,166) (1492,168) (1522,169) (1536,170) (1565,171) (1571,173) (1573,174) (1656,176) (1680,177) (1698,180) (1748,181) (1800,182) (1806,184) (1896,186) (1948,188) (1984,191) (2020,193) (2056,194) (2152,202) (2172,204) (2178,206) (2196,208) (2280,209) (2316,211) (2368,212) (2372,220) (2434,221) (2484,223) (2486,225) (2536,229) (2572,234) 
+jam_recording_update_note 35 (0,240) (16,242) (33,244) (46,245) (48,246) (65,247) (85,249) (102,250) (112,251) (122,252) (135,253) (148,254) (161,255) (174,256) (187,257) (200,258) (202,259) (215,260) (228,261) (230,262) (244,264) (246,265) (281,268) (312,270) (348,272) (367,273) (391,274) (395,275) (436,276) (438,277) (442,278) (444,279) (446,280) (496,282) (498,283) 
+show_change_bpm 100 (0,293) (52,295) (8

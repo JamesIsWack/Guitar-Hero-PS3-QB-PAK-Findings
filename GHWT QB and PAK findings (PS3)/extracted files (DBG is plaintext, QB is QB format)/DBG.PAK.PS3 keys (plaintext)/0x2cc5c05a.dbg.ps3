@@ -1,0 +1,18 @@
+12,1793) 
+
+[Checksums]
+0x0af2384d scripts\tutorials\training_vocals_tutorial.qb
+0xb990d003 target
+0x56d17010 training_container
+0x6abcb013 training_8_8_hit_note
+0x2e9dd01c Tutorial_Mode_Finish_Chord
+0x1483e026 training_spawned_script
+0xcd0dc02d killspawnedscript
+0xe126e035 top
+0x475bf03c event_handlers
+0xb455f040 training_hide_narrator
+0xfa755056 Tut_Vox_HitNotes
+0x76b9f082 training_8_1_show_lesson_header
+0xa78bd091 Tut_Vox_Freeform
+0x5d33209d training_8_4_show_lesson_header
+0x74

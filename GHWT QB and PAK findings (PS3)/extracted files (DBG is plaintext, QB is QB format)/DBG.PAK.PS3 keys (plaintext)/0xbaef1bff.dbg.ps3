@@ -1,0 +1,58 @@
+ (49,475) (73,476) (75,477) 
+show_panel_message 8 (0,486) (21,487) (28,488) (41,489) (47,490) (49,491) (73,492) (75,493) 
+destroy_panel_message 4 (0,502) (21,503) (34,504) (36,505) 
+
+[Checksums]
+0x96f4916a scripts\engine\menu\panelmessage.qb
+0x0b561018 create_panel_block
+0xc6870028 Die
+0x4c8620c5 roundbar_tip_right
+0x2a1fe0cc shadow_offs
+0xb12b510a spriteelement
+0x7031f10c params
+0x42e6e11f show_panel_messages
+0x73665140 CreateScreenElement
+0xcf66717b GotParam
+0x1e7bb1f5 shadow_rgba
+0xb694920c hide_panel_message
+0x8b60022f just
+0xa1116237 create_panel_message
+0x40d92263 TextBlockElement
+0xa8c11275 LegacyDoScreenElementMorph
+0x7d99f28d texture
+0xd443a2bc off
+0xe035f2f8 hold
+0xe3fa22fc line_spacing
+0x7875d343 UI_text_shadow_color
+0x5479735a show_panel_message
+0x67e093e4 internal_just
+0xc5bc93ee ScreenElementExists
+0x1d944426 not_focusable
+0x219bf426 create_panel_sprite
+0x5b6634d4 hide
+0xbf0f14db center
+0x0e61b525 RunScriptOnScreenElement
+0xea6d2566 font_face
+0x34a68574 dims
+0x062a4596 ScreenElementPos
+0xa7b5c5a7 create_intro_panel_block
+0xe2343614 the_id
+0x24f3f64f kill_panel_message_if_it_exists
+0x2f1fc695 alpha
+0xa2907698 SetScreenElementLock
+0xf58046a6 destroy_panel_message
+0x5ac356ec font_spacing
+0x2f6bf72d font
+0x5973c74e kill_panel_message
+0x406dd761 GetScreenElementDims
+0xcc424795 style
+0xfa97b79d LegacyDoMorph
+0x906b67ba time
+0xc4745838 text
+0xc00cf83f hide_panel_messages
+0x5b9da842 ContainerElement
+0x40c698af id
+0x7321a8d6 type
+0x7f261953 pos
+0x0736e962 goal_grad
+0x

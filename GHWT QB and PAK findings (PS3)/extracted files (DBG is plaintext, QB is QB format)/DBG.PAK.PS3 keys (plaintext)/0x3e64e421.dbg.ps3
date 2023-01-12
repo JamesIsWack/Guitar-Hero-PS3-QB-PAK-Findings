@@ -1,0 +1,90 @@
+_18Script 2 (0,6695) (6,6696) 
+Z_SoundCheck_G_RE_NewMegaSpeaker_32Script 2 (0,6699) (6,6700) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L2_07Script 2 (0,6703) (6,6704) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L1_03Script 2 (0,6707) (6,6708) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_R2_08Script 2 (0,6711) (6,6712) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L1_13Script 2 (0,6715) (6,6716) 
+Z_SoundCheck_GRE_SpeakerCone_Kill_L_19Script 2 (0,6719) (6,6720) 
+Z_SoundCheck_GRE_SpeakerCone_Kill_L_09Script 2 (0,6723) (6,6724) 
+Z_SoundCheck_G_RE_NewMegaSpeaker_31Script 2 (0,6727) (6,6728) 
+Z_SoundCheck_Mesh10Script 2 (0,6731) (6,6732) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L2_14Script 2 (0,6735) (6,6736) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L2_04Script 2 (0,6739) (6,6740) 
+Z_SoundCheck_GRE_SpeakerCone_Kill_L_29Script 2 (0,6743) (6,6744) 
+Z_SoundCheck_GRE_SpeakerCone_Kill_L_08Script 2 (0,6747) (6,6748) 
+Z_SoundCheck_GRE_SpeakerCone_Kill_L_18Script 2 (0,6751) (6,6752) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L1_12Script 2 (0,6755) (6,6756) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_R2_09Script 2 (0,6759) (6,6760) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L1_02Script 2 (0,6763) (6,6764) 
+Z_SoundCheck_GRE_SpeakerCone_Kill_L_28Script 2 (0,6767) (6,6768) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L2_05Script 2 (0,6771) (6,6772) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L2_15Script 2 (0,6775) (6,6776) 
+Z_SoundCheck_G_RE_NewMegaSpeaker_20Script 2 (0,6779) (6,6780) 
+Z_SoundCheck_G_RE_NewMegaSpeaker_30Script 2 (0,6783) (6,6784) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L2_12Script 2 (0,6787) (6,6788) 
+Z_SoundCheck_GRE_SpeakerCone_Kill_R_19Script 2 (0,6791) (6,6792) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_R1_09Script 2 (0,6795) (6,6796) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L2_02Script 2 (0,6799) (6,6800) 
+Z_SoundCheck_GRE_SpeakerCone_Kill_R_09Script 2 (0,6803) (6,6804) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L1_05Script 2 (0,6807) (6,6808) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L1_15Script 2 (0,6811) (6,6812) 
+Z_SoundCheck_GRE_SpeakerCone_Kill_R_29Script 2 (0,6815) (6,6816) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L2_03Script 2 (0,6819) (6,6820) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_R1_08Script 2 (0,6823) (6,6824) 
+Z_SoundCheck_GRE_SpeakerCone_Kill_R_08Script 2 (0,6827) (6,6828) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L2_13Script 2 (0,6831) (6,6832) 
+Z_SoundCheck_GRE_SpeakerCone_Kill_R_18Script 2 (0,6835) (6,6836) 
+Z_SoundCheck_GRE_SpeakerCone_Kill_R_28Script 2 (0,6839) (6,6840) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L1_14Script 2 (0,6843) (6,6844) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L1_04Script 2 (0,6847) (6,6848) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L2_10Script 2 (0,6851) (6,6852) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L1_07Script 2 (0,6855) (6,6856) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L2_01Script 2 (0,6859) (6,6860) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L2_11Script 2 (0,6863) (6,6864) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L1_16Script 2 (0,6867) (6,6868) 
+Z_SoundCheck_G_RE_GeoSpeakerCone_L1_06Script 2 (0,6871) (6,6872) 
+
+[Checksums]
+0x264f13bb zones\z_soundcheck\z_soundcheck.qb
+0xbb4f9009 Z_SoundCheck_GRE_SpeakerCone_Kill_R_06Script
+0x1493d00f Z_SoundCheck_G_RE_GeoSpeakerCone_L1_03Script
+0x91220012 Z_SoundCheck_GRE_SpeakerCone_Kill_L_04
+0x9ed4901d Z_SoundCheck_G_RE_GeoSpeakerCone_R2_16
+0x95796026 Z_SoundCheck_G_RE_GeoSpeakerCone_L2_12Script
+0x56e31028 Z_SoundCheck_GRE_SpeakerCone_Kill_R_05
+0xf2c5002e Z_SoundCheck_G_RE_MegaSpeaker_10Script
+0x0123d03b Z_SoundCheck_G_RE_GeoSpeakerCone_R2_08Script
+0xa1f64045 Z_SoundCheck_GRE_SpeakerCone_Kill_R_17
+0xcd710048 Z_SoundCheck_Char_Drums_Omni_Left03
+0x86043054 Z_SoundCheck_G_RE_Mic_01
+0xba2b1065 Z_SoundCheck_G_RE_GeoSpeakerCone_R1_06Script
+0xd32ce068 Z_SoundCheck_G_RE_Posters
+0x69c1c070 Z_SoundCheck_G_RE_GeoSpeakerCone_R2_04
+0x15b7307b Z_SoundCheck_GRE_SpeakerCone_Kill_L_04Script
+0x81ade07e Z_SoundCheck_GRE_SpeakerCone_Kill_R_19Script
+0x6637507f Z_SoundCheck_GRE_SpeakerCone_Kill_L_16
+0xe6253084 Z_SoundCheck_GRE_SpeakerCone_Kill_L_05
+0x1df32087 ObjectFixedAlpha
+0x4c63608c Z_SoundCheck_G_RE_GeoSpeakerCone_R1_09Script
+0xd839d091 Z_SoundCheck_G_RE_GeoSpeakerCone_L1_13Script
+0x77e59097 Z_SoundCheck_GRE_SpeakerCone_Kill_R_16Script
+0x9c8ae0a8 Z_SoundCheck_Viewport_Plane
+0xc986d0b7 Z_SoundCheck_G_RE_Drums_01
+0x59d360b8 Z_SoundCheck_G_RE_GeoSpeakerCone_L2_02Script
+0xd12b50bb Z_SoundCheck_G_RE_NewRackWall_01
+0x21e420be Z_SoundCheck_GRE_SpeakerCone_Kill_R_04
+0x12b470ce Z_SoundCheck_G_RE_NewNeon_01
+0xf76ba0d2 Z_SoundCheck_G_RE_GeoSpeakerCone_R2_07Script
+0xd6f170d3 Z_SoundCheck_GRE_SpeakerCone_Kill_R_16
+0x4d07e0e0 Z_SoundCheck_GRE_SpeakerCone_Kill_R_09Script
+0xd91d30e5 Z_SoundCheck_GRE_SpeakerCone_Kill_L_14Script
+0x4e4dd0e6 Z_SoundCheck_G_RE_BoxesBig_02
+0x1ec6f0e6 Z_SoundCheck_G_RE_GeoSpeakerCone_R2_05
+0x113060e9 Z_SoundCheck_GRE_SpeakerCone_Kill_L_17
+0x808110ea Z_SoundCheck_G_RE_ClothingHanger_01
+0x768110fb Z_SoundCheck_G_RE_GeoSpeakerCone_R1_16Script
+0xef59c100 GameObject
+0xb8ed7104 Z_SoundCheck_GRE_SpeakerCone_Kill_R_07
+0x655a1107 Z_SoundCheck_G_RE_MegaSpeaker_12Script
+0x4ecc710b ProjectorSelfShadow
+0x

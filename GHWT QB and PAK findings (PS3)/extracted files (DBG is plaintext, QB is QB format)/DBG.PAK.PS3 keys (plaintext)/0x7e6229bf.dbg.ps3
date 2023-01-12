@@ -1,0 +1,26 @@
+_on_highway
+0xea5298c7 training_destroy_narrator_icons
+0x07ec08d2 retail_menu_focus
+0x7321a8d6 type
+0xf12d68db set_faked_ui_to_final_player_slots
+0x35db08de star_power_amount
+0x2e6ef8e7 pad_start
+0xf4f778f4 training_add_arrow
+0xf42548f8 preserve_parent
+0x7f8c98fe index
+0x65bd68ff text_params
+0x9c3a8901 GameMode_UpdateCooperative
+0x1f36392b player7_status
+0x1bce492e g_training_lessons_completed
+0x6cc6592e training_show_title
+0xea37494b four_lane_highway
+0x7f261953 pos
+0x9c24595f TutorialSetBandStreak
+0xc876e960 player_2_instrument
+0xb30d9965 controller
+0xd8db3976 training_wait_for_sound
+0x7251c978 decide_tutorial_back_destination
+0x81aad98c training_6_4_show_highway
+0x1993c98e i
+0xd39c39b5 player6_status
+0x3c15e9b6 
