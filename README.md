@@ -6,3 +6,6 @@ Use [010Editor](https://www.sweetscape.com/download/010editor/) and [GHSDK](http
 Use/distubution of these files is not against copywrite law, however in some areas of the world it may still. GH is an `abandonware`, meaning the original IP (`Intelectual Property`) holders have thrown it away. However, this does not mean you should sell these files or the tools used to extract them. If you find anyone trying to sell `010Editor`, `GHSDK`, or `QueenBee`, please contact me on Discord, or the `GHSDK` Team.
 # Notes
 Huge thanks to Dodylectable for the help with this. Hope the SDK gets fixed soon.
+# UPDATE!
+SDK still cannot properly extract these, however, we DO know what file to modify to enable DEBUG for GH:WoR! 
+Inside QB.PAK.PS3, modify UI_OPTIONS.QB, and UI_CREATE_OPTIONS.QBSCRIPT
